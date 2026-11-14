@@ -4,14 +4,14 @@
 
 Every template is a Markdown file with a Word (.docx) file of the same name beside it. "original" marks the publisher's own file; the others are generated from the Markdown.
 
-222 template(s). Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.
+446 template(s). Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.
 
 ## By jurisdiction
 
 | Jurisdiction | Templates |
 | --- | ---: |
-| United States (`us`) | 220 |
-| Canada (`ca`) | 0 |
+| United States (`us`) | 394 |
+| Canada (`ca`) | 23 |
 | United Kingdom (`gb`) | 2 |
 | Ireland (`ie`) | 0 |
 | Australia (`au`) | 0 |
@@ -19,26 +19,26 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | European Union (`eu`) | 0 |
 | India (`in`) | 0 |
 | Singapore (`sg`) | 0 |
-| International / jurisdiction-neutral (`intl`) | 0 |
+| International / jurisdiction-neutral (`intl`) | 27 |
 
 ## By category
 
 | Category | Templates |
 | --- | ---: |
-| Employment (`employment`) | 73 |
-| Contractors & Consultants (`contractors`) | 6 |
-| Confidentiality (`confidentiality`) | 11 |
-| Commercial (`commercial`) | 12 |
-| Technology (`technology`) | 25 |
-| Intellectual Property (`intellectual-property`) | 7 |
-| Privacy & Data (`privacy-and-data`) | 28 |
-| Corporate (`corporate`) | 40 |
+| Employment (`employment`) | 127 |
+| Contractors & Consultants (`contractors`) | 7 |
+| Confidentiality (`confidentiality`) | 25 |
+| Commercial (`commercial`) | 19 |
+| Technology (`technology`) | 62 |
+| Intellectual Property (`intellectual-property`) | 33 |
+| Privacy & Data (`privacy-and-data`) | 48 |
+| Corporate (`corporate`) | 49 |
 | Financing (`financing`) | 10 |
-| Real Estate (`real-estate`) | 2 |
-| Partnerships & Joint Ventures (`partnerships`) | 4 |
-| Marketing & Media (`marketing-and-media`) | 2 |
-| Dispute Resolution (`dispute-resolution`) | 2 |
-| Clause Library (`clauses`) | 0 |
+| Real Estate (`real-estate`) | 15 |
+| Partnerships & Joint Ventures (`partnerships`) | 18 |
+| Marketing & Media (`marketing-and-media`) | 9 |
+| Dispute Resolution (`dispute-resolution`) | 3 |
+| Clause Library (`clauses`) | 21 |
 
 ## All templates
 
@@ -50,6 +50,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Clef Offer Letter](templates/us/employment/offer-letters/clef-offer-letter--us-ca.md) | [docx](templates/us/employment/offer-letters/clef-offer-letter--us-ca.docx) | US-CA | letter | draft | CC0-1.0 | offer-letter, startup, equity, at-will, california, clef |
 | [Employee Offer Letter (exempt)](templates/us/employment/offer-letters/employee-offer-letter--us-ca--exempt.md) | [docx](templates/us/employment/offer-letters/employee-offer-letter--us-ca--exempt.docx) (original) | US-CA | letter | draft | CC0-1.0 | offer-letter, california, exempt, at-will, arbitration, benefits |
 | [Employment Offer Letter](templates/us/employment/offer-letters/employment-offer-letter--us-ca.md) | [docx](templates/us/employment/offer-letters/employment-offer-letter--us-ca.docx) | US-CA | letter | draft | CC-BY-4.0 | offer-letter, at-will, startup, equity, openagreements, california |
 | [Employment Offer Letter](templates/us/employment/offer-letters/employment-offer-letter--us-fl.md) | [docx](templates/us/employment/offer-letters/employment-offer-letter--us-fl.docx) | US-FL | letter | draft | CC-BY-4.0 | offer-letter, at-will, startup, equity, openagreements, florida |
@@ -65,6 +66,13 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Employment Agreement](templates/us/employment/employment-agreements/employment-agreement.md) | [docx](templates/us/employment/employment-agreements/employment-agreement.docx) | US | agreement | draft | CC-BY-4.0 | employment-agreement, at-will, startup, equity, bonus, confidentiality, skala |
+
+**remote-and-hybrid-work** — Remote work agreements, hybrid policies and home-office arrangements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Flexible Remote Work](templates/us/employment/remote-and-hybrid-work/flexible-remote-work.md) | [docx](templates/us/employment/remote-and-hybrid-work/flexible-remote-work.docx) | US | policy | draft | CC0-1.0 | remote-work, policy, sparksuite |
+| [Working Remotely Policy](templates/us/employment/remote-and-hybrid-work/working-remotely-policy.md) | [docx](templates/us/employment/remote-and-hybrid-work/working-remotely-policy.docx) | US | policy | draft | CC0-1.0 | remote-work, policy, clef |
 
 **restrictive-covenants** — Standalone non-compete, non-solicitation, no-hire and garden-leave agreements.
 
@@ -131,27 +139,83 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | [Balanced Employee Intellectual Property Agreement](templates/us/employment/confidentiality-and-ip/balanced-employee-intellectual-property-agreement.md) | [docx](templates/us/employment/confidentiality-and-ip/balanced-employee-intellectual-property-agreement.docx) | US | agreement | draft | CC0-1.0 | ip-assignment, invention-assignment, employee, open-source, side-projects, beipa, github |
 | [Confidential Information and Invention Assignment Agreement](templates/us/employment/confidentiality-and-ip/confidential-information-and-invention-assignment-agreement--us-nv.md) | [docx](templates/us/employment/confidentiality-and-ip/confidential-information-and-invention-assignment-agreement--us-nv.docx) | US-NV | agreement | draft | CC-BY-4.0 | ciiaa, invention-assignment, confidentiality, employee, ip, openagreements, nevada |
 | [Confidential Information and Invention Assignment Agreement](templates/us/employment/confidentiality-and-ip/confidential-information-and-invention-assignment-agreement.md) | [docx](templates/us/employment/confidentiality-and-ip/confidential-information-and-invention-assignment-agreement.docx) | US | agreement | draft | CC-BY-4.0 | ciiaa, invention-assignment, confidentiality, employee, ip, openagreements |
+| [Confidentiality Policy](templates/us/employment/confidentiality-and-ip/confidentiality-policy.md) | [docx](templates/us/employment/confidentiality-and-ip/confidentiality-policy.docx) | US | policy | draft | CC0-1.0 | confidentiality, policy, osio-labs |
 | [Employee Confidentiality and Non-Disclosure Agreement](templates/us/employment/confidentiality-and-ip/employee-confidentiality-and-non-disclosure-agreement.md) | [docx](templates/us/employment/confidentiality-and-ip/employee-confidentiality-and-non-disclosure-agreement.docx) | US | agreement | draft | CC0-1.0 | nda, employee, confidentiality, trade-secrets, at-will |
+| [Employee Proprietary Information and Inventions Assignment Agreement](templates/us/employment/confidentiality-and-ip/employee-proprietary-information-and-inventions-assignment-agreement--us-ca.md) | [docx](templates/us/employment/confidentiality-and-ip/employee-proprietary-information-and-inventions-assignment-agreement--us-ca.docx) | US-CA | agreement | draft | CC0-1.0 | piiaa, invention-assignment, confidentiality, california, labor-code-2870, clef |
 | [Model Employee IP and Open Source Contribution Policy](templates/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.md) | [docx](templates/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.docx) (original) | US | agreement | draft | CC-BY-4.0 | ip-assignment, invention-assignment, open-source, side-projects, employee, state-notices |
+| [Proprietary Information and Inventions Assignment Agreement](templates/us/employment/confidentiality-and-ip/proprietary-information-and-inventions-assignment-agreement.md) | [docx](templates/us/employment/confidentiality-and-ip/proprietary-information-and-inventions-assignment-agreement.docx) | US | agreement | draft | CC0-1.0 | piiaa, invention-assignment, confidentiality, sparksuite |
 
 **compensation-and-benefits** — Bonus plans, commission plans, equity grant letters, retention and sign-on agreements.
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Continuing Education Policy](templates/us/employment/compensation-and-benefits/continuing-education-policy.md) | [docx](templates/us/employment/compensation-and-benefits/continuing-education-policy.docx) | US | policy | draft | CC0-1.0 | education, benefits, policy, clef |
+| [Healthcare and Disability Insurance Policy](templates/us/employment/compensation-and-benefits/healthcare-and-disability-insurance-policy.md) | [docx](templates/us/employment/compensation-and-benefits/healthcare-and-disability-insurance-policy.docx) | US | policy | draft | CC0-1.0 | benefits, health-insurance, disability, policy, clef |
 | [Model COBRA Continuation Coverage Election Notice](templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.md) | [docx](templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.docx) (original) | US | notice | draft | Public-Domain | cobra, election-notice, group-health-plan, benefits, dol, model-notice |
 | [Model COBRA Continuation Coverage General Notice](templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-general-notice.md) | [docx](templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-general-notice.docx) (original) | US | notice | draft | Public-Domain | cobra, general-notice, group-health-plan, benefits, dol, model-notice |
+| [Model Employer CHIP Notice](templates/us/employment/compensation-and-benefits/model-employer-chip-notice.md) | [docx](templates/us/employment/compensation-and-benefits/model-employer-chip-notice.docx) (original) | US | notice | draft | Public-Domain | chip, premium-assistance, health-plan, model-notice, dol, federal |
+| [New Parent Leave](templates/us/employment/compensation-and-benefits/new-parent-leave.md) | [docx](templates/us/employment/compensation-and-benefits/new-parent-leave.docx) | US | policy | draft | CC0-1.0 | parental-leave, benefits, policy, sparksuite |
+| [Observed Holidays](templates/us/employment/compensation-and-benefits/observed-holidays.md) | [docx](templates/us/employment/compensation-and-benefits/observed-holidays.docx) | US | policy | draft | CC0-1.0 | holidays, benefits, policy, sparksuite |
+| [Paid Time Off](templates/us/employment/compensation-and-benefits/paid-time-off.md) | [docx](templates/us/employment/compensation-and-benefits/paid-time-off.docx) | US | policy | draft | CC0-1.0 | pto, benefits, policy, sparksuite |
+| [Pay Policy](templates/us/employment/compensation-and-benefits/pay-policy.md) | [docx](templates/us/employment/compensation-and-benefits/pay-policy.docx) | US | policy | draft | CC0-1.0 | pay, payroll, policy, osio-labs |
+| [Payroll Information](templates/us/employment/compensation-and-benefits/payroll-information.md) | [docx](templates/us/employment/compensation-and-benefits/payroll-information.docx) | US | policy | draft | CC0-1.0 | payroll, policy, sparksuite |
+| [Referral Bonus Policy](templates/us/employment/compensation-and-benefits/referral-bonus-policy.md) | [docx](templates/us/employment/compensation-and-benefits/referral-bonus-policy.docx) | US | policy | draft | CC0-1.0 | referral-bonus, benefits, policy, clef |
+| [Sabbatical Policy](templates/us/employment/compensation-and-benefits/sabbatical-policy.md) | [docx](templates/us/employment/compensation-and-benefits/sabbatical-policy.docx) | US | policy | draft | CC0-1.0 | sabbatical, benefits, policy, clef |
+| [Salary and Equity Compensation Policy](templates/us/employment/compensation-and-benefits/salary-and-equity-compensation-policy.md) | [docx](templates/us/employment/compensation-and-benefits/salary-and-equity-compensation-policy.docx) | US | policy | draft | CC0-1.0 | salary, equity, compensation, policy, clef |
+
+**separation-and-termination** — Severance, separation, termination letters, releases, resignation and retirement documents.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Termination Policy](templates/us/employment/separation-and-termination/termination-policy.md) | [docx](templates/us/employment/separation-and-termination/termination-policy.docx) | US | policy | draft | CC0-1.0 | termination, policy, osio-labs |
 
 **policies-and-handbooks** — Employee handbooks and standalone workplace policies (leave, conduct, anti-harassment, expenses).
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Anti-Bribery Statement](templates/us/employment/policies-and-handbooks/anti-bribery-statement.md) | [docx](templates/us/employment/policies-and-handbooks/anti-bribery-statement.docx) | US | policy | draft | CC0-1.0 | anti-bribery, anti-corruption, fcpa, compliance, company-policy, github |
+| [Anti-Harassment Policy](templates/us/employment/policies-and-handbooks/anti-harassment-policy.md) | [docx](templates/us/employment/policies-and-handbooks/anti-harassment-policy.docx) | US | policy | draft | CC0-1.0 | harassment, policy, osio-labs |
+| [At-Will Employment Policy](templates/us/employment/policies-and-handbooks/at-will-employment-policy.md) | [docx](templates/us/employment/policies-and-handbooks/at-will-employment-policy.docx) | US | policy | draft | CC0-1.0 | at-will, policy, clef |
+| [At-Will Employment](templates/us/employment/policies-and-handbooks/at-will-employment.md) | [docx](templates/us/employment/policies-and-handbooks/at-will-employment.docx) | US | policy | draft | CC0-1.0 | at-will, policy, texas, sparksuite |
+| [Code of Conduct in the Community](templates/us/employment/policies-and-handbooks/code-of-conduct-in-the-community.md) | [docx](templates/us/employment/policies-and-handbooks/code-of-conduct-in-the-community.docx) | US | policy | draft | CC0-1.0 | code-of-conduct, policy, clef |
+| [Complaint Policy](templates/us/employment/policies-and-handbooks/complaint-policy.md) | [docx](templates/us/employment/policies-and-handbooks/complaint-policy.docx) | US | policy | draft | CC0-1.0 | complaints, harassment, policy, clef |
+| [Complaint Procedure](templates/us/employment/policies-and-handbooks/complaint-procedure.md) | [docx](templates/us/employment/policies-and-handbooks/complaint-procedure.docx) | US | policy | draft | CC0-1.0 | complaints, policy, osio-labs |
+| [Disciplinary Policy](templates/us/employment/policies-and-handbooks/disciplinary-policy.md) | [docx](templates/us/employment/policies-and-handbooks/disciplinary-policy.docx) | US | policy | draft | CC0-1.0 | discipline, policy, osio-labs |
+| [Diversity Policy](templates/us/employment/policies-and-handbooks/diversity-policy.md) | [docx](templates/us/employment/policies-and-handbooks/diversity-policy.docx) | US | policy | draft | CC0-1.0 | diversity, policy, osio-labs |
+| [Dress Code Policy](templates/us/employment/policies-and-handbooks/dress-code-policy.md) | [docx](templates/us/employment/policies-and-handbooks/dress-code-policy.docx) | US | policy | draft | CC0-1.0 | dress-code, policy, sparksuite |
+| [Drug and Alcohol Policy](templates/us/employment/policies-and-handbooks/drug-and-alcohol-policy.md) | [docx](templates/us/employment/policies-and-handbooks/drug-and-alcohol-policy.docx) | US | policy | draft | CC0-1.0 | drug-and-alcohol, policy, clef |
+| [Drugs, Alcohol and Weapons Policy](templates/us/employment/policies-and-handbooks/drugs-alcohol-and-weapons-policy.md) | [docx](templates/us/employment/policies-and-handbooks/drugs-alcohol-and-weapons-policy.docx) | US | policy | draft | CC0-1.0 | drug-and-alcohol, weapons, policy, sparksuite |
+| [Employee Code of Conduct](templates/us/employment/policies-and-handbooks/employee-code-of-conduct.md) | [docx](templates/us/employment/policies-and-handbooks/employee-code-of-conduct.docx) | US | policy | draft | CC0-1.0 | code-of-conduct, policy, sparksuite |
+| [Employee Privacy Policy](templates/us/employment/policies-and-handbooks/employee-privacy-policy.md) | [docx](templates/us/employment/policies-and-handbooks/employee-privacy-policy.docx) | US | policy | draft | CC0-1.0 | employee-privacy, monitoring, policy, clef |
+| [Employee Privacy](templates/us/employment/policies-and-handbooks/employee-privacy.md) | [docx](templates/us/employment/policies-and-handbooks/employee-privacy.docx) | US | policy | draft | CC0-1.0 | employee-privacy, policy, sparksuite |
+| [Equal Employment Opportunity Policy](templates/us/employment/policies-and-handbooks/equal-employment-opportunity-policy.md) | [docx](templates/us/employment/policies-and-handbooks/equal-employment-opportunity-policy.docx) | US | policy | draft | CC0-1.0 | eeo, policy, osio-labs |
+| [Equal Opportunity Employment Policy](templates/us/employment/policies-and-handbooks/equal-opportunity-employment-policy.md) | [docx](templates/us/employment/policies-and-handbooks/equal-opportunity-employment-policy.docx) | US | policy | draft | CC0-1.0 | eeo, policy, clef |
+| [Equal Opportunity Policy](templates/us/employment/policies-and-handbooks/equal-opportunity-policy.md) | [docx](templates/us/employment/policies-and-handbooks/equal-opportunity-policy.docx) | US | policy | draft | CC0-1.0 | eeo, policy, sparksuite |
+| [Flexible Working Hours](templates/us/employment/policies-and-handbooks/flexible-working-hours.md) | [docx](templates/us/employment/policies-and-handbooks/flexible-working-hours.docx) | US | policy | draft | CC0-1.0 | flexible-hours, policy, sparksuite |
 | [Gifts and Entertainment Policy](templates/us/employment/policies-and-handbooks/gifts-and-entertainment-policy.md) | [docx](templates/us/employment/policies-and-handbooks/gifts-and-entertainment-policy.docx) | US | policy | draft | CC0-1.0 | gifts, entertainment, anti-corruption, compliance, company-policy, github |
+| [Immigration Law Compliance Policy](templates/us/employment/policies-and-handbooks/immigration-law-compliance-policy.md) | [docx](templates/us/employment/policies-and-handbooks/immigration-law-compliance-policy.docx) | US | policy | draft | CC0-1.0 | immigration, i-9, policy, osio-labs |
+| [Leave Policy](templates/us/employment/policies-and-handbooks/leave-policy.md) | [docx](templates/us/employment/policies-and-handbooks/leave-policy.docx) | US | policy | draft | CC0-1.0 | leave, pto, policy, osio-labs |
+| [Lunch Breaks Policy](templates/us/employment/policies-and-handbooks/lunch-breaks-policy.md) | [docx](templates/us/employment/policies-and-handbooks/lunch-breaks-policy.docx) | US | policy | draft | CC0-1.0 | breaks, policy, sparksuite |
+| [Nature of Employment Policy](templates/us/employment/policies-and-handbooks/nature-of-employment-policy.md) | [docx](templates/us/employment/policies-and-handbooks/nature-of-employment-policy.docx) | US | policy | draft | CC0-1.0 | at-will, employment-status, policy, osio-labs |
+| [New Parent Leave Policy](templates/us/employment/policies-and-handbooks/new-parent-leave-policy--us-ca.md) | [docx](templates/us/employment/policies-and-handbooks/new-parent-leave-policy--us-ca.docx) | US-CA | policy | draft | CC0-1.0 | parental-leave, california, policy, clef |
+| [Office Closures Policy](templates/us/employment/policies-and-handbooks/office-closures-policy.md) | [docx](templates/us/employment/policies-and-handbooks/office-closures-policy.docx) | US | policy | draft | CC0-1.0 | office-closures, policy, sparksuite |
+| [Other Protected Absences Policy](templates/us/employment/policies-and-handbooks/other-protected-absences-policy--us-ca.md) | [docx](templates/us/employment/policies-and-handbooks/other-protected-absences-policy--us-ca.docx) | US-CA | policy | draft | CC0-1.0 | protected-leave, california, policy, clef |
+| [Personnel Data Policy](templates/us/employment/policies-and-handbooks/personnel-data-policy.md) | [docx](templates/us/employment/policies-and-handbooks/personnel-data-policy.docx) | US | policy | draft | CC0-1.0 | personnel-records, policy, osio-labs |
+| [Respectful Workplace Policy](templates/us/employment/policies-and-handbooks/respectful-workplace-policy.md) | [docx](templates/us/employment/policies-and-handbooks/respectful-workplace-policy.docx) | US | policy | draft | Apache-2.0 | respectful-workplace, harassment, policy, sourcegraph |
+| [Sick Policy](templates/us/employment/policies-and-handbooks/sick-policy.md) | [docx](templates/us/employment/policies-and-handbooks/sick-policy.docx) | US | policy | draft | CC0-1.0 | sick-leave, policy, sparksuite |
+| [Standards of Conduct](templates/us/employment/policies-and-handbooks/standards-of-conduct.md) | [docx](templates/us/employment/policies-and-handbooks/standards-of-conduct.docx) | US | policy | draft | CC0-1.0 | conduct, policy, osio-labs |
+| [Unpaid Time Off Policy](templates/us/employment/policies-and-handbooks/unpaid-time-off-policy.md) | [docx](templates/us/employment/policies-and-handbooks/unpaid-time-off-policy.docx) | US | policy | draft | CC0-1.0 | unpaid-leave, policy, sparksuite |
+| [Vacation and Sick Leave Policy](templates/us/employment/policies-and-handbooks/vacation-and-sick-leave-policy--us-ca.md) | [docx](templates/us/employment/policies-and-handbooks/vacation-and-sick-leave-policy--us-ca.docx) | US-CA | policy | draft | CC0-1.0 | vacation, sick-leave, california, policy, clef |
+| [Whistleblower Policy](templates/us/employment/policies-and-handbooks/whistleblower-policy.md) | [docx](templates/us/employment/policies-and-handbooks/whistleblower-policy.docx) | US | policy | draft | CC0-1.0 | whistleblower, policy, osio-labs |
 
 **workplace-notices-and-forms** — Warning letters, performance improvement plans, accommodation requests, HR forms.
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Acknowledgement of Receipt of Handbook Changes](templates/us/employment/workplace-notices-and-forms/acknowledgement-of-receipt-of-handbook-changes.md) | [docx](templates/us/employment/workplace-notices-and-forms/acknowledgement-of-receipt-of-handbook-changes.docx) | US | form | draft | CC0-1.0 | acknowledgment, handbook, clef |
+| [Employee Handbook Acknowledgement](templates/us/employment/workplace-notices-and-forms/employee-handbook-acknowledgement.md) | [docx](templates/us/employment/workplace-notices-and-forms/employee-handbook-acknowledgement.docx) | US | form | draft | CC0-1.0 | acknowledgment, handbook, osio-labs |
+| [Handbook Acknowledgement](templates/us/employment/workplace-notices-and-forms/handbook-acknowledgement.md) | [docx](templates/us/employment/workplace-notices-and-forms/handbook-acknowledgement.docx) | US | form | draft | CC0-1.0 | acknowledgment, handbook, sparksuite |
+| [Handbook Acknowledgment of Receipt](templates/us/employment/workplace-notices-and-forms/handbook-acknowledgment-of-receipt.md) | [docx](templates/us/employment/workplace-notices-and-forms/handbook-acknowledgment-of-receipt.docx) | US | form | draft | CC0-1.0 | acknowledgment, handbook, clef |
 | [Wage Notice for Exempt Employees](templates/us/employment/workplace-notices-and-forms/wage-notice-for-exempt-employees--us-ny.md) | [docx](templates/us/employment/workplace-notices-and-forms/wage-notice-for-exempt-employees--us-ny.docx) | US-NY | notice | draft | CC-BY-4.0 | wage-notice, pay-notice, exempt, new-york, labor-law-195, openagreements |
 
 #### Contractors & Consultants
@@ -187,8 +251,13 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | [Common Paper Mutual NDA Cover Page](templates/us/confidentiality/mutual-nda/common-paper-mutual-nda-cover-page.md) | [docx](templates/us/confidentiality/mutual-nda/common-paper-mutual-nda-cover-page.docx) | US | form | draft | CC-BY-4.0 | cover-page, nda, mutual, common-paper |
 | [Common Paper Mutual NDA](templates/us/confidentiality/mutual-nda/common-paper-mutual-nda.md) | [docx](templates/us/confidentiality/mutual-nda/common-paper-mutual-nda.docx) | US | agreement | draft | CC-BY-4.0 | nda, mutual, confidentiality, standard-terms, cover-page, common-paper |
 | [Confidentiality Agreement (short-form)](templates/us/confidentiality/mutual-nda/confidentiality-agreement--short-form.md) | [docx](templates/us/confidentiality/mutual-nda/confidentiality-agreement--short-form.docx) | US | agreement | draft | CC0-1.0 | nda, mutual, short-form, confidentiality, individual |
+| [EPA Mutual Confidentiality Agreement](templates/us/confidentiality/mutual-nda/epa-mutual-confidentiality-agreement.md) | [docx](templates/us/confidentiality/mutual-nda/epa-mutual-confidentiality-agreement.docx) (original) | US | agreement | draft | Public-Domain | nda, mutual, epa, federal |
 | [Mutual Non-Disclosure Agreement (plain-english)](templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement--plain-english.md) | [docx](templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement--plain-english.docx) | US | agreement | draft | CC-BY-4.0 | nda, mutual, confidentiality, plain-english, advottic |
 | [Mutual Non-Disclosure Agreement](templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement.md) | [docx](templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement.docx) (original) | US | agreement | draft | CC0-1.0 | nda, mutual, confidentiality, startup |
+| [Non-Disclosure Agreement (Erich Dylus form)](templates/us/confidentiality/mutual-nda/non-disclosure-agreement-erich-dylus-form.md) | [docx](templates/us/confidentiality/mutual-nda/non-disclosure-agreement-erich-dylus-form.docx) | US | agreement | draft | MIT | nda, confidentiality |
+| [The Waypoint NDA (long-form)](templates/us/confidentiality/mutual-nda/the-waypoint-nda--long-form.md) | [docx](templates/us/confidentiality/mutual-nda/the-waypoint-nda--long-form.docx) (original) | US | agreement | draft | Waypoint-NDA-License | nda, mutual, plain-english, waypoint |
+| [The Waypoint NDA (short-form)](templates/us/confidentiality/mutual-nda/the-waypoint-nda--short-form.md) | [docx](templates/us/confidentiality/mutual-nda/the-waypoint-nda--short-form.docx) (original) | US | agreement | draft | Waypoint-NDA-License | nda, mutual, plain-english, short-form, waypoint |
+| [USDA ARS Non-Disclosure Agreement (Exchange)](templates/us/confidentiality/mutual-nda/usda-ars-non-disclosure-agreement-exchange.md) | [docx](templates/us/confidentiality/mutual-nda/usda-ars-non-disclosure-agreement-exchange.docx) (original) | US | agreement | draft | Public-Domain | nda, mutual, usda, federal |
 
 **unilateral-nda** — One-way non-disclosure agreements.
 
@@ -196,7 +265,13 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | --- | --- | --- | --- | --- | --- | --- |
 | [Common Paper One-Way NDA](templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.md) | [docx](templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.docx) (original) | US | agreement | draft | CC-BY-4.0 | nda, one-way, confidentiality, cover-page, common-paper |
 | [Confidentiality and Non-Disclosure Agreement (long-form)](templates/us/confidentiality/unilateral-nda/confidentiality-and-non-disclosure-agreement--long-form.md) | [docx](templates/us/confidentiality/unilateral-nda/confidentiality-and-non-disclosure-agreement--long-form.docx) | US | agreement | draft | CC0-1.0 | nda, one-way, confidentiality, corporate, trade-secrets |
+| [EPA Non-Disclosure Agreement (Information to EPA)](templates/us/confidentiality/unilateral-nda/epa-non-disclosure-agreement-information-to-epa.md) | [docx](templates/us/confidentiality/unilateral-nda/epa-non-disclosure-agreement-information-to-epa.docx) (original) | US | agreement | draft | Public-Domain | nda, one-way, epa, federal |
+| [NIH Confidential Disclosure Agreement](templates/us/confidentiality/unilateral-nda/nih-confidential-disclosure-agreement.md) | [docx](templates/us/confidentiality/unilateral-nda/nih-confidential-disclosure-agreement.docx) (original) | US | agreement | draft | Public-Domain | cda, confidentiality, nih, federal |
 | [One-Way Non-Disclosure Agreement](templates/us/confidentiality/unilateral-nda/one-way-non-disclosure-agreement.md) | [docx](templates/us/confidentiality/unilateral-nda/one-way-non-disclosure-agreement.docx) (original) | US | agreement | draft | CC0-1.0 | nda, one-way, confidentiality, startup |
+| [The Guestbook NDA (long-form)](templates/us/confidentiality/unilateral-nda/the-guestbook-nda--long-form.md) | [docx](templates/us/confidentiality/unilateral-nda/the-guestbook-nda--long-form.docx) (original) | US | agreement | draft | Guestbook-NDA-License | nda, one-way, plain-english, guestbook |
+| [The Guestbook NDA (short-form)](templates/us/confidentiality/unilateral-nda/the-guestbook-nda--short-form.md) | [docx](templates/us/confidentiality/unilateral-nda/the-guestbook-nda--short-form.docx) (original) | US | agreement | draft | Guestbook-NDA-License | nda, one-way, plain-english, short-form, guestbook |
+| [USDA ARS Non-Disclosure Agreement (Incoming)](templates/us/confidentiality/unilateral-nda/usda-ars-non-disclosure-agreement-incoming.md) | [docx](templates/us/confidentiality/unilateral-nda/usda-ars-non-disclosure-agreement-incoming.docx) (original) | US | agreement | draft | Public-Domain | nda, one-way, usda, federal |
+| [USDA ARS Non-Disclosure Agreement (Outgoing)](templates/us/confidentiality/unilateral-nda/usda-ars-non-disclosure-agreement-outgoing.md) | [docx](templates/us/confidentiality/unilateral-nda/usda-ars-non-disclosure-agreement-outgoing.docx) (original) | US | agreement | draft | Public-Domain | nda, one-way, usda, federal |
 
 #### Commercial
 
@@ -230,7 +305,12 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Asset Transfer Agreement Amendment](templates/us/commercial/amendments-and-extensions/asset-transfer-agreement-amendment--us-fl.md) | [docx](templates/us/commercial/amendments-and-extensions/asset-transfer-agreement-amendment--us-fl.docx) | US-FL | form | draft | MIT | amendment, asset-transfer, commonhaus |
 | [Common Paper Amendment](templates/us/commercial/amendments-and-extensions/common-paper-amendment.md) | [docx](templates/us/commercial/amendments-and-extensions/common-paper-amendment.docx) (original) | US | form | draft | CC-BY-4.0 | amendment, modification, change, common-paper |
+| [EPA CRADA Amendment Template](templates/us/commercial/amendments-and-extensions/epa-crada-amendment-template.md) | [docx](templates/us/commercial/amendments-and-extensions/epa-crada-amendment-template.docx) (original) | US | form | draft | Public-Domain | amendment, crada, epa, federal |
+| [Fiscal Sponsorship Agreement Amendment](templates/us/commercial/amendments-and-extensions/fiscal-sponsorship-agreement-amendment--us-fl.md) | [docx](templates/us/commercial/amendments-and-extensions/fiscal-sponsorship-agreement-amendment--us-fl.docx) | US-FL | form | draft | MIT | amendment, fiscal-sponsorship, commonhaus |
+| [NIH License Agreement Amendment](templates/us/commercial/amendments-and-extensions/nih-license-agreement-amendment.md) | [docx](templates/us/commercial/amendments-and-extensions/nih-license-agreement-amendment.docx) (original) | US | form | draft | Public-Domain | amendment, license, nih, federal |
+| [Notice of Termination](templates/us/commercial/amendments-and-extensions/notice-of-termination.md) | [docx](templates/us/commercial/amendments-and-extensions/notice-of-termination.docx) | US | notice | draft | MIT | termination-notice, contract |
 
 #### Technology
 
@@ -260,6 +340,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | [Bonterms Software License Terms](templates/us/technology/software-license/bonterms-software-license-terms.md) | [docx](templates/us/technology/software-license/bonterms-software-license-terms.docx) | US | agreement | draft | CC-BY-4.0 | software-license, on-premise, standard-terms, cover-page, bonterms |
 | [Common Paper Software License Agreement](templates/us/technology/software-license/common-paper-software-license-agreement.md) | [docx](templates/us/technology/software-license/common-paper-software-license-agreement.docx) | US | agreement | draft | CC-BY-4.0 | software-license, on-premise, perpetual, subscription, standard-terms, common-paper |
 | [GitHub Pre-release License Terms](templates/us/technology/software-license/github-pre-release-license-terms.md) | [docx](templates/us/technology/software-license/github-pre-release-license-terms.docx) | US | agreement | draft | CC0-1.0 | beta, pre-release, preview, software-terms, github |
+| [NIH Software Internal Use Non-Exclusive License Agreement](templates/us/technology/software-license/nih-software-internal-use-non-exclusive-license-agreement.md) | [docx](templates/us/technology/software-license/nih-software-internal-use-non-exclusive-license-agreement.docx) (original) | US | agreement | draft | Public-Domain | software-license, internal-use, non-exclusive, nih, federal |
 
 **eula** — End-user licence agreements for apps and downloadable software.
 
@@ -287,14 +368,72 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | --- | --- | --- | --- | --- | --- | --- |
 | [Bonterms Support Policy](templates/us/technology/support-and-maintenance/bonterms-support-policy.md) | [docx](templates/us/technology/support-and-maintenance/bonterms-support-policy.docx) (original) | US | schedule | draft | CC0-1.0 | support-policy, sla, incidents, saas, bonterms |
 
+**open-source** — Contributor licence agreements and open-source project governance documents.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Blue Oak Contributor License](templates/us/technology/open-source/blue-oak-contributor-license.md) | [docx](templates/us/technology/open-source/blue-oak-contributor-license.docx) | US | agreement | draft | Blue-Oak-Form-License | cla, contributor-license, open-source, blue-oak |
+| [CNCF Project Code of Conduct Template](templates/us/technology/open-source/cncf-project-code-of-conduct-template.md) | [docx](templates/us/technology/open-source/cncf-project-code-of-conduct-template.docx) | US | policy | draft | Apache-2.0 | code-of-conduct, open-source, cncf |
+| [Contributor Ladder](templates/us/technology/open-source/contributor-ladder.md) | [docx](templates/us/technology/open-source/contributor-ladder.docx) | US | policy | draft | Apache-2.0 | contributor-ladder, governance, open-source, cncf |
+| [Contributor License Agreement Template](templates/us/technology/open-source/contributor-license-agreement-template.md) | [docx](templates/us/technology/open-source/contributor-license-agreement-template.docx) | US | agreement | draft | MIT | cla, open-source, commonhaus |
+| [MVG Antitrust Policy](templates/us/technology/open-source/mvg-antitrust-policy.md) | [docx](templates/us/technology/open-source/mvg-antitrust-policy.docx) | US | policy | draft | CC-BY-4.0 | antitrust, governance, open-source, mvg, github |
+| [MVG Code of Conduct](templates/us/technology/open-source/mvg-code-of-conduct.md) | [docx](templates/us/technology/open-source/mvg-code-of-conduct.docx) | US | policy | draft | CC-BY-4.0 | code-of-conduct, governance, open-source, mvg, github |
+| [MVG Maintainers](templates/us/technology/open-source/mvg-maintainers.md) | [docx](templates/us/technology/open-source/mvg-maintainers.docx) | US | policy | draft | CC-BY-4.0 | maintainers, governance, open-source, mvg, github |
+| [MVG Organisation Charter](templates/us/technology/open-source/mvg-organisation-charter.md) | [docx](templates/us/technology/open-source/mvg-organisation-charter.docx) | US | charter | draft | CC-BY-4.0 | governance, charter, open-source, mvg, github |
+| [MVG Project Governance](templates/us/technology/open-source/mvg-project-governance.md) | [docx](templates/us/technology/open-source/mvg-project-governance.docx) | US | charter | draft | CC-BY-4.0 | governance, project, open-source, mvg, github |
+| [MVG Steering Committee](templates/us/technology/open-source/mvg-steering-committee.md) | [docx](templates/us/technology/open-source/mvg-steering-committee.docx) | US | charter | draft | CC-BY-4.0 | governance, steering-committee, open-source, mvg, github |
+| [MVG Trademark Policy](templates/us/technology/open-source/mvg-trademark-policy.md) | [docx](templates/us/technology/open-source/mvg-trademark-policy.docx) | US | policy | draft | CC-BY-4.0 | trademark, governance, open-source, mvg, github |
+| [Open Source Project Governance (Elected Steering Committee)](templates/us/technology/open-source/open-source-project-governance-elected-steering-committee.md) | [docx](templates/us/technology/open-source/open-source-project-governance-elected-steering-committee.docx) | US | charter | draft | Apache-2.0 | governance, elections, steering-committee, open-source, cncf |
+| [Open Source Project Governance (Maintainer Council)](templates/us/technology/open-source/open-source-project-governance-maintainer-council.md) | [docx](templates/us/technology/open-source/open-source-project-governance-maintainer-council.docx) | US | charter | draft | Apache-2.0 | governance, maintainers, open-source, cncf |
+| [Open Source Project Governance (Organisation-Balanced Voting)](templates/us/technology/open-source/open-source-project-governance-organisation-balanced-voting.md) | [docx](templates/us/technology/open-source/open-source-project-governance-organisation-balanced-voting.docx) | US | charter | draft | Apache-2.0 | governance, voting, open-source, cncf |
+| [Open Source Project Governance (Subprojects)](templates/us/technology/open-source/open-source-project-governance-subprojects.md) | [docx](templates/us/technology/open-source/open-source-project-governance-subprojects.docx) | US | charter | draft | Apache-2.0 | governance, subprojects, open-source, cncf |
+| [Project Code of Conduct Template](templates/us/technology/open-source/project-code-of-conduct-template.md) | [docx](templates/us/technology/open-source/project-code-of-conduct-template.docx) | US | policy | draft | MIT | code-of-conduct, open-source, commonhaus |
+| [Project Governance Template](templates/us/technology/open-source/project-governance-template.md) | [docx](templates/us/technology/open-source/project-governance-template.docx) | US | charter | draft | MIT | governance, open-source, commonhaus |
+| [Sourcegraph Contributor License Agreement](templates/us/technology/open-source/sourcegraph-contributor-license-agreement.md) | [docx](templates/us/technology/open-source/sourcegraph-contributor-license-agreement.docx) | US | agreement | draft | Apache-2.0 | cla, open-source, sourcegraph |
+
 **security-and-disclosure** — Vulnerability disclosure, bug bounty safe-harbour and security policies.
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Access Control Policy](templates/us/technology/security-and-disclosure/access-control-policy.md) | [docx](templates/us/technology/security-and-disclosure/access-control-policy.docx) | US | policy | draft | Apache-2.0 | access-control, infosec, policy, sourcegraph |
+| [Asset Management Policy](templates/us/technology/security-and-disclosure/asset-management-policy.md) | [docx](templates/us/technology/security-and-disclosure/asset-management-policy.docx) | US | policy | draft | Apache-2.0 | asset-management, infosec, policy, sourcegraph |
 | [Bug Bounty Program Legal Safe Harbor](templates/us/technology/security-and-disclosure/bug-bounty-program-legal-safe-harbor.md) | [docx](templates/us/technology/security-and-disclosure/bug-bounty-program-legal-safe-harbor.docx) | US | policy | draft | CC0-1.0 | bug-bounty, safe-harbor, security-research, vulnerability-disclosure, github |
+| [Business Continuity Policy](templates/us/technology/security-and-disclosure/business-continuity-policy.md) | [docx](templates/us/technology/security-and-disclosure/business-continuity-policy.docx) | US | policy | draft | Apache-2.0 | business-continuity, infosec, policy, sourcegraph |
+| [Cloud Security Policy](templates/us/technology/security-and-disclosure/cloud-security-policy.md) | [docx](templates/us/technology/security-and-disclosure/cloud-security-policy.docx) | US | policy | draft | Apache-2.0 | cloud-security, infosec, policy, sourcegraph |
 | [Coordinated Disclosure of Security Vulnerabilities](templates/us/technology/security-and-disclosure/coordinated-disclosure-of-security-vulnerabilities.md) | [docx](templates/us/technology/security-and-disclosure/coordinated-disclosure-of-security-vulnerabilities.docx) | US | policy | draft | CC0-1.0 | vulnerability-disclosure, coordinated-disclosure, security, github |
+| [Data Management Policy](templates/us/technology/security-and-disclosure/data-management-policy.md) | [docx](templates/us/technology/security-and-disclosure/data-management-policy.docx) | US | policy | draft | Apache-2.0 | data-management, infosec, policy, sourcegraph |
+| [Information Security Policy](templates/us/technology/security-and-disclosure/information-security-policy.md) | [docx](templates/us/technology/security-and-disclosure/information-security-policy.docx) | US | policy | draft | Apache-2.0 | information-security, infosec, policy, sourcegraph |
+| [Information Security Risk Management Policy](templates/us/technology/security-and-disclosure/information-security-risk-management-policy.md) | [docx](templates/us/technology/security-and-disclosure/information-security-risk-management-policy.docx) | US | policy | draft | Apache-2.0 | risk-management, infosec, policy, sourcegraph |
+| [Secure Development Policy](templates/us/technology/security-and-disclosure/secure-development-policy.md) | [docx](templates/us/technology/security-and-disclosure/secure-development-policy.docx) | US | policy | draft | Apache-2.0 | secure-development, infosec, policy, sourcegraph |
+| [Sourcegraph Acceptable Use Policy](templates/us/technology/security-and-disclosure/sourcegraph-acceptable-use-policy.md) | [docx](templates/us/technology/security-and-disclosure/sourcegraph-acceptable-use-policy.docx) | US | policy | draft | Apache-2.0 | acceptable-use, infosec, policy, sourcegraph |
+| [Third-Party Management Policy](templates/us/technology/security-and-disclosure/third-party-management-policy.md) | [docx](templates/us/technology/security-and-disclosure/third-party-management-policy.docx) | US | policy | draft | Apache-2.0 | vendor-management, infosec, policy, sourcegraph |
+| [Vulnerability Management Policy](templates/us/technology/security-and-disclosure/vulnerability-management-policy.md) | [docx](templates/us/technology/security-and-disclosure/vulnerability-management-policy.docx) | US | policy | draft | Apache-2.0 | vulnerability-management, infosec, policy, sourcegraph |
 
 #### Intellectual Property
+
+**assignment** — IP assignment and transfer agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Asset Transfer Agreement](templates/us/intellectual-property/assignment/asset-transfer-agreement--us-fl.md) | [docx](templates/us/intellectual-property/assignment/asset-transfer-agreement--us-fl.docx) | US-FL | agreement | draft | MIT | asset-transfer, trademark, open-source, commonhaus |
+
+**licensing** — General IP licence agreements (in-bound and out-bound).
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [EPA Materials Transfer Agreement (Annotated)](templates/us/intellectual-property/licensing/epa-materials-transfer-agreement-annotated.md) | [docx](templates/us/intellectual-property/licensing/epa-materials-transfer-agreement-annotated.docx) (original) | US | agreement | draft | Public-Domain | mta, materials, research, epa, federal |
+| [Intellectual Property Policy](templates/us/intellectual-property/licensing/intellectual-property-policy.md) | [docx](templates/us/intellectual-property/licensing/intellectual-property-policy.docx) | US | policy | draft | MIT | ip-policy, open-source, commonhaus |
+| [NIH Biological Materials Internal Use License Agreement](templates/us/intellectual-property/licensing/nih-biological-materials-internal-use-license-agreement.md) | [docx](templates/us/intellectual-property/licensing/nih-biological-materials-internal-use-license-agreement.docx) (original) | US | agreement | draft | Public-Domain | biological-materials, internal-use, license, nih, federal |
+| [NIH Biological Materials License Agreement](templates/us/intellectual-property/licensing/nih-biological-materials-license-agreement.md) | [docx](templates/us/intellectual-property/licensing/nih-biological-materials-license-agreement.docx) (original) | US | agreement | draft | Public-Domain | biological-materials, license, nih, federal |
+| [NIH Commercial Evaluation and Biological Materials Internal Use Combination Agreement](templates/us/intellectual-property/licensing/nih-commercial-evaluation-and-biological-materials-internal-use-combination-agreement.md) | [docx](templates/us/intellectual-property/licensing/nih-commercial-evaluation-and-biological-materials-internal-use-combination-agreement.docx) (original) | US | agreement | draft | Public-Domain | evaluation-license, biological-materials, nih, federal |
+| [NIH Commercial Evaluation License Agreement](templates/us/intellectual-property/licensing/nih-commercial-evaluation-license-agreement.md) | [docx](templates/us/intellectual-property/licensing/nih-commercial-evaluation-license-agreement.docx) (original) | US | agreement | draft | Public-Domain | evaluation-license, commercial-evaluation, nih, federal |
+| [NIH Material Transfer Agreement for Human Materials](templates/us/intellectual-property/licensing/nih-material-transfer-agreement-for-human-materials.md) | [docx](templates/us/intellectual-property/licensing/nih-material-transfer-agreement-for-human-materials.docx) (original) | US | agreement | draft | Public-Domain | mta, human-materials, research, nih, federal |
+| [NIH Material Transfer Agreement for the Transfer of Organisms](templates/us/intellectual-property/licensing/nih-material-transfer-agreement-for-the-transfer-of-organisms.md) | [docx](templates/us/intellectual-property/licensing/nih-material-transfer-agreement-for-the-transfer-of-organisms.docx) (original) | US | agreement | draft | Public-Domain | mta, materials, research, nih, federal |
+| [UBMTA Implementing Letter (EPA)](templates/us/intellectual-property/licensing/ubmta-implementing-letter-epa.md) | [docx](templates/us/intellectual-property/licensing/ubmta-implementing-letter-epa.docx) (original) | US | letter | draft | Public-Domain | ubmta, mta, implementing-letter, epa, federal |
+| [USDA ARS Material Transfer Agreement (Exchange)](templates/us/intellectual-property/licensing/usda-ars-material-transfer-agreement-exchange.md) | [docx](templates/us/intellectual-property/licensing/usda-ars-material-transfer-agreement-exchange.docx) (original) | US | agreement | draft | Public-Domain | mta, materials, exchange, usda, federal |
+| [USDA ARS Material Transfer Agreement (Incoming)](templates/us/intellectual-property/licensing/usda-ars-material-transfer-agreement-incoming.md) | [docx](templates/us/intellectual-property/licensing/usda-ars-material-transfer-agreement-incoming.docx) (original) | US | agreement | draft | Public-Domain | mta, materials, usda, federal |
+| [USDA ARS Material Transfer Agreement (Outgoing)](templates/us/intellectual-property/licensing/usda-ars-material-transfer-agreement-outgoing.md) | [docx](templates/us/intellectual-property/licensing/usda-ars-material-transfer-agreement-outgoing.docx) (original) | US | agreement | draft | Public-Domain | mta, materials, usda, federal |
+| [USDA ARS Plant Exchange Material Transfer Research Agreement](templates/us/intellectual-property/licensing/usda-ars-plant-exchange-material-transfer-research-agreement.md) | [docx](templates/us/intellectual-property/licensing/usda-ars-plant-exchange-material-transfer-research-agreement.docx) (original) | US | agreement | draft | Public-Domain | mta, plant-material, research, usda, federal |
 
 **trademark** — Trademark licence, coexistence and consent agreements.
 
@@ -302,16 +441,29 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | --- | --- | --- | --- | --- | --- | --- |
 | [GitHub Logo Policy](templates/us/intellectual-property/trademark/github-logo-policy.md) | [docx](templates/us/intellectual-property/trademark/github-logo-policy.docx) | US | policy | draft | CC0-1.0 | logo, trademark, brand-use, github |
 | [GitHub Trademark Policy](templates/us/intellectual-property/trademark/github-trademark-policy.md) | [docx](templates/us/intellectual-property/trademark/github-trademark-policy.docx) | US | policy | draft | CC0-1.0 | trademark, impersonation, username, platform, github |
+| [Trademark Guidelines](templates/us/intellectual-property/trademark/trademark-guidelines.md) | [docx](templates/us/intellectual-property/trademark/trademark-guidelines.docx) | US | policy | draft | MIT | trademark, guidelines, commonhaus |
+| [Trademark Policy](templates/us/intellectual-property/trademark/trademark-policy.md) | [docx](templates/us/intellectual-property/trademark/trademark-policy.docx) | US | policy | draft | MIT | trademark, policy, commonhaus |
 
 **copyright-and-content** — Copyright licences, content licences and publishing agreements.
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Adaptable Open Educational Resources Publishing Agreement](templates/us/intellectual-property/copyright-and-content/adaptable-open-educational-resources-publishing-agreement.md) | [docx](templates/us/intellectual-property/copyright-and-content/adaptable-open-educational-resources-publishing-agreement.docx) (original) | US | agreement | draft | CC-BY-4.0 | publishing-agreement, oer, open-access, higher-education, cc-by |
 | [Copyright Infringement Notification Policy](templates/us/intellectual-property/copyright-and-content/copyright-infringement-notification-policy.md) | [docx](templates/us/intellectual-property/copyright-and-content/copyright-infringement-notification-policy.docx) | US | policy | draft | CC-BY-4.0 | dmca, copyright, takedown, counter-notice, saas, basecamp |
 | [DMCA Notice and Takedown Procedure](templates/us/intellectual-property/copyright-and-content/dmca-notice-and-takedown-procedure.md) | [docx](templates/us/intellectual-property/copyright-and-content/dmca-notice-and-takedown-procedure.docx) | US | policy | draft | CC-BY-4.0 | dmca, copyright, takedown, counter-notice, designated-agent, creative-commons |
 | [DMCA Takedown Policy](templates/us/intellectual-property/copyright-and-content/dmca-takedown-policy.md) | [docx](templates/us/intellectual-property/copyright-and-content/dmca-takedown-policy.docx) | US | policy | draft | CC0-1.0 | dmca, copyright, takedown, counter-notice, platform, github |
 | [Guide to Submitting a DMCA Counter Notice](templates/us/intellectual-property/copyright-and-content/guide-to-submitting-a-dmca-counter-notice.md) | [docx](templates/us/intellectual-property/copyright-and-content/guide-to-submitting-a-dmca-counter-notice.docx) | US | policy | draft | CC0-1.0 | dmca, counter-notice, copyright, guide, github |
 | [Guide to Submitting a DMCA Takedown Notice](templates/us/intellectual-property/copyright-and-content/guide-to-submitting-a-dmca-takedown-notice.md) | [docx](templates/us/intellectual-property/copyright-and-content/guide-to-submitting-a-dmca-takedown-notice.docx) | US | policy | draft | CC0-1.0 | dmca, takedown-notice, copyright, guide, github |
+
+**patent** — Patent licence, assignment and cross-licence agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [NCI Start-Up License Agreement 3.0](templates/us/intellectual-property/patent/nci-start-up-license-agreement-3-0.md) | [docx](templates/us/intellectual-property/patent/nci-start-up-license-agreement-3-0.docx) (original) | US | agreement | draft | Public-Domain | patent-license, start-up, nci, nih, federal |
+| [NIH Exclusive Patent License Agreement](templates/us/intellectual-property/patent/nih-exclusive-patent-license-agreement.md) | [docx](templates/us/intellectual-property/patent/nih-exclusive-patent-license-agreement.docx) (original) | US | agreement | draft | Public-Domain | patent-license, exclusive, nih, federal |
+| [NIH Internal Research Use Patent License Agreement](templates/us/intellectual-property/patent/nih-internal-research-use-patent-license-agreement.md) | [docx](templates/us/intellectual-property/patent/nih-internal-research-use-patent-license-agreement.docx) (original) | US | agreement | draft | Public-Domain | patent-license, internal-use, research, nih, federal |
+| [NIH Non-Exclusive Patent License Agreement](templates/us/intellectual-property/patent/nih-non-exclusive-patent-license-agreement.md) | [docx](templates/us/intellectual-property/patent/nih-non-exclusive-patent-license-agreement.docx) (original) | US | agreement | draft | Public-Domain | patent-license, non-exclusive, nih, federal |
+| [NIH Non-Exclusive Sublicense Patent License Agreement](templates/us/intellectual-property/patent/nih-non-exclusive-sublicense-patent-license-agreement.md) | [docx](templates/us/intellectual-property/patent/nih-non-exclusive-sublicense-patent-license-agreement.docx) (original) | US | agreement | draft | Public-Domain | patent-license, sublicense, nih, federal |
 
 #### Privacy & Data
 
@@ -319,7 +471,9 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Commonhaus Privacy Policy](templates/us/privacy-and-data/privacy-policy/commonhaus-privacy-policy.md) | [docx](templates/us/privacy-and-data/privacy-policy/commonhaus-privacy-policy.docx) | US | policy | draft | MIT | privacy-policy, nonprofit, commonhaus |
 | [Creative Commons Privacy Policy](templates/us/privacy-and-data/privacy-policy/creative-commons-privacy-policy.md) | [docx](templates/us/privacy-and-data/privacy-policy/creative-commons-privacy-policy.docx) | US | policy | draft | CC-BY-4.0 | privacy-policy, gdpr, non-profit, website, creative-commons |
+| [EFF Privacy Policy](templates/us/privacy-and-data/privacy-policy/eff-privacy-policy.md) | [docx](templates/us/privacy-and-data/privacy-policy/eff-privacy-policy.docx) | US | policy | draft | CC-BY-4.0 | privacy-policy, non-profit, eff |
 | [GitHub General Privacy Statement](templates/us/privacy-and-data/privacy-policy/github-general-privacy-statement.md) | [docx](templates/us/privacy-and-data/privacy-policy/github-general-privacy-statement.docx) | US | policy | draft | CC0-1.0 | privacy-policy, gdpr, ccpa, platform, github |
 | [Global Data Privacy Notice for Candidates](templates/us/privacy-and-data/privacy-policy/global-data-privacy-notice-for-candidates.md) | [docx](templates/us/privacy-and-data/privacy-policy/global-data-privacy-notice-for-candidates.docx) | US | policy | draft | CC0-1.0 | privacy-notice, recruiting, candidates, hr, gdpr, github |
 | [Privacy Policy (gdpr-enhanced)](templates/us/privacy-and-data/privacy-policy/privacy-policy--gdpr-enhanced.md) | [docx](templates/us/privacy-and-data/privacy-policy/privacy-policy--gdpr-enhanced.docx) (original) | US | policy | draft | CC0-1.0 | privacy-policy, gdpr, uk-gdpr, ccpa, international, website |
@@ -340,6 +494,10 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | [Common Paper Data Processing Agreement](templates/us/privacy-and-data/data-processing/common-paper-data-processing-agreement.md) | [docx](templates/us/privacy-and-data/data-processing/common-paper-data-processing-agreement.docx) | US | agreement | draft | CC-BY-4.0 | dpa, gdpr, ccpa, privacy, processor, standard-terms, common-paper |
 | [Data Processing Addendum (global)](templates/us/privacy-and-data/data-processing/data-processing-addendum--global.md) | [docx](templates/us/privacy-and-data/data-processing/data-processing-addendum--global.docx) (original) | US | agreement | draft | CC0-1.0 | dpa, gdpr, uk-gdpr, swiss, ccpa, processor, transfers |
 | [Data Processing Addendum (us-only)](templates/us/privacy-and-data/data-processing/data-processing-addendum--us-only.md) | [docx](templates/us/privacy-and-data/data-processing/data-processing-addendum--us-only.docx) (original) | US | agreement | draft | CC0-1.0 | dpa, ccpa, state-privacy-laws, processor, security |
+| [EPA Data Use Agreement (Draft)](templates/us/privacy-and-data/data-processing/epa-data-use-agreement-draft.md) | [docx](templates/us/privacy-and-data/data-processing/epa-data-use-agreement-draft.docx) (original) | US | agreement | draft | Public-Domain | data-use-agreement, data-sharing, epa, federal |
+| [USDA ARS Data Transfer Agreement (Incoming)](templates/us/privacy-and-data/data-processing/usda-ars-data-transfer-agreement-incoming.md) | [docx](templates/us/privacy-and-data/data-processing/usda-ars-data-transfer-agreement-incoming.docx) (original) | US | agreement | draft | Public-Domain | data-transfer, data-sharing, usda, federal |
+| [USDA ARS Data Transfer Agreement (Outgoing)](templates/us/privacy-and-data/data-processing/usda-ars-data-transfer-agreement-outgoing.md) | [docx](templates/us/privacy-and-data/data-processing/usda-ars-data-transfer-agreement-outgoing.docx) (original) | US | agreement | draft | Public-Domain | data-transfer, data-sharing, usda, federal |
+| [USDA ARS Data Transfer Research Agreement (Outgoing)](templates/us/privacy-and-data/data-processing/usda-ars-data-transfer-research-agreement-outgoing.md) | [docx](templates/us/privacy-and-data/data-processing/usda-ars-data-transfer-research-agreement-outgoing.docx) (original) | US | agreement | draft | Public-Domain | data-transfer, research, usda, federal |
 
 **cookie-policy** — Cookie and tracking policies.
 
@@ -378,15 +536,21 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | [Certificate of Formation (llc)](templates/us/corporate/formation/certificate-of-formation--us-de--llc.md) | [docx](templates/us/corporate/formation/certificate-of-formation--us-de--llc.docx) (original) | US-DE | charter | draft | CC0-1.0 | certificate-of-formation, llc, delaware, filing |
 | [Certificate of Incorporation (c-corp)](templates/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.md) | [docx](templates/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.docx) (original) | US-DE | charter | draft | CC0-1.0 | certificate-of-incorporation, charter, single-class, delaware, c-corp, filing |
 | [Delaware Filing Instructions](templates/us/corporate/formation/delaware-filing-instructions.md) | [docx](templates/us/corporate/formation/delaware-filing-instructions.docx) | US | checklist | draft | CC0-1.0 | formation, delaware, filing, division-of-corporations |
+| [Delaware Master LLC Certificate of Formation](templates/us/corporate/formation/delaware-master-llc-certificate-of-formation--us-de.md) | [docx](templates/us/corporate/formation/delaware-master-llc-certificate-of-formation--us-de.docx) | US-DE | charter | draft | MIT | certificate-of-formation, series-llc, delaware |
 | [Home State Filing Instructions](templates/us/corporate/formation/home-state-filing-instructions.md) | [docx](templates/us/corporate/formation/home-state-filing-instructions.docx) | US | checklist | draft | CC0-1.0 | formation, home-state, filing, foreign-qualification |
 | [How to File Your Agent-Operated Company](templates/us/corporate/formation/how-to-file-your-agent-operated-company.md) | [docx](templates/us/corporate/formation/how-to-file-your-agent-operated-company.docx) | US | checklist | draft | CC0-1.0 | formation, checklist, filing, ein, registered-agent, llc, c-corp |
 | [Series Seed Restated Certificate of Incorporation](templates/us/corporate/formation/series-seed-restated-certificate-of-incorporation--us-de.md) | [docx](templates/us/corporate/formation/series-seed-restated-certificate-of-incorporation--us-de.docx) | US-DE | charter | draft | CC0-1.0 | certificate-of-incorporation, charter, preferred-stock, seed, series-seed, delaware |
+| [Single Member LLC Checklist](templates/us/corporate/formation/single-member-llc-checklist.md) | [docx](templates/us/corporate/formation/single-member-llc-checklist.docx) | US | checklist | draft | MIT | checklist, llc, formation |
+| [Unincorporated Nonprofit Association Charter](templates/us/corporate/formation/unincorporated-nonprofit-association-charter--us-dc.md) | [docx](templates/us/corporate/formation/unincorporated-nonprofit-association-charter--us-dc.docx) | US-DC | charter | draft | MIT | unincorporated-association, nonprofit, charter, district-of-columbia |
 
 **shareholders-and-operating** — Shareholder agreements, operating agreements and unanimous shareholder agreements.
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Delaware Master LLC Operating Agreement](templates/us/corporate/shareholders-and-operating/delaware-master-llc-operating-agreement--us-de.md) | [docx](templates/us/corporate/shareholders-and-operating/delaware-master-llc-operating-agreement--us-de.docx) | US-DE | agreement | draft | MIT | operating-agreement, series-llc, master-llc, delaware |
+| [Delaware Series LLC Operating Agreement](templates/us/corporate/shareholders-and-operating/delaware-series-llc-operating-agreement--us-de.md) | [docx](templates/us/corporate/shareholders-and-operating/delaware-series-llc-operating-agreement--us-de.docx) | US-DE | agreement | draft | MIT | operating-agreement, series-llc, delaware |
 | [Operating Agreement (single-member)](templates/us/corporate/shareholders-and-operating/operating-agreement--us-de--single-member.md) | [docx](templates/us/corporate/shareholders-and-operating/operating-agreement--us-de--single-member.docx) (original) | US-DE | agreement | draft | CC0-1.0 | operating-agreement, single-member, manager-managed, ai-governance, llc, delaware |
+| [Single Member LLC Operating Agreement](templates/us/corporate/shareholders-and-operating/single-member-llc-operating-agreement--us-de.md) | [docx](templates/us/corporate/shareholders-and-operating/single-member-llc-operating-agreement--us-de.docx) | US-DE | agreement | draft | MIT | operating-agreement, single-member, llc, delaware |
 
 **bylaws-and-resolutions** — Bylaws, board and shareholder resolutions, consents, minutes and board-adopted governance policies.
 
@@ -395,9 +559,12 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | [Action of Incorporator](templates/us/corporate/bylaws-and-resolutions/action-of-incorporator--us-de.md) | [docx](templates/us/corporate/bylaws-and-resolutions/action-of-incorporator--us-de.docx) (original) | US-DE | resolution | draft | CC0-1.0 | incorporator, written-consent, bylaws-adoption, board-appointment, delaware, c-corp |
 | [AI Governance Policy (c-corp)](templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--c-corp.md) | [docx](templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--c-corp.docx) (original) | US-DE | policy | draft | CC0-1.0 | ai-governance, ai-agent, board-policy, delaware, c-corp |
 | [AI Governance Policy (llc)](templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--llc.md) | [docx](templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--llc.docx) (original) | US-DE | policy | draft | CC0-1.0 | ai-governance, ai-agent, manager-policy, delaware, llc |
+| [Antitrust Policy](templates/us/corporate/bylaws-and-resolutions/antitrust-policy.md) | [docx](templates/us/corporate/bylaws-and-resolutions/antitrust-policy.docx) | US | policy | draft | MIT | antitrust, policy, nonprofit, commonhaus |
 | [Board Consent Approving SAFE Financing](templates/us/corporate/bylaws-and-resolutions/board-consent-approving-safe-financing.md) | [docx](templates/us/corporate/bylaws-and-resolutions/board-consent-approving-safe-financing.docx) | US | resolution | draft | CC-BY-4.0 | safe, board-consent, written-consent, financing, startup, openagreements |
 | [Board Ratifying Consent](templates/us/corporate/bylaws-and-resolutions/board-ratifying-consent.md) | [docx](templates/us/corporate/bylaws-and-resolutions/board-ratifying-consent.docx) | US | resolution | draft | CC-BY-4.0 | ratification, board-consent, written-consent, corporate-cleanup, startup, openagreements |
 | [Bylaws](templates/us/corporate/bylaws-and-resolutions/bylaws--us-de.md) | [docx](templates/us/corporate/bylaws-and-resolutions/bylaws--us-de.docx) (original) | US-DE | charter | draft | CC0-1.0 | bylaws, stockholders, board, officers, ai-governance, delaware, c-corp |
+| [Conflict of Interest Policy](templates/us/corporate/bylaws-and-resolutions/conflict-of-interest-policy.md) | [docx](templates/us/corporate/bylaws-and-resolutions/conflict-of-interest-policy.docx) | US | policy | draft | MIT | conflict-of-interest, policy, nonprofit, commonhaus |
+| [Contract Review and Signature Authority Policy](templates/us/corporate/bylaws-and-resolutions/contract-review-and-signature-authority-policy.md) | [docx](templates/us/corporate/bylaws-and-resolutions/contract-review-and-signature-authority-policy.docx) | US | policy | draft | Apache-2.0 | signature-authority, contract-review, policy, sourcegraph |
 | [Organizational Resolutions](templates/us/corporate/bylaws-and-resolutions/organizational-resolutions--us-de.md) | [docx](templates/us/corporate/bylaws-and-resolutions/organizational-resolutions--us-de.docx) (original) | US-DE | resolution | draft | CC0-1.0 | organizational-resolutions, board-consent, formation, stock-issuance, delaware, c-corp |
 | [Series Seed Board Consent](templates/us/corporate/bylaws-and-resolutions/series-seed-board-consent--us-de.md) | [docx](templates/us/corporate/bylaws-and-resolutions/series-seed-board-consent--us-de.docx) | US-DE | resolution | draft | CC0-1.0 | board-consent, written-consent, seed, preferred-stock, series-seed, delaware |
 | [Series Seed Notes Board Consent](templates/us/corporate/bylaws-and-resolutions/series-seed-notes-board-consent--us-de.md) | [docx](templates/us/corporate/bylaws-and-resolutions/series-seed-notes-board-consent--us-de.docx) | US-DE | resolution | draft | CC0-1.0 | board-consent, written-consent, convertible-note, series-seed-notes, delaware |
@@ -473,8 +640,36 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [30-Day Notice to Landlord](templates/us/real-estate/residential-lease/30-day-notice-to-landlord.md) | [docx](templates/us/real-estate/residential-lease/30-day-notice-to-landlord.docx) | US | notice | draft | MIT | notice, tenant, move-out, pandadoc |
+| [HUD Model Lease for Section 202 PRAC (Form HUD-90105-c)](templates/us/real-estate/residential-lease/hud-model-lease-for-section-202-prac-form-hud-90105-c.md) | [docx](templates/us/real-estate/residential-lease/hud-model-lease-for-section-202-prac-form-hud-90105-c.docx) (original) | US | agreement | draft | Public-Domain | hud, model-lease, section-202, prac, federal |
+| [HUD Model Lease for Subsidized Programs (Form HUD-90105-a)](templates/us/real-estate/residential-lease/hud-model-lease-for-subsidized-programs-form-hud-90105-a.md) | [docx](templates/us/real-estate/residential-lease/hud-model-lease-for-subsidized-programs-form-hud-90105-a.docx) (original) | US | agreement | draft | Public-Domain | hud, model-lease, subsidized-housing, section-8, federal |
+| [Landlord Pre-Lease Checklist](templates/us/real-estate/residential-lease/landlord-pre-lease-checklist.md) | [docx](templates/us/real-estate/residential-lease/landlord-pre-lease-checklist.docx) | US | checklist | draft | MIT | checklist, landlord, pandadoc |
+| [Lease Signing Checklist](templates/us/real-estate/residential-lease/lease-signing-checklist.md) | [docx](templates/us/real-estate/residential-lease/lease-signing-checklist.docx) | US | checklist | draft | MIT | checklist, lease-signing, pandadoc |
 | [Lease Termination Notice](templates/us/real-estate/residential-lease/lease-termination-notice.md) | [docx](templates/us/real-estate/residential-lease/lease-termination-notice.docx) | US | notice | draft | CC-BY-4.0 | lease-termination, notice-to-vacate, tenant, residential, advottic |
+| [Month-to-Month Rental Agreement](templates/us/real-estate/residential-lease/month-to-month-rental-agreement.md) | [docx](templates/us/real-estate/residential-lease/month-to-month-rental-agreement.docx) | US | agreement | draft | MIT | lease, residential, month-to-month, pandadoc |
+| [Notice to Vacate](templates/us/real-estate/residential-lease/notice-to-vacate.md) | [docx](templates/us/real-estate/residential-lease/notice-to-vacate.docx) | US | notice | draft | MIT | notice-to-vacate, termination, pandadoc |
+| [Rental Application](templates/us/real-estate/residential-lease/rental-application.md) | [docx](templates/us/real-estate/residential-lease/rental-application.docx) | US | form | draft | MIT | rental-application, tenant-screening, pandadoc |
+| [Residential Lease Agreement](templates/us/real-estate/residential-lease/residential-lease-agreement.md) | [docx](templates/us/real-estate/residential-lease/residential-lease-agreement.docx) | US | agreement | draft | MIT | lease, residential, fixed-term, pandadoc |
+| [Room Rental Agreement](templates/us/real-estate/residential-lease/room-rental-agreement.md) | [docx](templates/us/real-estate/residential-lease/room-rental-agreement.docx) | US | agreement | draft | MIT | lease, room-rental, shared-housing, pandadoc |
 | [Security Deposit Return Demand](templates/us/real-estate/residential-lease/security-deposit-return-demand.md) | [docx](templates/us/real-estate/residential-lease/security-deposit-return-demand.docx) | US | letter | draft | CC-BY-4.0 | security-deposit, demand-letter, tenant, residential, advottic |
+
+**commercial-lease** — Office, retail and industrial leases.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Commercial Lease Agreement](templates/us/real-estate/commercial-lease/commercial-lease-agreement.md) | [docx](templates/us/real-estate/commercial-lease/commercial-lease-agreement.docx) | US | agreement | draft | MIT | lease, commercial, pandadoc |
+
+**sublease-and-assignment** — Subleases, assignments of lease and licences to occupy.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Sublease Agreement](templates/us/real-estate/sublease-and-assignment/sublease-agreement.md) | [docx](templates/us/real-estate/sublease-and-assignment/sublease-agreement.docx) | US | agreement | draft | MIT | sublease, residential, pandadoc |
+
+**property-management** — Property management and co-ownership agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Property Management Agreement](templates/us/real-estate/property-management/property-management-agreement.md) | [docx](templates/us/real-estate/property-management/property-management-agreement.docx) | US | agreement | draft | MIT | property-management, pandadoc |
 
 #### Partnerships & Joint Ventures
 
@@ -483,6 +678,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Hedge Fund Limited Partnership Agreement](templates/us/partnerships/general-partnership/hedge-fund-limited-partnership-agreement--us-de.md) | [docx](templates/us/partnerships/general-partnership/hedge-fund-limited-partnership-agreement--us-de.docx) | US-DE | agreement | draft | CC-BY-4.0 | hedge-fund, limited-partnership, fund-formation, delaware, investment-fund, openagreements |
+| [SBA Model Debenture SBIC Limited Partnership Agreement](templates/us/partnerships/general-partnership/sba-model-debenture-sbic-limited-partnership-agreement.md) | [docx](templates/us/partnerships/general-partnership/sba-model-debenture-sbic-limited-partnership-agreement.docx) (original) | US | agreement | draft | Public-Domain | limited-partnership, sbic, fund-formation, sba, federal |
 
 **collaboration-and-mou** — Memoranda of understanding, letters of intent and collaboration agreements.
 
@@ -491,15 +687,39 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | [Common Paper Letter of Intent](templates/us/partnerships/collaboration-and-mou/common-paper-letter-of-intent.md) | [docx](templates/us/partnerships/collaboration-and-mou/common-paper-letter-of-intent.docx) (original) | US | letter | draft | CC-BY-4.0 | letter-of-intent, loi, non-binding, confidentiality, common-paper |
 | [Common Paper Partnership Agreement](templates/us/partnerships/collaboration-and-mou/common-paper-partnership-agreement.md) | [docx](templates/us/partnerships/collaboration-and-mou/common-paper-partnership-agreement.docx) | US | agreement | draft | CC-BY-4.0 | partnership, channel, co-marketing, referral, trademark-license, standard-terms, common-paper |
 | [Common Paper Term Sheet](templates/us/partnerships/collaboration-and-mou/common-paper-term-sheet.md) | [docx](templates/us/partnerships/collaboration-and-mou/common-paper-term-sheet.docx) (original) | US | agreement | draft | CC-BY-4.0 | term-sheet, non-binding, confidentiality, commercial, common-paper |
+| [EPA Cooperative Research and Development Agreement Template](templates/us/partnerships/collaboration-and-mou/epa-cooperative-research-and-development-agreement-template.md) | [docx](templates/us/partnerships/collaboration-and-mou/epa-cooperative-research-and-development-agreement-template.docx) (original) | US | agreement | draft | Public-Domain | crada, research-collaboration, epa, federal |
+| [EPA CRADA Letter of Intent Template](templates/us/partnerships/collaboration-and-mou/epa-crada-letter-of-intent-template.md) | [docx](templates/us/partnerships/collaboration-and-mou/epa-crada-letter-of-intent-template.docx) (original) | US | letter | draft | Public-Domain | letter-of-intent, crada, epa, federal |
+| [EPA CRADA Statement of Work Template](templates/us/partnerships/collaboration-and-mou/epa-crada-statement-of-work-template.md) | [docx](templates/us/partnerships/collaboration-and-mou/epa-crada-statement-of-work-template.docx) (original) | US | schedule | draft | Public-Domain | statement-of-work, crada, epa, federal |
+| [EPA Materials CRADA Template](templates/us/partnerships/collaboration-and-mou/epa-materials-crada-template.md) | [docx](templates/us/partnerships/collaboration-and-mou/epa-materials-crada-template.docx) (original) | US | agreement | draft | Public-Domain | crada, materials, epa, federal |
+| [Fiscal Sponsorship Agreement](templates/us/partnerships/collaboration-and-mou/fiscal-sponsorship-agreement--us-fl.md) | [docx](templates/us/partnerships/collaboration-and-mou/fiscal-sponsorship-agreement--us-fl.docx) | US-FL | agreement | draft | MIT | fiscal-sponsorship, open-source, nonprofit, commonhaus |
+| [Grant Agreement (DAO)](templates/us/partnerships/collaboration-and-mou/grant-agreement-dao.md) | [docx](templates/us/partnerships/collaboration-and-mou/grant-agreement-dao.docx) | US | agreement | draft | MIT | grant-agreement, dao, web3 |
+| [Model NIH Materials CRADA](templates/us/partnerships/collaboration-and-mou/model-nih-materials-crada.md) | [docx](templates/us/partnerships/collaboration-and-mou/model-nih-materials-crada.docx) (original) | US | agreement | draft | Public-Domain | crada, materials, research-collaboration, nih, federal |
+| [Model PHS Cooperative Research and Development Agreement](templates/us/partnerships/collaboration-and-mou/model-phs-cooperative-research-and-development-agreement.md) | [docx](templates/us/partnerships/collaboration-and-mou/model-phs-cooperative-research-and-development-agreement.docx) (original) | US | agreement | draft | Public-Domain | crada, research-collaboration, phs, nih, federal |
+| [Model PHS CRADA for Extramural Clinical Research](templates/us/partnerships/collaboration-and-mou/model-phs-crada-for-extramural-clinical-research.md) | [docx](templates/us/partnerships/collaboration-and-mou/model-phs-crada-for-extramural-clinical-research.docx) (original) | US | agreement | draft | Public-Domain | crada, clinical-research, phs, nih, federal |
+| [NIH Inter-Institutional Agreement (Institution Lead)](templates/us/partnerships/collaboration-and-mou/nih-inter-institutional-agreement-institution-lead.md) | [docx](templates/us/partnerships/collaboration-and-mou/nih-inter-institutional-agreement-institution-lead.docx) (original) | US | agreement | draft | Public-Domain | inter-institutional, joint-invention, patent, nih, federal |
+| [NIH Inter-Institutional Agreement (NIH Lead)](templates/us/partnerships/collaboration-and-mou/nih-inter-institutional-agreement-nih-lead.md) | [docx](templates/us/partnerships/collaboration-and-mou/nih-inter-institutional-agreement-nih-lead.docx) (original) | US | agreement | draft | Public-Domain | inter-institutional, joint-invention, patent, nih, federal |
+| [NIH Patent Cost Sharing Agreement](templates/us/partnerships/collaboration-and-mou/nih-patent-cost-sharing-agreement.md) | [docx](templates/us/partnerships/collaboration-and-mou/nih-patent-cost-sharing-agreement.docx) (original) | US | agreement | draft | Public-Domain | patent-costs, cost-sharing, nih, federal |
+| [Project Contribution Terms and Conditions](templates/us/partnerships/collaboration-and-mou/project-contribution-terms-and-conditions--us-fl.md) | [docx](templates/us/partnerships/collaboration-and-mou/project-contribution-terms-and-conditions--us-fl.docx) | US-FL | schedule | draft | MIT | terms, fiscal-sponsorship, open-source, commonhaus |
 
 #### Marketing & Media
+
+**influencer-and-sponsorship** — Influencer, brand ambassador and sponsorship agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Foundation Sponsorship Agreement](templates/us/marketing-and-media/influencer-and-sponsorship/foundation-sponsorship-agreement--us-fl.md) | [docx](templates/us/marketing-and-media/influencer-and-sponsorship/foundation-sponsorship-agreement--us-fl.docx) | US-FL | agreement | draft | MIT | sponsorship, nonprofit, open-source, commonhaus |
+| [Open Source Sponsorship Initiative Addendum](templates/us/marketing-and-media/influencer-and-sponsorship/open-source-sponsorship-initiative-addendum--us-fl.md) | [docx](templates/us/marketing-and-media/influencer-and-sponsorship/open-source-sponsorship-initiative-addendum--us-fl.docx) | US-FL | schedule | draft | MIT | sponsorship, addendum, open-source, commonhaus |
 
 **events** — Event, venue, speaker and exhibitor agreements.
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Conference Code of Conduct Template](templates/us/marketing-and-media/events/conference-code-of-conduct-template.md) | [docx](templates/us/marketing-and-media/events/conference-code-of-conduct-template.docx) | US | policy | draft | CC-BY-3.0 | code-of-conduct, events, anti-harassment, confcodeofconduct |
 | [GitHub Event Code of Conduct](templates/us/marketing-and-media/events/github-event-code-of-conduct.md) | [docx](templates/us/marketing-and-media/events/github-event-code-of-conduct.docx) | US | policy | draft | CC0-1.0 | code-of-conduct, events, anti-harassment, github |
 | [GitHub Event Terms](templates/us/marketing-and-media/events/github-event-terms.md) | [docx](templates/us/marketing-and-media/events/github-event-terms.docx) | US | policy | draft | CC0-1.0 | event-terms, attendee, registration, photo-release, github |
+| [PyCon US Attendee Procedure for Incident Handling](templates/us/marketing-and-media/events/pycon-us-attendee-procedure-for-incident-handling.md) | [docx](templates/us/marketing-and-media/events/pycon-us-attendee-procedure-for-incident-handling.docx) | US | policy | draft | CC-BY-3.0 | incident-handling, events, code-of-conduct, pycon |
+| [PyCon US Code of Conduct](templates/us/marketing-and-media/events/pycon-us-code-of-conduct.md) | [docx](templates/us/marketing-and-media/events/pycon-us-code-of-conduct.docx) | US | policy | draft | CC-BY-3.0 | code-of-conduct, events, anti-harassment, pycon |
+| [PyCon US Staff Procedure for Incident Handling](templates/us/marketing-and-media/events/pycon-us-staff-procedure-for-incident-handling.md) | [docx](templates/us/marketing-and-media/events/pycon-us-staff-procedure-for-incident-handling.docx) | US | policy | draft | CC-BY-3.0 | incident-handling, events, code-of-conduct, pycon |
 
 #### Dispute Resolution
 
@@ -508,7 +728,88 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Cease and Desist Letter](templates/us/dispute-resolution/demand-letters/cease-and-desist-letter.md) | [docx](templates/us/dispute-resolution/demand-letters/cease-and-desist-letter.docx) | US | letter | draft | CC-BY-4.0 | cease-and-desist, pre-litigation, harassment, infringement, advottic |
+| [CFPB Model Debt Collection Validation Notice](templates/us/dispute-resolution/demand-letters/cfpb-model-debt-collection-validation-notice.md) | [docx](templates/us/dispute-resolution/demand-letters/cfpb-model-debt-collection-validation-notice.docx) (original) | US | notice | draft | CC0-1.0 | debt-collection, validation-notice, regulation-f, cfpb, federal |
 | [Demand Letter](templates/us/dispute-resolution/demand-letters/demand-letter.md) | [docx](templates/us/dispute-resolution/demand-letters/demand-letter.docx) | US | letter | draft | CC-BY-4.0 | demand-letter, pre-litigation, consumer, small-claims, advottic |
+
+#### Clause Library
+
+**boilerplate** — Entire agreement, notices, assignment, counterparts, severability, governing law.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Example Development Release Language](templates/us/clauses/boilerplate/example-development-release-language.md) | [docx](templates/us/clauses/boilerplate/example-development-release-language.docx) | US | clause | draft | CC0-1.0 | development-agreement, open-source, release-clause, blue-oak |
+| [Example Software Release Grant Condition](templates/us/clauses/boilerplate/example-software-release-grant-condition.md) | [docx](templates/us/clauses/boilerplate/example-software-release-grant-condition.docx) | US | clause | draft | CC0-1.0 | grant, open-source, release-condition, blue-oak |
+| [Starter Open Software Policy](templates/us/clauses/boilerplate/starter-open-software-policy.md) | [docx](templates/us/clauses/boilerplate/starter-open-software-policy.docx) | US | clause | draft | CC0-1.0 | open-source-policy, company-policy, blue-oak |
+
+### Canada (`ca`)
+
+#### Contractors & Consultants
+
+**independent-contractor** — General independent contractor agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Contractor Work-for-Hire Agreement](templates/ca/contractors/independent-contractor/contractor-work-for-hire-agreement.md) | [docx](templates/ca/contractors/independent-contractor/contractor-work-for-hire-agreement.docx) | CA | agreement | draft | Apache-2.0 | contractor, work-for-hire, dot-legal |
+
+#### Confidentiality
+
+**mutual-nda** — Mutual / bilateral non-disclosure agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Mutual Non-Disclosure Agreement (Dot Legal form)](templates/ca/confidentiality/mutual-nda/mutual-non-disclosure-agreement-dot-legal-form.md) | [docx](templates/ca/confidentiality/mutual-nda/mutual-non-disclosure-agreement-dot-legal-form.docx) | CA | agreement | draft | Apache-2.0 | nda, mutual, dot-legal |
+
+**unilateral-nda** — One-way non-disclosure agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Unilateral Non-Disclosure Agreement (Dot Legal form)](templates/ca/confidentiality/unilateral-nda/unilateral-non-disclosure-agreement-dot-legal-form.md) | [docx](templates/ca/confidentiality/unilateral-nda/unilateral-non-disclosure-agreement-dot-legal-form.docx) | CA | agreement | draft | Apache-2.0 | nda, one-way, dot-legal |
+
+#### Commercial
+
+**amendments-and-extensions** — Amendments, extensions, renewals and change orders to existing agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Amendment Agreement (Dot Legal form)](templates/ca/commercial/amendments-and-extensions/amendment-agreement-dot-legal-form.md) | [docx](templates/ca/commercial/amendments-and-extensions/amendment-agreement-dot-legal-form.docx) | CA | form | draft | Apache-2.0 | amendment, dot-legal |
+
+#### Privacy & Data
+
+**privacy-policy** — Website, app and customer privacy policies and notices.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Privacy Policy (Dot Legal form)](templates/ca/privacy-and-data/privacy-policy/privacy-policy-dot-legal-form.md) | [docx](templates/ca/privacy-and-data/privacy-policy/privacy-policy-dot-legal-form.docx) | CA | policy | draft | Apache-2.0 | privacy-policy, dot-legal |
+
+#### Clause Library
+
+**boilerplate** — Entire agreement, notices, assignment, counterparts, severability, governing law.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Amendment Clause](templates/ca/clauses/boilerplate/amendment-clause.md) | [docx](templates/ca/clauses/boilerplate/amendment-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, amendment, dot-legal |
+| [Assignment Clause](templates/ca/clauses/boilerplate/assignment-clause.md) | [docx](templates/ca/clauses/boilerplate/assignment-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, assignment, dot-legal |
+| [Construction Of Terms Clause](templates/ca/clauses/boilerplate/construction-of-terms-clause.md) | [docx](templates/ca/clauses/boilerplate/construction-of-terms-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, construction-of-terms, dot-legal |
+| [Counterparts Clause](templates/ca/clauses/boilerplate/counterparts-clause.md) | [docx](templates/ca/clauses/boilerplate/counterparts-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, counterparts, dot-legal |
+| [Cumulative Remedies Clause](templates/ca/clauses/boilerplate/cumulative-remedies-clause.md) | [docx](templates/ca/clauses/boilerplate/cumulative-remedies-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, cumulative-remedies, dot-legal |
+| [Entire Agreement Clause](templates/ca/clauses/boilerplate/entire-agreement-clause.md) | [docx](templates/ca/clauses/boilerplate/entire-agreement-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, entire-agreement, dot-legal |
+| [Enurement Clause](templates/ca/clauses/boilerplate/enurement-clause.md) | [docx](templates/ca/clauses/boilerplate/enurement-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, enurement, dot-legal |
+| [Force Majeure Clause](templates/ca/clauses/boilerplate/force-majeure-clause.md) | [docx](templates/ca/clauses/boilerplate/force-majeure-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, force-majeure, dot-legal |
+| [Further Assurances Clause](templates/ca/clauses/boilerplate/further-assurances-clause.md) | [docx](templates/ca/clauses/boilerplate/further-assurances-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, further-assurances, dot-legal |
+| [Good Faith Clause](templates/ca/clauses/boilerplate/good-faith-clause.md) | [docx](templates/ca/clauses/boilerplate/good-faith-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, good-faith, dot-legal |
+| [Headings Clause](templates/ca/clauses/boilerplate/headings-clause.md) | [docx](templates/ca/clauses/boilerplate/headings-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, headings, dot-legal |
+| [No Joint Venture Clause](templates/ca/clauses/boilerplate/no-joint-venture-clause.md) | [docx](templates/ca/clauses/boilerplate/no-joint-venture-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, no-joint-venture, dot-legal |
+| [No Waiver Clause](templates/ca/clauses/boilerplate/no-waiver-clause.md) | [docx](templates/ca/clauses/boilerplate/no-waiver-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, no-waiver, dot-legal |
+| [Notices Clause](templates/ca/clauses/boilerplate/notices-clause.md) | [docx](templates/ca/clauses/boilerplate/notices-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, notices, dot-legal |
+| [Severability Clause](templates/ca/clauses/boilerplate/severability-clause.md) | [docx](templates/ca/clauses/boilerplate/severability-clause.docx) | CA | clause | draft | Apache-2.0 | boilerplate, clause, severability, dot-legal |
+
+**definitions** — Reusable definition blocks.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Definition of Confidential Information Clause](templates/ca/clauses/definitions/definition-of-confidential-information-clause.md) | [docx](templates/ca/clauses/definitions/definition-of-confidential-information-clause.docx) | CA | clause | draft | Apache-2.0 | confidentiality, clause, definitions, dot-legal |
+| [Definition of Discloser and Recipient (Mutual) Clause](templates/ca/clauses/definitions/definition-of-discloser-and-recipient-mutual-clause.md) | [docx](templates/ca/clauses/definitions/definition-of-discloser-and-recipient-mutual-clause.docx) | CA | clause | draft | Apache-2.0 | confidentiality, clause, definitions, dot-legal |
+| [Permitted Disclosures to Representatives Clause](templates/ca/clauses/definitions/permitted-disclosures-to-representatives-clause.md) | [docx](templates/ca/clauses/definitions/permitted-disclosures-to-representatives-clause.docx) | CA | clause | draft | Apache-2.0 | confidentiality, clause, definitions, dot-legal |
 
 ### United Kingdom (`gb`)
 
@@ -527,3 +828,104 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Basic Non-Disclosure Agreement](templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.md) | [docx](templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.docx) (original) | GB | agreement | draft | MIT | nda, one-way, confidentiality, documize |
+
+### International / jurisdiction-neutral (`intl`)
+
+#### Confidentiality
+
+**mutual-nda** — Mutual / bilateral non-disclosure agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [NEAR Foundation Template Mutual NDA](templates/intl/confidentiality/mutual-nda/near-foundation-template-mutual-nda.md) | [docx](templates/intl/confidentiality/mutual-nda/near-foundation-template-mutual-nda.docx) | INTL | agreement | draft | CC0-1.0 | nda, mutual, near-foundation |
+
+#### Commercial
+
+**distribution-and-reseller** — Distribution, reseller, dealer and channel partner agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Tailscale Channel Partner Agreement](templates/intl/commercial/distribution-and-reseller/tailscale-channel-partner-agreement.md) | [docx](templates/intl/commercial/distribution-and-reseller/tailscale-channel-partner-agreement.docx) | INTL | agreement | draft | CC0-1.0 | channel-partner, reseller, saas, tailscale |
+
+#### Technology
+
+**saas** — Software-as-a-service subscription agreements and order forms.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Tailscale Free Trial Offer Terms](templates/intl/technology/saas/tailscale-free-trial-offer-terms.md) | [docx](templates/intl/technology/saas/tailscale-free-trial-offer-terms.docx) | INTL | policy | draft | CC0-1.0 | free-trial, saas, tailscale |
+| [Tailscale Main Service Agreement](templates/intl/technology/saas/tailscale-main-service-agreement.md) | [docx](templates/intl/technology/saas/tailscale-main-service-agreement.docx) | INTL | agreement | draft | CC0-1.0 | msa, saas, enterprise, tailscale |
+| [Tailscale Privileged Access Management Terms](templates/intl/technology/saas/tailscale-privileged-access-management-terms.md) | [docx](templates/intl/technology/saas/tailscale-privileged-access-management-terms.docx) | INTL | schedule | draft | CC0-1.0 | product-terms, saas, tailscale |
+| [Tailscale Special Terms](templates/intl/technology/saas/tailscale-special-terms.md) | [docx](templates/intl/technology/saas/tailscale-special-terms.docx) | INTL | schedule | draft | CC0-1.0 | special-terms, saas, tailscale |
+
+**hosting-and-cloud** — Hosting, cloud infrastructure and service-level agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Tailscale Service Level Agreement](templates/intl/technology/hosting-and-cloud/tailscale-service-level-agreement.md) | [docx](templates/intl/technology/hosting-and-cloud/tailscale-service-level-agreement.docx) | INTL | schedule | draft | CC0-1.0 | sla, uptime, service-credits, tailscale |
+
+**open-source** — Contributor licence agreements and open-source project governance documents.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Contributor Covenant Code of Conduct 2.1](templates/intl/technology/open-source/contributor-covenant-code-of-conduct-2-1.md) | [docx](templates/intl/technology/open-source/contributor-covenant-code-of-conduct-2-1.docx) | INTL | policy | draft | CC-BY-4.0 | code-of-conduct, open-source, contributor-covenant |
+| [Harmony Contributor Agreements (Combined Template)](templates/intl/technology/open-source/harmony-contributor-agreements-combined-template.md) | [docx](templates/intl/technology/open-source/harmony-contributor-agreements-combined-template.docx) | INTL | agreement | draft | CC-BY-3.0 | cla, contributor-agreement, copyright-assignment, open-source, harmony |
+
+#### Intellectual Property
+
+**licensing** — General IP licence agreements (in-bound and out-bound).
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Computational Use of Data Agreement 1.0 (Annotated)](templates/intl/intellectual-property/licensing/computational-use-of-data-agreement-1-0-annotated.md) | [docx](templates/intl/intellectual-property/licensing/computational-use-of-data-agreement-1-0-annotated.docx) | INTL | agreement | draft | CC0-1.0 | data-license, computational-use, c-uda, annotated, microsoft |
+| [Computational Use of Data Agreement 1.0](templates/intl/intellectual-property/licensing/computational-use-of-data-agreement-1-0.md) | [docx](templates/intl/intellectual-property/licensing/computational-use-of-data-agreement-1-0.docx) | INTL | agreement | draft | CC0-1.0 | data-license, computational-use, c-uda, microsoft |
+| [Open Use of Data Agreement 1.0 (Annotated)](templates/intl/intellectual-property/licensing/open-use-of-data-agreement-1-0-annotated.md) | [docx](templates/intl/intellectual-property/licensing/open-use-of-data-agreement-1-0-annotated.docx) | INTL | agreement | draft | CC0-1.0 | data-license, open-data, o-uda, annotated, microsoft |
+| [Open Use of Data Agreement 1.0](templates/intl/intellectual-property/licensing/open-use-of-data-agreement-1-0.md) | [docx](templates/intl/intellectual-property/licensing/open-use-of-data-agreement-1-0.docx) | INTL | agreement | draft | CC0-1.0 | data-license, open-data, o-uda, microsoft |
+
+#### Privacy & Data
+
+**privacy-policy** — Website, app and customer privacy policies and notices.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [NEAR Foundation Template Privacy Policy](templates/intl/privacy-and-data/privacy-policy/near-foundation-template-privacy-policy.md) | [docx](templates/intl/privacy-and-data/privacy-policy/near-foundation-template-privacy-policy.docx) | INTL | policy | draft | CC0-1.0 | privacy-policy, gdpr, near-foundation |
+| [Tailscale Google Workspace Limited Use Disclosure](templates/intl/privacy-and-data/privacy-policy/tailscale-google-workspace-limited-use-disclosure.md) | [docx](templates/intl/privacy-and-data/privacy-policy/tailscale-google-workspace-limited-use-disclosure.docx) | INTL | notice | draft | CC0-1.0 | google-api, limited-use, disclosure, tailscale |
+| [Tailscale Privacy Policy](templates/intl/privacy-and-data/privacy-policy/tailscale-privacy-policy.md) | [docx](templates/intl/privacy-and-data/privacy-policy/tailscale-privacy-policy.docx) | INTL | policy | draft | CC0-1.0 | privacy-policy, saas, tailscale |
+
+**data-processing** — Data processing agreements, standard contractual clauses and sub-processor terms.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Tailscale Data Processing Addendum](templates/intl/privacy-and-data/data-processing/tailscale-data-processing-addendum.md) | [docx](templates/intl/privacy-and-data/data-processing/tailscale-data-processing-addendum.docx) | INTL | agreement | draft | CC0-1.0 | dpa, gdpr, processor, tailscale |
+| [Tailscale DORA Addendum](templates/intl/privacy-and-data/data-processing/tailscale-dora-addendum.md) | [docx](templates/intl/privacy-and-data/data-processing/tailscale-dora-addendum.docx) | INTL | schedule | draft | CC0-1.0 | dora, financial-services, eu, addendum, tailscale |
+| [Tailscale Subprocessors List](templates/intl/privacy-and-data/data-processing/tailscale-subprocessors-list.md) | [docx](templates/intl/privacy-and-data/data-processing/tailscale-subprocessors-list.docx) | INTL | schedule | draft | CC0-1.0 | subprocessors, dpa, tailscale |
+
+**cookie-policy** — Cookie and tracking policies.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [NEAR Foundation Template Cookie Policy](templates/intl/privacy-and-data/cookie-policy/near-foundation-template-cookie-policy.md) | [docx](templates/intl/privacy-and-data/cookie-policy/near-foundation-template-cookie-policy.docx) | INTL | policy | draft | CC0-1.0 | cookies, near-foundation |
+| [Tailscale Cookie Notice](templates/intl/privacy-and-data/cookie-policy/tailscale-cookie-notice.md) | [docx](templates/intl/privacy-and-data/cookie-policy/tailscale-cookie-notice.docx) | INTL | policy | draft | CC0-1.0 | cookies, tailscale |
+
+**website-terms** — Website and app terms of use / terms of service.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [NEAR Foundation Template Website Terms of Use](templates/intl/privacy-and-data/website-terms/near-foundation-template-website-terms-of-use.md) | [docx](templates/intl/privacy-and-data/website-terms/near-foundation-template-website-terms-of-use.docx) | INTL | policy | draft | CC0-1.0 | terms-of-use, website, near-foundation |
+| [Tailscale Digital Services Act Notice](templates/intl/privacy-and-data/website-terms/tailscale-digital-services-act-notice.md) | [docx](templates/intl/privacy-and-data/website-terms/tailscale-digital-services-act-notice.docx) | INTL | notice | draft | CC0-1.0 | dsa, eu, notice, tailscale |
+| [Tailscale Terms of Service](templates/intl/privacy-and-data/website-terms/tailscale-terms-of-service.md) | [docx](templates/intl/privacy-and-data/website-terms/tailscale-terms-of-service.docx) | INTL | policy | draft | CC0-1.0 | terms-of-service, saas, tailscale |
+
+**acceptable-use** — Acceptable-use and community guidelines.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Tailscale Acceptable Use Policy](templates/intl/privacy-and-data/acceptable-use/tailscale-acceptable-use-policy.md) | [docx](templates/intl/privacy-and-data/acceptable-use/tailscale-acceptable-use-policy.docx) | INTL | policy | draft | CC0-1.0 | acceptable-use, saas, tailscale |
+| [Tailscale Code of Conduct](templates/intl/privacy-and-data/acceptable-use/tailscale-code-of-conduct.md) | [docx](templates/intl/privacy-and-data/acceptable-use/tailscale-code-of-conduct.docx) | INTL | policy | draft | CC0-1.0 | code-of-conduct, community, tailscale |
+
+#### Marketing & Media
+
+**events** — Event, venue, speaker and exhibitor agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Tailscale Conference Refund Policy](templates/intl/marketing-and-media/events/tailscale-conference-refund-policy.md) | [docx](templates/intl/marketing-and-media/events/tailscale-conference-refund-policy.docx) | INTL | policy | draft | CC0-1.0 | events, refund, tailscale |

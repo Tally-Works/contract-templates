@@ -239,7 +239,8 @@ function validateTemplate(file, taxonomy) {
   if (meta.source && meta.source.file && path.join(ROOT, String(meta.source.file)) !== docxPath) errors.push(`source.file must be the .docx beside this template (${rel(docxPath)})`);
 
   // body
-  if (!body || body.trim().length < 200) errors.push('body is empty or too short to be a template (under 200 characters)');
+  const minBody = meta.type === 'clause' ? 40 : 200;
+  if (!body || body.trim().length < minBody) errors.push(`body is empty or too short to be a template (under ${minBody} characters)`);
 
   return { relPath, meta, body, errors, warnings };
 }
@@ -609,7 +610,7 @@ function newTemplate(args, taxonomy) {
     body = fs.readFileSync(from, 'utf8');
     const existing = parseFrontmatter(body);
     if (existing && !existing.error) body = existing.body; // strip any front-matter it already had
-    if (!/^#\s+\S/m.test(body)) body = `# ${args.title}\n\n${body}`;
+    // the body is the publisher's text as published: no title or anything else is added to it
   } else {
     body = [
       `# ${args.title}`,

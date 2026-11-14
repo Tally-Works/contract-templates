@@ -45,6 +45,15 @@ Where a template has been changed from the original, the change is described in 
 | [Bloomberg Beta Series Seed Stock Investment Agreement (US-DE)](templates/us/financing/investor-agreements/bloomberg-beta-series-seed-stock-investment-agreement--us-de.md) | CC-BY-3.0 | [link](https://github.com/Bloomberg-Beta/Investment-Documents) | 2026-11-14 |
 | [Bloomberg Beta Series Seed Term Sheet (US-DE)](templates/us/financing/investor-agreements/bloomberg-beta-series-seed-term-sheet--us-de.md) | CC-BY-3.0 | [link](https://github.com/Bloomberg-Beta/Investment-Documents) | 2026-11-14 |
 
+## [Blue Oak Council](https://blueoakcouncil.org/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Example Development Release Language (US)](templates/us/clauses/boilerplate/example-development-release-language.md) | CC0-1.0 | [link](https://blueoakcouncil.org/development-release) | 2026-11-14 |
+| [Example Software Release Grant Condition (US)](templates/us/clauses/boilerplate/example-software-release-grant-condition.md) | CC0-1.0 | [link](https://blueoakcouncil.org/grant-release) | 2026-11-14 |
+| [Starter Open Software Policy (US)](templates/us/clauses/boilerplate/starter-open-software-policy.md) | CC0-1.0 | [link](https://blueoakcouncil.org/starter-policy) | 2026-11-14 |
+| [Blue Oak Contributor License (US)](templates/us/technology/open-source/blue-oak-contributor-license.md) | Blue-Oak-Form-License | [link](https://blueoakcouncil.org/contributor/1.0.0) | 2026-11-14 |
+
 ## [Bonterms](https://bonterms.com/)
 
 | Template | Licence | Original | Retrieved |
@@ -71,6 +80,41 @@ Where a template has been changed from the original, the change is described in 
 | [Bonterms Software License Terms (US)](templates/us/technology/software-license/bonterms-software-license-terms.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/software-license-terms-v1) | 2026-11-14 |
 | [Bonterms Support Policy (US)](templates/us/technology/support-and-maintenance/bonterms-support-policy.md) | CC0-1.0 | [link](https://bonterms.com/resources/support-policy-version-1-0) | 2026-11-14 |
 
+## [Clef](https://github.com/clef/handbook/blob/master/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Continuing Education Policy (US)](templates/us/employment/compensation-and-benefits/continuing-education-policy.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md) | 2026-11-14 |
+| [Healthcare and Disability Insurance Policy (US)](templates/us/employment/compensation-and-benefits/healthcare-and-disability-insurance-policy.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md) | 2026-11-14 |
+| [Referral Bonus Policy (US)](templates/us/employment/compensation-and-benefits/referral-bonus-policy.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md) | 2026-11-14 |
+| [Sabbatical Policy (US)](templates/us/employment/compensation-and-benefits/sabbatical-policy.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md) | 2026-11-14 |
+| [Salary and Equity Compensation Policy (US)](templates/us/employment/compensation-and-benefits/salary-and-equity-compensation-policy.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Employment%20Policies/Salary%20and%20Equity%20Compensation.md) | 2026-11-14 |
+| [Employee Proprietary Information and Inventions Assignment Agreement (US-CA)](templates/us/employment/confidentiality-and-ip/employee-proprietary-information-and-inventions-assignment-agreement--us-ca.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md) | 2026-11-14 |
+| [Clef Offer Letter (US-CA)](templates/us/employment/offer-letters/clef-offer-letter--us-ca.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Clef%20Offer%20Letter.md) | 2026-11-14 |
+| [At-Will Employment Policy (US)](templates/us/employment/policies-and-handbooks/at-will-employment-policy.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md) | 2026-11-14 |
+| [Code of Conduct in the Community (US)](templates/us/employment/policies-and-handbooks/code-of-conduct-in-the-community.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md) | 2026-11-14 |
+| [Complaint Policy (US)](templates/us/employment/policies-and-handbooks/complaint-policy.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Employment%20Policies/Complaint%20Policy.md) | 2026-11-14 |
+| [Drug and Alcohol Policy (US)](templates/us/employment/policies-and-handbooks/drug-and-alcohol-policy.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md) | 2026-11-14 |
+| [Employee Privacy Policy (US)](templates/us/employment/policies-and-handbooks/employee-privacy-policy.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Employment%20Policies/Employee%20Privacy.md) | 2026-11-14 |
+| [Equal Opportunity Employment Policy (US)](templates/us/employment/policies-and-handbooks/equal-opportunity-employment-policy.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md) | 2026-11-14 |
+| [New Parent Leave Policy (US-CA)](templates/us/employment/policies-and-handbooks/new-parent-leave-policy--us-ca.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md) | 2026-11-14 |
+| [Other Protected Absences Policy (US-CA)](templates/us/employment/policies-and-handbooks/other-protected-absences-policy--us-ca.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md) | 2026-11-14 |
+| [Vacation and Sick Leave Policy (US-CA)](templates/us/employment/policies-and-handbooks/vacation-and-sick-leave-policy--us-ca.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md) | 2026-11-14 |
+| [Working Remotely Policy (US)](templates/us/employment/remote-and-hybrid-work/working-remotely-policy.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Employment%20Policies/Working%20Remotely.md) | 2026-11-14 |
+| [Acknowledgement of Receipt of Handbook Changes (US)](templates/us/employment/workplace-notices-and-forms/acknowledgement-of-receipt-of-handbook-changes.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Acknowledgement%20of%20Receipt%20of%20Changes.md) | 2026-11-14 |
+| [Handbook Acknowledgment of Receipt (US)](templates/us/employment/workplace-notices-and-forms/handbook-acknowledgment-of-receipt.md) | CC0-1.0 | [link](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md) | 2026-11-14 |
+
+## [CNCF](https://github.com/cncf/project-template/blob/main/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [CNCF Project Code of Conduct Template (US)](templates/us/technology/open-source/cncf-project-code-of-conduct-template.md) | Apache-2.0 | [link](https://github.com/cncf/project-template/blob/main/CODE_OF_CONDUCT.md) | 2026-11-14 |
+| [Contributor Ladder (US)](templates/us/technology/open-source/contributor-ladder.md) | Apache-2.0 | [link](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md) | 2026-11-14 |
+| [Open Source Project Governance (Elected Steering Committee) (US)](templates/us/technology/open-source/open-source-project-governance-elected-steering-committee.md) | Apache-2.0 | [link](https://github.com/cncf/project-template/blob/main/GOVERNANCE-elections.md) | 2026-11-14 |
+| [Open Source Project Governance (Maintainer Council) (US)](templates/us/technology/open-source/open-source-project-governance-maintainer-council.md) | Apache-2.0 | [link](https://github.com/cncf/project-template/blob/main/GOVERNANCE-maintainer.md) | 2026-11-14 |
+| [Open Source Project Governance (Organisation-Balanced Voting) (US)](templates/us/technology/open-source/open-source-project-governance-organisation-balanced-voting.md) | Apache-2.0 | [link](https://github.com/cncf/project-template/blob/main/GOVERNANCE-org-balanced-voting.md) | 2026-11-14 |
+| [Open Source Project Governance (Subprojects) (US)](templates/us/technology/open-source/open-source-project-governance-subprojects.md) | Apache-2.0 | [link](https://github.com/cncf/project-template/blob/main/GOVERNANCE-subprojects.md) | 2026-11-14 |
+
 ## [Common Paper](https://commonpaper.com/)
 
 | Template | Licence | Original | Retrieved |
@@ -95,6 +139,39 @@ Where a template has been changed from the original, the change is described in 
 | [Common Paper Order Form (US)](templates/us/technology/saas/common-paper-order-form.md) | CC-BY-4.0 | [link](https://commonpaper.com/documents/order-form/) | 2026-11-14 |
 | [Common Paper Pilot Agreement (US)](templates/us/technology/saas/common-paper-pilot-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/pilot-agreement/) | 2026-11-14 |
 | [Common Paper Software License Agreement (US)](templates/us/technology/software-license/common-paper-software-license-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/software-license-agreement/) | 2026-11-14 |
+
+## [Commonhaus Foundation](https://github.com/commonhaus/foundation/blob/main/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Asset Transfer Agreement Amendment (US-FL)](templates/us/commercial/amendments-and-extensions/asset-transfer-agreement-amendment--us-fl.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/asset-transfer-amendment.md) | 2026-11-14 |
+| [Fiscal Sponsorship Agreement Amendment (US-FL)](templates/us/commercial/amendments-and-extensions/fiscal-sponsorship-agreement-amendment--us-fl.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/fiscal-sponsorship-amendment.md) | 2026-11-14 |
+| [Antitrust Policy (US)](templates/us/corporate/bylaws-and-resolutions/antitrust-policy.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/policies/antitrust-policy.md) | 2026-11-14 |
+| [Conflict of Interest Policy (US)](templates/us/corporate/bylaws-and-resolutions/conflict-of-interest-policy.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/policies/conflict-of-interest.md) | 2026-11-14 |
+| [Asset Transfer Agreement (US-FL)](templates/us/intellectual-property/assignment/asset-transfer-agreement--us-fl.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/asset-transfer-agreement.md) | 2026-11-14 |
+| [Intellectual Property Policy (US)](templates/us/intellectual-property/licensing/intellectual-property-policy.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/policies/ip-policy.md) | 2026-11-14 |
+| [Trademark Guidelines (US)](templates/us/intellectual-property/trademark/trademark-guidelines.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/policies/trademark-guidelines.md) | 2026-11-14 |
+| [Trademark Policy (US)](templates/us/intellectual-property/trademark/trademark-policy.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/policies/trademark-policy.md) | 2026-11-14 |
+| [Foundation Sponsorship Agreement (US-FL)](templates/us/marketing-and-media/influencer-and-sponsorship/foundation-sponsorship-agreement--us-fl.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/agreements/sponsorship/sponsorship-agreement.md) | 2026-11-14 |
+| [Open Source Sponsorship Initiative Addendum (US-FL)](templates/us/marketing-and-media/influencer-and-sponsorship/open-source-sponsorship-initiative-addendum--us-fl.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/agreements/sponsorship/ossi-addendum.md) | 2026-11-14 |
+| [Fiscal Sponsorship Agreement (US-FL)](templates/us/partnerships/collaboration-and-mou/fiscal-sponsorship-agreement--us-fl.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/fiscal-sponsorship-agreement.md) | 2026-11-14 |
+| [Project Contribution Terms and Conditions (US-FL)](templates/us/partnerships/collaboration-and-mou/project-contribution-terms-and-conditions--us-fl.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/terms-and-conditions.md) | 2026-11-14 |
+| [Commonhaus Privacy Policy (US)](templates/us/privacy-and-data/privacy-policy/commonhaus-privacy-policy.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/policies/privacy-policy.md) | 2026-11-14 |
+| [Contributor License Agreement Template (US)](templates/us/technology/open-source/contributor-license-agreement-template.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/templates/CLA.md) | 2026-11-14 |
+| [Project Code of Conduct Template (US)](templates/us/technology/open-source/project-code-of-conduct-template.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/templates/CODE_OF_CONDUCT.md) | 2026-11-14 |
+| [Project Governance Template (US)](templates/us/technology/open-source/project-governance-template.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/templates/GOVERNANCE.md) | 2026-11-14 |
+
+## [confcodeofconduct.com](https://confcodeofconduct.com/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Conference Code of Conduct Template (US)](templates/us/marketing-and-media/events/conference-code-of-conduct-template.md) | CC-BY-3.0 | [link](https://confcodeofconduct.com/) | 2026-11-14 |
+
+## [Consumer Financial Protection Bureau](https://github.com/cfpb/debt-collection-files)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [CFPB Model Debt Collection Validation Notice (US)](templates/us/dispute-resolution/demand-letters/cfpb-model-debt-collection-validation-notice.md) | CC0-1.0 | [link](https://github.com/cfpb/debt-collection-files) | 2026-11-14 |
 
 ## [Cooley LLP (Series Seed fork)](https://github.com/CooleyLLP/)
 
@@ -122,6 +199,54 @@ Where a template has been changed from the original, the change is described in 
 | --- | --- | --- | --- |
 | [Basic Non-Disclosure Agreement (GB)](templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.md) | MIT | [link](https://github.com/documize/document-templates) | 2026-11-14 |
 | [Statement of Work (GB)](templates/gb/contractors/statement-of-work/statement-of-work.md) | MIT | [link](https://github.com/documize/document-templates) | 2026-11-14 |
+
+## [Dot Legal](https://github.com/dot-legal/reference/blob/main/v1/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Amendment Clause (CA)](templates/ca/clauses/boilerplate/amendment-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/amendment.md) | 2026-11-14 |
+| [Assignment Clause (CA)](templates/ca/clauses/boilerplate/assignment-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/assignment.md) | 2026-11-14 |
+| [Construction Of Terms Clause (CA)](templates/ca/clauses/boilerplate/construction-of-terms-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/construction-of-terms.md) | 2026-11-14 |
+| [Counterparts Clause (CA)](templates/ca/clauses/boilerplate/counterparts-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/counterparts.md) | 2026-11-14 |
+| [Cumulative Remedies Clause (CA)](templates/ca/clauses/boilerplate/cumulative-remedies-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/cumulative-remedies.md) | 2026-11-14 |
+| [Entire Agreement Clause (CA)](templates/ca/clauses/boilerplate/entire-agreement-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/entire-agreement.md) | 2026-11-14 |
+| [Enurement Clause (CA)](templates/ca/clauses/boilerplate/enurement-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/enurement.md) | 2026-11-14 |
+| [Force Majeure Clause (CA)](templates/ca/clauses/boilerplate/force-majeure-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/force-majeure.md) | 2026-11-14 |
+| [Further Assurances Clause (CA)](templates/ca/clauses/boilerplate/further-assurances-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/further-assurances.md) | 2026-11-14 |
+| [Good Faith Clause (CA)](templates/ca/clauses/boilerplate/good-faith-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/good-faith.md) | 2026-11-14 |
+| [Headings Clause (CA)](templates/ca/clauses/boilerplate/headings-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/headings.md) | 2026-11-14 |
+| [No Joint Venture Clause (CA)](templates/ca/clauses/boilerplate/no-joint-venture-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/no-joint-venture.md) | 2026-11-14 |
+| [No Waiver Clause (CA)](templates/ca/clauses/boilerplate/no-waiver-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/no-waiver.md) | 2026-11-14 |
+| [Notices Clause (CA)](templates/ca/clauses/boilerplate/notices-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/notices.md) | 2026-11-14 |
+| [Severability Clause (CA)](templates/ca/clauses/boilerplate/severability-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/general/severability.md) | 2026-11-14 |
+| [Definition of Confidential Information Clause (CA)](templates/ca/clauses/definitions/definition-of-confidential-information-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/confidentiality/definition-confidential-information.md) | 2026-11-14 |
+| [Definition of Discloser and Recipient (Mutual) Clause (CA)](templates/ca/clauses/definitions/definition-of-discloser-and-recipient-mutual-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/confidentiality/definition-discloser-recipient-mutual.md) | 2026-11-14 |
+| [Permitted Disclosures to Representatives Clause (CA)](templates/ca/clauses/definitions/permitted-disclosures-to-representatives-clause.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/provisions/confidentiality/permitted-disclosures-representatives.md) | 2026-11-14 |
+| [Amendment Agreement (Dot Legal form) (CA)](templates/ca/commercial/amendments-and-extensions/amendment-agreement-dot-legal-form.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/forms/general/amendment.md) | 2026-11-14 |
+| [Mutual Non-Disclosure Agreement (Dot Legal form) (CA)](templates/ca/confidentiality/mutual-nda/mutual-non-disclosure-agreement-dot-legal-form.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/forms/confidentiality/mutual-non-disclosure.md) | 2026-11-14 |
+| [Unilateral Non-Disclosure Agreement (Dot Legal form) (CA)](templates/ca/confidentiality/unilateral-nda/unilateral-non-disclosure-agreement-dot-legal-form.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/forms/confidentiality/unilateral-non-disclosure.md) | 2026-11-14 |
+| [Contractor Work-for-Hire Agreement (CA)](templates/ca/contractors/independent-contractor/contractor-work-for-hire-agreement.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/forms/employment/contractor-work-for-hire.md) | 2026-11-14 |
+| [Privacy Policy (Dot Legal form) (CA)](templates/ca/privacy-and-data/privacy-policy/privacy-policy-dot-legal-form.md) | Apache-2.0 | [link](https://github.com/dot-legal/reference/blob/main/v1/forms/privacy/privacy-policy.md) | 2026-11-14 |
+
+## [Electronic Frontier Foundation](https://www.eff.org/policy)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [EFF Privacy Policy (US)](templates/us/privacy-and-data/privacy-policy/eff-privacy-policy.md) | CC-BY-4.0 | [link](https://www.eff.org/policy) | 2026-11-14 |
+
+## [Erich Dylus](https://github.com/ErichDylus/Open-Source-Legal-Engineering/blob/main/forms/legal/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Notice of Termination (US)](templates/us/commercial/amendments-and-extensions/notice-of-termination.md) | MIT | [link](https://github.com/ErichDylus/Open-Source-Legal-Engineering/blob/main/forms/legal/Notice%20of%20Termination.md) | 2026-11-14 |
+| [Non-Disclosure Agreement (Erich Dylus form) (US)](templates/us/confidentiality/mutual-nda/non-disclosure-agreement-erich-dylus-form.md) | MIT | [link](https://github.com/ErichDylus/Open-Source-Legal-Engineering/blob/main/forms/legal/NDA.md) | 2026-11-14 |
+| [Delaware Master LLC Certificate of Formation (US-DE)](templates/us/corporate/formation/delaware-master-llc-certificate-of-formation--us-de.md) | MIT | [link](https://github.com/ErichDylus/Open-Source-Legal-Engineering/blob/main/forms/legal/DE%20Master%20LLC%20Certificate%20of%20Formation.md) | 2026-11-14 |
+| [Single Member LLC Checklist (US)](templates/us/corporate/formation/single-member-llc-checklist.md) | MIT | [link](https://github.com/ErichDylus/Open-Source-Legal-Engineering/blob/main/forms/legal/SMLLC%20Checklist.md) | 2026-11-14 |
+| [Unincorporated Nonprofit Association Charter (US-DC)](templates/us/corporate/formation/unincorporated-nonprofit-association-charter--us-dc.md) | MIT | [link](https://github.com/ErichDylus/Open-Source-Legal-Engineering/blob/main/forms/legal/Unincorporated%20Nonprofit%20Association%20Charter%20Form%20(DC).md) | 2026-11-14 |
+| [Delaware Master LLC Operating Agreement (US-DE)](templates/us/corporate/shareholders-and-operating/delaware-master-llc-operating-agreement--us-de.md) | MIT | [link](https://github.com/ErichDylus/Open-Source-Legal-Engineering/blob/main/forms/legal/DE%20Master%20LLC%20Operating%20Agreement.md) | 2026-11-14 |
+| [Delaware Series LLC Operating Agreement (US-DE)](templates/us/corporate/shareholders-and-operating/delaware-series-llc-operating-agreement--us-de.md) | MIT | [link](https://github.com/ErichDylus/Open-Source-Legal-Engineering/blob/main/forms/legal/DE%20Series%20LLC%20Operating%20Agreement.md) | 2026-11-14 |
+| [Single Member LLC Operating Agreement (US-DE)](templates/us/corporate/shareholders-and-operating/single-member-llc-operating-agreement--us-de.md) | MIT | [link](https://github.com/ErichDylus/Open-Source-Legal-Engineering/blob/main/forms/legal/Single%20Member%20LLC%20Operating%20Agreement.md) | 2026-11-14 |
+| [Grant Agreement (DAO) (US)](templates/us/partnerships/collaboration-and-mou/grant-agreement-dao.md) | MIT | [link](https://github.com/ErichDylus/Open-Source-Legal-Engineering/blob/main/forms/legal/Grant%20Agreement%20(DAO).md) | 2026-11-14 |
 
 ## [General Legal](https://general.legal/library/)
 
@@ -180,6 +305,13 @@ Where a template has been changed from the original, the change is described in 
 | [GitHub Terms of Service (US)](templates/us/privacy-and-data/website-terms/github-terms-of-service.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-terms-of-service.md) | 2026-11-14 |
 | [GitHub Marketplace Developer Agreement (US)](templates/us/technology/api-terms/github-marketplace-developer-agreement.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-marketplace-developer-agreement.md) | 2026-11-14 |
 | [GitHub Open Source Applications Terms and Conditions (US)](templates/us/technology/eula/github-open-source-applications-terms-and-conditions.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-open-source-applications-terms-and-conditions.md) | 2026-11-14 |
+| [MVG Antitrust Policy (US)](templates/us/technology/open-source/mvg-antitrust-policy.md) | CC-BY-4.0 | [link](https://github.com/github/MVG/blob/main/org-docs/ANTITRUST.md) | 2026-11-14 |
+| [MVG Code of Conduct (US)](templates/us/technology/open-source/mvg-code-of-conduct.md) | CC-BY-4.0 | [link](https://github.com/github/MVG/blob/main/org-docs/CODE-OF-CONDUCT.md) | 2026-11-14 |
+| [MVG Maintainers (US)](templates/us/technology/open-source/mvg-maintainers.md) | CC-BY-4.0 | [link](https://github.com/github/MVG/blob/main/project-docs/MAINTAINERS.md) | 2026-11-14 |
+| [MVG Organisation Charter (US)](templates/us/technology/open-source/mvg-organisation-charter.md) | CC-BY-4.0 | [link](https://github.com/github/MVG/blob/main/org-docs/CHARTER.md) | 2026-11-14 |
+| [MVG Project Governance (US)](templates/us/technology/open-source/mvg-project-governance.md) | CC-BY-4.0 | [link](https://github.com/github/MVG/blob/main/project-docs/GOVERNANCE.md) | 2026-11-14 |
+| [MVG Steering Committee (US)](templates/us/technology/open-source/mvg-steering-committee.md) | CC-BY-4.0 | [link](https://github.com/github/MVG/blob/main/org-docs/STEERING-COMMITTEE.md) | 2026-11-14 |
+| [MVG Trademark Policy (US)](templates/us/technology/open-source/mvg-trademark-policy.md) | CC-BY-4.0 | [link](https://github.com/github/MVG/blob/main/org-docs/TRADEMARKS.md) | 2026-11-14 |
 | [GitHub Educational Use Agreement (US)](templates/us/technology/saas/github-educational-use-agreement.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-educational-use-agreement.md) | 2026-11-14 |
 | [Bug Bounty Program Legal Safe Harbor (US)](templates/us/technology/security-and-disclosure/bug-bounty-program-legal-safe-harbor.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/security-policies/github-bug-bounty-program-legal-safe-harbor.md) | 2026-11-14 |
 | [Coordinated Disclosure of Security Vulnerabilities (US)](templates/us/technology/security-and-disclosure/coordinated-disclosure-of-security-vulnerabilities.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/security-policies/coordinated-disclosure-of-security-vulnerabilities.md) | 2026-11-14 |
@@ -191,6 +323,64 @@ Where a template has been changed from the original, the change is described in 
 | --- | --- | --- | --- |
 | [Switchmode Developer Agreement (US)](templates/us/contractors/independent-contractor/switchmode-developer-agreement.md) | Mitchell-Law-Form-1.1 | [link](https://github.com/kemitchell/switchmode) | 2026-11-14 |
 | [Slipstream Software Service Terms (US)](templates/us/technology/saas/slipstream-software-service-terms.md) | Mitchell-Law-Form-1.1 | [link](https://github.com/kemitchell/slipstream) | 2026-11-14 |
+
+## [Kyle E. Mitchell (Waypoint NDA project)](https://waypointnda.com)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [The Waypoint NDA (long-form, US)](templates/us/confidentiality/mutual-nda/the-waypoint-nda--long-form.md) | Waypoint-NDA-License | [link](https://waypointnda.com) | 2026-11-14 |
+| [The Waypoint NDA (short-form, US)](templates/us/confidentiality/mutual-nda/the-waypoint-nda--short-form.md) | Waypoint-NDA-License | [link](https://waypointnda.com) | 2026-11-14 |
+| [The Guestbook NDA (long-form, US)](templates/us/confidentiality/unilateral-nda/the-guestbook-nda--long-form.md) | Guestbook-NDA-License | [link](https://guestbooknda.com) | 2026-11-14 |
+| [The Guestbook NDA (short-form, US)](templates/us/confidentiality/unilateral-nda/the-guestbook-nda--short-form.md) | Guestbook-NDA-License | [link](https://guestbooknda.com) | 2026-11-14 |
+
+## [Microsoft](https://github.com/microsoft/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Computational Use of Data Agreement 1.0 (Annotated) (INTL)](templates/intl/intellectual-property/licensing/computational-use-of-data-agreement-1-0-annotated.md) | CC0-1.0 | [link](https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/main/C-UDA-1.0_annotated.md) | 2026-11-14 |
+| [Computational Use of Data Agreement 1.0 (INTL)](templates/intl/intellectual-property/licensing/computational-use-of-data-agreement-1-0.md) | CC0-1.0 | [link](https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/main/C-UDA-1.0.md) | 2026-11-14 |
+| [Open Use of Data Agreement 1.0 (Annotated) (INTL)](templates/intl/intellectual-property/licensing/open-use-of-data-agreement-1-0-annotated.md) | CC0-1.0 | [link](https://github.com/microsoft/Open-Use-of-Data-Agreement/blob/main/O-UDA-1.0_annotated.md) | 2026-11-14 |
+| [Open Use of Data Agreement 1.0 (INTL)](templates/intl/intellectual-property/licensing/open-use-of-data-agreement-1-0.md) | CC0-1.0 | [link](https://github.com/microsoft/Open-Use-of-Data-Agreement/blob/main/O-UDA-1.0.md) | 2026-11-14 |
+
+## [National Institutes of Health (Office of Technology Transfer)](https://www.techtransfer.nih.gov/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [NIH License Agreement Amendment (US)](templates/us/commercial/amendments-and-extensions/nih-license-agreement-amendment.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Confidential Disclosure Agreement (US)](templates/us/confidentiality/unilateral-nda/nih-confidential-disclosure-agreement.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Biological Materials Internal Use License Agreement (US)](templates/us/intellectual-property/licensing/nih-biological-materials-internal-use-license-agreement.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Biological Materials License Agreement (US)](templates/us/intellectual-property/licensing/nih-biological-materials-license-agreement.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Commercial Evaluation and Biological Materials Internal Use Combination Agreement (US)](templates/us/intellectual-property/licensing/nih-commercial-evaluation-and-biological-materials-internal-use-combination-agreement.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Commercial Evaluation License Agreement (US)](templates/us/intellectual-property/licensing/nih-commercial-evaluation-license-agreement.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Material Transfer Agreement for Human Materials (US)](templates/us/intellectual-property/licensing/nih-material-transfer-agreement-for-human-materials.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Material Transfer Agreement for the Transfer of Organisms (US)](templates/us/intellectual-property/licensing/nih-material-transfer-agreement-for-the-transfer-of-organisms.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NCI Start-Up License Agreement 3.0 (US)](templates/us/intellectual-property/patent/nci-start-up-license-agreement-3-0.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Exclusive Patent License Agreement (US)](templates/us/intellectual-property/patent/nih-exclusive-patent-license-agreement.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Internal Research Use Patent License Agreement (US)](templates/us/intellectual-property/patent/nih-internal-research-use-patent-license-agreement.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Non-Exclusive Patent License Agreement (US)](templates/us/intellectual-property/patent/nih-non-exclusive-patent-license-agreement.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Non-Exclusive Sublicense Patent License Agreement (US)](templates/us/intellectual-property/patent/nih-non-exclusive-sublicense-patent-license-agreement.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [Model NIH Materials CRADA (US)](templates/us/partnerships/collaboration-and-mou/model-nih-materials-crada.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [Model PHS Cooperative Research and Development Agreement (US)](templates/us/partnerships/collaboration-and-mou/model-phs-cooperative-research-and-development-agreement.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [Model PHS CRADA for Extramural Clinical Research (US)](templates/us/partnerships/collaboration-and-mou/model-phs-crada-for-extramural-clinical-research.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Inter-Institutional Agreement (Institution Lead) (US)](templates/us/partnerships/collaboration-and-mou/nih-inter-institutional-agreement-institution-lead.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Inter-Institutional Agreement (NIH Lead) (US)](templates/us/partnerships/collaboration-and-mou/nih-inter-institutional-agreement-nih-lead.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Patent Cost Sharing Agreement (US)](templates/us/partnerships/collaboration-and-mou/nih-patent-cost-sharing-agreement.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+| [NIH Software Internal Use Non-Exclusive License Agreement (US)](templates/us/technology/software-license/nih-software-internal-use-non-exclusive-license-agreement.md) | Public-Domain | [link](https://www.techtransfer.nih.gov/resources) | 2026-11-14 |
+
+## [NEAR Foundation](https://github.com/near/NFlegal/blob/main/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [NEAR Foundation Template Mutual NDA (INTL)](templates/intl/confidentiality/mutual-nda/near-foundation-template-mutual-nda.md) | CC0-1.0 | [link](https://github.com/near/NFlegal/blob/main/Template%20%20MNDA_Github%20Repo%20.docx.md) | 2026-11-14 |
+| [NEAR Foundation Template Cookie Policy (INTL)](templates/intl/privacy-and-data/cookie-policy/near-foundation-template-cookie-policy.md) | CC0-1.0 | [link](https://github.com/near/NFlegal/blob/main/Template%20Cookie%20Policy%20Github%20repo.docx.md) | 2026-11-14 |
+| [NEAR Foundation Template Privacy Policy (INTL)](templates/intl/privacy-and-data/privacy-policy/near-foundation-template-privacy-policy.md) | CC0-1.0 | [link](https://github.com/near/NFlegal/blob/main/Template%20Privacy%20Policy_Github%20Repo.md) | 2026-11-14 |
+| [NEAR Foundation Template Website Terms of Use (INTL)](templates/intl/privacy-and-data/website-terms/near-foundation-template-website-terms-of-use.md) | CC0-1.0 | [link](https://github.com/near/NFlegal/blob/main/Template%20Website%20Terms%20of%20Use(Non-DeFi)_Github%20Repo.md) | 2026-11-14 |
+
+## [Open Education Network](https://open.umn.edu/oen/blog/adaptable-open-educational-resources-publishing-agreement)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Adaptable Open Educational Resources Publishing Agreement (US)](templates/us/intellectual-property/copyright-and-content/adaptable-open-educational-resources-publishing-agreement.md) | CC-BY-4.0 | [link](https://open.umn.edu/oen/blog/adaptable-open-educational-resources-publishing-agreement) | 2026-11-14 |
 
 ## [OpenAgreements](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-consent-safe)
 
@@ -283,6 +473,48 @@ Where a template has been changed from the original, the change is described in 
 | [Hedge Fund Limited Partnership Agreement (US-DE)](templates/us/partnerships/general-partnership/hedge-fund-limited-partnership-agreement--us-de.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-limited-partnership-agreement) | 2026-11-14 |
 | [Privacy Policy (short-form, US)](templates/us/privacy-and-data/privacy-policy/privacy-policy--short-form.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-privacy-policy) | 2026-11-14 |
 
+## [Organization for Ethical Source (Contributor Covenant)](https://github.com/EthicalSource/contributor_covenant/blob/2.1/content/version/2/1/code_of_conduct.md)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Contributor Covenant Code of Conduct 2.1 (INTL)](templates/intl/technology/open-source/contributor-covenant-code-of-conduct-2-1.md) | CC-BY-4.0 | [link](https://github.com/EthicalSource/contributor_covenant/blob/2.1/content/version/2/1/code_of_conduct.md) | 2026-11-14 |
+
+## [Osio Labs](https://github.com/OsioLabs/emphandbook/blob/master/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Pay Policy (US)](templates/us/employment/compensation-and-benefits/pay-policy.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/03benefits/01pay.md) | 2026-11-14 |
+| [Confidentiality Policy (US)](templates/us/employment/confidentiality-and-ip/confidentiality-policy.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/05emp_status/06confidentiality.md) | 2026-11-14 |
+| [Anti-Harassment Policy (US)](templates/us/employment/policies-and-handbooks/anti-harassment-policy.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/03harassment.md) | 2026-11-14 |
+| [Complaint Procedure (US)](templates/us/employment/policies-and-handbooks/complaint-procedure.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/04complaints.md) | 2026-11-14 |
+| [Disciplinary Policy (US)](templates/us/employment/policies-and-handbooks/disciplinary-policy.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/05disciplinary.md) | 2026-11-14 |
+| [Diversity Policy (US)](templates/us/employment/policies-and-handbooks/diversity-policy.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/02diversity.md) | 2026-11-14 |
+| [Equal Employment Opportunity Policy (US)](templates/us/employment/policies-and-handbooks/equal-employment-opportunity-policy.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/05emp_status/02eeo.md) | 2026-11-14 |
+| [Immigration Law Compliance Policy (US)](templates/us/employment/policies-and-handbooks/immigration-law-compliance-policy.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/05emp_status/03immigration.md) | 2026-11-14 |
+| [Leave Policy (US)](templates/us/employment/policies-and-handbooks/leave-policy.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/03benefits/02leave.md) | 2026-11-14 |
+| [Nature of Employment Policy (US)](templates/us/employment/policies-and-handbooks/nature-of-employment-policy.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/05emp_status/01nature_of_emp.md) | 2026-11-14 |
+| [Personnel Data Policy (US)](templates/us/employment/policies-and-handbooks/personnel-data-policy.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/05emp_status/05personnel_data.md) | 2026-11-14 |
+| [Standards of Conduct (US)](templates/us/employment/policies-and-handbooks/standards-of-conduct.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/01standards.md) | 2026-11-14 |
+| [Whistleblower Policy (US)](templates/us/employment/policies-and-handbooks/whistleblower-policy.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/06whistleblower.md) | 2026-11-14 |
+| [Termination Policy (US)](templates/us/employment/separation-and-termination/termination-policy.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/05emp_status/04termination.md) | 2026-11-14 |
+| [Employee Handbook Acknowledgement (US)](templates/us/employment/workplace-notices-and-forms/employee-handbook-acknowledgement.md) | CC0-1.0 | [link](https://github.com/OsioLabs/emphandbook/blob/master/acknowledgement.md) | 2026-11-14 |
+
+## [PandaDoc](https://github.com/PandaDoc/property-agreement-templates/blob/main/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Commercial Lease Agreement (US)](templates/us/real-estate/commercial-lease/commercial-lease-agreement.md) | MIT | [link](https://github.com/PandaDoc/property-agreement-templates/blob/main/templates/commercial-lease-agreement.md) | 2026-11-14 |
+| [Property Management Agreement (US)](templates/us/real-estate/property-management/property-management-agreement.md) | MIT | [link](https://github.com/PandaDoc/property-agreement-templates/blob/main/templates/property-management-agreement.md) | 2026-11-14 |
+| [30-Day Notice to Landlord (US)](templates/us/real-estate/residential-lease/30-day-notice-to-landlord.md) | MIT | [link](https://github.com/PandaDoc/property-agreement-templates/blob/main/templates/30-day-notice-to-landlord.md) | 2026-11-14 |
+| [Landlord Pre-Lease Checklist (US)](templates/us/real-estate/residential-lease/landlord-pre-lease-checklist.md) | MIT | [link](https://github.com/PandaDoc/property-agreement-templates/blob/main/checklists/landlord-pre-lease-checklist.md) | 2026-11-14 |
+| [Lease Signing Checklist (US)](templates/us/real-estate/residential-lease/lease-signing-checklist.md) | MIT | [link](https://github.com/PandaDoc/property-agreement-templates/blob/main/checklists/lease-signing-checklist.md) | 2026-11-14 |
+| [Month-to-Month Rental Agreement (US)](templates/us/real-estate/residential-lease/month-to-month-rental-agreement.md) | MIT | [link](https://github.com/PandaDoc/property-agreement-templates/blob/main/templates/month-to-month-rental-agreement.md) | 2026-11-14 |
+| [Notice to Vacate (US)](templates/us/real-estate/residential-lease/notice-to-vacate.md) | MIT | [link](https://github.com/PandaDoc/property-agreement-templates/blob/main/templates/notice-to-vacate.md) | 2026-11-14 |
+| [Rental Application (US)](templates/us/real-estate/residential-lease/rental-application.md) | MIT | [link](https://github.com/PandaDoc/property-agreement-templates/blob/main/templates/rental-application.md) | 2026-11-14 |
+| [Residential Lease Agreement (US)](templates/us/real-estate/residential-lease/residential-lease-agreement.md) | MIT | [link](https://github.com/PandaDoc/property-agreement-templates/blob/main/templates/residential-lease-agreement.md) | 2026-11-14 |
+| [Room Rental Agreement (US)](templates/us/real-estate/residential-lease/room-rental-agreement.md) | MIT | [link](https://github.com/PandaDoc/property-agreement-templates/blob/main/templates/room-rental-agreement.md) | 2026-11-14 |
+| [Sublease Agreement (US)](templates/us/real-estate/sublease-and-assignment/sublease-agreement.md) | MIT | [link](https://github.com/PandaDoc/property-agreement-templates/blob/main/templates/sublease-agreement.md) | 2026-11-14 |
+
 ## [Papertrail](https://github.com/papertrail/legal-docs/blob/master/)
 
 | Template | Licence | Original | Retrieved |
@@ -290,6 +522,20 @@ Where a template has been changed from the original, the change is described in 
 | [Confidentiality Agreement (short-form, US)](templates/us/confidentiality/mutual-nda/confidentiality-agreement--short-form.md) | CC0-1.0 | [link](https://github.com/papertrail/legal-docs/blob/master/nda-short-individual-or-corporate.md) | 2026-11-14 |
 | [Confidentiality and Non-Disclosure Agreement (long-form, US)](templates/us/confidentiality/unilateral-nda/confidentiality-and-non-disclosure-agreement--long-form.md) | CC0-1.0 | [link](https://github.com/papertrail/legal-docs/blob/master/nda-long-corporate.md) | 2026-11-14 |
 | [Employee Confidentiality and Non-Disclosure Agreement (US)](templates/us/employment/confidentiality-and-ip/employee-confidentiality-and-non-disclosure-agreement.md) | CC0-1.0 | [link](https://github.com/papertrail/legal-docs/blob/master/employee-nda.md) | 2026-11-14 |
+
+## [Project Harmony](https://harmonyagreements.org/docs/ha-combined-v1)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Harmony Contributor Agreements (Combined Template) (INTL)](templates/intl/technology/open-source/harmony-contributor-agreements-combined-template.md) | CC-BY-3.0 | [link](https://harmonyagreements.org/docs/ha-combined-v1) | 2026-11-14 |
+
+## [Python Software Foundation (PyCon US)](https://github.com/python/pycon-code-of-conduct/blob/master/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [PyCon US Attendee Procedure for Incident Handling (US)](templates/us/marketing-and-media/events/pycon-us-attendee-procedure-for-incident-handling.md) | CC-BY-3.0 | [link](https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md) | 2026-11-14 |
+| [PyCon US Code of Conduct (US)](templates/us/marketing-and-media/events/pycon-us-code-of-conduct.md) | CC-BY-3.0 | [link](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md) | 2026-11-14 |
+| [PyCon US Staff Procedure for Incident Handling (US)](templates/us/marketing-and-media/events/pycon-us-staff-procedure-for-incident-handling.md) | CC-BY-3.0 | [link](https://github.com/python/pycon-code-of-conduct/blob/master/Staff%20Procedure%20for%20incident%20handling.md) | 2026-11-14 |
 
 ## [Series Seed](https://github.com/seriesseed/)
 
@@ -305,12 +551,120 @@ Where a template has been changed from the original, the change is described in 
 | --- | --- | --- | --- |
 | [Employment Agreement (US)](templates/us/employment/employment-agreements/employment-agreement.md) | CC-BY-4.0 | [link](https://github.com/skala-io/employment-agreement) | 2026-11-14 |
 
-## [U.S. Department of Labor](https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/laws/cobra/)
+## [Sourcegraph](https://github.com/sourcegraph/handbook/blob/main/content/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Contract Review and Signature Authority Policy (US)](templates/us/corporate/bylaws-and-resolutions/contract-review-and-signature-authority-policy.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/departments/legal/process/ContractReviewandSignatureAuthorityPolicy.md) | 2026-11-14 |
+| [Respectful Workplace Policy (US)](templates/us/employment/policies-and-handbooks/respectful-workplace-policy.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/company-info-and-process/respectful-workplace-policy.md) | 2026-11-14 |
+| [Sourcegraph Contributor License Agreement (US)](templates/us/technology/open-source/sourcegraph-contributor-license-agreement.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/departments/engineering/dev/process/contributor-license-agreement.md) | 2026-11-14 |
+| [Access Control Policy (US)](templates/us/technology/security-and-disclosure/access-control-policy.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/company-info-and-process/policies/access-control-policy.md) | 2026-11-14 |
+| [Asset Management Policy (US)](templates/us/technology/security-and-disclosure/asset-management-policy.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/company-info-and-process/policies/asset-management-policy.md) | 2026-11-14 |
+| [Business Continuity Policy (US)](templates/us/technology/security-and-disclosure/business-continuity-policy.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/company-info-and-process/policies/business-continuity-policy.md) | 2026-11-14 |
+| [Cloud Security Policy (US)](templates/us/technology/security-and-disclosure/cloud-security-policy.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/company-info-and-process/policies/cloud-security-policy.md) | 2026-11-14 |
+| [Data Management Policy (US)](templates/us/technology/security-and-disclosure/data-management-policy.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/company-info-and-process/policies/data-management-policy.md) | 2026-11-14 |
+| [Information Security Policy (US)](templates/us/technology/security-and-disclosure/information-security-policy.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/company-info-and-process/policies/information-security-policy.md) | 2026-11-14 |
+| [Information Security Risk Management Policy (US)](templates/us/technology/security-and-disclosure/information-security-risk-management-policy.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/company-info-and-process/policies/information-security-risk-management-policy.md) | 2026-11-14 |
+| [Secure Development Policy (US)](templates/us/technology/security-and-disclosure/secure-development-policy.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/company-info-and-process/policies/secure-development-policy.md) | 2026-11-14 |
+| [Sourcegraph Acceptable Use Policy (US)](templates/us/technology/security-and-disclosure/sourcegraph-acceptable-use-policy.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/company-info-and-process/policies/acceptable-use-policy.md) | 2026-11-14 |
+| [Third-Party Management Policy (US)](templates/us/technology/security-and-disclosure/third-party-management-policy.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/company-info-and-process/policies/third-party-management-policy.md) | 2026-11-14 |
+| [Vulnerability Management Policy (US)](templates/us/technology/security-and-disclosure/vulnerability-management-policy.md) | Apache-2.0 | [link](https://github.com/sourcegraph/handbook/blob/main/content/departments/engineering/dev/policies/vulnerability-management-policy.md) | 2026-11-14 |
+
+## [Sparksuite](https://github.com/sparksuite/employee-handbook/blob/master/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [New Parent Leave (US)](templates/us/employment/compensation-and-benefits/new-parent-leave.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/benefits/new-parent-leave.html) | 2026-11-14 |
+| [Observed Holidays (US)](templates/us/employment/compensation-and-benefits/observed-holidays.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/benefits/observed-holidays.html) | 2026-11-14 |
+| [Paid Time Off (US)](templates/us/employment/compensation-and-benefits/paid-time-off.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/benefits/paid-time-off.html) | 2026-11-14 |
+| [Payroll Information (US)](templates/us/employment/compensation-and-benefits/payroll-information.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/payroll-information.html) | 2026-11-14 |
+| [Proprietary Information and Inventions Assignment Agreement (US)](templates/us/employment/confidentiality-and-ip/proprietary-information-and-inventions-assignment-agreement.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/piiaa.html) | 2026-11-14 |
+| [At-Will Employment (US)](templates/us/employment/policies-and-handbooks/at-will-employment.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/at-will-employment.html) | 2026-11-14 |
+| [Dress Code Policy (US)](templates/us/employment/policies-and-handbooks/dress-code-policy.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/dress-code.html) | 2026-11-14 |
+| [Drugs, Alcohol and Weapons Policy (US)](templates/us/employment/policies-and-handbooks/drugs-alcohol-and-weapons-policy.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/drugs-alcohol-and-weapons.html) | 2026-11-14 |
+| [Employee Code of Conduct (US)](templates/us/employment/policies-and-handbooks/employee-code-of-conduct.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/code-of-conduct.html) | 2026-11-14 |
+| [Employee Privacy (US)](templates/us/employment/policies-and-handbooks/employee-privacy.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/employee-privacy.html) | 2026-11-14 |
+| [Equal Opportunity Policy (US)](templates/us/employment/policies-and-handbooks/equal-opportunity-policy.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/equal-opportunity.html) | 2026-11-14 |
+| [Flexible Working Hours (US)](templates/us/employment/policies-and-handbooks/flexible-working-hours.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/benefits/flexible-working-hours.html) | 2026-11-14 |
+| [Lunch Breaks Policy (US)](templates/us/employment/policies-and-handbooks/lunch-breaks-policy.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/lunch-breaks.html) | 2026-11-14 |
+| [Office Closures Policy (US)](templates/us/employment/policies-and-handbooks/office-closures-policy.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/office-closures.html) | 2026-11-14 |
+| [Sick Policy (US)](templates/us/employment/policies-and-handbooks/sick-policy.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/sick-policy.html) | 2026-11-14 |
+| [Unpaid Time Off Policy (US)](templates/us/employment/policies-and-handbooks/unpaid-time-off-policy.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/unpaid-time-off.html) | 2026-11-14 |
+| [Flexible Remote Work (US)](templates/us/employment/remote-and-hybrid-work/flexible-remote-work.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/benefits/flexible-remote-work.html) | 2026-11-14 |
+| [Handbook Acknowledgement (US)](templates/us/employment/workplace-notices-and-forms/handbook-acknowledgement.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/handbook-acknowledgement.html) | 2026-11-14 |
+
+## [Tailscale](https://github.com/tailscale/terms-and-conditions/blob/main/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Tailscale Channel Partner Agreement (INTL)](templates/intl/commercial/distribution-and-reseller/tailscale-channel-partner-agreement.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/channel-partner-agreement/index.md) | 2026-11-14 |
+| [Tailscale Conference Refund Policy (INTL)](templates/intl/marketing-and-media/events/tailscale-conference-refund-policy.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/conference-refund-policy/index.md) | 2026-11-14 |
+| [Tailscale Acceptable Use Policy (INTL)](templates/intl/privacy-and-data/acceptable-use/tailscale-acceptable-use-policy.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/tailscale-aup/index.md) | 2026-11-14 |
+| [Tailscale Code of Conduct (INTL)](templates/intl/privacy-and-data/acceptable-use/tailscale-code-of-conduct.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/code-of-conduct/index.md) | 2026-11-14 |
+| [Tailscale Cookie Notice (INTL)](templates/intl/privacy-and-data/cookie-policy/tailscale-cookie-notice.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/cookie-notice/index.md) | 2026-11-14 |
+| [Tailscale Data Processing Addendum (INTL)](templates/intl/privacy-and-data/data-processing/tailscale-data-processing-addendum.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/dpa/index.md) | 2026-11-14 |
+| [Tailscale DORA Addendum (INTL)](templates/intl/privacy-and-data/data-processing/tailscale-dora-addendum.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/dora-addendum/index.md) | 2026-11-14 |
+| [Tailscale Subprocessors List (INTL)](templates/intl/privacy-and-data/data-processing/tailscale-subprocessors-list.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/dpa-subprocessors/index.md) | 2026-11-14 |
+| [Tailscale Google Workspace Limited Use Disclosure (INTL)](templates/intl/privacy-and-data/privacy-policy/tailscale-google-workspace-limited-use-disclosure.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/google-workspace-limited-use/index.md) | 2026-11-14 |
+| [Tailscale Privacy Policy (INTL)](templates/intl/privacy-and-data/privacy-policy/tailscale-privacy-policy.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/privacy-policy/index.md) | 2026-11-14 |
+| [Tailscale Digital Services Act Notice (INTL)](templates/intl/privacy-and-data/website-terms/tailscale-digital-services-act-notice.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/dsa-notice/index.md) | 2026-11-14 |
+| [Tailscale Terms of Service (INTL)](templates/intl/privacy-and-data/website-terms/tailscale-terms-of-service.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/terms/index.md) | 2026-11-14 |
+| [Tailscale Service Level Agreement (INTL)](templates/intl/technology/hosting-and-cloud/tailscale-service-level-agreement.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/sla/index.md) | 2026-11-14 |
+| [Tailscale Free Trial Offer Terms (INTL)](templates/intl/technology/saas/tailscale-free-trial-offer-terms.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/free-trial-offer-terms/index.md) | 2026-11-14 |
+| [Tailscale Main Service Agreement (INTL)](templates/intl/technology/saas/tailscale-main-service-agreement.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/msa/index.md) | 2026-11-14 |
+| [Tailscale Privileged Access Management Terms (INTL)](templates/intl/technology/saas/tailscale-privileged-access-management-terms.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/pam-terms/index.md) | 2026-11-14 |
+| [Tailscale Special Terms (INTL)](templates/intl/technology/saas/tailscale-special-terms.md) | CC0-1.0 | [link](https://github.com/tailscale/terms-and-conditions/blob/main/special-terms/index.md) | 2026-11-14 |
+
+## [U.S. Department of Housing and Urban Development](https://www.hud.gov/sites/dfiles/OCHCO/documents/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [HUD Model Lease for Section 202 PRAC (Form HUD-90105-c) (US)](templates/us/real-estate/residential-lease/hud-model-lease-for-section-202-prac-form-hud-90105-c.md) | Public-Domain | [link](https://www.hud.gov/sites/dfiles/OCHCO/documents/90105c.docx) | 2026-11-14 |
+| [HUD Model Lease for Subsidized Programs (Form HUD-90105-a) (US)](templates/us/real-estate/residential-lease/hud-model-lease-for-subsidized-programs-form-hud-90105-a.md) | Public-Domain | [link](https://www.hud.gov/sites/dfiles/OCHCO/documents/90105a.docx) | 2026-11-14 |
+
+## [U.S. Department of Labor](https://www.dol.gov/)
 
 | Template | Licence | Original | Retrieved |
 | --- | --- | --- | --- |
 | [Model COBRA Continuation Coverage Election Notice (US)](templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.md) | Public-Domain | [link](https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/laws/cobra/model-election-notice.docx) | 2026-11-14 |
 | [Model COBRA Continuation Coverage General Notice (US)](templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-general-notice.md) | Public-Domain | [link](https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/laws/cobra/model-general-notice.docx) | 2026-11-14 |
+| [Model Employer CHIP Notice (US)](templates/us/employment/compensation-and-benefits/model-employer-chip-notice.md) | Public-Domain | [link](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/chipra) | 2026-11-14 |
+
+## [U.S. Environmental Protection Agency](https://www.epa.gov/ftta/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [EPA CRADA Amendment Template (US)](templates/us/commercial/amendments-and-extensions/epa-crada-amendment-template.md) | Public-Domain | [link](https://www.epa.gov/ftta/document-templates-federal-technology-transfer-act-agreements) | 2026-11-14 |
+| [EPA Mutual Confidentiality Agreement (US)](templates/us/confidentiality/mutual-nda/epa-mutual-confidentiality-agreement.md) | Public-Domain | [link](https://www.epa.gov/ftta/document-templates-federal-technology-transfer-act-agreements) | 2026-11-14 |
+| [EPA Non-Disclosure Agreement (Information to EPA) (US)](templates/us/confidentiality/unilateral-nda/epa-non-disclosure-agreement-information-to-epa.md) | Public-Domain | [link](https://www.epa.gov/ftta/document-templates-federal-technology-transfer-act-agreements) | 2026-11-14 |
+| [EPA Materials Transfer Agreement (Annotated) (US)](templates/us/intellectual-property/licensing/epa-materials-transfer-agreement-annotated.md) | Public-Domain | [link](https://www.epa.gov/ftta/document-templates-federal-technology-transfer-act-agreements) | 2026-11-14 |
+| [UBMTA Implementing Letter (EPA) (US)](templates/us/intellectual-property/licensing/ubmta-implementing-letter-epa.md) | Public-Domain | [link](https://www.epa.gov/ftta/document-templates-federal-technology-transfer-act-agreements) | 2026-11-14 |
+| [EPA Cooperative Research and Development Agreement Template (US)](templates/us/partnerships/collaboration-and-mou/epa-cooperative-research-and-development-agreement-template.md) | Public-Domain | [link](https://www.epa.gov/ftta/document-templates-federal-technology-transfer-act-agreements) | 2026-11-14 |
+| [EPA CRADA Letter of Intent Template (US)](templates/us/partnerships/collaboration-and-mou/epa-crada-letter-of-intent-template.md) | Public-Domain | [link](https://www.epa.gov/ftta/document-templates-federal-technology-transfer-act-agreements) | 2026-11-14 |
+| [EPA CRADA Statement of Work Template (US)](templates/us/partnerships/collaboration-and-mou/epa-crada-statement-of-work-template.md) | Public-Domain | [link](https://www.epa.gov/ftta/document-templates-federal-technology-transfer-act-agreements) | 2026-11-14 |
+| [EPA Materials CRADA Template (US)](templates/us/partnerships/collaboration-and-mou/epa-materials-crada-template.md) | Public-Domain | [link](https://www.epa.gov/ftta/document-templates-federal-technology-transfer-act-agreements) | 2026-11-14 |
+| [EPA Data Use Agreement (Draft) (US)](templates/us/privacy-and-data/data-processing/epa-data-use-agreement-draft.md) | Public-Domain | [link](https://www.epa.gov/ftta/document-templates-federal-technology-transfer-act-agreements) | 2026-11-14 |
+
+## [U.S. Small Business Administration](https://legacy.sba.gov/document/support--model-debenture-sbic-lp-model-partnership-agreement-version-30)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [SBA Model Debenture SBIC Limited Partnership Agreement (US)](templates/us/partnerships/general-partnership/sba-model-debenture-sbic-limited-partnership-agreement.md) | Public-Domain | [link](https://legacy.sba.gov/document/support--model-debenture-sbic-lp-model-partnership-agreement-version-30) | 2026-11-14 |
+
+## [USDA Agricultural Research Service (Office of Technology Transfer)](https://www.ars.usda.gov/ott/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [USDA ARS Non-Disclosure Agreement (Exchange) (US)](templates/us/confidentiality/mutual-nda/usda-ars-non-disclosure-agreement-exchange.md) | Public-Domain | [link](https://www.ars.usda.gov/ott/templates-agreements) | 2026-11-14 |
+| [USDA ARS Non-Disclosure Agreement (Incoming) (US)](templates/us/confidentiality/unilateral-nda/usda-ars-non-disclosure-agreement-incoming.md) | Public-Domain | [link](https://www.ars.usda.gov/ott/templates-agreements) | 2026-11-14 |
+| [USDA ARS Non-Disclosure Agreement (Outgoing) (US)](templates/us/confidentiality/unilateral-nda/usda-ars-non-disclosure-agreement-outgoing.md) | Public-Domain | [link](https://www.ars.usda.gov/ott/templates-agreements) | 2026-11-14 |
+| [USDA ARS Material Transfer Agreement (Exchange) (US)](templates/us/intellectual-property/licensing/usda-ars-material-transfer-agreement-exchange.md) | Public-Domain | [link](https://www.ars.usda.gov/ott/templates-agreements) | 2026-11-14 |
+| [USDA ARS Material Transfer Agreement (Incoming) (US)](templates/us/intellectual-property/licensing/usda-ars-material-transfer-agreement-incoming.md) | Public-Domain | [link](https://www.ars.usda.gov/ott/templates-agreements) | 2026-11-14 |
+| [USDA ARS Material Transfer Agreement (Outgoing) (US)](templates/us/intellectual-property/licensing/usda-ars-material-transfer-agreement-outgoing.md) | Public-Domain | [link](https://www.ars.usda.gov/ott/templates-agreements) | 2026-11-14 |
+| [USDA ARS Plant Exchange Material Transfer Research Agreement (US)](templates/us/intellectual-property/licensing/usda-ars-plant-exchange-material-transfer-research-agreement.md) | Public-Domain | [link](https://www.ars.usda.gov/ott/templates-agreements) | 2026-11-14 |
+| [USDA ARS Data Transfer Agreement (Incoming) (US)](templates/us/privacy-and-data/data-processing/usda-ars-data-transfer-agreement-incoming.md) | Public-Domain | [link](https://www.ars.usda.gov/ott/templates-agreements) | 2026-11-14 |
+| [USDA ARS Data Transfer Agreement (Outgoing) (US)](templates/us/privacy-and-data/data-processing/usda-ars-data-transfer-agreement-outgoing.md) | Public-Domain | [link](https://www.ars.usda.gov/ott/templates-agreements) | 2026-11-14 |
+| [USDA ARS Data Transfer Research Agreement (Outgoing) (US)](templates/us/privacy-and-data/data-processing/usda-ars-data-transfer-research-agreement-outgoing.md) | Public-Domain | [link](https://www.ars.usda.gov/ott/templates-agreements) | 2026-11-14 |
 
 ## [Van Lindberg (Process Mechanics)](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
 
@@ -326,6 +680,9 @@ Where a template has been changed from the original, the change is described in 
 | CC-BY-4.0 | https://creativecommons.org/licenses/by/4.0/ |
 | CC-BY-3.0 | https://creativecommons.org/licenses/by/3.0/ |
 | Mitchell-Law-Form-1.1 | https://github.com/kemitchell/law-form-license |
+| Waypoint-NDA-License | https://waypointnda.com/license |
+| Guestbook-NDA-License | https://guestbooknda.com/license |
+| Blue-Oak-Form-License | https://blueoakcouncil.org/contributor/1.0.0 |
 | MIT | https://opensource.org/license/mit |
 | Apache-2.0 | https://www.apache.org/licenses/LICENSE-2.0 |
 | Public-Domain | https://www.copyright.gov/title17/92chap1.html#105 |

@@ -235,6 +235,9 @@ Standalone clauses to insert into other documents. Files here are type "clause".
 | `CC-BY-4.0` | Creative Commons Attribution 4.0 (attribution required) |
 | `CC-BY-3.0` | Creative Commons Attribution 3.0 Unported (attribution required; older works) |
 | `Mitchell-Law-Form-1.1` | Mitchell's Law Form License 1.1.0 (permissive; if the text is changed, drop or flag the form's distinctive title; no endorsement by contributors) |
+| `Waypoint-NDA-License` | The Waypoint NDA licence (permission to do everything with the form; if changed other than filling blanks, remove the Waypoint name) |
+| `Guestbook-NDA-License` | The Guestbook NDA licence (permission to do everything with the form; if changed other than filling blanks, remove the Guestbook name) |
+| `Blue-Oak-Form-License` | Blue Oak Council contributor-form grant (licence to do everything with the form; a changed version must not be called Blue Oak) |
 | `MIT` | MIT License |
 | `Apache-2.0` | Apache License 2.0 |
 | `Public-Domain` | US federal government work or other work in the public domain with no licence |
