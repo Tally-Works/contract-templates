@@ -1,6 +1,8 @@
 # Contract Templates
 
-An open library of contract templates, curated by [goHeather](https://goheather.io) (Tally Works Inc.). Every template is a Markdown file with structured metadata, filed by **jurisdiction → category → subcategory**, and checked by CI so the library stays neat as it grows to hundreds of documents.
+A free, curated library of contract templates, maintained by [goHeather](https://goheather.io) (Tally Works Inc.). Every template is a Markdown file with structured metadata, filed by **jurisdiction → category → subcategory**, and checked by CI so the library stays neat as it grows to hundreds of documents.
+
+**The text here is free to use, copy and adapt, always.** Each template carries the open licence its original author published it under, or CC BY 4.0 for the ones goHeather drafted, and every author is credited in [ATTRIBUTION.md](ATTRIBUTION.md). goHeather is building editable Word versions and an assistant connector for Claude and ChatGPT on top of this library; those will ask for a free goHeather account. This repository never will.
 
 Browse the **[Catalog](CATALOG.md)** or jump straight into the tree:
 
@@ -74,6 +76,19 @@ npm run build
 
 `npm run new` creates the file in the correct folder with a complete front-matter block. To file a document you dropped into `_intake/`, add `--from _intake/the-file.md`. The full intake workflow, licensing rules and review checklist are in [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## How we source and review
+
+The library only accepts templates we are clearly allowed to redistribute and adapt:
+
+- **Drafted in-house** by goHeather and released under CC BY 4.0.
+- **Published under an open licence** that permits commercial use and modified redistribution: CC0, CC BY, MIT, Apache 2.0.
+- **Public domain**, such as US federal government forms.
+- **Written permission** from the author, quoted or linked in the template's metadata.
+
+That excludes ShareAlike, NonCommercial and NoDerivatives licences, and every "free template" published under a website's terms of use rather than an open licence, however good it looks. The validator refuses a third-party template that has no source URL and retrieval date, and `ATTRIBUTION.md` is regenerated from that metadata on every build so credit is never out of date.
+
+Review status is recorded honestly. A template is `draft` until a reviewer has checked it, and `approved` only when a lawyer qualified in that jurisdiction has signed off, with their name in the file. We do not describe a draft as lawyer-reviewed. When we find an error in a source template, we report it upstream as well as fixing it here.
+
 ## Repository layout
 
 | Path | What it is |
@@ -83,13 +98,14 @@ npm run build
 | `_intake/` | Local drop zone for documents not yet filed. Git-ignored. |
 | `taxonomy.yaml` | The allowed jurisdictions, categories, subcategories, types, statuses and licences. |
 | `CATALOG.md`, `catalog.json` | Generated index of every template. Do not edit by hand. |
+| `ATTRIBUTION.md` | Generated credit to every source author and licence. Do not edit by hand. |
 | `docs/` | Taxonomy (generated), metadata schema, naming rules. |
 | `scripts/catalog.js` | The librarian: `validate`, `build`, `new`. |
 | `.github/` | CI that runs the validator on every pull request. |
 
 ## Licence
 
-Original templates and the compilation are released under [Creative Commons Attribution 4.0](LICENSE). Templates sourced from elsewhere carry their own licence, recorded in each file's `license` field; the library only accepts sources that permit redistribution and modification.
+Templates drafted by goHeather, and the compilation as a whole, are released under [Creative Commons Attribution 4.0](LICENSE). Templates sourced from elsewhere carry their own open licence, recorded in each file's `license` field and credited in [ATTRIBUTION.md](ATTRIBUTION.md). The library only accepts sources that permit commercial use and modified redistribution.
 
 ## Disclaimer
 

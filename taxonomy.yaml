@@ -56,16 +56,19 @@ statuses:
   approved: Reviewed and signed off as safe to recommend as a starting point.
   deprecated: Kept for reference only. Superseded or no longer reliable; do not recommend.
 
-# SPDX identifiers where one exists. Only add templates whose licence permits
-# redistribution and modification. If you cannot establish the licence, do not add it.
+# SPDX identifiers where one exists. A template may only enter the library if its
+# licence allows BOTH commercial use AND redistribution of modified copies.
+# Deliberately excluded: CC BY-SA (share-alike would bind our adaptations),
+# CC BY-NC (we are a business), CC BY-ND (no adapting), and any "free template"
+# published under a site's terms of use rather than an open licence.
+# If you cannot establish the licence, do not add the template.
 licenses:
   CC0-1.0: Creative Commons Zero (public-domain dedication)
-  CC-BY-4.0: Creative Commons Attribution 4.0
-  CC-BY-SA-4.0: Creative Commons Attribution-ShareAlike 4.0
+  CC-BY-4.0: Creative Commons Attribution 4.0 (attribution required; goHeather's own drafts use this)
   MIT: MIT License
   Apache-2.0: Apache License 2.0
-  Public-Domain: Government or otherwise public-domain work with no licence
-  Permission-Granted: Author granted goHeather written permission to redistribute (link the permission in source.notes)
+  Public-Domain: US federal government work or other work in the public domain with no licence
+  Permission-Granted: Author gave goHeather written permission to redistribute and adapt (source.url and source.notes must link to or quote the permission)
 
 categories:
   employment:

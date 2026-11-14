@@ -13,4 +13,4 @@
 - [ ] Filed per the decision guide in CONTRIBUTING.md (jurisdiction / category / subcategory / type / variant)
 - [ ] Filename follows docs/naming.md
 - [ ] Body cleaned up: `[PLACEHOLDERS]`, no real names or amounts, drafting notes marked
-- [ ] `npm run build` run and `CATALOG.md`, `catalog.json`, `docs/taxonomy.md` committed
+- [ ] `npm run build` run and `CATALOG.md`, `catalog.json`, `ATTRIBUTION.md`, `docs/taxonomy.md` committed

@@ -17,5 +17,5 @@ jobs:
       - run: npm ci
       - name: Validate every template against taxonomy.yaml
         run: npm run validate
-      - name: Check CATALOG.md, catalog.json and docs/taxonomy.md are up to date
+      - name: Check CATALOG.md, catalog.json, ATTRIBUTION.md and docs/taxonomy.md are up to date
         run: node scripts/catalog.js build --check

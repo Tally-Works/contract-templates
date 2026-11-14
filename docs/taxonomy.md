@@ -226,9 +226,8 @@ Standalone clauses to insert into other documents. Files here are type "clause".
 | `license` | Meaning |
 | --- | --- |
 | `CC0-1.0` | Creative Commons Zero (public-domain dedication) |
-| `CC-BY-4.0` | Creative Commons Attribution 4.0 |
-| `CC-BY-SA-4.0` | Creative Commons Attribution-ShareAlike 4.0 |
+| `CC-BY-4.0` | Creative Commons Attribution 4.0 (attribution required; goHeather's own drafts use this) |
 | `MIT` | MIT License |
 | `Apache-2.0` | Apache License 2.0 |
-| `Public-Domain` | Government or otherwise public-domain work with no licence |
-| `Permission-Granted` | Author granted goHeather written permission to redistribute (link the permission in source.notes) |
+| `Public-Domain` | US federal government work or other work in the public domain with no licence |
+| `Permission-Granted` | Author gave goHeather written permission to redistribute and adapt (source.url and source.notes must link to or quote the permission) |

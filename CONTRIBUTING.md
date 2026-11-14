@@ -4,19 +4,23 @@ This library will hold hundreds of templates. It stays useful only if every file
 
 ## 1. Before you add anything: licensing
 
-Only add a template if you can show we are allowed to redistribute and modify it.
+Only add a template if you can show we are allowed to redistribute **and** adapt it **and** do so commercially. goHeather is a business; a licence that allows only non-commercial use does not cover us.
 
 | Situation | Add it? | `license` value |
 | --- | --- | --- |
 | Drafted in-house at goHeather | yes | `CC-BY-4.0` |
-| Published under CC0, CC BY, CC BY-SA, MIT or Apache | yes | the matching key |
-| Government form or statute-prescribed wording | yes | `Public-Domain` |
-| Author gave written permission | yes, link the permission in `source.notes` | `Permission-Granted` |
+| Published under CC0, CC BY, MIT or Apache 2.0 | yes | the matching key |
+| US federal government form, or statute-prescribed wording | yes | `Public-Domain` |
+| Author gave written permission to redistribute and adapt | yes, quote or link it in `source.notes` | `Permission-Granted` |
+| Published under CC BY-SA | no (share-alike would bind every adaptation we make) | |
 | Published under CC BY-NC or CC BY-ND | no | |
-| "Free template" on a law firm or vendor site with no licence | no | |
+| "Free template" on a law firm, HR vendor or template site with no open licence | no, however good it looks | |
+| Filed with the SEC or a court (public record, but the drafter still holds copyright) | no; study it, do not copy it | |
 | Found in a paid product, a book, or behind a login | no | |
 
-Record where it came from in `source.url` and the date in `source.retrieved`. If you change the original substantively, note that in `source.notes` (CC BY and CC BY-SA require it).
+Record where it came from in `source.url` and the date in `source.retrieved`; the validator rejects third-party templates without them. If you change the original substantively, say so in `source.notes` (CC BY requires it). Credit is generated into `ATTRIBUTION.md` from these fields, so get the author's name exactly right in `source.name`.
+
+If a template you want is only available under terms that fail this table, the answer is to draft our own version from scratch. Reading the original to learn what the clause does is fine; copying its wording is not.
 
 ## 2. Intake workflow
 
@@ -45,7 +49,7 @@ Record where it came from in `source.url` and the date in `source.retrieved`. If
    npm run validate
    npm run build
    ```
-7. **Commit** the template, any `sources/` file, and the regenerated `CATALOG.md`, `catalog.json` and `docs/taxonomy.md`. Commit message format:
+7. **Commit** the template, any `sources/` file, and the regenerated `CATALOG.md`, `catalog.json`, `ATTRIBUTION.md` and `docs/taxonomy.md`. Commit message format:
    ```
    add(us/employment/executive): executive employment agreement
    update(ca/employment/offer-letters): fix ESA notice wording in Ontario offer letter
@@ -111,4 +115,4 @@ Moving a template up a status is its own pull request: bump `version`, set `last
 - [ ] Filed in the right jurisdiction / category / subcategory per the decision guide.
 - [ ] Filename follows [docs/naming.md](docs/naming.md).
 - [ ] Body cleaned up: placeholders bracketed, no real names or amounts, drafting notes marked.
-- [ ] `npm run build` run and the generated files committed.
+- [ ] `npm run build` run and the generated files committed, including `ATTRIBUTION.md`.
