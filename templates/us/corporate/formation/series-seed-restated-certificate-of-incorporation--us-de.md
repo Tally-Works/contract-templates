@@ -3,7 +3,7 @@ title: Series Seed Restated Certificate of Incorporation
 jurisdiction: US-DE
 category: corporate
 subcategory: formation
-type: form
+type: charter
 parties:
   - company
 tags:

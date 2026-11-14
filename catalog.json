@@ -1,6 +1,6 @@
 {
   "generated_from": "taxonomy.yaml + templates/**",
-  "count": 109,
+  "count": 143,
   "templates": [
     {
       "path": "templates/ca/employment/offer-letters/employment-offer-letter--ca-on.md",
@@ -34,6 +34,37 @@
         "name": "goHeather",
         "url": null,
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/commercial/amendments-and-extensions/common-paper-amendment.md",
+      "title": "Common Paper Amendment",
+      "jurisdiction": "US",
+      "category": "commercial",
+      "subcategory": "amendments-and-extensions",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "party-1",
+        "party-2"
+      ],
+      "tags": [
+        "amendment",
+        "modification",
+        "change",
+        "common-paper"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "One-page form to amend an existing agreement: identifies the agreement, the amendment date and each change, with signature blocks. Governing law and business terms are filled in on the document itself.",
+      "source": {
+        "name": "Common Paper",
+        "url": "https://commonpaper.com/documents/amendment/",
+        "file": "sources/us/commercial/amendments-and-extensions/common-paper-amendment.docx"
       }
     },
     {
@@ -134,6 +165,39 @@
         "name": "Common Paper",
         "url": "https://commonpaper.com/standards/professional-services-agreement/",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/commercial/master-services/master-services-agreement.md",
+      "title": "Master Services Agreement",
+      "jurisdiction": "US",
+      "category": "commercial",
+      "subcategory": "master-services",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "msa",
+        "services",
+        "software",
+        "platform",
+        "integration",
+        "statement-of-work"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Technology-oriented master services agreement for companies deploying software and providing platform or integration services under statements of work.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/master-services-agreement-msa",
+        "file": "sources/us/commercial/master-services/master-services-agreement.docx"
       }
     },
     {
@@ -299,6 +363,69 @@
       }
     },
     {
+      "path": "templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement.md",
+      "title": "Mutual Non-Disclosure Agreement",
+      "jurisdiction": "US",
+      "category": "confidentiality",
+      "subcategory": "mutual-nda",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "disclosing-party",
+        "receiving-party"
+      ],
+      "tags": [
+        "nda",
+        "mutual",
+        "confidentiality",
+        "startup"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Two-way confidentiality agreement for parties sharing sensitive information while exploring a business relationship.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/mutual-non-disclosure-agreement-nda",
+        "file": "sources/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.md",
+      "title": "Common Paper One-Way NDA",
+      "jurisdiction": "US",
+      "category": "confidentiality",
+      "subcategory": "unilateral-nda",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "discloser",
+        "recipient"
+      ],
+      "tags": [
+        "nda",
+        "one-way",
+        "confidentiality",
+        "cover-page",
+        "common-paper"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "One-way non-disclosure agreement in cover-page form: the cover page names the discloser, recipient, purpose and term, and incorporates the standard terms that follow. Governing law and business terms are filled in on the document itself.",
+      "source": {
+        "name": "Common Paper",
+        "url": "https://commonpaper.com/documents/one-way-nda/",
+        "file": "sources/us/confidentiality/unilateral-nda/common-paper-one-way-nda.docx"
+      }
+    },
+    {
       "path": "templates/us/confidentiality/unilateral-nda/confidentiality-and-non-disclosure-agreement--long-form.md",
       "title": "Confidentiality and Non-Disclosure Agreement",
       "jurisdiction": "US",
@@ -328,6 +455,455 @@
         "name": "Papertrail",
         "url": "https://github.com/papertrail/legal-docs/blob/master/nda-long-corporate.md",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/confidentiality/unilateral-nda/one-way-non-disclosure-agreement.md",
+      "title": "One-Way Non-Disclosure Agreement",
+      "jurisdiction": "US",
+      "category": "confidentiality",
+      "subcategory": "unilateral-nda",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "recipient"
+      ],
+      "tags": [
+        "nda",
+        "one-way",
+        "confidentiality",
+        "startup"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "One-way confidentiality agreement protecting a single disclosing company's information in the hands of a recipient.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/one-way-non-disclosure-agreement-nda",
+        "file": "sources/us/confidentiality/unilateral-nda/one-way-non-disclosure-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/us/contractors/consulting/advisor-agreement.md",
+      "title": "Advisor Agreement",
+      "jurisdiction": "US",
+      "category": "contractors",
+      "subcategory": "consulting",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "advisor"
+      ],
+      "tags": [
+        "advisor",
+        "equity",
+        "stock-option",
+        "ip-assignment",
+        "confidentiality",
+        "startup"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Startup advisor agreement: advisory services, option grant with vesting as the only compensation, expense reimbursement, IP assignment and confidentiality, with a non-compete limited to the company's field.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/advisor-agreement",
+        "file": "sources/us/contractors/consulting/advisor-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/us/contractors/independent-contractor/common-paper-independent-contractor-agreement.md",
+      "title": "Common Paper Independent Contractor Agreement",
+      "jurisdiction": "US",
+      "category": "contractors",
+      "subcategory": "independent-contractor",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "contractor"
+      ],
+      "tags": [
+        "independent-contractor",
+        "freelance",
+        "statement-of-work",
+        "work-product",
+        "common-paper"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Plain-language agreement for engaging a freelancer or consultant: a one-page statement of work (services, schedule, rate, payment terms) followed by standard terms on contractor status, taxes, work-product ownership, confidentiality and termination. Governing law and business terms are filled in on the document itself.",
+      "source": {
+        "name": "Common Paper",
+        "url": "https://commonpaper.com/documents/independent-contractor-agreement/",
+        "file": "sources/us/contractors/independent-contractor/common-paper-independent-contractor-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/us/contractors/statement-of-work/common-paper-statement-of-work.md",
+      "title": "Common Paper Statement of Work",
+      "jurisdiction": "US",
+      "category": "contractors",
+      "subcategory": "statement-of-work",
+      "type": "schedule",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "statement-of-work",
+        "sow",
+        "professional-services",
+        "cover-page",
+        "common-paper"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Statement of work to attach to the Common Paper Professional Services Agreement: services, deliverables, schedule, fees and acceptance. Governing law and business terms are filled in on the document itself.",
+      "source": {
+        "name": "Common Paper",
+        "url": "https://commonpaper.com/documents/statement-of-work/",
+        "file": "sources/us/contractors/statement-of-work/common-paper-statement-of-work.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/bylaws-and-resolutions/action-of-incorporator--us-de.md",
+      "title": "Action of Incorporator",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "bylaws-and-resolutions",
+      "type": "resolution",
+      "variant": null,
+      "parties": [
+        "incorporator",
+        "company"
+      ],
+      "tags": [
+        "incorporator",
+        "written-consent",
+        "bylaws-adoption",
+        "board-appointment",
+        "delaware",
+        "c-corp"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Written action of the sole incorporator of a Delaware corporation adopting the bylaws and appointing the initial board. Drafted for a company run day to day by an AI agent under human oversight; the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": "sources/us/corporate/bylaws-and-resolutions/action-of-incorporator--us-de.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--c-corp.md",
+      "title": "AI Governance Policy",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "bylaws-and-resolutions",
+      "type": "policy",
+      "variant": "c-corp",
+      "parties": [
+        "company"
+      ],
+      "tags": [
+        "ai-governance",
+        "ai-agent",
+        "board-policy",
+        "delaware",
+        "c-corp"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Board-adopted policy setting what a company's AI agent may do on its own, what needs human sign-off and what is reserved to the board, implementing the AI-governance article of the bylaws. Drafted for a company run day to day by an AI agent under human oversight; the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": "sources/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--c-corp.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--llc.md",
+      "title": "AI Governance Policy",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "bylaws-and-resolutions",
+      "type": "policy",
+      "variant": "llc",
+      "parties": [
+        "company"
+      ],
+      "tags": [
+        "ai-governance",
+        "ai-agent",
+        "manager-policy",
+        "delaware",
+        "llc"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Manager-adopted policy setting what an LLC's AI agent may do on its own, what needs human sign-off and what is reserved to the manager and member. Drafted for a company run day to day by an AI agent under human oversight; the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": "sources/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--llc.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/bylaws-and-resolutions/bylaws--us-de.md",
+      "title": "Bylaws",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "bylaws-and-resolutions",
+      "type": "charter",
+      "variant": null,
+      "parties": [
+        "company"
+      ],
+      "tags": [
+        "bylaws",
+        "stockholders",
+        "board",
+        "officers",
+        "ai-governance",
+        "delaware",
+        "c-corp"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Bylaws for a Delaware C-corporation: stockholder meetings, board, officers, stock, indemnification and amendments, plus an article establishing an AI-governance regime. Drafted for a company run day to day by an AI agent under human oversight; the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": "sources/us/corporate/bylaws-and-resolutions/bylaws--us-de.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/bylaws-and-resolutions/organizational-resolutions--us-de.md",
+      "title": "Organizational Resolutions",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "bylaws-and-resolutions",
+      "type": "resolution",
+      "variant": null,
+      "parties": [
+        "directors",
+        "company"
+      ],
+      "tags": [
+        "organizational-resolutions",
+        "board-consent",
+        "formation",
+        "stock-issuance",
+        "delaware",
+        "c-corp"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Initial board consent of a Delaware corporation: officers, stock issuance, bank accounts, fiscal year, AI governance policy and other organizational matters. Drafted for a company run day to day by an AI agent under human oversight; the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": "sources/us/corporate/bylaws-and-resolutions/organizational-resolutions--us-de.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/bylaws-and-resolutions/stockholder-consent--us-de.md",
+      "title": "Stockholder Consent",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "bylaws-and-resolutions",
+      "type": "resolution",
+      "variant": null,
+      "parties": [
+        "stockholders",
+        "company"
+      ],
+      "tags": [
+        "stockholder-consent",
+        "written-consent",
+        "formation",
+        "delaware",
+        "c-corp"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Initial written consent of the stockholders of a Delaware corporation approving formation matters and electing the board. Drafted for a company run day to day by an AI agent under human oversight; the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": "sources/us/corporate/bylaws-and-resolutions/stockholder-consent--us-de.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/directors-and-officers/indemnification-agreement--us-de--director-officer.md",
+      "title": "Indemnification Agreement",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "directors-and-officers",
+      "type": "agreement",
+      "variant": "director-officer",
+      "parties": [
+        "company",
+        "indemnitee"
+      ],
+      "tags": [
+        "indemnification",
+        "director",
+        "officer",
+        "d-and-o",
+        "delaware",
+        "c-corp"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Agreement indemnifying a corporation's director or officer to the fullest extent Delaware law allows, broader and more certain than bylaws alone. Drafted for a company run day to day by an AI agent under human oversight; the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": "sources/us/corporate/directors-and-officers/indemnification-agreement--us-de--director-officer.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/directors-and-officers/indemnification-agreement--us-de--llc-manager.md",
+      "title": "Indemnification Agreement",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "directors-and-officers",
+      "type": "agreement",
+      "variant": "llc-manager",
+      "parties": [
+        "company",
+        "manager"
+      ],
+      "tags": [
+        "indemnification",
+        "manager",
+        "llc",
+        "delaware"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Agreement indemnifying the human manager of a Delaware LLC to the fullest extent the LLC Act allows. Drafted for a company run day to day by an AI agent under human oversight; the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": "sources/us/corporate/directors-and-officers/indemnification-agreement--us-de--llc-manager.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/equity-and-stock/common-stock-purchase-agreement--us-de.md",
+      "title": "Common Stock Purchase Agreement",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "equity-and-stock",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "founder"
+      ],
+      "tags": [
+        "founder-stock",
+        "stock-purchase",
+        "issuance",
+        "fully-vested",
+        "delaware",
+        "c-corp"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Issuance of fully vested founder common stock at formation; deliberately omits vesting. Drafted for a company run day to day by an AI agent under human oversight; the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": "sources/us/corporate/equity-and-stock/common-stock-purchase-agreement--us-de.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/equity-and-stock/membership-interest-purchase-agreement--us-de.md",
+      "title": "Membership Interest Purchase Agreement",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "equity-and-stock",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "member"
+      ],
+      "tags": [
+        "membership-interest",
+        "issuance",
+        "llc",
+        "delaware"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Issuance of the founding membership interest in a single-member Delaware LLC at formation. Drafted for a company run day to day by an AI agent under human oversight; the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": "sources/us/corporate/equity-and-stock/membership-interest-purchase-agreement--us-de.docx"
       }
     },
     {
@@ -364,12 +940,108 @@
       }
     },
     {
+      "path": "templates/us/corporate/formation/certificate-of-formation--us-de--llc.md",
+      "title": "Certificate of Formation",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "formation",
+      "type": "charter",
+      "variant": "llc",
+      "parties": [
+        "company"
+      ],
+      "tags": [
+        "certificate-of-formation",
+        "llc",
+        "delaware",
+        "filing"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Minimal Delaware LLC certificate of formation for filing with the Secretary of State. Drafted for a company run day to day by an AI agent under human oversight; the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": "sources/us/corporate/formation/certificate-of-formation--us-de--llc.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.md",
+      "title": "Certificate of Incorporation",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "formation",
+      "type": "charter",
+      "variant": "c-corp",
+      "parties": [
+        "company"
+      ],
+      "tags": [
+        "certificate-of-incorporation",
+        "charter",
+        "single-class",
+        "delaware",
+        "c-corp",
+        "filing"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Minimal single-class Delaware C-corporation charter for a founder-owned company. Drafted for a company run day to day by an AI agent under human oversight; the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": "sources/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/formation/company-formation-filing-instructions.md",
+      "title": "Company Formation Filing Instructions",
+      "jurisdiction": "US",
+      "category": "corporate",
+      "subcategory": "formation",
+      "type": "checklist",
+      "variant": null,
+      "parties": [
+        "company"
+      ],
+      "tags": [
+        "formation",
+        "checklist",
+        "delaware",
+        "home-state",
+        "ein",
+        "registered-agent",
+        "llc",
+        "c-corp"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Step-by-step checklist for forming a Delaware or home-state LLC or C-corporation: entity choice, charter filing, registered agent, EIN, internal documents, bank account, and keeping the liability shield intact.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": null
+      }
+    },
+    {
       "path": "templates/us/corporate/formation/series-seed-restated-certificate-of-incorporation--us-de.md",
       "title": "Series Seed Restated Certificate of Incorporation",
       "jurisdiction": "US-DE",
       "category": "corporate",
       "subcategory": "formation",
-      "type": "form",
+      "type": "charter",
       "variant": null,
       "parties": [
         "company"
@@ -655,6 +1327,39 @@
       }
     },
     {
+      "path": "templates/us/corporate/shareholders-and-operating/operating-agreement--us-de--single-member.md",
+      "title": "Operating Agreement",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "shareholders-and-operating",
+      "type": "agreement",
+      "variant": "single-member",
+      "parties": [
+        "member",
+        "company"
+      ],
+      "tags": [
+        "operating-agreement",
+        "single-member",
+        "manager-managed",
+        "ai-governance",
+        "llc",
+        "delaware"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Single-member, manager-managed Delaware LLC operating agreement with the capital contribution stated inline and an AI-agent governance section. Drafted for a company run day to day by an AI agent under human oversight; the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": "sources/us/corporate/shareholders-and-operating/operating-agreement--us-de--single-member.docx"
+      }
+    },
+    {
       "path": "templates/us/employment/confidentiality-and-ip/balanced-employee-intellectual-property-agreement.md",
       "title": "Balanced Employee Intellectual Property Agreement",
       "jurisdiction": "US",
@@ -820,6 +1525,39 @@
         "name": "goHeather",
         "url": null,
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/employment/offer-letters/employee-offer-letter--us-ca--exempt.md",
+      "title": "Employee Offer Letter",
+      "jurisdiction": "US-CA",
+      "category": "employment",
+      "subcategory": "offer-letters",
+      "type": "letter",
+      "variant": "exempt",
+      "parties": [
+        "employer",
+        "employee"
+      ],
+      "tags": [
+        "offer-letter",
+        "california",
+        "exempt",
+        "at-will",
+        "arbitration",
+        "benefits"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Offer letter for a California exempt (salaried) hire: role, salary, benefits, at-will status, confidentiality agreement as a condition, and an arbitration agreement.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/employee-offer-letter",
+        "file": "sources/us/employment/offer-letters/employee-offer-letter--us-ca--exempt.docx"
       }
     },
     {
@@ -2988,6 +3726,38 @@
       }
     },
     {
+      "path": "templates/us/partnerships/collaboration-and-mou/common-paper-letter-of-intent.md",
+      "title": "Common Paper Letter of Intent",
+      "jurisdiction": "US",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "letter",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "letter-of-intent",
+        "loi",
+        "non-binding",
+        "confidentiality",
+        "common-paper"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Non-binding letter of intent between a product provider and a prospective customer recording product, functionality, fees and launch date, with five selectable confidentiality options. Governing law and business terms are filled in on the document itself.",
+      "source": {
+        "name": "Common Paper",
+        "url": "https://commonpaper.com/documents/letter-of-intent/",
+        "file": "sources/us/partnerships/collaboration-and-mou/common-paper-letter-of-intent.docx"
+      }
+    },
+    {
       "path": "templates/us/partnerships/collaboration-and-mou/common-paper-partnership-agreement.md",
       "title": "Common Paper Partnership Agreement",
       "jurisdiction": "US",
@@ -3022,6 +3792,38 @@
       }
     },
     {
+      "path": "templates/us/partnerships/collaboration-and-mou/common-paper-term-sheet.md",
+      "title": "Common Paper Term Sheet",
+      "jurisdiction": "US",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "party-1",
+        "party-2"
+      ],
+      "tags": [
+        "term-sheet",
+        "non-binding",
+        "confidentiality",
+        "commercial",
+        "common-paper"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Short non-binding commercial term sheet with topic/detail rows and a binding mutual confidentiality clause. Not a financing term sheet. Governing law and business terms are filled in on the document itself.",
+      "source": {
+        "name": "Common Paper",
+        "url": "https://commonpaper.com/documents/term-sheet/",
+        "file": "sources/us/partnerships/collaboration-and-mou/common-paper-term-sheet.docx"
+      }
+    },
+    {
       "path": "templates/us/privacy-and-data/acceptable-use/use-restrictions-policy.md",
       "title": "Use Restrictions Policy",
       "jurisdiction": "US",
@@ -3051,6 +3853,38 @@
         "name": "Basecamp (37signals)",
         "url": "https://github.com/basecamp/policies/blob/master/abuse/index.md",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/cookie-policy/cookie-notice.md",
+      "title": "Cookie Notice",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "cookie-policy",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "user"
+      ],
+      "tags": [
+        "cookies",
+        "tracking",
+        "consent",
+        "privacy",
+        "website"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Website and app cookie notice describing cookie types (essential, analytics, functionality, advertising), third-party tracking, and how users can manage preferences.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/cookie-notice",
+        "file": "sources/us/privacy-and-data/cookie-policy/cookie-notice.docx"
       }
     },
     {
@@ -3122,6 +3956,37 @@
       }
     },
     {
+      "path": "templates/us/privacy-and-data/data-processing/business-associate-agreement.md",
+      "title": "Business Associate Agreement",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "data-processing",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "covered-entity",
+        "business-associate"
+      ],
+      "tags": [
+        "baa",
+        "hipaa",
+        "phi",
+        "healthcare"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "HIPAA business associate addendum between a covered entity and a vendor handling protected health information: permitted uses, safeguards, breach reporting, subcontractors and termination.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/business-associate-agreement-baa",
+        "file": "sources/us/privacy-and-data/data-processing/business-associate-agreement.docx"
+      }
+    },
+    {
       "path": "templates/us/privacy-and-data/data-processing/common-paper-business-associate-agreement.md",
       "title": "Common Paper Business Associate Agreement",
       "jurisdiction": "US",
@@ -3189,6 +4054,105 @@
       }
     },
     {
+      "path": "templates/us/privacy-and-data/data-processing/data-processing-addendum--global.md",
+      "title": "Data Processing Addendum",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "data-processing",
+      "type": "agreement",
+      "variant": "global",
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "dpa",
+        "gdpr",
+        "uk-gdpr",
+        "swiss",
+        "ccpa",
+        "processor",
+        "transfers"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Processor-friendly data processing addendum covering US, EU/EEA, UK and Swiss personal data, with GDPR-aligned obligations and transfer mechanisms.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/data-processing-addendum-dpa-u-s-and-european-personal-data",
+        "file": "sources/us/privacy-and-data/data-processing/data-processing-addendum--global.docx"
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/data-processing/data-processing-addendum--us-only.md",
+      "title": "Data Processing Addendum",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "data-processing",
+      "type": "agreement",
+      "variant": "us-only",
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "dpa",
+        "ccpa",
+        "state-privacy-laws",
+        "processor",
+        "security"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Processor-friendly data processing addendum for US personal data, with security measures and compliance with US state privacy laws.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/data-processing-addendum-dpa",
+        "file": "sources/us/privacy-and-data/data-processing/data-processing-addendum--us-only.docx"
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/privacy-policy/privacy-policy--gdpr-enhanced.md",
+      "title": "Privacy Policy",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "privacy-policy",
+      "type": "policy",
+      "variant": "gdpr-enhanced",
+      "parties": [
+        "company",
+        "user"
+      ],
+      "tags": [
+        "privacy-policy",
+        "gdpr",
+        "uk-gdpr",
+        "ccpa",
+        "international",
+        "website"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Multi-jurisdictional privacy policy covering US state laws and GDPR / UK GDPR, with a built-in cookie notice.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/privacy-policy-gdpr-enhanced",
+        "file": "sources/us/privacy-and-data/privacy-policy/privacy-policy--gdpr-enhanced.docx"
+      }
+    },
+    {
       "path": "templates/us/privacy-and-data/privacy-policy/privacy-policy--short-form.md",
       "title": "Privacy Policy",
       "jurisdiction": "US",
@@ -3219,6 +4183,38 @@
         "name": "OpenAgreements",
         "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-privacy-policy",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/privacy-policy/privacy-policy--us-only.md",
+      "title": "Privacy Policy",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "privacy-policy",
+      "type": "policy",
+      "variant": "us-only",
+      "parties": [
+        "company",
+        "user"
+      ],
+      "tags": [
+        "privacy-policy",
+        "ccpa",
+        "cpra",
+        "state-privacy-laws",
+        "website"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Privacy policy covering US federal and state privacy laws including CCPA/CPRA, with a built-in cookie notice.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/privacy-policy-u-s-only",
+        "file": "sources/us/privacy-and-data/privacy-policy/privacy-policy--us-only.docx"
       }
     },
     {
@@ -3283,6 +4279,38 @@
         "name": "Basecamp (37signals)",
         "url": "https://github.com/basecamp/policies/blob/master/terms/index.md",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/website-terms/terms-of-use.md",
+      "title": "Terms of Use",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "website-terms",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "user"
+      ],
+      "tags": [
+        "terms-of-use",
+        "website",
+        "intellectual-property",
+        "limitation-of-liability",
+        "arbitration"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Website terms of use covering access rights, user obligations, intellectual-property protections, liability limits and dispute resolution.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/terms-of-use",
+        "file": "sources/us/privacy-and-data/website-terms/terms-of-use.docx"
       }
     },
     {
@@ -3550,6 +4578,71 @@
         "name": "Common Paper",
         "url": "https://commonpaper.com/standards/design-partner-agreement/",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/technology/saas/common-paper-order-form--with-sla.md",
+      "title": "Common Paper Order Form",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "saas",
+      "type": "schedule",
+      "variant": "with-sla",
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "order-form",
+        "saas",
+        "subscription",
+        "sla",
+        "cover-page",
+        "common-paper"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Order form for a subscription under the Common Paper Cloud Service Agreement, with the Service Level Agreement standard terms incorporated. Governing law and business terms are filled in on the document itself.",
+      "source": {
+        "name": "Common Paper",
+        "url": "https://commonpaper.com/documents/order-form/",
+        "file": "sources/us/technology/saas/common-paper-order-form--with-sla.docx"
+      }
+    },
+    {
+      "path": "templates/us/technology/saas/common-paper-order-form.md",
+      "title": "Common Paper Order Form",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "saas",
+      "type": "schedule",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "order-form",
+        "saas",
+        "subscription",
+        "cover-page",
+        "common-paper"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Order form for a subscription under the Common Paper Cloud Service Agreement: products, subscription period, fees, payment terms and technical support. Governing law and business terms are filled in on the document itself.",
+      "source": {
+        "name": "Common Paper",
+        "url": "https://commonpaper.com/documents/order-form/",
+        "file": "sources/us/technology/saas/common-paper-order-form.docx"
       }
     },
     {

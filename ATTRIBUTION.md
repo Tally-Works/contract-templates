@@ -32,21 +32,60 @@ Where a template has been changed from the original, the change is described in 
 | [Bonterms Cloud Terms (US)](templates/us/technology/saas/bonterms-cloud-terms.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/bonterms-cloud-terms-v1) | 2026-11-14 |
 | [Bonterms Software License Terms (US)](templates/us/technology/software-license/bonterms-software-license-terms.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/software-license-terms-v1) | 2026-11-14 |
 
-## [Common Paper](https://commonpaper.com/standards/)
+## [Common Paper](https://commonpaper.com/)
 
 | Template | Licence | Original | Retrieved |
 | --- | --- | --- | --- |
+| [Common Paper Amendment (US)](templates/us/commercial/amendments-and-extensions/common-paper-amendment.md) | CC-BY-4.0 | [link](https://commonpaper.com/documents/amendment/) | 2026-11-14 |
 | [Common Paper Professional Services Agreement (US)](templates/us/commercial/master-services/common-paper-professional-services-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/professional-services-agreement/) | 2026-11-14 |
 | [Common Paper Mutual NDA (US)](templates/us/confidentiality/mutual-nda/common-paper-mutual-nda.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/mutual-nda/) | 2026-11-14 |
+| [Common Paper One-Way NDA (US)](templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.md) | CC-BY-4.0 | [link](https://commonpaper.com/documents/one-way-nda/) | 2026-11-14 |
+| [Common Paper Independent Contractor Agreement (US)](templates/us/contractors/independent-contractor/common-paper-independent-contractor-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/documents/independent-contractor-agreement/) | 2026-11-14 |
+| [Common Paper Statement of Work (US)](templates/us/contractors/statement-of-work/common-paper-statement-of-work.md) | CC-BY-4.0 | [link](https://commonpaper.com/documents/statement-of-work/) | 2026-11-14 |
+| [Common Paper Letter of Intent (US)](templates/us/partnerships/collaboration-and-mou/common-paper-letter-of-intent.md) | CC-BY-4.0 | [link](https://commonpaper.com/documents/letter-of-intent/) | 2026-11-14 |
 | [Common Paper Partnership Agreement (US)](templates/us/partnerships/collaboration-and-mou/common-paper-partnership-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/partnership-agreement/) | 2026-11-14 |
+| [Common Paper Term Sheet (US)](templates/us/partnerships/collaboration-and-mou/common-paper-term-sheet.md) | CC-BY-4.0 | [link](https://commonpaper.com/documents/term-sheet/) | 2026-11-14 |
 | [Common Paper Business Associate Agreement (US)](templates/us/privacy-and-data/data-processing/common-paper-business-associate-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/business-associate-agreement/) | 2026-11-14 |
 | [Common Paper Data Processing Agreement (US)](templates/us/privacy-and-data/data-processing/common-paper-data-processing-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/data-processing-agreement/) | 2026-11-14 |
 | [Common Paper Service Level Agreement (US)](templates/us/technology/hosting-and-cloud/common-paper-service-level-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/service-level-agreement/) | 2026-11-14 |
 | [Common Paper AI Addendum (US)](templates/us/technology/saas/common-paper-ai-addendum.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/ai-addendum/) | 2026-11-14 |
 | [Common Paper Cloud Service Agreement (US)](templates/us/technology/saas/common-paper-cloud-service-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/cloud-service-agreement/) | 2026-11-14 |
 | [Common Paper Design Partner Agreement (US)](templates/us/technology/saas/common-paper-design-partner-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/design-partner-agreement/) | 2026-11-14 |
+| [Common Paper Order Form (with-sla, US)](templates/us/technology/saas/common-paper-order-form--with-sla.md) | CC-BY-4.0 | [link](https://commonpaper.com/documents/order-form/) | 2026-11-14 |
+| [Common Paper Order Form (US)](templates/us/technology/saas/common-paper-order-form.md) | CC-BY-4.0 | [link](https://commonpaper.com/documents/order-form/) | 2026-11-14 |
 | [Common Paper Pilot Agreement (US)](templates/us/technology/saas/common-paper-pilot-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/pilot-agreement/) | 2026-11-14 |
 | [Common Paper Software License Agreement (US)](templates/us/technology/software-license/common-paper-software-license-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/software-license-agreement/) | 2026-11-14 |
+
+## [General Legal](https://general.legal/library/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Master Services Agreement (US)](templates/us/commercial/master-services/master-services-agreement.md) | CC0-1.0 | [link](https://general.legal/library/master-services-agreement-msa) | 2026-11-14 |
+| [Mutual Non-Disclosure Agreement (US)](templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement.md) | CC0-1.0 | [link](https://general.legal/library/mutual-non-disclosure-agreement-nda) | 2026-11-14 |
+| [One-Way Non-Disclosure Agreement (US)](templates/us/confidentiality/unilateral-nda/one-way-non-disclosure-agreement.md) | CC0-1.0 | [link](https://general.legal/library/one-way-non-disclosure-agreement-nda) | 2026-11-14 |
+| [Advisor Agreement (US)](templates/us/contractors/consulting/advisor-agreement.md) | CC0-1.0 | [link](https://general.legal/library/advisor-agreement) | 2026-11-14 |
+| [Action of Incorporator (US-DE)](templates/us/corporate/bylaws-and-resolutions/action-of-incorporator--us-de.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [AI Governance Policy (c-corp, US-DE)](templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--c-corp.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [AI Governance Policy (llc, US-DE)](templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--llc.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [Bylaws (US-DE)](templates/us/corporate/bylaws-and-resolutions/bylaws--us-de.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [Organizational Resolutions (US-DE)](templates/us/corporate/bylaws-and-resolutions/organizational-resolutions--us-de.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [Stockholder Consent (US-DE)](templates/us/corporate/bylaws-and-resolutions/stockholder-consent--us-de.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [Indemnification Agreement (director-officer, US-DE)](templates/us/corporate/directors-and-officers/indemnification-agreement--us-de--director-officer.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [Indemnification Agreement (llc-manager, US-DE)](templates/us/corporate/directors-and-officers/indemnification-agreement--us-de--llc-manager.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [Common Stock Purchase Agreement (US-DE)](templates/us/corporate/equity-and-stock/common-stock-purchase-agreement--us-de.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [Membership Interest Purchase Agreement (US-DE)](templates/us/corporate/equity-and-stock/membership-interest-purchase-agreement--us-de.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [Certificate of Formation (llc, US-DE)](templates/us/corporate/formation/certificate-of-formation--us-de--llc.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [Certificate of Incorporation (c-corp, US-DE)](templates/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [Company Formation Filing Instructions (US)](templates/us/corporate/formation/company-formation-filing-instructions.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [Operating Agreement (single-member, US-DE)](templates/us/corporate/shareholders-and-operating/operating-agreement--us-de--single-member.md) | CC0-1.0 | [link](https://general.legal/library/agent-operated-company-formation-package) | 2026-11-14 |
+| [Employee Offer Letter (exempt, US-CA)](templates/us/employment/offer-letters/employee-offer-letter--us-ca--exempt.md) | CC0-1.0 | [link](https://general.legal/library/employee-offer-letter) | 2026-11-14 |
+| [Cookie Notice (US)](templates/us/privacy-and-data/cookie-policy/cookie-notice.md) | CC0-1.0 | [link](https://general.legal/library/cookie-notice) | 2026-11-14 |
+| [Business Associate Agreement (US)](templates/us/privacy-and-data/data-processing/business-associate-agreement.md) | CC0-1.0 | [link](https://general.legal/library/business-associate-agreement-baa) | 2026-11-14 |
+| [Data Processing Addendum (global, US)](templates/us/privacy-and-data/data-processing/data-processing-addendum--global.md) | CC0-1.0 | [link](https://general.legal/library/data-processing-addendum-dpa-u-s-and-european-personal-data) | 2026-11-14 |
+| [Data Processing Addendum (us-only, US)](templates/us/privacy-and-data/data-processing/data-processing-addendum--us-only.md) | CC0-1.0 | [link](https://general.legal/library/data-processing-addendum-dpa) | 2026-11-14 |
+| [Privacy Policy (gdpr-enhanced, US)](templates/us/privacy-and-data/privacy-policy/privacy-policy--gdpr-enhanced.md) | CC0-1.0 | [link](https://general.legal/library/privacy-policy-gdpr-enhanced) | 2026-11-14 |
+| [Privacy Policy (us-only, US)](templates/us/privacy-and-data/privacy-policy/privacy-policy--us-only.md) | CC0-1.0 | [link](https://general.legal/library/privacy-policy-u-s-only) | 2026-11-14 |
+| [Terms of Use (US)](templates/us/privacy-and-data/website-terms/terms-of-use.md) | CC0-1.0 | [link](https://general.legal/library/terms-of-use) | 2026-11-14 |
 
 ## [GitHub](https://github.com/github/balanced-employee-ip-agreement)
 

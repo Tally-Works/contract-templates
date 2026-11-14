@@ -77,6 +77,7 @@ Business-to-business agreements for buying and selling goods and services.
 | `franchise/` | Franchise and master franchise agreements. |
 | `terms-and-conditions/` | Standard terms of sale, terms of purchase and purchase-order terms. |
 | `subscription-and-membership/` | Subscription, membership and recurring-service agreements. |
+| `amendments-and-extensions/` | Amendments, extensions, renewals and change orders to existing agreements. |
 
 ### Technology — `technology/`
 
@@ -125,7 +126,8 @@ Formation, governance and equity documents for companies.
 | --- | --- |
 | `formation/` | Articles, certificates of incorporation and formation documents. |
 | `shareholders-and-operating/` | Shareholder agreements, operating agreements and unanimous shareholder agreements. |
-| `bylaws-and-resolutions/` | Bylaws, board and shareholder resolutions, consents and minutes. |
+| `bylaws-and-resolutions/` | Bylaws, board and shareholder resolutions, consents, minutes and board-adopted governance policies. |
+| `directors-and-officers/` | Director and officer indemnification, board service and advisor-to-board agreements. |
 | `founders/` | Founder, co-founder and vesting agreements. |
 | `equity-and-stock/` | Stock purchase, option plans, grant agreements and restricted stock. |
 | `convertible-and-safe/` | SAFEs, convertible notes and KISS-style instruments. |
@@ -212,6 +214,7 @@ Standalone clauses to insert into other documents. Files here are type "clause".
 | `checklist` | A drafting, review or closing checklist (not itself a contract). |
 | `schedule` | A schedule, exhibit, annex, addendum or statement of work that attaches to a parent agreement. |
 | `resolution` | A board or shareholder resolution, written consent or minutes. |
+| `charter` | A constitutional document of an entity, such as a certificate or articles of incorporation or formation, or bylaws. |
 
 ## Statuses
 

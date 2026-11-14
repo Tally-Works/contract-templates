@@ -206,8 +206,10 @@ function validateTemplate(file, taxonomy) {
     if (segments.length > 3) errors.push('filename may have at most three segments: slug--sub-jurisdiction--variant');
 
     const tail = segments.slice(1);
-    const jurisSeg = tail.find((s) => SUBJURIS_SEGMENT_RE.test(s));
-    const variantSeg = tail.find((s) => !SUBJURIS_SEGMENT_RE.test(s));
+    // a sub-jurisdiction segment is <known country code>-<subdivision>, e.g. us-ca, ca-on
+    const isJurisSeg = (s) => SUBJURIS_SEGMENT_RE.test(s) && Boolean(taxonomy.jurisdictions[s.split('-')[0]]);
+    const jurisSeg = tail.find(isJurisSeg);
+    const variantSeg = tail.find((s) => !isJurisSeg(s));
 
     if (j.sub) {
       if (segments[1] !== j.full) errors.push(`jurisdiction ${jur} requires the filename to be "${segments[0]}--${j.full}[--variant].md"`);
