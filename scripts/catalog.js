@@ -432,7 +432,7 @@ function build(taxonomy, check) {
   ];
   let stale = false;
   for (const [file, content] of outputs) {
-    const current = fs.existsSync(file) ? fs.readFileSync(file, 'utf8') : null;
+    const current = fs.existsSync(file) ? fs.readFileSync(file, 'utf8').replace(/\r\n/g, '\n') : null;
     if (current === content) continue;
     if (check) {
       console.error(`${rel(file)} is out of date. Run \`npm run build\` and commit the result.`);

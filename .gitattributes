@@ -1,0 +1,5 @@
+# Keep every text file LF so generated files compare cleanly on every OS.
+* text=auto eol=lf
+*.docx binary
+*.pdf binary
+*.odt binary
