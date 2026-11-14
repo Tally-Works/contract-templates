@@ -23,7 +23,7 @@ source:
   notes: >-
     From General Legal's template library (general.legal/library states "Our templates are released under a CC0 1.0
     license"); the companion repository github.com/General-Legal/legal-templates is licensed CC0-1.0. Wording unchanged;
-    <mark> field highlights removed and the title set as a heading. The General Legal credit footnote is kept as they
+     field highlights removed and the title set as a heading. The General Legal credit footnote is kept as they
     request.
 license: CC0-1.0
 status: draft
