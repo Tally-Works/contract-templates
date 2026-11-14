@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "goHeather's open library of contract templates, organised by jurisdiction, category and subcategory, with machine-checked metadata.",
-  "license": "CC-BY-4.0",
+  "license": "MIT",
   "scripts": {
     "validate": "node scripts/catalog.js validate",
     "build": "node scripts/catalog.js build",

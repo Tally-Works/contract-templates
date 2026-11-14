@@ -1,34 +1,34 @@
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+MIT License
 
 Copyright (c) 2026 Tally Works Inc. (goHeather)
 
-The original templates in this repository, and the selection and arrangement
-of the collection as a whole, are licensed under the Creative Commons
-Attribution 4.0 International License.
+This licence covers the organisation of this repository only: the taxonomy
+(taxonomy.yaml), the scripts, the generated catalog and attribution files,
+the documentation, and the metadata front-matter added to each template.
 
-You are free to:
+IT DOES NOT COVER THE TEMPLATES THEMSELVES. goHeather did not write the
+templates in the templates/ and sources/ directories and claims no copyright
+in them. Each template was published by its original author under an open
+licence, which is recorded in that template's "license" and "source" fields
+and credited in ATTRIBUTION.md. Use each template under its own licence.
 
-  Share  - copy and redistribute the material in any medium or format
-  Adapt  - remix, transform, and build upon the material for any purpose,
-           even commercially.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the covered materials (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the Software,
+and to permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
 
-Under the following terms:
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
 
-  Attribution - You must give appropriate credit, provide a link to the
-  license, and indicate if changes were made. You may do so in any reasonable
-  manner, but not in any way that suggests the licensor endorses you or your
-  use.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-  No additional restrictions - You may not apply legal terms or technological
-  measures that legally restrict others from doing anything the license
-  permits.
-
-Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
-
-Individual templates sourced from third parties are redistributed under the
-licence recorded in that template's own "license" front-matter field, which
-may differ from CC BY 4.0. See CONTRIBUTING.md for the accepted licences.
-
-These templates are provided as general forms only and do not constitute
-legal advice. No warranty of any kind is given as to their suitability for
-any purpose or jurisdiction.
+The templates are general forms, not legal advice. Have a qualified lawyer
+review any document before relying on it.

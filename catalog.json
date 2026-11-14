@@ -1,41 +1,7 @@
 {
   "generated_from": "taxonomy.yaml + templates/**",
-  "count": 143,
+  "count": 141,
   "templates": [
-    {
-      "path": "templates/ca/employment/offer-letters/employment-offer-letter--ca-on.md",
-      "title": "Employment Offer Letter",
-      "jurisdiction": "CA-ON",
-      "category": "employment",
-      "subcategory": "offer-letters",
-      "type": "letter",
-      "variant": null,
-      "parties": [
-        "employer",
-        "employee"
-      ],
-      "tags": [
-        "offer-letter",
-        "ontario",
-        "esa",
-        "probation",
-        "termination-clause",
-        "vacation",
-        "benefits"
-      ],
-      "language": "en",
-      "governing_law": "Ontario, Canada",
-      "license": "CC-BY-4.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "Letter-form employment agreement for an Ontario hire, drafted around the Employment Standards Act, 2000: ESA-minimum termination clause with a savings provision, probation, vacation, benefits and conditions of offer, with no non-compete.",
-      "source": {
-        "name": "goHeather",
-        "url": null,
-        "file": null
-      }
-    },
     {
       "path": "templates/us/commercial/amendments-and-extensions/common-paper-amendment.md",
       "title": "Common Paper Amendment",
@@ -1489,41 +1455,6 @@
       "source": {
         "name": "Papertrail",
         "url": "https://github.com/papertrail/legal-docs/blob/master/employee-nda.md",
-        "file": null
-      }
-    },
-    {
-      "path": "templates/us/employment/executive/executive-employment-agreement.md",
-      "title": "Executive Employment Agreement",
-      "jurisdiction": "US",
-      "category": "employment",
-      "subcategory": "executive",
-      "type": "agreement",
-      "variant": null,
-      "parties": [
-        "employer",
-        "executive"
-      ],
-      "tags": [
-        "ceo",
-        "executive",
-        "severance",
-        "change-of-control",
-        "equity",
-        "non-compete",
-        "good-reason",
-        "409a"
-      ],
-      "language": "en",
-      "governing_law": "State of [STATE]",
-      "license": "CC-BY-4.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "Full-form, state-neutral agreement for a C-level or senior executive hire: base salary, target bonus, equity with double-trigger acceleration, severance and change-of-control terms, Section 409A and 280G language, and restrictive covenants with a drafting note on state enforceability.",
-      "source": {
-        "name": "goHeather",
-        "url": null,
         "file": null
       }
     },

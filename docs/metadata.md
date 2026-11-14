@@ -17,11 +17,11 @@ tags: [ceo, severance, change-of-control, equity, non-compete]
 language: en
 governing_law: Delaware
 source:
-  name: goHeather
-  url: https://goheather.io
+  name: Example Publisher
+  url: https://example.org/templates/executive-employment-agreement
   file: sources/us/employment/executive/executive-employment-agreement--us-de--employer-favorable.docx
   retrieved: 2026-11-14
-  notes: Drafted in-house.
+  notes: Published under CC BY 4.0 (licence notice on the page). Wording unchanged.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -45,12 +45,12 @@ summary: One-paragraph plain-English description shown in the catalog.
 | `tags` | yes | list of kebab-case keywords | 3 to 10 tags. Think "what would someone search for". |
 | `language` | yes | ISO 639-1 code | `en`, `fr`, `es` ... |
 | `governing_law` | no | free text | Named governing law if the template fixes one. |
-| `source.name` | yes | free text | Who published the original. Use `goHeather` for in-house drafts. |
-| `source.url` | no | URL | Where the original was found. Strongly recommended for anything not drafted in-house. |
+| `source.name` | yes | free text | Who published the original. Never goHeather: goHeather gathers and organises templates and does not write them. |
+| `source.url` | yes | URL | Where the original was published. |
 | `source.file` | no | repo path | Original file (docx, pdf) kept under `sources/`, mirroring the template path. Must exist if set. |
-| `source.retrieved` | no | `YYYY-MM-DD` | Date the original was downloaded. |
+| `source.retrieved` | yes | `YYYY-MM-DD` | Date the original was downloaded. |
 | `source.notes` | no | free text | Licence evidence, permission links, what was changed from the original. |
-| `license` | yes | a key under `licenses` in `taxonomy.yaml` | The licence the **original** was published under, which is what lets us redistribute it. |
+| `license` | yes | a key under `licenses` in `taxonomy.yaml` | The licence the **original author** published the template under, which is what lets anyone redistribute it. goHeather holds no rights in the template text. |
 | `status` | yes | `draft`, `reviewed`, `approved`, `deprecated` | Every new template starts as `draft`. |
 | `version` | yes | semver `MAJOR.MINOR.PATCH` | Bump PATCH for typos, MINOR for clause changes, MAJOR for restructures. |
 | `last_reviewed` | yes | `YYYY-MM-DD` | Date of the last substantive review. |

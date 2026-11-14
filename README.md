@@ -1,8 +1,10 @@
 # Contract Templates
 
-A free, curated library of contract templates, maintained by [goHeather](https://goheather.io) (Tally Works Inc.). Every template is a Markdown file with structured metadata, filed by **jurisdiction → category → subcategory**, and checked by CI so the library stays neat as it grows to hundreds of documents.
+A free, curated collection of openly licensed contract templates from publishers such as Common Paper, Bonterms, OpenAgreements and General Legal, gathered and organised by [goHeather](https://goheather.io) (Tally Works Inc.). Every template is a Markdown file with structured metadata, filed by **jurisdiction → category → subcategory**, and checked by CI so the collection stays neat as it grows to hundreds of documents.
 
-**The text here is free to use, copy and adapt, always.** Each template carries the open licence its original author published it under, or CC BY 4.0 for the ones goHeather drafted, and every author is credited in [ATTRIBUTION.md](ATTRIBUTION.md). goHeather is building editable Word versions and an assistant connector for Claude and ChatGPT on top of this library; those will ask for a free goHeather account. This repository never will.
+**None of these documents were written by goHeather.** This is a collection: each template was published openly by its author (Common Paper, Bonterms, OpenAgreements, General Legal and others), is reproduced here under that author's licence, and is credited in [ATTRIBUTION.md](ATTRIBUTION.md). What goHeather adds is the organisation: one place, one taxonomy, consistent metadata, and a validator that keeps it that way. The text here is free to use, copy and adapt under each template's own licence, always. goHeather is building editable Word versions and an assistant connector for Claude and ChatGPT on top of this library; those will ask for a free goHeather account. This repository never will.
+
+This repository exists for two reasons. goHeather's own product uses these templates as starting points when its users build a contract. And anyone else can use them too, straight from this repository or through the assistant connector goHeather is building on top of it, because every template's licence already allows that. goHeather owns none of the documents; it helps people find and use them.
 
 Browse the **[Catalog](CATALOG.md)** or jump straight into the tree:
 
@@ -11,18 +13,18 @@ templates/
 ├── us/                         United States
 │   ├── employment/
 │   │   ├── offer-letters/
-│   │   ├── employment-agreements/
-│   │   ├── executive/
-│   │   │   └── executive-employment-agreement.md
+│   │   │   ├── employment-offer-letter.md
+│   │   │   └── employment-offer-letter--us-ca.md     (California-specific)
 │   │   ├── restrictive-covenants/
-│   │   └── separation-and-termination/
-│   ├── contractors/
+│   │   │   └── employee-restrictive-covenant-agreement--us-tx.md
+│   │   └── confidentiality-and-ip/
 │   ├── confidentiality/
+│   │   └── mutual-nda/
+│   │       ├── common-paper-mutual-nda.md
+│   │       └── bonterms-mutual-nda.md
+│   ├── technology/
 │   └── ...
 ├── ca/                         Canada
-│   └── employment/
-│       └── offer-letters/
-│           └── employment-offer-letter--ca-on.md     (Ontario-specific)
 ├── gb/                         United Kingdom
 └── intl/                       Jurisdiction-neutral
 ```
@@ -35,21 +37,24 @@ Each file opens with a YAML front-matter block that says exactly what it is, whe
 
 ```yaml
 ---
-title: Executive Employment Agreement
+title: Common Paper Mutual NDA
 jurisdiction: US
-category: employment
-subcategory: executive
+category: confidentiality
+subcategory: mutual-nda
 type: agreement
-parties: [employer, executive]
-tags: [ceo, severance, change-of-control, equity]
+parties: [disclosing-party, receiving-party]
+tags: [nda, mutual, confidentiality, cover-page]
 language: en
 source:
-  name: goHeather
+  name: Common Paper
+  url: https://commonpaper.com/standards/mutual-nda/
+  retrieved: 2026-11-14
+  notes: Text taken from github.com/CommonPaper/Mutual-NDA, unchanged; attribution line kept.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: 2026-11-14
-summary: Full-form agreement for a C-level hire with severance and change-of-control terms.
+summary: Two-way NDA in cover-page-plus-standard-terms form.
 ---
 ```
 
@@ -78,10 +83,9 @@ npm run build
 
 ## How we source and review
 
-The library only accepts templates we are clearly allowed to redistribute and adapt:
+The library only accepts templates their authors have clearly allowed everyone to redistribute and adapt:
 
-- **Drafted in-house** by goHeather and released under CC BY 4.0.
-- **Published under an open licence** that permits commercial use and modified redistribution: CC0, CC BY, MIT, Apache 2.0.
+- **Published under an open licence** that permits commercial use and modified redistribution: CC0, CC BY, MIT, Apache 2.0, or an equivalent permissive form licence.
 - **Public domain**, such as US federal government forms.
 - **Written permission** from the author, quoted or linked in the template's metadata.
 
@@ -105,7 +109,9 @@ Review status is recorded honestly. A template is `draft` until a reviewer has c
 
 ## Licence
 
-Templates drafted by goHeather, and the compilation as a whole, are released under [Creative Commons Attribution 4.0](LICENSE). Templates sourced from elsewhere carry their own open licence, recorded in each file's `license` field and credited in [ATTRIBUTION.md](ATTRIBUTION.md). The library only accepts sources that permit commercial use and modified redistribution.
+goHeather did not write these templates and does not own them. Every template was written by someone else and is reproduced here under the open licence its author published it under: that licence is recorded in the file's `license` field, the author is named in its `source` field, and every author is credited in [ATTRIBUTION.md](ATTRIBUTION.md). The library only accepts sources whose licence permits commercial use and modified redistribution.
+
+What goHeather made is the filing system around the documents: the taxonomy, the metadata, the catalog and the scripts. Those are released under the [MIT License](LICENSE). That licence does not cover the templates.
 
 ## Disclaimer
 

@@ -93,6 +93,7 @@ Software, SaaS, IT services and online platform agreements.
 | `api-terms/` | API and developer terms. |
 | `support-and-maintenance/` | Support, maintenance and managed-services agreements. |
 | `open-source/` | Contributor licence agreements and open-source project governance documents. |
+| `security-and-disclosure/` | Vulnerability disclosure, bug bounty safe-harbour and security policies. |
 
 ### Intellectual Property — `intellectual-property/`
 
@@ -184,6 +185,7 @@ Documents that settle, release or manage disputes.
 
 | Subcategory | What goes here |
 | --- | --- |
+| `demand-letters/` | Demand letters, cease-and-desist letters and other pre-action correspondence. |
 | `settlement/` | Settlement agreements. |
 | `release-and-waiver/` | General releases, waivers and liability waivers. |
 | `arbitration-and-mediation/` | Arbitration and mediation agreements and submission agreements. |
@@ -230,7 +232,9 @@ Standalone clauses to insert into other documents. Files here are type "clause".
 | `license` | Meaning |
 | --- | --- |
 | `CC0-1.0` | Creative Commons Zero (public-domain dedication) |
-| `CC-BY-4.0` | Creative Commons Attribution 4.0 (attribution required; goHeather's own drafts use this) |
+| `CC-BY-4.0` | Creative Commons Attribution 4.0 (attribution required) |
+| `CC-BY-3.0` | Creative Commons Attribution 3.0 Unported (attribution required; older works) |
+| `Mitchell-Law-Form-1.1` | Mitchell's Law Form License 1.1.0 (permissive; if the text is changed, drop or flag the form's distinctive title; no endorsement by contributors) |
 | `MIT` | MIT License |
 | `Apache-2.0` | Apache License 2.0 |
 | `Public-Domain` | US federal government work or other work in the public domain with no licence |

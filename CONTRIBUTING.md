@@ -6,10 +6,11 @@ This library will hold hundreds of templates. It stays useful only if every file
 
 Only add a template if you can show we are allowed to redistribute **and** adapt it **and** do so commercially. goHeather is a business; a licence that allows only non-commercial use does not cover us.
 
+goHeather does not write templates for this library and never claims to; everything here was published by someone else, and the job of a contributor is to record who, where and under what licence.
+
 | Situation | Add it? | `license` value |
 | --- | --- | --- |
-| Drafted in-house at goHeather | yes | `CC-BY-4.0` |
-| Published under CC0, CC BY, MIT or Apache 2.0 | yes | the matching key |
+| Published under CC0, CC BY (3.0 or 4.0), MIT, Apache 2.0 or Mitchell's Law Form License | yes | the matching key |
 | US federal government form, or statute-prescribed wording | yes | `Public-Domain` |
 | Author gave written permission to redistribute and adapt | yes, quote or link it in `source.notes` | `Permission-Granted` |
 | Published under CC BY-SA | no (share-alike would bind every adaptation we make) | |
@@ -20,7 +21,7 @@ Only add a template if you can show we are allowed to redistribute **and** adapt
 
 Record where it came from in `source.url` and the date in `source.retrieved`; the validator rejects third-party templates without them. If you change the original substantively, say so in `source.notes` (CC BY requires it). Credit is generated into `ATTRIBUTION.md` from these fields, so get the author's name exactly right in `source.name`.
 
-If a template you want is only available under terms that fail this table, the answer is to draft our own version from scratch. Reading the original to learn what the clause does is fine; copying its wording is not.
+If a template you want is only available under terms that fail this table, leave it out and, if it is worth it, ask the author for permission in writing. Do not copy its wording.
 
 ## 2. Intake workflow
 
