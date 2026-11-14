@@ -161,11 +161,26 @@ Where a template has been changed from the original, the change is described in 
 | [Project Code of Conduct Template (US)](templates/us/technology/open-source/project-code-of-conduct-template.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/templates/CODE_OF_CONDUCT.md) | 2026-11-14 |
 | [Project Governance Template (US)](templates/us/technology/open-source/project-governance-template.md) | MIT | [link](https://github.com/commonhaus/foundation/blob/main/templates/GOVERNANCE.md) | 2026-11-14 |
 
+## [Companies House](https://www.gov.uk/guidance/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Model Articles for Private Companies Limited by Guarantee (GB)](templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-guarantee.md) | OGL-UK-3.0 | [link](https://www.gov.uk/guidance/model-articles-of-association-for-limited-companies) | 2026-11-14 |
+| [Model Articles for Private Companies Limited by Shares (GB)](templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-shares.md) | OGL-UK-3.0 | [link](https://www.gov.uk/guidance/model-articles-of-association-for-limited-companies) | 2026-11-14 |
+| [Model Articles for Public Companies (GB)](templates/gb/corporate/formation/model-articles-for-public-companies.md) | OGL-UK-3.0 | [link](https://www.gov.uk/guidance/model-articles-of-association-for-limited-companies) | 2026-11-14 |
+
 ## [confcodeofconduct.com](https://confcodeofconduct.com/)
 
 | Template | Licence | Original | Retrieved |
 | --- | --- | --- | --- |
 | [Conference Code of Conduct Template (US)](templates/us/marketing-and-media/events/conference-code-of-conduct-template.md) | CC-BY-3.0 | [link](https://confcodeofconduct.com/) | 2026-11-14 |
+
+## [Consumer Affairs Victoria](https://www.consumer.vic.gov.au/housing/renting/starting-and-changing-rental-agreements/different-rental-agreements/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Residential Rental Agreement for a Fixed Term of More Than Five Years (Form 2) (AU-VIC)](templates/au/real-estate/residential-lease/residential-rental-agreement-for-a-fixed-term-of-more-than-five-years-form-2--au-vic.md) | CC-BY-4.0 | [link](https://www.consumer.vic.gov.au/housing/renting/starting-and-changing-rental-agreements/different-rental-agreements/residential-rental-agreements) | 2026-11-14 |
+| [Residential Rental Agreement (Form 1) (AU-VIC)](templates/au/real-estate/residential-lease/residential-rental-agreement-form-1--au-vic.md) | CC-BY-4.0 | [link](https://www.consumer.vic.gov.au/housing/renting/starting-and-changing-rental-agreements/different-rental-agreements/residential-rental-agreements) | 2026-11-14 |
 
 ## [Consumer Financial Protection Bureau](https://github.com/cfpb/debt-collection-files)
 
@@ -593,6 +608,16 @@ Where a template has been changed from the original, the change is described in 
 | [Flexible Remote Work (US)](templates/us/employment/remote-and-hybrid-work/flexible-remote-work.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/benefits/flexible-remote-work.html) | 2026-11-14 |
 | [Handbook Acknowledgement (US)](templates/us/employment/workplace-notices-and-forms/handbook-acknowledgement.md) | CC0-1.0 | [link](https://github.com/sparksuite/employee-handbook/blob/master/people-operations/handbook-acknowledgement.html) | 2026-11-14 |
 
+## [Startup Foundation (Series Seed Finland)](https://www.startup-saatio.fi/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Series Seed Finland Shareholders' Agreement (commented, FI)](templates/fi/corporate/shareholders-and-operating/series-seed-finland-shareholders-agreement--commented.md) | CC-BY-3.0 | [link](https://www.startup-saatio.fi/seriesseed) | 2026-11-14 |
+| [Series Seed Finland Shareholders' Agreement (FI)](templates/fi/corporate/shareholders-and-operating/series-seed-finland-shareholders-agreement.md) | CC-BY-3.0 | [link](https://www.startup-saatio.fi/seriesseed) | 2026-11-14 |
+| [Series Seed Finland Investment Agreement (commented, FI)](templates/fi/financing/investor-agreements/series-seed-finland-investment-agreement--commented.md) | CC-BY-3.0 | [link](https://www.startup-saatio.fi/seriesseed) | 2026-11-14 |
+| [Series Seed Finland Investment Agreement (FI)](templates/fi/financing/investor-agreements/series-seed-finland-investment-agreement.md) | CC-BY-3.0 | [link](https://www.startup-saatio.fi/seriesseed) | 2026-11-14 |
+| [Series Seed Finland Term Sheet (FI)](templates/fi/financing/investor-agreements/series-seed-finland-term-sheet.md) | CC-BY-3.0 | [link](https://www.startup-saatio.fi/seriesseed) | 2026-11-14 |
+
 ## [Tailscale](https://github.com/tailscale/terms-and-conditions/blob/main/)
 
 | Template | Licence | Original | Retrieved |
@@ -651,6 +676,25 @@ Where a template has been changed from the original, the change is described in 
 | --- | --- | --- | --- |
 | [SBA Model Debenture SBIC Limited Partnership Agreement (US)](templates/us/partnerships/general-partnership/sba-model-debenture-sbic-limited-partnership-agreement.md) | Public-Domain | [link](https://legacy.sba.gov/document/support--model-debenture-sbic-lp-model-partnership-agreement-version-30) | 2026-11-14 |
 
+## [UK Cabinet Office and Government Legal Department](https://www.gov.uk/government/publications/the-mid-tier-contract-core-terms)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Mid-Tier Contract Core Terms (GB)](templates/gb/commercial/supply-and-procurement/mid-tier-contract-core-terms.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/the-mid-tier-contract-core-terms) | 2026-11-14 |
+
+## [UK Intellectual Property Office](https://www.gov.uk/government/publications/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Example Mutual Non-Disclosure Agreement (UK IPO) (GB)](templates/gb/confidentiality/mutual-nda/example-mutual-non-disclosure-agreement-uk-ipo.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/non-disclosure-agreements) | 2026-11-14 |
+| [Example One-Way Non-Disclosure Agreement (UK IPO) (GB)](templates/gb/confidentiality/unilateral-nda/example-one-way-non-disclosure-agreement-uk-ipo.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/non-disclosure-agreements) | 2026-11-14 |
+
+## [UK Intellectual Property Office (Lambert Toolkit)](https://www.gov.uk/guidance/lambert-toolkit)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Lambert Toolkit Fast Track Model Agreement (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-toolkit-fast-track-model-agreement.md) | OGL-UK-3.0 | [link](https://www.gov.uk/guidance/lambert-toolkit) | 2026-11-14 |
+
 ## [USDA Agricultural Research Service (Office of Technology Transfer)](https://www.ars.usda.gov/ott/)
 
 | Template | Licence | Original | Retrieved |
@@ -683,6 +727,7 @@ Where a template has been changed from the original, the change is described in 
 | Waypoint-NDA-License | https://waypointnda.com/license |
 | Guestbook-NDA-License | https://guestbooknda.com/license |
 | Blue-Oak-Form-License | https://blueoakcouncil.org/contributor/1.0.0 |
+| OGL-UK-3.0 | https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ |
 | MIT | https://opensource.org/license/mit |
 | Apache-2.0 | https://www.apache.org/licenses/LICENSE-2.0 |
 | Public-Domain | https://www.copyright.gov/title17/92chap1.html#105 |

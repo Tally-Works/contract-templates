@@ -17,6 +17,7 @@ Every template lives at `templates/<jurisdiction>/<category>/<subcategory>/<file
 | `eu/` | European Union | EU-wide instruments only (e.g. GDPR DPAs, SCCs). Member-state templates go under their own country. |
 | `in/` | India |  |
 | `sg/` | Singapore |  |
+| `fi/` | Finland |  |
 | `intl/` | International / jurisdiction-neutral | Templates drafted to work anywhere, or cross-border instruments with no single governing jurisdiction. |
 
 ## Categories and subcategories
@@ -238,6 +239,7 @@ Standalone clauses to insert into other documents. Files here are type "clause".
 | `Waypoint-NDA-License` | The Waypoint NDA licence (permission to do everything with the form; if changed other than filling blanks, remove the Waypoint name) |
 | `Guestbook-NDA-License` | The Guestbook NDA licence (permission to do everything with the form; if changed other than filling blanks, remove the Guestbook name) |
 | `Blue-Oak-Form-License` | Blue Oak Council contributor-form grant (licence to do everything with the form; a changed version must not be called Blue Oak) |
+| `OGL-UK-3.0` | UK Open Government Licence v3.0 (Crown copyright; attribution "Contains public sector information licensed under the Open Government Licence v3.0") |
 | `MIT` | MIT License |
 | `Apache-2.0` | Apache License 2.0 |
 | `Public-Domain` | US federal government work or other work in the public domain with no licence |

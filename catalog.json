@@ -1,7 +1,74 @@
 {
   "generated_from": "taxonomy.yaml + templates/**",
-  "count": 446,
+  "count": 460,
   "templates": [
+    {
+      "path": "templates/au/real-estate/residential-lease/residential-rental-agreement-for-a-fixed-term-of-more-than-five-years-form-2--au-vic.md",
+      "docx": "templates/au/real-estate/residential-lease/residential-rental-agreement-for-a-fixed-term-of-more-than-five-years-form-2--au-vic.docx",
+      "docx_is_publisher_original": true,
+      "title": "Residential Rental Agreement for a Fixed Term of More Than Five Years (Form 2)",
+      "jurisdiction": "AU-VIC",
+      "category": "real-estate",
+      "subcategory": "residential-lease",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "rental-provider",
+        "renter"
+      ],
+      "tags": [
+        "lease",
+        "residential",
+        "long-term",
+        "victoria",
+        "prescribed-form"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Consumer Affairs Victoria's prescribed Form 2 residential rental agreement for fixed terms over five years.",
+      "source": {
+        "name": "Consumer Affairs Victoria",
+        "url": "https://www.consumer.vic.gov.au/housing/renting/starting-and-changing-rental-agreements/different-rental-agreements/residential-rental-agreements",
+        "file": "templates/au/real-estate/residential-lease/residential-rental-agreement-for-a-fixed-term-of-more-than-five-years-form-2--au-vic.docx"
+      }
+    },
+    {
+      "path": "templates/au/real-estate/residential-lease/residential-rental-agreement-form-1--au-vic.md",
+      "docx": "templates/au/real-estate/residential-lease/residential-rental-agreement-form-1--au-vic.docx",
+      "docx_is_publisher_original": true,
+      "title": "Residential Rental Agreement (Form 1)",
+      "jurisdiction": "AU-VIC",
+      "category": "real-estate",
+      "subcategory": "residential-lease",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "rental-provider",
+        "renter"
+      ],
+      "tags": [
+        "lease",
+        "residential",
+        "victoria",
+        "prescribed-form"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Consumer Affairs Victoria's prescribed Form 1 residential rental agreement for terms of five years or less.",
+      "source": {
+        "name": "Consumer Affairs Victoria",
+        "url": "https://www.consumer.vic.gov.au/housing/renting/starting-and-changing-rental-agreements/different-rental-agreements/residential-rental-agreements",
+        "file": "templates/au/real-estate/residential-lease/residential-rental-agreement-form-1--au-vic.docx"
+      }
+    },
     {
       "path": "templates/ca/clauses/boilerplate/amendment-clause.md",
       "docx": "templates/ca/clauses/boilerplate/amendment-clause.docx",
@@ -755,6 +822,240 @@
       }
     },
     {
+      "path": "templates/fi/corporate/shareholders-and-operating/series-seed-finland-shareholders-agreement--commented.md",
+      "docx": "templates/fi/corporate/shareholders-and-operating/series-seed-finland-shareholders-agreement--commented.docx",
+      "docx_is_publisher_original": true,
+      "title": "Series Seed Finland Shareholders' Agreement",
+      "jurisdiction": "FI",
+      "category": "corporate",
+      "subcategory": "shareholders-and-operating",
+      "type": "agreement",
+      "variant": "commented",
+      "parties": [
+        "shareholders",
+        "company"
+      ],
+      "tags": [
+        "shareholders-agreement",
+        "seed",
+        "annotated",
+        "series-seed-finland",
+        "finland"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Series Seed Finland 4.0 shareholders' agreement with the drafters' commentary.",
+      "source": {
+        "name": "Startup Foundation (Series Seed Finland)",
+        "url": "https://www.startup-saatio.fi/seriesseed",
+        "file": "templates/fi/corporate/shareholders-and-operating/series-seed-finland-shareholders-agreement--commented.docx"
+      }
+    },
+    {
+      "path": "templates/fi/corporate/shareholders-and-operating/series-seed-finland-shareholders-agreement.md",
+      "docx": "templates/fi/corporate/shareholders-and-operating/series-seed-finland-shareholders-agreement.docx",
+      "docx_is_publisher_original": true,
+      "title": "Series Seed Finland Shareholders' Agreement",
+      "jurisdiction": "FI",
+      "category": "corporate",
+      "subcategory": "shareholders-and-operating",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "shareholders",
+        "company"
+      ],
+      "tags": [
+        "shareholders-agreement",
+        "seed",
+        "series-seed-finland",
+        "finland"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Series Seed Finland 4.0 shareholders' agreement.",
+      "source": {
+        "name": "Startup Foundation (Series Seed Finland)",
+        "url": "https://www.startup-saatio.fi/seriesseed",
+        "file": "templates/fi/corporate/shareholders-and-operating/series-seed-finland-shareholders-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/fi/financing/investor-agreements/series-seed-finland-investment-agreement--commented.md",
+      "docx": "templates/fi/financing/investor-agreements/series-seed-finland-investment-agreement--commented.docx",
+      "docx_is_publisher_original": true,
+      "title": "Series Seed Finland Investment Agreement",
+      "jurisdiction": "FI",
+      "category": "financing",
+      "subcategory": "investor-agreements",
+      "type": "agreement",
+      "variant": "commented",
+      "parties": [
+        "company",
+        "investors"
+      ],
+      "tags": [
+        "investment-agreement",
+        "seed",
+        "annotated",
+        "series-seed-finland",
+        "finland"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Series Seed Finland 4.0 investment agreement with the drafters' commentary.",
+      "source": {
+        "name": "Startup Foundation (Series Seed Finland)",
+        "url": "https://www.startup-saatio.fi/seriesseed",
+        "file": "templates/fi/financing/investor-agreements/series-seed-finland-investment-agreement--commented.docx"
+      }
+    },
+    {
+      "path": "templates/fi/financing/investor-agreements/series-seed-finland-investment-agreement.md",
+      "docx": "templates/fi/financing/investor-agreements/series-seed-finland-investment-agreement.docx",
+      "docx_is_publisher_original": true,
+      "title": "Series Seed Finland Investment Agreement",
+      "jurisdiction": "FI",
+      "category": "financing",
+      "subcategory": "investor-agreements",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "investors"
+      ],
+      "tags": [
+        "investment-agreement",
+        "seed",
+        "series-seed-finland",
+        "finland"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Series Seed Finland 4.0 investment agreement.",
+      "source": {
+        "name": "Startup Foundation (Series Seed Finland)",
+        "url": "https://www.startup-saatio.fi/seriesseed",
+        "file": "templates/fi/financing/investor-agreements/series-seed-finland-investment-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/fi/financing/investor-agreements/series-seed-finland-term-sheet.md",
+      "docx": "templates/fi/financing/investor-agreements/series-seed-finland-term-sheet.docx",
+      "docx_is_publisher_original": true,
+      "title": "Series Seed Finland Term Sheet",
+      "jurisdiction": "FI",
+      "category": "financing",
+      "subcategory": "investor-agreements",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "investors"
+      ],
+      "tags": [
+        "term-sheet",
+        "seed",
+        "series-seed-finland",
+        "finland"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Series Seed Finland 4.0 term sheet for a seed financing of a Finnish company.",
+      "source": {
+        "name": "Startup Foundation (Series Seed Finland)",
+        "url": "https://www.startup-saatio.fi/seriesseed",
+        "file": "templates/fi/financing/investor-agreements/series-seed-finland-term-sheet.docx"
+      }
+    },
+    {
+      "path": "templates/gb/commercial/supply-and-procurement/mid-tier-contract-core-terms.md",
+      "docx": "templates/gb/commercial/supply-and-procurement/mid-tier-contract-core-terms.docx",
+      "docx_is_publisher_original": true,
+      "title": "Mid-Tier Contract Core Terms",
+      "jurisdiction": "GB",
+      "category": "commercial",
+      "subcategory": "supply-and-procurement",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "buyer",
+        "supplier"
+      ],
+      "tags": [
+        "public-procurement",
+        "mid-tier-contract",
+        "core-terms",
+        "cabinet-office",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The UK Cabinet Office Mid-Tier Contract core terms (v1.3A, 2025) for medium-value public-sector goods and services contracts.",
+      "source": {
+        "name": "UK Cabinet Office and Government Legal Department",
+        "url": "https://www.gov.uk/government/publications/the-mid-tier-contract-core-terms",
+        "file": "templates/gb/commercial/supply-and-procurement/mid-tier-contract-core-terms.docx"
+      }
+    },
+    {
+      "path": "templates/gb/confidentiality/mutual-nda/example-mutual-non-disclosure-agreement-uk-ipo.md",
+      "docx": "templates/gb/confidentiality/mutual-nda/example-mutual-non-disclosure-agreement-uk-ipo.docx",
+      "docx_is_publisher_original": true,
+      "title": "Example Mutual Non-Disclosure Agreement (UK IPO)",
+      "jurisdiction": "GB",
+      "category": "confidentiality",
+      "subcategory": "mutual-nda",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "party-a",
+        "party-b"
+      ],
+      "tags": [
+        "nda",
+        "mutual",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The UK Intellectual Property Office's example mutual non-disclosure agreement (2015).",
+      "source": {
+        "name": "UK Intellectual Property Office",
+        "url": "https://www.gov.uk/government/publications/non-disclosure-agreements",
+        "file": "templates/gb/confidentiality/mutual-nda/example-mutual-non-disclosure-agreement-uk-ipo.docx"
+      }
+    },
+    {
       "path": "templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.md",
       "docx": "templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.docx",
       "docx_is_publisher_original": true,
@@ -785,6 +1086,39 @@
         "name": "Documize",
         "url": "https://github.com/documize/document-templates",
         "file": "templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/gb/confidentiality/unilateral-nda/example-one-way-non-disclosure-agreement-uk-ipo.md",
+      "docx": "templates/gb/confidentiality/unilateral-nda/example-one-way-non-disclosure-agreement-uk-ipo.docx",
+      "docx_is_publisher_original": true,
+      "title": "Example One-Way Non-Disclosure Agreement (UK IPO)",
+      "jurisdiction": "GB",
+      "category": "confidentiality",
+      "subcategory": "unilateral-nda",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "discloser",
+        "recipient"
+      ],
+      "tags": [
+        "nda",
+        "one-way",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The UK Intellectual Property Office's example one-way non-disclosure agreement (2015).",
+      "source": {
+        "name": "UK Intellectual Property Office",
+        "url": "https://www.gov.uk/government/publications/non-disclosure-agreements",
+        "file": "templates/gb/confidentiality/unilateral-nda/example-one-way-non-disclosure-agreement-uk-ipo.docx"
       }
     },
     {
@@ -819,6 +1153,142 @@
         "name": "Documize",
         "url": "https://github.com/documize/document-templates",
         "file": "templates/gb/contractors/statement-of-work/statement-of-work.docx"
+      }
+    },
+    {
+      "path": "templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-guarantee.md",
+      "docx": "templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-guarantee.docx",
+      "docx_is_publisher_original": true,
+      "title": "Model Articles for Private Companies Limited by Guarantee",
+      "jurisdiction": "GB",
+      "category": "corporate",
+      "subcategory": "formation",
+      "type": "charter",
+      "variant": null,
+      "parties": [
+        "company",
+        "members"
+      ],
+      "tags": [
+        "model-articles",
+        "articles-of-association",
+        "company-limited-by-guarantee",
+        "companies-house",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Companies House model articles of association for a private company limited by guarantee (Schedule 2).",
+      "source": {
+        "name": "Companies House",
+        "url": "https://www.gov.uk/guidance/model-articles-of-association-for-limited-companies",
+        "file": "templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-guarantee.docx"
+      }
+    },
+    {
+      "path": "templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-shares.md",
+      "docx": "templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-shares.docx",
+      "docx_is_publisher_original": true,
+      "title": "Model Articles for Private Companies Limited by Shares",
+      "jurisdiction": "GB",
+      "category": "corporate",
+      "subcategory": "formation",
+      "type": "charter",
+      "variant": null,
+      "parties": [
+        "company",
+        "shareholders"
+      ],
+      "tags": [
+        "model-articles",
+        "articles-of-association",
+        "private-company",
+        "companies-house",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Companies House model articles of association for a private company limited by shares (Companies (Model Articles) Regulations 2008, Schedule 1).",
+      "source": {
+        "name": "Companies House",
+        "url": "https://www.gov.uk/guidance/model-articles-of-association-for-limited-companies",
+        "file": "templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-shares.docx"
+      }
+    },
+    {
+      "path": "templates/gb/corporate/formation/model-articles-for-public-companies.md",
+      "docx": "templates/gb/corporate/formation/model-articles-for-public-companies.docx",
+      "docx_is_publisher_original": true,
+      "title": "Model Articles for Public Companies",
+      "jurisdiction": "GB",
+      "category": "corporate",
+      "subcategory": "formation",
+      "type": "charter",
+      "variant": null,
+      "parties": [
+        "company",
+        "shareholders"
+      ],
+      "tags": [
+        "model-articles",
+        "articles-of-association",
+        "public-company",
+        "companies-house",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Companies House model articles of association for a public company (Schedule 3, version for companies incorporated after 28 April 2013).",
+      "source": {
+        "name": "Companies House",
+        "url": "https://www.gov.uk/guidance/model-articles-of-association-for-limited-companies",
+        "file": "templates/gb/corporate/formation/model-articles-for-public-companies.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-toolkit-fast-track-model-agreement.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-toolkit-fast-track-model-agreement.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Toolkit Fast Track Model Agreement",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "university",
+        "company"
+      ],
+      "tags": [
+        "lambert",
+        "research-collaboration",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The Lambert Toolkit fast-track model agreement for university-business research collaboration, originally developed with Public Health England.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/guidance/lambert-toolkit",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-toolkit-fast-track-model-agreement.docx"
       }
     },
     {

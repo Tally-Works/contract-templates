@@ -4,7 +4,7 @@
 
 Every template is a Markdown file with a Word (.docx) file of the same name beside it. "original" marks the publisher's own file; the others are generated from the Markdown.
 
-446 template(s). Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.
+460 template(s). Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.
 
 ## By jurisdiction
 
@@ -12,13 +12,14 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | --- | ---: |
 | United States (`us`) | 394 |
 | Canada (`ca`) | 23 |
-| United Kingdom (`gb`) | 2 |
+| United Kingdom (`gb`) | 9 |
 | Ireland (`ie`) | 0 |
-| Australia (`au`) | 0 |
+| Australia (`au`) | 2 |
 | New Zealand (`nz`) | 0 |
 | European Union (`eu`) | 0 |
 | India (`in`) | 0 |
 | Singapore (`sg`) | 0 |
+| Finland (`fi`) | 5 |
 | International / jurisdiction-neutral (`intl`) | 27 |
 
 ## By category
@@ -27,15 +28,15 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | --- | ---: |
 | Employment (`employment`) | 127 |
 | Contractors & Consultants (`contractors`) | 7 |
-| Confidentiality (`confidentiality`) | 25 |
-| Commercial (`commercial`) | 19 |
+| Confidentiality (`confidentiality`) | 27 |
+| Commercial (`commercial`) | 20 |
 | Technology (`technology`) | 62 |
 | Intellectual Property (`intellectual-property`) | 33 |
 | Privacy & Data (`privacy-and-data`) | 48 |
-| Corporate (`corporate`) | 49 |
-| Financing (`financing`) | 10 |
-| Real Estate (`real-estate`) | 15 |
-| Partnerships & Joint Ventures (`partnerships`) | 18 |
+| Corporate (`corporate`) | 54 |
+| Financing (`financing`) | 13 |
+| Real Estate (`real-estate`) | 17 |
+| Partnerships & Joint Ventures (`partnerships`) | 19 |
 | Marketing & Media (`marketing-and-media`) | 9 |
 | Dispute Resolution (`dispute-resolution`) | 3 |
 | Clause Library (`clauses`) | 21 |
@@ -823,11 +824,76 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 #### Confidentiality
 
+**mutual-nda** — Mutual / bilateral non-disclosure agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Example Mutual Non-Disclosure Agreement (UK IPO)](templates/gb/confidentiality/mutual-nda/example-mutual-non-disclosure-agreement-uk-ipo.md) | [docx](templates/gb/confidentiality/mutual-nda/example-mutual-non-disclosure-agreement-uk-ipo.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | nda, mutual, ipo, crown-copyright |
+
 **unilateral-nda** — One-way non-disclosure agreements.
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Basic Non-Disclosure Agreement](templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.md) | [docx](templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.docx) (original) | GB | agreement | draft | MIT | nda, one-way, confidentiality, documize |
+| [Example One-Way Non-Disclosure Agreement (UK IPO)](templates/gb/confidentiality/unilateral-nda/example-one-way-non-disclosure-agreement-uk-ipo.md) | [docx](templates/gb/confidentiality/unilateral-nda/example-one-way-non-disclosure-agreement-uk-ipo.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | nda, one-way, ipo, crown-copyright |
+
+#### Commercial
+
+**supply-and-procurement** — Supply chain, procurement and vendor agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Mid-Tier Contract Core Terms](templates/gb/commercial/supply-and-procurement/mid-tier-contract-core-terms.md) | [docx](templates/gb/commercial/supply-and-procurement/mid-tier-contract-core-terms.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | public-procurement, mid-tier-contract, core-terms, cabinet-office, crown-copyright |
+
+#### Corporate
+
+**formation** — Articles, certificates of incorporation and formation documents.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Model Articles for Private Companies Limited by Guarantee](templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-guarantee.md) | [docx](templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-guarantee.docx) (original) | GB | charter | draft | OGL-UK-3.0 | model-articles, articles-of-association, company-limited-by-guarantee, companies-house, crown-copyright |
+| [Model Articles for Private Companies Limited by Shares](templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-shares.md) | [docx](templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-shares.docx) (original) | GB | charter | draft | OGL-UK-3.0 | model-articles, articles-of-association, private-company, companies-house, crown-copyright |
+| [Model Articles for Public Companies](templates/gb/corporate/formation/model-articles-for-public-companies.md) | [docx](templates/gb/corporate/formation/model-articles-for-public-companies.docx) (original) | GB | charter | draft | OGL-UK-3.0 | model-articles, articles-of-association, public-company, companies-house, crown-copyright |
+
+#### Partnerships & Joint Ventures
+
+**collaboration-and-mou** — Memoranda of understanding, letters of intent and collaboration agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Lambert Toolkit Fast Track Model Agreement](templates/gb/partnerships/collaboration-and-mou/lambert-toolkit-fast-track-model-agreement.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-toolkit-fast-track-model-agreement.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, research-collaboration, university-industry, ipo, crown-copyright |
+
+### Australia (`au`)
+
+#### Real Estate
+
+**residential-lease** — Residential tenancy and lease agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Residential Rental Agreement for a Fixed Term of More Than Five Years (Form 2)](templates/au/real-estate/residential-lease/residential-rental-agreement-for-a-fixed-term-of-more-than-five-years-form-2--au-vic.md) | [docx](templates/au/real-estate/residential-lease/residential-rental-agreement-for-a-fixed-term-of-more-than-five-years-form-2--au-vic.docx) (original) | AU-VIC | agreement | draft | CC-BY-4.0 | lease, residential, long-term, victoria, prescribed-form |
+| [Residential Rental Agreement (Form 1)](templates/au/real-estate/residential-lease/residential-rental-agreement-form-1--au-vic.md) | [docx](templates/au/real-estate/residential-lease/residential-rental-agreement-form-1--au-vic.docx) (original) | AU-VIC | agreement | draft | CC-BY-4.0 | lease, residential, victoria, prescribed-form |
+
+### Finland (`fi`)
+
+#### Corporate
+
+**shareholders-and-operating** — Shareholder agreements, operating agreements and unanimous shareholder agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Series Seed Finland Shareholders' Agreement (commented)](templates/fi/corporate/shareholders-and-operating/series-seed-finland-shareholders-agreement--commented.md) | [docx](templates/fi/corporate/shareholders-and-operating/series-seed-finland-shareholders-agreement--commented.docx) (original) | FI | agreement | draft | CC-BY-3.0 | shareholders-agreement, seed, annotated, series-seed-finland, finland |
+| [Series Seed Finland Shareholders' Agreement](templates/fi/corporate/shareholders-and-operating/series-seed-finland-shareholders-agreement.md) | [docx](templates/fi/corporate/shareholders-and-operating/series-seed-finland-shareholders-agreement.docx) (original) | FI | agreement | draft | CC-BY-3.0 | shareholders-agreement, seed, series-seed-finland, finland |
+
+#### Financing
+
+**investor-agreements** — Subscription agreements, investor rights and side letters.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Series Seed Finland Investment Agreement (commented)](templates/fi/financing/investor-agreements/series-seed-finland-investment-agreement--commented.md) | [docx](templates/fi/financing/investor-agreements/series-seed-finland-investment-agreement--commented.docx) (original) | FI | agreement | draft | CC-BY-3.0 | investment-agreement, seed, annotated, series-seed-finland, finland |
+| [Series Seed Finland Investment Agreement](templates/fi/financing/investor-agreements/series-seed-finland-investment-agreement.md) | [docx](templates/fi/financing/investor-agreements/series-seed-finland-investment-agreement.docx) (original) | FI | agreement | draft | CC-BY-3.0 | investment-agreement, seed, series-seed-finland, finland |
+| [Series Seed Finland Term Sheet](templates/fi/financing/investor-agreements/series-seed-finland-term-sheet.md) | [docx](templates/fi/financing/investor-agreements/series-seed-finland-term-sheet.docx) (original) | FI | agreement | draft | CC-BY-3.0 | term-sheet, seed, series-seed-finland, finland |
 
 ### International / jurisdiction-neutral (`intl`)
 
