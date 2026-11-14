@@ -6,7 +6,7 @@ Every template in this library was published by its original author under a lice
 
 Where a template has been changed from the original, the change is described in the template's `source.notes` field.
 
-## goHeather
+## [goHeather](https://goheather.io)
 
 | Template | Licence | Original | Retrieved |
 | --- | --- | --- | --- |

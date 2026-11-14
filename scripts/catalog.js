@@ -429,7 +429,7 @@ function buildAttributionMd(results, taxonomy) {
   for (const e of entries) {
     const name = String(e.meta.source.name);
     const key = name.toLowerCase();
-    if (!bySource.has(key)) bySource.set(key, { name, url: e.meta.source.url || null, templates: [] });
+    if (!bySource.has(key)) bySource.set(key, { name, url: e.meta.source.url || (key === 'goheather' ? 'https://goheather.io' : null), templates: [] });
     const s = bySource.get(key);
     if (!s.url && e.meta.source.url) s.url = e.meta.source.url;
     s.templates.push(e);
