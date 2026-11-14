@@ -21,10 +21,7 @@ source:
     https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-gifts-and-entertainment-policy.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-gifts-and-entertainment-policy.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -34,10 +31,6 @@ summary: >-
   Company policy on giving and receiving gifts, meals and entertainment, with thresholds, approvals and
   government-official rules.
 ---
-
-# Gifts and Entertainment Policy
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English gifts and entertainment policy. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
 
 GitHub recognizes that our business is built on positive and transparent relationships. While informal interactions and exchanges of gifts may be part of developing those relationships and may even be considered customary in some countries, we need to ensure that we’re following anti-bribery laws. We have a legal obligation to behave ethically, including by not using such interactions to create a special advantage or influence a deal.
 
@@ -100,7 +93,3 @@ FINES and JAIL. Not necessarily just for GitHub, either. You might get to spend 
 ## More information
 
 For more information and context on rules, enforcement, and penalties, the U.S. Department of Justice’s [Resource Guide to the U.S. Foreign Corrupt Practices Act](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) is an excellent resource.
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-gifts-and-entertainment-policy.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

@@ -19,10 +19,7 @@ source:
   file: templates/us/corporate/equity-and-stock/membership-interest-purchase-agreement--us-de.docx
   retrieved: "2026-11-14"
   notes: >-
-    From General Legal's "Agent-Operated Company Formation Package" (general.legal/library states all templates are
-    released under CC0 1.0; the package page carries the same CC0 notice). Converted from the docx in the package zip
-    (kept under sources/); the drafting note at the top is General Legal's own, reformatted as a blockquote. Wording
-    unchanged.
+    Converted to Markdown from the publisher's own Word file (membership-interest-purchase-agreement--us-de.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -34,9 +31,7 @@ summary: >-
   AI-governance provisions, which can be removed.
 ---
 
-# Membership Interest Purchase Agreement
-
-> **Drafting note (from General Legal):** Issues founder Membership Interests so a human holds the equity of the LLC. Confirm with counsel and the Company’s tax advisors whether the Purchaser’s admission as a Member affects the Purchaser’s ability to simultaneously be treated as a W-2 employee — under longstanding IRS guidance (Rev. Rul. 69-184, reinforced by Treasury regulations finalized in 2016), a partner/member in an entity taxed as a partnership generally cannot also be its employee, which may require restructuring compensation as guaranteed payments or self-employment income. Replace bracketed terms.
+***Drafting note (delete before use):*** *Issues founder Membership Interests so a human holds the equity of the LLC. Confirm with counsel and the Company’s tax advisors whether the Purchaser’s admission as a Member affects the Purchaser’s ability to simultaneously be treated as a W-2 employee — under longstanding IRS guidance (Rev. Rul. 69-184, reinforced by Treasury regulations finalized in 2016), a partner/member in an entity taxed as a partnership generally cannot also be its employee, which may require restructuring compensation as guaranteed payments or self-employment income. Replace bracketed terms.*
 
 **MEMBERSHIP INTEREST PURCHASE AGREEMENT**
 
@@ -81,7 +76,3 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *[PURCHASER NAME]*
-
----
-
-Published by [General Legal](https://general.legal/library/agent-operated-company-formation-package) under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). General Legal asks that its credit footnote be kept when the template is reproduced, and it is.

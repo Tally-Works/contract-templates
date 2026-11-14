@@ -20,9 +20,7 @@ source:
   url: https://commonpaper.com/standards/pilot-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken from the official Markdown in github.com/CommonPaper/Pilot-Agreement (Standard Terms Version 1.1).
-    Wording unchanged; HTML span markup stripped. Common Paper publishes all standard agreements under CC BY 4.0
-    (commonpaper.com/standards) and asks that the attribution line and link be kept, which they are.
+    Text taken verbatim from Pilot-Agreement.md in github.com/CommonPaper/Pilot-Agreement (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -34,7 +32,7 @@ summary: >-
   cover page.
 ---
 
-# Common Paper Pilot Agreement
+# Pilot Agreement
 
 1. Pilot Access
     1. Access and Use.  During the Pilot Period and subject to the terms of this Agreement, Customer may access and use the Product solely for Customer's Evaluation Purposes.
@@ -103,7 +101,3 @@ summary: >-
     16. **"Software"** means the client-side software or applications made available by Provider for Customer to install, download (whether onto a machine or in a browser), or execute as part of the Product.
     17. **"Standard Terms"** means these Common Paper Pilot Agreement Standard Terms Version 1.1, which are posted at <https://commonpaper.com/standards/pilot-agreement/1.1>.
     18. **"User"** means any individual who uses the Product on Customer's behalf or through Customer's account.
-
----
-
-Common Paper Pilot Agreement Standard Terms Version 1.1, published by [Common Paper](https://commonpaper.com/standards/pilot-agreement/) and free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged.

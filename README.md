@@ -69,7 +69,7 @@ The validator refuses any file whose metadata disagrees with its folder or filen
 5. Replace every `[BRACKETED]` placeholder and delete the drafting notes.
 6. Have a lawyer in your jurisdiction review it before you sign it. See the disclaimer below.
 
-Every template is complete on its own. Where a document is designed to incorporate another set of terms (an order form, a cover page, a statement of work), those terms are in this library too and the template says where.
+Every document is reproduced exactly as its publisher released it: nothing added, nothing removed, every notice and credit kept. Where a document is designed to incorporate another set of terms (an order form, a cover page, a statement of work), those terms are in this library too and are listed in the template's `related` metadata.
 
 ## Adding templates
 

@@ -1,6 +1,6 @@
 {
   "generated_from": "taxonomy.yaml + templates/**",
-  "count": 211,
+  "count": 222,
   "templates": [
     {
       "path": "templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.md",
@@ -103,6 +103,39 @@
       }
     },
     {
+      "path": "templates/us/commercial/master-services/bonterms-climate-addendum-cover-page.md",
+      "docx": "templates/us/commercial/master-services/bonterms-climate-addendum-cover-page.docx",
+      "docx_is_publisher_original": true,
+      "title": "Bonterms Climate Addendum Cover Page",
+      "jurisdiction": "US",
+      "category": "commercial",
+      "subcategory": "master-services",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "cover-page",
+        "climate",
+        "addendum",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for the Bonterms Climate Addendum (Version 1.0).",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/climate-addendum-version-1-0-cover-page-example",
+        "file": "templates/us/commercial/master-services/bonterms-climate-addendum-cover-page.docx"
+      }
+    },
+    {
       "path": "templates/us/commercial/master-services/bonterms-climate-addendum.md",
       "docx": "templates/us/commercial/master-services/bonterms-climate-addendum.docx",
       "docx_is_publisher_original": false,
@@ -171,6 +204,39 @@
         "name": "Bonterms",
         "url": "https://bonterms.com/standard/professional-services-agreement-v1.2",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/commercial/master-services/bonterms-psa-cover-page.md",
+      "docx": "templates/us/commercial/master-services/bonterms-psa-cover-page.docx",
+      "docx_is_publisher_original": true,
+      "title": "Bonterms PSA Cover Page",
+      "jurisdiction": "US",
+      "category": "commercial",
+      "subcategory": "master-services",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "cover-page",
+        "professional-services",
+        "psa",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for the Bonterms Professional Services Agreement.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/psa-cover-page-example",
+        "file": "templates/us/commercial/master-services/bonterms-psa-cover-page.docx"
       }
     },
     {
@@ -417,6 +483,39 @@
       }
     },
     {
+      "path": "templates/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page.md",
+      "docx": "templates/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page.docx",
+      "docx_is_publisher_original": true,
+      "title": "Bonterms Mutual NDA Cover Page",
+      "jurisdiction": "US",
+      "category": "confidentiality",
+      "subcategory": "mutual-nda",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "discloser",
+        "recipient"
+      ],
+      "tags": [
+        "cover-page",
+        "nda",
+        "mutual",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page that, when signed, creates a Mutual NDA on the Bonterms Mutual NDA standard terms: purpose, effective date, term, confidentiality period, governing law and courts.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/mutual-nda-cover-page-example",
+        "file": "templates/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page.docx"
+      }
+    },
+    {
       "path": "templates/us/confidentiality/mutual-nda/bonterms-mutual-nda.md",
       "docx": "templates/us/confidentiality/mutual-nda/bonterms-mutual-nda.docx",
       "docx_is_publisher_original": false,
@@ -448,6 +547,39 @@
       "source": {
         "name": "Bonterms",
         "url": "https://bonterms.com/standard/bonterms-mutual-nda-v1",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/confidentiality/mutual-nda/common-paper-mutual-nda-cover-page.md",
+      "docx": "templates/us/confidentiality/mutual-nda/common-paper-mutual-nda-cover-page.docx",
+      "docx_is_publisher_original": false,
+      "title": "Common Paper Mutual NDA Cover Page",
+      "jurisdiction": "US",
+      "category": "confidentiality",
+      "subcategory": "mutual-nda",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "disclosing-party",
+        "receiving-party"
+      ],
+      "tags": [
+        "cover-page",
+        "nda",
+        "mutual",
+        "common-paper"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The cover page that, when completed and signed, forms a Mutual NDA on the Common Paper Mutual NDA Standard Terms (Version 1.0): purpose, term, governing law and the parties.",
+      "source": {
+        "name": "Common Paper",
+        "url": "https://commonpaper.com/standards/mutual-nda/",
         "file": null
       }
     },
@@ -1686,10 +1818,74 @@
       }
     },
     {
-      "path": "templates/us/corporate/formation/company-formation-filing-instructions.md",
-      "docx": "templates/us/corporate/formation/company-formation-filing-instructions.docx",
+      "path": "templates/us/corporate/formation/delaware-filing-instructions.md",
+      "docx": "templates/us/corporate/formation/delaware-filing-instructions.docx",
       "docx_is_publisher_original": false,
-      "title": "Company Formation Filing Instructions",
+      "title": "Delaware Filing Instructions",
+      "jurisdiction": "US",
+      "category": "corporate",
+      "subcategory": "formation",
+      "type": "checklist",
+      "variant": null,
+      "parties": [
+        "company"
+      ],
+      "tags": [
+        "formation",
+        "delaware",
+        "filing",
+        "division-of-corporations"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "General Legal's instructions for filing the charter in Delaware.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/corporate/formation/home-state-filing-instructions.md",
+      "docx": "templates/us/corporate/formation/home-state-filing-instructions.docx",
+      "docx_is_publisher_original": false,
+      "title": "Home State Filing Instructions",
+      "jurisdiction": "US",
+      "category": "corporate",
+      "subcategory": "formation",
+      "type": "checklist",
+      "variant": null,
+      "parties": [
+        "company"
+      ],
+      "tags": [
+        "formation",
+        "home-state",
+        "filing",
+        "foreign-qualification"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "General Legal's instructions for filing in the company's home state instead of Delaware.",
+      "source": {
+        "name": "General Legal",
+        "url": "https://general.legal/library/agent-operated-company-formation-package",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/corporate/formation/how-to-file-your-agent-operated-company.md",
+      "docx": "templates/us/corporate/formation/how-to-file-your-agent-operated-company.docx",
+      "docx_is_publisher_original": false,
+      "title": "How to File Your Agent-Operated Company",
       "jurisdiction": "US",
       "category": "corporate",
       "subcategory": "formation",
@@ -1701,8 +1897,7 @@
       "tags": [
         "formation",
         "checklist",
-        "delaware",
-        "home-state",
+        "filing",
         "ein",
         "registered-agent",
         "llc",
@@ -1714,7 +1909,7 @@
       "status": "draft",
       "version": "1.0.0",
       "last_reviewed": "2026-11-14",
-      "summary": "Step-by-step checklist for forming a Delaware or home-state LLC or C-corporation: entity choice, charter filing, registered agent, EIN, internal documents, bank account, and keeping the liability shield intact.",
+      "summary": "General Legal's plain-English checklist for forming the company: entity choice, charter filing, registered agent, EIN, internal documents, bank account.",
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
@@ -4309,7 +4504,7 @@
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-pr.md",
       "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-pr.docx",
-      "docx_is_publisher_original": false,
+      "docx_is_publisher_original": true,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-PR",
       "category": "employment",
@@ -4338,8 +4533,8 @@
       "summary": "Puerto Rico-specific employee restrictive covenant agreement with modular covenant structure. Reflects the twelve-month maximum and reasonableness requirements described in Arthur Young & Co. v. Vega, 136 D.P.R. 157 (1994). Drafted as a starting point for review by licensed Puerto Rico counsel. (OpenAgreements version 2.0, marked experimental by its authors.)",
       "source": {
         "name": "OpenAgreements",
-        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-master",
-        "file": null
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-restrictive-covenant-puerto-rico",
+        "file": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-pr.docx"
       }
     },
     {
@@ -5875,6 +6070,39 @@
       }
     },
     {
+      "path": "templates/us/privacy-and-data/data-processing/bonterms-baa-cover-page.md",
+      "docx": "templates/us/privacy-and-data/data-processing/bonterms-baa-cover-page.docx",
+      "docx_is_publisher_original": true,
+      "title": "Bonterms BAA Cover Page",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "data-processing",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "covered-entity",
+        "business-associate"
+      ],
+      "tags": [
+        "cover-page",
+        "baa",
+        "hipaa",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for the Bonterms Business Associate Agreement.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/baa-cover-page-example",
+        "file": "templates/us/privacy-and-data/data-processing/bonterms-baa-cover-page.docx"
+      }
+    },
+    {
       "path": "templates/us/privacy-and-data/data-processing/bonterms-business-associate-agreement.md",
       "docx": "templates/us/privacy-and-data/data-processing/bonterms-business-associate-agreement.docx",
       "docx_is_publisher_original": false,
@@ -5944,6 +6172,40 @@
         "name": "Bonterms",
         "url": "https://bonterms.com/standard/dpa-v2-cover-page-version",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/data-processing/bonterms-dpa-cover-page.md",
+      "docx": "templates/us/privacy-and-data/data-processing/bonterms-dpa-cover-page.docx",
+      "docx_is_publisher_original": true,
+      "title": "Bonterms DPA Cover Page",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "data-processing",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "cover-page",
+        "dpa",
+        "gdpr",
+        "processing-details",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for the Bonterms Data Protection Addendum (Version 2.0): key terms, processing details and additional terms.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/example-dpa-cover-page-v2",
+        "file": "templates/us/privacy-and-data/data-processing/bonterms-dpa-cover-page.docx"
       }
     },
     {
@@ -6774,6 +7036,39 @@
       }
     },
     {
+      "path": "templates/us/technology/saas/bonterms-ai-addendum-cover-page.md",
+      "docx": "templates/us/technology/saas/bonterms-ai-addendum-cover-page.docx",
+      "docx_is_publisher_original": true,
+      "title": "Bonterms AI Addendum Cover Page",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "saas",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "cover-page",
+        "ai",
+        "addendum",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for the Bonterms AI Addendum.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/ai-addendum-cover-page-example",
+        "file": "templates/us/technology/saas/bonterms-ai-addendum-cover-page.docx"
+      }
+    },
+    {
       "path": "templates/us/technology/saas/bonterms-ai-addendum.md",
       "docx": "templates/us/technology/saas/bonterms-ai-addendum.docx",
       "docx_is_publisher_original": false,
@@ -6807,6 +7102,40 @@
         "name": "Bonterms",
         "url": "https://bonterms.com/standard/ai-addendum-v2-cover-page-version",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/technology/saas/bonterms-cloud-terms-cover-page.md",
+      "docx": "templates/us/technology/saas/bonterms-cloud-terms-cover-page.docx",
+      "docx_is_publisher_original": true,
+      "title": "Bonterms Cloud Terms Cover Page",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "saas",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "cover-page",
+        "saas",
+        "cloud",
+        "key-terms",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for an agreement on the Bonterms Cloud Terms: key terms, attachments and additional terms.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/cloud-terms-cover-page-example",
+        "file": "templates/us/technology/saas/bonterms-cloud-terms-cover-page.docx"
       }
     },
     {
@@ -7223,6 +7552,39 @@
         "name": "GitHub",
         "url": "https://github.com/github/site-policy/blob/main/Policies/security-policies/coordinated-disclosure-of-security-vulnerabilities.md",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/technology/software-license/bonterms-software-license-terms-cover-page.md",
+      "docx": "templates/us/technology/software-license/bonterms-software-license-terms-cover-page.docx",
+      "docx_is_publisher_original": true,
+      "title": "Bonterms Software License Terms Cover Page",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "software-license",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "licensor",
+        "customer"
+      ],
+      "tags": [
+        "cover-page",
+        "software-license",
+        "key-terms",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for an agreement on the Bonterms Software License Terms.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/software-license-terms-cover-page-example",
+        "file": "templates/us/technology/software-license/bonterms-software-license-terms-cover-page.docx"
       }
     },
     {

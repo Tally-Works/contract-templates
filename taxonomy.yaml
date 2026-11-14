@@ -74,6 +74,17 @@ licenses:
   Public-Domain: US federal government work or other work in the public domain with no licence
   Permission-Granted: Author gave goHeather written permission to redistribute and adapt (source.url and source.notes must link to or quote the permission)
 
+# Where each licence's terms live. Shown in every generated Word footer and in ATTRIBUTION.md.
+license_urls:
+  CC0-1.0: https://creativecommons.org/publicdomain/zero/1.0/
+  CC-BY-4.0: https://creativecommons.org/licenses/by/4.0/
+  CC-BY-3.0: https://creativecommons.org/licenses/by/3.0/
+  Mitchell-Law-Form-1.1: https://github.com/kemitchell/law-form-license
+  MIT: https://opensource.org/license/mit
+  Apache-2.0: https://www.apache.org/licenses/LICENSE-2.0
+  Public-Domain: https://www.copyright.gov/title17/92chap1.html#105
+  Permission-Granted: ""
+
 categories:
   employment:
     name: Employment

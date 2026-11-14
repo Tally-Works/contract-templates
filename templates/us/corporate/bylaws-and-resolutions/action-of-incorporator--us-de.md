@@ -21,10 +21,7 @@ source:
   file: templates/us/corporate/bylaws-and-resolutions/action-of-incorporator--us-de.docx
   retrieved: "2026-11-14"
   notes: >-
-    From General Legal's "Agent-Operated Company Formation Package" (general.legal/library states all templates are
-    released under CC0 1.0; the package page carries the same CC0 notice). Converted from the docx in the package zip
-    (kept under sources/); the drafting note at the top is General Legal's own, reformatted as a blockquote. Wording
-    unchanged.
+    Converted to Markdown from the publisher's own Word file (action-of-incorporator--us-de.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -36,9 +33,7 @@ summary: >-
   Delaware forms apart from the AI-governance provisions, which can be removed.
 ---
 
-# Action of Incorporator
-
-> **Drafting note (from General Legal):** The first step in organizing the corporation: the incorporator adopts the Bylaws, names the initial director(s), and then resigns. For a single-founder company the incorporator is usually the founder (or counsel assisting with the formation). Pair this with the Organizational Resolutions. Replace bracketed terms. Note: the company name must be used exactly as it appears in the Certificate of Incorporation, including the “, Inc.” suffix and punctuation.
+***Drafting note (delete before use):*** *The first step in organizing the corporation: the incorporator adopts the Bylaws, names the initial director(s), and then resigns. For a single-founder company the incorporator is usually the founder (or counsel assisting with the formation). Pair this with the Organizational Resolutions. Replace bracketed terms. Note: the company name must be used exactly as it appears in the Certificate of Incorporation, including the “, Inc.” suffix and punctuation.*
 
 **ACTION OF INCORPORATOR**
 
@@ -69,7 +64,3 @@ Having adopted the Bylaws and elected the initial director(s), the undersigned I
 **EXHIBIT A — BYLAWS**
 
 [Attach the adopted Bylaws.]
-
----
-
-Published by [General Legal](https://general.legal/library/agent-operated-company-formation-package) under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). General Legal asks that its credit footnote be kept when the template is reproduced, and it is.

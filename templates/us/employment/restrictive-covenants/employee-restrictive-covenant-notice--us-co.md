@@ -22,9 +22,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-notice-colorado
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements
-    repository (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders
-    rendered as [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-notice-colorado); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -35,25 +33,30 @@ summary: >-
   (OpenAgreements version 0.1.1, marked experimental by its authors.)
 ---
 
-# Employee Restrictive Covenant Notice
+# Employee Notice of Restrictive Covenants (Colorado)
 
 ## Notice Information
 
-**Employer:** [EMPLOYER NAME]
+Employer
+: {employer_name}
 
-**Worker:** [EMPLOYEE NAME]
+Worker
+: {employee_name}
 
-**Agreement:** [AGREEMENT NAME]
+Agreement
+: {agreement_name}
 
-**Notice Date:** [NOTICE DATE]
+Notice Date
+: {notice_date}
 
-**Worker Status:** [WORKER STATUS]
+Worker Status
+: {worker_status}
 
 ## Important Notice
 
 ### This Agreement May Restrict Your Future Employment
 
-The employer identified in the Notice Information above (Employer) is providing this notice about the [AGREEMENT NAME]. That agreement contains one or more covenants not to compete that could restrict your options for subsequent employment following your separation from Employer. A complete copy of that agreement accompanies this notice. Review each section identified below before signing.
+The employer identified in the Notice Information above (Employer) is providing this notice about the {agreement_name}. That agreement contains one or more covenants not to compete that could restrict your options for subsequent employment following your separation from Employer. A complete copy of that agreement accompanies this notice. Review each section identified below before signing.
 
 ### Non-Competition
 
@@ -75,11 +78,7 @@ Review the section of the accompanying agreement titled **Non-Investment**.
 
 By signing below, you acknowledge receiving this separate notice together with a complete copy of the agreement identified above. Your signature acknowledges receipt and does not waive any right.
 
-Worker: [EMPLOYEE NAME]
+Worker: {employee_name}
 
 Signature: _______________
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-notice-colorado](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-notice-colorado) (version 0.1.1, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

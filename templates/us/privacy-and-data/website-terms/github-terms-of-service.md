@@ -19,10 +19,7 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/github-terms/github-terms-of-service.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-terms/github-terms-of-service.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -33,9 +30,7 @@ summary: >-
   payment, cancellation, disclaimers, liability and changes, with a non-binding summary of each section.
 ---
 
-# GitHub Terms of Service
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English terms of service. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
+<!-- markdownlint-disable search-replace -->
 
 Thank you for using GitHub! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using GitHub. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
 
@@ -397,7 +392,7 @@ GitHub does not warrant that the Service will meet your requirements; that the S
 
 You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from
 
-
+<!-- markdownlint-disable GHD034 -->
 
 * the use, disclosure, or display of your User-Generated Content;
 * your use or inability to use the Service;
@@ -408,7 +403,7 @@ You understand and agree that we will not be liable to you or any third party fo
 * any other user interactions that you input or receive through your use of the Service; or
 * any other matter relating to the Service.
 
-
+<!-- markdownlint-enable GHD034 -->
 
 Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
 
@@ -453,7 +448,3 @@ This Agreement may only be modified by a written amendment signed by an authoriz
 ### 6. Questions
 
 Questions about the Terms of Service? Contact us through the [GitHub Support portal](https://support.github.com/).
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-terms-of-service.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

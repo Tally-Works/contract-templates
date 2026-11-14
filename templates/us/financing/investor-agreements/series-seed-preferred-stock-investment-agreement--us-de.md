@@ -21,9 +21,7 @@ source:
   url: https://github.com/seriesseed/equity
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/seriesseed/equity ("Series Seed - Preferred Stock Investment Agreement.md"). The
-    repository README states "Series Seed is open sourced under CC0". Wording unchanged apart from the title heading;
-    see RELEASENOTES.md in the source repository for the document version.
+    Text taken verbatim from "Series Seed - Preferred Stock Investment Agreement.md" in github.com/seriesseed/equity (README: "Series Seed is open sourced under CC0"). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -34,7 +32,7 @@ summary: >-
   warranties, investor rights, and closing conditions in a single document.
 ---
 
-# Series Seed Preferred Stock Investment Agreement
+# SERIES SEED PREFERRED STOCK INVESTMENT AGREEMENT
 
 This Series Seed Preferred Stock Investment Agreement (this "Agreement") is dated as of the Agreement Date and is between the Company, the Purchasers and the Key Holders.
 
@@ -490,7 +488,3 @@ DISCLOSURE SCHEDULE
 See next page – if no next page, then there are no disclosures.
 
 This Disclosure Schedule (this "Disclosure Schedule") is delivered by the Company in connection with the sale of shares of the Company's Series Seed Preferred Stock on or about the Agreement Date by the Company.  This Disclosure Schedule is arranged in sections corresponding to the numbered and lettered sections contained in Exhibit B of the Agreement, and the disclosures in any section of this Disclosure Schedule qualify other sections in Exhibit B of the Agreement to the extent it is reasonably apparent from a reading of the disclosure that such disclosure is applicable to such other sections.  Where any representation or warranty is limited or qualified by the materiality of the matters to which the representation or warranty are given, the inclusion of any matter in this Disclosure Schedule does not constitute an admission by the Company that such matter is material.  Unless otherwise defined herein, any capitalized terms in this Disclosure Schedule have the same meanings assigned to those terms in the Agreement.  Nothing in this Disclosure Schedule constitutes an admission of any liability or obligation of the Company to any third party, or an admission against the Company's interests.
-
----
-
-From the [Series Seed documents](https://github.com/seriesseed/equity) (Fenwick & West LLP), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Wording unchanged apart from the title line.

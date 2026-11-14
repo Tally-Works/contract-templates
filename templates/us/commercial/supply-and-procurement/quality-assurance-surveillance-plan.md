@@ -20,9 +20,7 @@ source:
   url: https://github.com/18F/acq-templates/blob/master/agile_bpa/qasp.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/18F/acq-templates, whose LICENSE.md states the project is in the public domain within
-    the United States with a CC0 1.0 waiver worldwide. Wording unchanged; {{ }} template variables rendered as
-    placeholders.
+    Text taken verbatim from https://github.com/18F/acq-templates/blob/master/agile_bpa/qasp.md (LICENSE.md: public domain in the United States, CC0 1.0 worldwide); 18F's {{ }} template variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: Public-Domain
 status: draft
 version: 1.0.0
@@ -33,13 +31,14 @@ summary: >-
     work statement.
 ---
 
-# Quality Assurance Surveillance Plan
+PERFORMANCE BASED QUALITY ASSURANCE SURVEILLANCE PLAN (QASP)
+=============================================================
 
-> **Drafting note:** A U.S. General Services Administration (18F) procurement template, written for federal buyers. Useful as a model for performance-based services contracting; the agency-specific references will need replacing.
+{{ buy.name }}
+=============================================================
 
-**[NAME]**
-
-### INTRODUCTION
+INTRODUCTION
+------------
 
 This Quality Assurance Surveillance Plan (QASP) has been developed to evaluate
 contractor actions while implementing the Performance Work Statement (PWS). It
@@ -48,7 +47,8 @@ performance for each listed objective on the Performance Requirements Matrix in
 the call order. It also provides a systematic method to evaluate the services
 the contractor is required to furnish.
 
-### STANDARD
+STANDARD
+--------
 
 The contractor is responsible for management and quality control actions to meet
 the terms of the call order. The role of the COR/ACOR is quality assurance to
@@ -59,7 +59,8 @@ that the contractor will not achieve successful final delivery of the software
 code in accordance with the performance objectives and acceptable quality levels
 identified below.
 
-### PERFORMANCE REQUIREMENTS MATRIX
+PERFORMANCE REQUIREMENTS MATRIX
+-------------------------------
 
 The COR/ACOR will evaluate the performance objectives through surveillance as
 reflected below by reviews and acceptance of work products and services. As
@@ -81,7 +82,8 @@ Deliverable or Required Services Performance Standard(s):
    User research | Usability testing and other user research methods must be conducted at regular intervals throughout the development process (not just at the beginning or end). |  Artifacts from usability testing and/or other research methods with end-users are available at the end of every applicable sprint, in accordance with the vendor’s research plan. | TTS will evaluate the artifacts based on a research plan provided by the vendor at the end of the second sprint.
    Secure | Code must be free of medium- and high-level static and dynamic security vulnerabilities | Clean tests from a static testing SaaS, such as Gemnasium, and from OWASP ZAP, and/or documentation explaining any false positives. |  https://pages.18f.gov/before-you-ship/
 
-### PROCEDURES
+PROCEDURES
+----------
 
 The COR/ACOR, along with the TTS Product Lead and the product owner, will
 inspect all tasks required by the call order to ensure contractor compliance
@@ -126,7 +128,8 @@ of all surveillance activity checklists. All such records will be retained for
 the life of the call order. The COR/ACOR shall forward these records to the CO
 at completion or termination of the call order.
 
-### ACCEPTANCE OF SERVICES
+ACCEPTANCE OF SERVICES
+----------------------
 
 Acceptance of services shall be based upon compliance with performance standards
 described in the PWS and surveillance procedures described in this QASP. Before
@@ -134,7 +137,3 @@ approving/certifying any contractor invoices, the COR/ACOR will verify that all
 invoiced services have been performed in compliance with call order
 requirements. The COR/ACOR shall not certify satisfactory performance for the
 call order until all defects have been corrected.
-
----
-
-From [18F acquisition templates](https://github.com/18F/acq-templates/blob/master/agile_bpa/qasp.md). As a work of the United States Government it is in the public domain, and 18F additionally waives rights worldwide under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged; template variables rendered as [BRACKETED] placeholders.

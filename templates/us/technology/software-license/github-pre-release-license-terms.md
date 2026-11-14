@@ -19,10 +19,7 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/github-terms/github-pre-release-license-terms.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-terms/github-pre-release-license-terms.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -32,10 +29,6 @@ summary: >-
   Licence terms for beta and preview features: confidentiality, feedback, no warranties, and how previews can change or
   end.
 ---
-
-# GitHub Pre-release License Terms
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English pre-release license terms. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
 
 ## GitHub Pre-release License Terms
 
@@ -146,7 +139,3 @@ You bear the sole risk of using the pre-release software.
 ## 15. Nature of Terms for Microsoft Customers.
 
   If you license GitHub through Microsoft, these terms shall be considered an amendment to the Microsoft Product Terms for GitHub Offerings for the duration of your use of the pre-release software.
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-pre-release-license-terms.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

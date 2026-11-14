@@ -20,10 +20,7 @@ source:
   url: https://github.com/kemitchell/switchmode
   retrieved: "2026-11-14"
   notes: >-
-    Rendered from agreement.cform in github.com/kemitchell/switchmode. The repository LICENSE applies "Mitchell's Law
-    Form License, Version 1.1.0" to the contract text (permissive: copy, modify and distribute; if the text is changed,
-    remove or flag the distinctive title; no promotion using contributors' names) and CC0 to the companion prose.
-    Wording unchanged; Common Form markup rendered as Markdown with nested sections as bullets.
+    Rendered from agreement.cform in github.com/kemitchell/switchmode (LICENSE applies Mitchell's Law Form License 1.1.0 to the contract text). Common Form markup converted to Markdown: definitions bold, nested sections as nested bullets. Words unchanged; nothing added or removed.
 license: Mitchell-Law-Form-1.1
 status: draft
 version: 1.0.0
@@ -34,10 +31,6 @@ summary: >-
   with fees, billing, delivery, and IP and confidentiality terms that differ for open and closed projects. By
   open-source lawyer Kyle Mitchell, 2017.
 ---
-
-# Switchmode Developer Agreement
-
-> **Drafting note:** This form is written for a company engaging an open-source developer on paid "Open" or "Closed" projects, with intellectual-property and confidentiality terms that switch by project. Companion documents (project summaries, notices) are in the source repository. Rendered from the author's Common Form markup: nested sections appear as nested bullets.
 
 **Company** and **Developer** agree:
 
@@ -324,7 +317,3 @@ summary: >-
   - **Software** means computer code and software configuration, whether in source, script, or compiled form, for any software or hardware platform, and stored in any format.
 
   - Software **Utilizes** another work when it explicitly depends on, installs, configures, invokes, or links to the other work, directly or indirectly.
-
----
-
-Switchmode Developer Agreement by Kyle E. Mitchell, [github.com/kemitchell/switchmode](https://github.com/kemitchell/switchmode), licensed under Mitchell's Law Form License, Version 1.1.0. Reproduced without changes to the wording; the title is kept because the text is unchanged. Companion prose in that repository is CC0.

@@ -18,10 +18,7 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/acceptable-use-policies/github-acceptable-use-policies.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/acceptable-use-policies/github-acceptable-use-policies.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -31,10 +28,6 @@ summary: >-
   Acceptable use policy for a platform hosting user content: prohibited content and conduct, spam, security, API and
   resource limits, and enforcement.
 ---
-
-# GitHub Acceptable Use Policies
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English acceptable use policies. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
 
 **Short version:** _We host a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content and conduct on GitHub related to user safety, intellectual property, privacy, authenticity, and other limitations. In short, be excellent to each other._
 
@@ -48,7 +41,7 @@ You are responsible for using the Service in compliance with all applicable laws
 
 We do not allow content or activity on GitHub that:
 
-
+<!-- markdownlint-disable GHD034 -->
 
 * is unlawful or promotes unlawful activities;
 
@@ -102,7 +95,7 @@ We do not allow content or activity on GitHub that:
 * directly supports [unlawful active attack or malware campaigns](/site-policy/acceptable-use-policies/github-active-malware-or-exploits) that are causing technical harms — such as using our platform to deliver malicious executables or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers — with no implicit or explicit dual-use purpose prior to the abuse occurring; or
 * uses our servers to disrupt or to attempt to disrupt, or to gain or to attempt to gain unauthorized access to, any service, device, data, account or network. Please note, activities permitted under bug bounty programs, such as the [GitHub Bug Bounty program](https://bounty.github.com), are not considered “unauthorized,” but must only affect the organization whose bug bounty program authorized the activity.
 
-
+<!-- markdownlint-enable GHD034 -->
 
 ## 6. Services Usage Limits
 
@@ -143,7 +136,7 @@ If you decide to post any promotional materials in your Account, you are solely 
 
 ## 11. User Protection
 
-
+<!-- localization update 2026-03-11 - Feedback 1131974 -->
 You must not engage in activity that significantly harms other users.
 
 We will interpret our policies and resolve disputes in favor of protecting users as a whole.
@@ -153,7 +146,3 @@ We will interpret our policies and resolve disputes in favor of protecting users
 **Enforcement.** GitHub retains full discretion to [take action](/site-policy/github-terms/github-community-guidelines#what-happens-if-someone-violates-githubs-policies) in response to a violation of these policies, including account suspension, account [termination](/site-policy/github-terms/github-terms-of-service#3-github-may-terminate), or [removal](/site-policy/github-terms/github-terms-of-service#2-github-may-remove-content) of content. Please also see our [Community Guidelines](/site-policy/github-terms/github-community-guidelines) for actions you can take if something or someone offends you.
 
 **Reinstatement and appeal.** If your content or account has been disabled or restricted and you seek reinstatement or wish to appeal, please see our [Appeal and Reinstatement page](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) for information about the process and use our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement) to submit a request.
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/acceptable-use-policies/github-acceptable-use-policies.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

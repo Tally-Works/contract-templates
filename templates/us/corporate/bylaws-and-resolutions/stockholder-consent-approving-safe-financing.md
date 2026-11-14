@@ -20,10 +20,7 @@ source:
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-consent-safe
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Drafting structure informed by publicly available Series Seed SAFE
-    stockholder consent materials. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository
-    (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as
-    [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-consent-safe); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -34,11 +31,11 @@ summary: >-
   Agreements for Future Equity (SAFEs). (OpenAgreements version 1.2, marked experimental by its authors.)
 ---
 
-# Stockholder Consent Approving SAFE Financing
+# Stockholder Consent for SAFE Financing
 
-The undersigned stockholders of [COMPANY NAME], a Delaware corporation (the "Company"), pursuant to Section 228 of the Delaware General Corporation Law, hereby adopt and approve the following resolutions and the taking of the actions referred to in such resolutions, it being agreed that these resolutions will be effective only after such actions have been approved by the Company's Board of Directors to the extent that such actions require the approval of the Company's Board of Directors, provided that such later effectiveness shall not exceed 60 days from the earliest date of delivery of this Action by Written Consent:
+The undersigned stockholders of {company_name}, a Delaware corporation (the "Company"), pursuant to Section 228 of the Delaware General Corporation Law, hereby adopt and approve the following resolutions and the taking of the actions referred to in such resolutions, it being agreed that these resolutions will be effective only after such actions have been approved by the Company's Board of Directors to the extent that such actions require the approval of the Company's Board of Directors, provided that such later effectiveness shall not exceed 60 days from the earliest date of delivery of this Action by Written Consent:
 
-**WHEREAS**, the Company's Board of Directors (the "Board") believes it is in the best interest of the Company to enter into one or more Simple Agreements for Future Equity (each, a "SAFE"), providing for the sale of rights to future shares of the Company's capital stock for an aggregate purchase amount of up to $[PURCHASE AMOUNT] (the "SAFE Financing"); and
+**WHEREAS**, the Company's Board of Directors (the "Board") believes it is in the best interest of the Company to enter into one or more Simple Agreements for Future Equity (each, a "SAFE"), providing for the sale of rights to future shares of the Company's capital stock for an aggregate purchase amount of up to ${purchase_amount} (the "SAFE Financing"); and
 
 **WHEREAS**, after careful consideration, the undersigned stockholders have determined that the terms and conditions of the SAFE Financing are just and equitable and fair as to the Company and that it is in the best interests of the Company and the stockholders of the Company to enter into the SAFE Financing subject to the terms and conditions set forth in each SAFE.
 
@@ -64,10 +61,6 @@ The undersigned have executed this Action by Written Consent as of the date set 
 
 Signature: _______________
 
-Print Name: [NAME]
+Print Name: {name}
 
-Date: [EFFECTIVE DATE]
-
----
-
-Authored by OpenAgreements contributors. Drafting structure informed by publicly available Series Seed SAFE stockholder consent materials. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-consent-safe](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-consent-safe) (version 1.2, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.
+Date: {effective_date}

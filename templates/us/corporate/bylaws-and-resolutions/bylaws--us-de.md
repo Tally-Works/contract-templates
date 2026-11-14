@@ -21,10 +21,7 @@ source:
   file: templates/us/corporate/bylaws-and-resolutions/bylaws--us-de.docx
   retrieved: "2026-11-14"
   notes: >-
-    From General Legal's "Agent-Operated Company Formation Package" (general.legal/library states all templates are
-    released under CC0 1.0; the package page carries the same CC0 notice). Converted from the docx in the package zip
-    (kept under sources/); the drafting note at the top is General Legal's own, reformatted as a blockquote. Wording
-    unchanged.
+    Converted to Markdown from the publisher's own Word file (bylaws--us-de.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -37,9 +34,7 @@ summary: >-
   removed.
 ---
 
-# Bylaws
-
-> **Drafting note (from General Legal):** Bylaws for a Delaware C-corporation built to be operated day-to-day by an AI agent under human oversight: Article XII establishes the AI-governance regime (electronic-agent authority, board-adopted AI Governance Policy, audit log, officer supervision). Adopt via the Action of Incorporator; pair with the AI Governance Policy. Section numbers are literal text, so update cross-references if you add or remove sections. Replace bracketed terms.
+***Drafting note (delete before use):*** *Bylaws for a Delaware C-corporation built to be operated day-to-day by an AI agent under human oversight: Article XII establishes the AI-governance regime (electronic-agent authority, board-adopted AI Governance Policy, audit log, officer supervision). Adopt via the Action of Incorporator; pair with the AI Governance Policy. Section numbers are literal text, so update cross-references if you add or remove sections. Replace bracketed terms.*
 
 **[COMPANY NAME], INC.**
 
@@ -264,7 +259,7 @@ Section 11.3: **Application; Waiver; Termination of Rights; Legend.**
 
 “THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRICTIONS ON TRANSFER AS PROVIDED IN THE BYLAWS OF THE CORPORATION.”
 
-## ARTICLE XII: ARTIFICIAL INTELLIGENCE AND ELECTRONIC AGENT GOVERNANCE
+ARTICLE XII: ARTIFICIAL INTELLIGENCE AND ELECTRONIC AGENT GOVERNANCE
 
 Section 12.1: **Electronic Agent Authority.** The Corporation may act through “electronic agents” within the meaning of the Uniform Electronic Transactions Act (or analogous state law) and the federal Electronic Signatures in Global and National Commerce Act, including without limitation automated systems and artificial intelligence systems (each, an “AI Agent”). Contracts, communications, records, and other actions executed by an AI Agent in accordance with this Article XII and any AI Governance Policy adopted by the Board shall be the binding acts of the Corporation, and no contemporaneous human review or ratification shall be required to give effect to such acts within the scope of authority granted hereunder.
 
@@ -295,7 +290,3 @@ I, [FOUNDER/PRINCIPAL 1 NAME], certify that I am Secretary of [COMPANY NAME], In
 Dated: [INCORPORATION DATE]
 
 [FOUNDER/PRINCIPAL 1 NAME], Secretary
-
----
-
-Published by [General Legal](https://general.legal/library/agent-operated-company-formation-package) under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). General Legal asks that its credit footnote be kept when the template is reproduced, and it is.

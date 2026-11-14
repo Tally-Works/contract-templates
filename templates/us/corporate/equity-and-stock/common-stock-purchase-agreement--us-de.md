@@ -21,10 +21,7 @@ source:
   file: templates/us/corporate/equity-and-stock/common-stock-purchase-agreement--us-de.docx
   retrieved: "2026-11-14"
   notes: >-
-    From General Legal's "Agent-Operated Company Formation Package" (general.legal/library states all templates are
-    released under CC0 1.0; the package page carries the same CC0 notice). Converted from the docx in the package zip
-    (kept under sources/); the drafting note at the top is General Legal's own, reformatted as a blockquote. Wording
-    unchanged.
+    Converted to Markdown from the publisher's own Word file (common-stock-purchase-agreement--us-de.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -36,9 +33,7 @@ summary: >-
   AI-governance provisions, which can be removed.
 ---
 
-# Common Stock Purchase Agreement
-
-> **Drafting note (from General Legal):** Issues founder shares so a human holds the equity and the liability shield. It contemplates a single, fully-vested founder. If vesting provisions are to be included they should be discussed, along with additional processes (most notably the consideration of filing an 83(b) election) with legal counsel and this form should be revised accordingly. Replace bracketed terms.
+***Drafting note (delete before use):*** *Issues founder shares so a human holds the equity and the liability shield. It contemplates a single, fully-vested founder. If vesting provisions are to be included they should be discussed, along with additional processes (most notably the consideration of filing an 83(b) election) with legal counsel and this form should be revised accordingly. Replace bracketed terms.*
 
 **COMMON STOCK PURCHASE AGREEMENT**
 
@@ -83,7 +78,3 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 [PURCHASER NAME]
-
----
-
-Published by [General Legal](https://general.legal/library/agent-operated-company-formation-package) under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). General Legal asks that its credit footnote be kept when the template is reproduced, and it is.

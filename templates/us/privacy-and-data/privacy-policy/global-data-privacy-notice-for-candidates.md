@@ -20,10 +20,7 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-candidate-privacy-policy.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-candidate-privacy-policy.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -33,10 +30,6 @@ summary: >-
   Privacy notice for job applicants explaining what candidate data an employer collects during recruiting, why, how long
   it is kept and candidates' rights.
 ---
-
-# Global Data Privacy Notice for Candidates
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English global data privacy notice for candidates. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
 
 **GitHub Global Data Privacy Notice for Candidates**
 
@@ -355,7 +348,3 @@ For our Legitimate Interest:
 * General Business Operations
 
 Where we process your Personal Data based on legitimate interests, you can object to this processing in certain circumstances. In such cases, we will cease processing your personal data unless we have compelling legitimate grounds to continue processing or where it is needed for legal reasons.
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-candidate-privacy-policy.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

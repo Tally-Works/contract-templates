@@ -22,27 +22,59 @@ source:
   file: templates/us/technology/saas/common-paper-order-form--with-sla.docx
   retrieved: "2026-11-14"
   notes: >-
-    The document page at https://commonpaper.com/documents/order-form/ states "This document is free to use or modify
-    under CC BY 4.0". Text converted from the Google Doc Common Paper offers on that page (exported as docx, kept under
-    sources/); the help-text first page was removed, tables flattened to label/value lines, and clause headings rendered
-    as bold lead-ins. Wording unchanged.
+    Converted to Markdown from the publisher's own Word file (common-paper-order-form--with-sla.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/technology/saas/common-paper-cloud-service-agreement.md
+  - templates/us/technology/hosting-and-cloud/common-paper-service-level-agreement.md
 summary: >-
   Order form for a subscription under the Common Paper Cloud Service Agreement, with the Service Level Agreement
   standard terms incorporated. Governing law and business terms are filled in on the document itself.
 ---
 
-# Common Paper Order Form
+**Interpreting help text**
 
-> **Drafting note:** This order form incorporates the Common Paper Cloud Service Agreement and Service Level Agreement standard terms, both of which are in this library: templates/us/technology/saas/common-paper-cloud-service-agreement.md and templates/us/technology/hosting-and-cloud/common-paper-service-level-agreement.md.
+[Yellow highlighted text in brackets] indicates a field or area where you can enter your own text or customizations.
 
-**Order Form**
+*[Gray highlighted, italicized text in brackets]* indicates information about how to use or complete a particular variable.
 
-**The key business terms of this Order Form are as follows:**
+Parenthesis indicate choices where you must select one option.
+
+( ) Option 1
+
+( ) Option 2
+
+Brackets indicate choices that are optional where you can pick none, one, or more than one.
+
+[ ] Option 1
+
+[ ] Option 2
+
+[ ] Option 3
+
+In some cases, default choices are indicated with an “x”.
+
+( x ) Default choice
+
+[ x ] Default choice
+
+**How to set up an agreement**
+
+1.  In the section titled “Framework Terms”, input details about the Cloud Service Agreement you’re using. This Order Form is designed to work with the Common Paper Cloud Service Agreement v2.
+2.  Review each variable on the Cover Page and fill in your details. Don’t forget to enter your company’s information in the signature block at the end.
+3.  Delete any optional variables, choices, or details that do not apply to you.
+4.  Delete all *[informational text]*.
+5.  Remove this first page.
+
+Send to your counterparty for review and signature.
+
+Cloud Service Agreement
+
+**Order FormThe key business terms of this Order Form are as follows:**
 
 **Framework Terms**
 *[Drafting note: Fill in details about the applicable Key Terms.]*
@@ -109,9 +141,7 @@ Customer may access the Cloud Service for a limited [fill in length of pilot/tri
 This Order Form incorporates the Service Level Agreement Standard Terms available at [https://commonpaper.com/standards/service-level-agreement/2.0/](https://commonpaper.com/standards/service-level-agreement/2.0/) with the below Variables.
 *[Drafting note: Select and customize the details for Target Uptime to provide an uptime commitment. If not providing an uptime commitment, delete this part and only complete the part for Target Response Time below.]*
 [ ] **Target Uptime**: [\_\_]%
-The 
-
-**Uptime Credit** will be calculated as outlined in the table below:
+The **Uptime Credit** will be calculated as outlined in the table below:
 # **Actual Uptime Percentage**
 # Percentage of monthly Cloud Service Fee
 # **[ # ]% to Target Uptime**
@@ -157,7 +187,3 @@ By signing this Order Form, each party agrees to enter into this Order Form.
 **Notice AddressUse email or postal address**
 
 **Date**
-
----
-
-Common Paper Order Form, published by [Common Paper](https://commonpaper.com/documents/order-form/) and free to use or modify under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged; converted from the Google Doc version.

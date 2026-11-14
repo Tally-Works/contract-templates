@@ -19,9 +19,7 @@ source:
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-working-group-list
   retrieved: "2026-11-14"
   notes: >-
-    OpenAgreements Working Group List. Licensed under CC0 1.0. Taken from template.md in the OpenAgreements repository
-    (metadata.yaml: license CC0-1.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as
-    [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-working-group-list); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -32,17 +30,21 @@ summary: >-
   the closing checklist document. (OpenAgreements version 1.0, marked experimental by its authors.)
 ---
 
+---
+template_id: openagreements-working-group-list
+title: Working Group List
+document:
+  title: Working Group List
+  version: "1.0"
+  license: CC0-1.0
+---
 
-# Working Group List
+# {deal_name} — Working Group List
 
-Updated: [UPDATED AT]
+Updated: {updated_at}
 
 ## Members
 
 | Name | Organization | Role | Email |
 | --- | --- | --- | --- |
 | {FOR m IN working_group}{$m.name} | {$m.organization} | {$m.role} | {$m.email}{END-FOR m} |
-
----
-
-OpenAgreements Working Group List. Licensed under CC0 1.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-working-group-list](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-working-group-list) (version 1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

@@ -21,10 +21,7 @@ source:
   url: https://github.com/skala-io/employment-agreement
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/skala-io/employment-agreement (LICENSE: Creative Commons Attribution 4.0
-    International). Authored by Skala's legal team per the repository README. Wording unchanged apart from the title
-    heading. Skala's FAST advisor agreement was not taken because it derives from the Founder Institute form, which is
-    all-rights-reserved.
+    Text taken verbatim from Employment-Agreement.md in github.com/skala-io/employment-agreement (LICENSE: CC BY 4.0). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -36,7 +33,7 @@ summary: >-
   own terms of use is kept as published.
 ---
 
-# Employment Agreement
+# EMPLOYMENT AGREEMENT
 **Version 1.0 (September 2025)**
 
 > **IMPORTANT NOTICE (Delete This Box Before Signing)**  
@@ -199,7 +196,3 @@ Any dispute arising in connection with this Agreement must be resolved by the Di
 
 ### Other Legal Terms
 Waivers must be in writing and signed; conduct alone does not waive any rights. If any provision of this Agreement is deemed unenforceable, it will be modified only to the minimum extent necessary, so that the remainder of the Agreement remains effective. This Agreement constitutes the entire understanding between the parties and supersedes all prior discussions and agreements. Modifications must be in writing and signed by both parties. Notices must be in writing and sent to the specified addresses or emails and are effective upon receipt. This Agreement may be signed in counterparts, including electronically, all of which together constitute a single agreement.
-
----
-
-Published by [Skala](https://github.com/skala-io/employment-agreement) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged.

@@ -22,10 +22,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-washington
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Washington-specific analysis informed by the quote-verified Washington
-    practice note. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository (metadata.yaml:
-    license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as [BRACKETED]
-    placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-washington); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -52,75 +49,91 @@ summary: >-
 
 The terms below are incorporated into and form part of this agreement.
 
-**Employer:** [EMPLOYER NAME]
+Employer
+: {employer_name}
 
-**Employee:** [EMPLOYEE NAME]
+Employee
+: {employee_name}
 
-**Employee Title / Position:** [EMPLOYEE TITLE]
+Employee Title / Position
+: {employee_title}
 
-**Effective Date:** [EFFECTIVE DATE]
+Effective Date
+: {effective_date}
 
-**Governing Law:** [GOVERNING LAW]
+Governing Law
+: {governing_law}
 
 Confidentiality
 
-**Trade Secrets Duration:** [CONFIDENTIALITY TRADE SECRET DURATION]
+Trade Secrets Duration
+: {confidentiality_trade_secret_duration}
 
-**Other Confidential Information Duration:** [CONFIDENTIALITY OTHER DURATION]
+Other Confidential Information Duration
+: {confidentiality_other_duration}
 
 Employee Non-Solicitation
 
-**Duration:** [EMPLOYEE NONSOLICIT DURATION]
+Duration
+: {employee_nonsolicit_duration}
 
 Customer Non-Solicitation
 
-**Duration:** [CUSTOMER NONSOLICIT DURATION]
+Duration
+: {customer_nonsolicit_duration}
 
 Non-Competition
 
-**Duration:** [NONCOMPETE DURATION]
+Duration
+: {noncompete_duration}
 
-**Restricted Territory:** [TERRITORY]
+Restricted Territory
+: {territory}
 
-**Competitive Business:** [COMPETITIVE BUSINESS DEFINITION]
+Competitive Business
+: {competitive_business_definition}
 
-**Specified Competitors:** [SPECIFIED COMPETITORS]
+Specified Competitors
+: {specified_competitors}
 
 No Business with Covered Customers
 
-**Duration:** [NONDEALING DURATION]
+Duration
+: {nondealing_duration}
 
 Non-Investment
 
-**Duration:** [NONINVESTMENT DURATION]
+Duration
+: {noninvestment_duration}
 
 Non-Disparagement
 
-**Duration:** [NONDISPARAGEMENT DURATION]
+Duration
+: {nondisparagement_duration}
 
 ## Standard Terms
 
 ### Defined Terms
 
-**Competitive Business** means a person or entity that engages in the business activities described in Cover Terms under Competitive Business.
+[[Competitive Business]] means a person or entity that engages in the business activities described in Cover Terms under Competitive Business.
 
-**Confidential Information** means non-public information relating to Employer's business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee.
+[[Confidential Information]] means non-public information relating to Employer's business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee.
 
-**Covered Customers** means current customers of Employer with whom Employee had material contact or for whom Employee had responsibility during the [COVERED CUSTOMER PERIOD] before termination of employment.
+[[Covered Customers]] means current customers of Employer with whom Employee had material contact or for whom Employee had responsibility during the {covered_customer_period} before termination of employment.
 
-**Covered Employees** means employees of Employer with whom Employee worked or whom Employee managed during the [COVERED EMPLOYEE PERIOD] before termination of employment.
+[[Covered Employees]] means employees of Employer with whom Employee worked or whom Employee managed during the {covered_employee_period} before termination of employment.
 
-**Passive Public Holdings** means ownership of securities of a publicly traded company representing less than [PASSIVE PUBLIC HOLDINGS THRESHOLD] of any class of such company's securities, and interests in diversified mutual funds, index funds, and exchange-traded funds that may hold securities of a Competitive Business.
+[[Passive Public Holdings]] means ownership of securities of a publicly traded company representing less than {passive_public_holdings_threshold} of any class of such company's securities, and interests in diversified mutual funds, index funds, and exchange-traded funds that may hold securities of a Competitive Business.
 
-**Protected Interests** means Employer's Protected Interests in its Confidential Information and trade secrets, its relationships with current customers, its workforce stability, and its goodwill, in each case to the extent a restraint serving that interest is reasonable and necessary.
+[[Protected Interests]] means Employer's Protected Interests in its Confidential Information and trade secrets, its relationships with current customers, its workforce stability, and its goodwill, in each case to the extent a restraint serving that interest is reasonable and necessary.
 
-**Restricted Period** means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason.
+[[Restricted Period]] means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason.
 
-**Restricted Territory** means the geographic area described in Cover Terms under Restricted Territory.
+[[Restricted Territory]] means the geographic area described in Cover Terms under Restricted Territory.
 
-**Solicit** means to directly or indirectly contact, approach, induce, or encourage a person or entity, upon termination of Employee's employment, for the purpose of causing a Covered Customer to cease or reduce its business with Employer or a Covered Employee to leave Employer, but does not include accepting or transacting business a Covered Customer initiates, responding to general advertisements or unsolicited inquiries not initiated by Employee, or providing a professional reference upon request.
+[[Solicit]] means to directly or indirectly contact, approach, induce, or encourage a person or entity, upon termination of Employee's employment, for the purpose of causing a Covered Customer to cease or reduce its business with Employer or a Covered Employee to leave Employer, but does not include accepting or transacting business a Covered Customer initiates, responding to general advertisements or unsolicited inquiries not initiated by Employee, or providing a professional reference upon request.
 
-**Trade Secrets** has the meaning given in the Uniform Trade Secrets Act as adopted in Washington, chapter 19.108 RCW.
+[[Trade Secrets]] has the meaning given in the Uniform Trade Secrets Act as adopted in Washington, chapter 19.108 RCW.
 
 ### Recitals and Protected Interests
 
@@ -128,7 +141,7 @@ Employer and Employee acknowledge that each restrictive covenant in this agreeme
 
 ### Timing, Consideration, and Right to Consult Counsel
 
-Employer has advised Employee to consult with an attorney before entering into this agreement. If this agreement is entered into at or before the commencement of Employee's employment, Employer has disclosed the terms of the restrictive covenants in writing to Employee no later than the time of Employee's initial oral or written acceptance of the offer of employment; and if any covenant would become enforceable only at a later date because Employee's earnings then exceed the applicable threshold, Employer specifically discloses that the agreement may be enforceable against Employee in the future. If this agreement is entered into after the commencement of Employee's employment, Employer provides [WASHINGTON CONSIDERATION] as independent consideration given specifically in exchange for the restrictive covenants. This agreement is effective as of the Effective Date listed in Cover Terms.
+Employer has advised Employee to consult with an attorney before entering into this agreement. If this agreement is entered into at or before the commencement of Employee's employment, Employer has disclosed the terms of the restrictive covenants in writing to Employee no later than the time of Employee's initial oral or written acceptance of the offer of employment; and if any covenant would become enforceable only at a later date because Employee's earnings then exceed the applicable threshold, Employer specifically discloses that the agreement may be enforceable against Employee in the future. If this agreement is entered into after the commencement of Employee's employment, Employer provides {washington_consideration} as independent consideration given specifically in exchange for the restrictive covenants. This agreement is effective as of the Effective Date listed in Cover Terms.
 
 ### Confidential Information and Trade Secret Protection
 
@@ -228,19 +241,15 @@ This agreement constitutes the entire agreement between the parties regarding it
 
 By signing this agreement, each party acknowledges and agrees to the restrictive covenant obligations above. Employee confirms having read and understood each provision, including the Cover Terms.
 
-Employer: [EMPLOYER NAME]
+Employer: {employer_name}
 
 Signature: _______________
-Signatory Name: [EMPLOYER SIGNATORY NAME]
-Title: [EMPLOYER SIGNATORY TITLE]
+Signatory Name: {employer_signatory_name}
+Title: {employer_signatory_title}
 Date: _______________
 
 **Employee**
 
 Signature: _______________
-Print Name: [EMPLOYEE NAME]
+Print Name: {employee_name}
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. Washington-specific analysis informed by the quote-verified Washington practice note. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-washington](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-washington) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

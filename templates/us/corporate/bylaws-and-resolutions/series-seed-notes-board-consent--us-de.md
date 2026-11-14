@@ -19,9 +19,7 @@ source:
   url: https://github.com/CooleyLLP/seriesseed
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/CooleyLLP/seriesseed (Cooley's fork of the Series Seed documents). Its README states
-    all documents in the repository are open sourced under the CC0 1.0 Universal Public Domain Dedication. Wording
-    unchanged apart from the title heading; Cooley's bracketed drafting notes are kept.
+    Text taken verbatim from "notes/Series Seed Notes - Board Consent.md" in github.com/CooleyLLP/seriesseed (README: all documents open sourced under CC0 1.0). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -30,7 +28,7 @@ reviewed_by: ""
 summary: Board consent approving the issuance of convertible promissory notes in a seed financing.
 ---
 
-# Series Seed Notes Board Consent
+# ACTION BY UNANIMOUS WRITTEN CONSENT OF THE BOARD OF DIRECTORS OF [COMPANY NAME]
 
 The undersigned, constituting all the members of the Board of Directors (the
 "**_Board_**") of [**Company Name**], a Delaware corporation (the "**_Company_**"),
@@ -82,7 +80,3 @@ Date: [_________]
 # EXHIBIT A
 
 ## FORM OF CONVERTIBLE PROMISSORY NOTE
-
----
-
-From [Cooley LLP's fork of the Series Seed documents](https://github.com/CooleyLLP/seriesseed), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

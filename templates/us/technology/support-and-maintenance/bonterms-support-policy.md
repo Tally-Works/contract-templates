@@ -20,25 +20,20 @@ source:
   file: templates/us/technology/support-and-maintenance/bonterms-support-policy.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted from the docx linked on https://bonterms.com/resources/support-policy-version-1-0, which carries a CC0 1.0
-    notice; the docx footer also reads "Made available under CC0 1.0 - you may freely use, modify or distribute without
-    attribution" (Bonterms' example cover pages and attachments are CC0; its Standard Agreements are CC BY 4.0). Docx
-    kept under sources/; wording unchanged; Bonterms' own "Example" note kept as a drafting note.
+    Converted to Markdown from the publisher's own Word file (bonterms-support-policy.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/technology/saas/bonterms-cloud-terms.md
 summary: >-
   Example support policy attachment for the Bonterms Cloud Terms: support hours, incident submission, severity levels
   and response targets.
 ---
 
-# Bonterms Support Policy
-
-> **Drafting note:** This support policy attaches to the Bonterms Cloud Terms, which are in this library at templates/us/technology/saas/bonterms-cloud-terms.md.
-
-> **Drafting note (from Bonterms):** Example. Create your own version and remove this note and the footer before using.
+[Example: Create your own version and remove this note and the footer before using]
 
 # Support Policy Attachment
 
@@ -76,7 +71,3 @@ Non-critical issue; no significant impact on performance of the Cloud Service bu
 [\_\_ Business Day(s)]
 
 1.  **Exclusions.** Provider will have no obligation to provide Support to the extent an Incident arises from: (a) misuse or unauthorized modifications to the Cloud Service, (b) Third-Party Platforms or other third-party systems, (c) Trials and Betas or other free or evaluation use or (d) Professional Services deliverables.
-
----
-
-Published by [Bonterms](https://bonterms.com/resources/support-policy-version-1-0) as an example document and dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) on that page. Converted from the docx; wording unchanged.

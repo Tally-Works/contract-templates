@@ -240,7 +240,6 @@ function validateTemplate(file, taxonomy) {
 
   // body
   if (!body || body.trim().length < 200) errors.push('body is empty or too short to be a template (under 200 characters)');
-  if (body && !/^#\s+\S/m.test(body)) warnings.push('body has no top-level "# Title" heading');
 
   return { relPath, meta, body, errors, warnings };
 }
@@ -485,12 +484,9 @@ function buildAttributionMd(results, taxonomy) {
   L.push('');
   L.push('| Licence | Terms |');
   L.push('| --- | --- |');
-  L.push('| CC0-1.0 | https://creativecommons.org/publicdomain/zero/1.0/ |');
-  L.push('| CC-BY-4.0 | https://creativecommons.org/licenses/by/4.0/ |');
-  L.push('| MIT | https://opensource.org/license/mit |');
-  L.push('| Apache-2.0 | https://www.apache.org/licenses/LICENSE-2.0 |');
-  L.push('| Public-Domain | No licence; the work is not subject to copyright. |');
-  L.push('| Permission-Granted | Written permission from the author, recorded in the template\'s `source.notes`. |');
+  for (const [k, v] of Object.entries(taxonomy.license_urls || {})) {
+    L.push(`| ${k} | ${v || 'Written permission from the author, recorded in the template\'s `source.notes`.'} |`);
+  }
   L.push('');
   return L.join('\n');
 }

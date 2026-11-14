@@ -19,10 +19,7 @@ source:
   url: https://github.com/basecamp/policies/blob/master/abuse/index.md
   retrieved: "2026-11-14"
   notes: >-
-    From the Basecamp open-source policies repository, released under CC BY 4.0 with the request that adaptations carry
-    the line "Adapted from the Basecamp open-source policies / CC BY 4.0", which is included. Wording unchanged apart
-    from the title heading; a drafting note is added at the top. The repository is archived and the live policies are at
-    37signals.com/policies.
+    Text taken verbatim from https://github.com/basecamp/policies/blob/master/abuse/index.md (README: released under Creative Commons Attribution 4.0). The file's site front-matter is omitted; Basecamp's Jekyll variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -33,9 +30,7 @@ summary: >-
   policy.
 ---
 
-> **Drafting note:** This is 37signals' live policy as published in the Basecamp open-source policies repository, kept verbatim as an example of a plain-English use restrictions policy. Replace the company and product names, the dates, and the links with your own, and have the result reviewed for your jurisdiction.
-
-# Use Restrictions Policy
+# Use Restrictions
 
 ## Restricted purposes
 
@@ -55,7 +50,3 @@ Accounts found to be in violation of any of the above are subject to cancellatio
 ## How to report abuse
 
 Violations can be reported by emailing [report@37signals.com](mailto:report@37signals.com) and should include detailed information about the account, the content or behavior you are reporting, and how you found it, including URLs or screenshots. If you need a secure file transfer, let us know and we will send you a link. We will not disclose your identity to anyone associated with the reported account. For copyright cases, please see instructions on [how to notify us about infringement claims](../copyright/index.md).
-
----
-
-Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The current versions live at [37signals.com/policies](https://37signals.com/policies).

@@ -21,10 +21,7 @@ source:
   file: templates/us/corporate/bylaws-and-resolutions/organizational-resolutions--us-de.docx
   retrieved: "2026-11-14"
   notes: >-
-    From General Legal's "Agent-Operated Company Formation Package" (general.legal/library states all templates are
-    released under CC0 1.0; the package page carries the same CC0 notice). Converted from the docx in the package zip
-    (kept under sources/); the drafting note at the top is General Legal's own, reformatted as a blockquote. Wording
-    unchanged.
+    Converted to Markdown from the publisher's own Word file (organizational-resolutions--us-de.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -36,9 +33,7 @@ summary: >-
   the entity documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.
 ---
 
-# Organizational Resolutions
-
-> **Drafting note (from General Legal):** A slim single-founder board organizational consent — the second step after the Action of Incorporator. It elects officers, issues founder stock, and adopts the AI Governance Policy required by Bylaws Article XII. For a sole director, the one director signs. Replace bracketed terms; add or remove resolutions to fit.
+***Drafting note (delete before use):*** *A slim single-founder board organizational consent — the second step after the Action of Incorporator. It elects officers, issues founder stock, and adopts the AI Governance Policy required by Bylaws Article XII. For a sole director, the one director signs. Replace bracketed terms; add or remove resolutions to fit.*
 
 **ACTION BY WRITTEN CONSENT**
 
@@ -113,7 +108,3 @@ IN WITNESS WHEREOF, the undersigned has executed this Action by Written Consent 
 Form of Indemnification Agreement
 
 [Attached]
-
----
-
-Published by [General Legal](https://general.legal/library/agent-operated-company-formation-package) under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). General Legal asks that its credit footnote be kept when the template is reproduced, and it is.

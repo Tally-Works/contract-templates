@@ -19,10 +19,7 @@ source:
   url: https://github.com/basecamp/policies/blob/master/cancellation/index.md
   retrieved: "2026-11-14"
   notes: >-
-    From the Basecamp open-source policies repository, released under CC BY 4.0 with the request that adaptations carry
-    the line "Adapted from the Basecamp open-source policies / CC BY 4.0", which is included. Wording unchanged apart
-    from the title heading; a drafting note is added at the top. The repository is archived and the live policies are at
-    37signals.com/policies.
+    Text taken verbatim from https://github.com/basecamp/policies/blob/master/cancellation/index.md (README: released under Creative Commons Attribution 4.0). The file's site front-matter is omitted; Basecamp's Jekyll variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -33,9 +30,7 @@ summary: >-
   provider may cancel an account.
 ---
 
-> **Drafting note:** This is 37signals' live policy as published in the Basecamp open-source policies repository, kept verbatim as an example of a plain-English cancellation policy. Replace the company and product names, the dates, and the links with your own, and have the result reviewed for your jurisdiction.
-
-# Cancellation Policy
+# Cancellation policy
 
 *Last updated: July 18, 2022*
 
@@ -53,7 +48,7 @@ Account owners can follow these instructions to cancel in-app:
 * [Ta-da List](https://123.tadalist.com/help.html)
 * Writeboard: standalone writeboards can be deleted by clicking "Delete writeboard" below the document’s contents.
 
-Our legal responsibility is to account owners, which means we cannot cancel an account at the request of anyone else. If for whatever reason you no longer know who the account owner is, [contact us]([SUPPORT EMAIL ADDRESS]). We will gladly reach out to any current account owners at the email addresses we have on file.
+Our legal responsibility is to account owners, which means we cannot cancel an account at the request of anyone else. If for whatever reason you no longer know who the account owner is, [contact us]({{ site.email_support }}). We will gladly reach out to any current account owners at the email addresses we have on file.
 
 ## What happens when you cancel an account?
 
@@ -61,7 +56,7 @@ Except for paid HEY accounts, you won’t be able to access your account once yo
 
 We’ll permanently delete the content in your account from our servers 30 days after cancellation, and from our backups within 60 days. Retrieving content for a single account from a backup isn’t possible, so if you change your mind you’ll need to do it within the first 30 days after cancellation. **Content can’t be recovered once it has been permanently deleted.**
 
-We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us]([SUPPORT EMAIL ADDRESS]) for a [fair refund](../refund/index.md). We’ll treat you right.
+We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us]({{ site.email_support }}) for a [fair refund](../refund/index.md). We’ll treat you right.
 
 ## 37signals-initiated cancellations
 
@@ -73,7 +68,3 @@ We may cancel accounts if they have been inactive for an extended period:
 * For free accounts: after 365 days of inactivity
 
 We also retain the right to suspend or terminate accounts for any reason at any time, as outlined in our [Terms of Service](../terms/index.md). In practice, this generally means we will cancel your account without notice if we have evidence that you are using our products to engage in [abusive behavior](../abuse/index.md).
-
----
-
-Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The current versions live at [37signals.com/policies](https://37signals.com/policies).

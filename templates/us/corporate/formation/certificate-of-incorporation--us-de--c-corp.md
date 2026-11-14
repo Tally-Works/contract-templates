@@ -21,10 +21,7 @@ source:
   file: templates/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.docx
   retrieved: "2026-11-14"
   notes: >-
-    From General Legal's "Agent-Operated Company Formation Package" (general.legal/library states all templates are
-    released under CC0 1.0; the package page carries the same CC0 notice). Converted from the docx in the package zip
-    (kept under sources/); the drafting note at the top is General Legal's own, reformatted as a blockquote. Wording
-    unchanged.
+    Converted to Markdown from the publisher's own Word file (certificate-of-incorporation--us-de--c-corp.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -36,9 +33,7 @@ summary: >-
   provisions, which can be removed.
 ---
 
-# Certificate of Incorporation
-
-> **Drafting note (from General Legal):** A minimal single-class Delaware C-corporation charter for a founder-owned company to be operated by an AI agent under its Bylaws and AI Governance Policy. The AI-governance provisions live in the Bylaws (Article XII) and the AI Governance Policy. Replace all bracketed terms before filing.
+***Drafting note (delete before use):*** *A minimal single-class Delaware C-corporation charter for a founder-owned company to be operated by an AI agent under its Bylaws and AI Governance Policy. The AI-governance provisions live in the Bylaws (Article XII) and the AI Governance Policy. Replace all bracketed terms before filing.*
 
 **CERTIFICATE OF INCORPORATION**
 
@@ -69,7 +64,3 @@ IN WITNESS WHEREOF, the undersigned incorporator has executed this Certificate o
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 [INCORPORATOR NAME], Incorporator
-
----
-
-Published by [General Legal](https://general.legal/library/agent-operated-company-formation-package) under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). General Legal asks that its credit footnote be kept when the template is reproduced, and it is.

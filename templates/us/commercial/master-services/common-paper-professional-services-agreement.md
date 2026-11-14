@@ -20,9 +20,7 @@ source:
   url: https://commonpaper.com/standards/professional-services-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken from the official Markdown in github.com/CommonPaper/PSA. Wording unchanged; HTML span markup stripped.
-    Common Paper publishes all standard agreements under CC BY 4.0 (commonpaper.com/standards) and asks that the
-    attribution line and link be kept, which they are.
+    Text taken verbatim from psa.md in github.com/CommonPaper/PSA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -34,7 +32,7 @@ summary: >-
   terms are chosen on the cover page.
 ---
 
-# Common Paper Professional Services Agreement
+# Professional Services Agreement
 
 1. Services
     1. Providing Services.  Customer or its Affiliates may enter SOWs with Provider. Provider will perform the Services as detailed in an applicable SOW. Each SOW together with the Key Terms and Standard Terms will constitute a separate agreement. Provider will comply with Customer Policies, if any. If a Customer Affiliate enters an SOW with Provider, references to Customer in the SOW, Key Terms, or Standard Terms will mean that Affiliate for that agreement.
@@ -63,14 +61,14 @@ summary: >-
     4. Payment Dispute.  If Customer has a good-faith disagreement about the amounts charged on an invoice, Customer must notify Provider about the dispute during the Payment Period for the invoice and must pay all undisputed amounts on time. The parties will work together to resolve the dispute within 15 days after the end of the Payment Period. If no resolution is agreed, each party may pursue any remedies available under the Agreement, the applicable SOW, or Applicable Laws.
 5. Term & Termination
     1. Term.  This Agreement will start on the Effective Date and continue until 12 months have elapsed since the end of the latest SOW Term end date.
-    2. Termination.
+    2. Termination.  
         a. Either party may terminate this Agreement or an SOW immediately if the other party (i) fails to cure a material breach of the Agreement or SOW within 30 days after receiving notice of the breach; (ii) materially breaches the Agreement or SOW in a manner that cannot be cured; (iii) dissolves or stops conducting business without a successor; (iv) makes an assignment for the benefit of creditors; or (v) becomes the debtor in insolvency, receivership, or bankruptcy proceedings that continue for more than 60 days.
         b. Either party may terminate an affected SOW immediately if a Force Majeure Event prevents Provider from providing the Services for 30 or more consecutive days.
         c. Either party may terminate this Agreement for any or no reason if there are no active SOWs.
         d. A party must notify the other of its reason for termination.
     3. Effect of Termination.  Upon any expiration or termination:
         a. Termination of the Agreement pursuant to Section 5.2(a) or the Key Terms will automatically terminate all SOWs.
-        b. Provider will no longer have to provide the Services.
+        b. Provider will no longer have to provide the Services.  
         c. Each Recipient will return or destroy Discloser’s Confidential Information in its possession or control.
         d. Except where Customer terminates pursuant to Section 5.2(a), Provider will submit a final invoice for all outstanding Fees accrued before termination and Customer will pay the invoice according to Section 4 (Payment & Taxes).
         e. Except where Provider terminates pursuant to Section 5.2(a), Provider will issue a refund for any unearned, prepaid Fees.
@@ -112,7 +110,7 @@ summary: >-
     9. Independent Contractors.  The parties are independent contractors, not agents, partners, or joint venturers. Neither party is authorized to bind the other to any liability or obligation.
     10. No Third-Party Beneficiary.  There are no third-party beneficiaries of this Agreement.
     11. Force Majeure.  Neither party will be liable for a delay or failure to perform its obligations of this Agreement if caused by a Force Majeure Event. However, this section does not excuse Customer's obligations to pay Fees.
-    12. Export Controls.  Customer may not remove or export from the United States or allow the export or re-export of the Service, Deliverables, or any related technology or materials in violation of any restrictions, laws, or regulations of the United States Department of Commerce, the United States Department of Treasury Office of Foreign Assets Control, or any other United States or foreign agency or authority.
+    12. Export Controls.  Customer may not remove or export from the United States or allow the export or re-export of the Service, Deliverables, or any related technology or materials in violation of any restrictions, laws, or regulations of the United States Department of Commerce, the United States Department of Treasury Office of Foreign Assets Control, or any other United States or foreign agency or authority.  
     13. Anti-Bribery.  Neither party will take any action that would be a violation of any Applicable Laws that prohibit the offering, giving, promising to offer or give, or receiving, directly or indirectly, money or anything of value to any third party to assist Provider or Customer in retaining or obtaining business. Examples of these kinds of laws include the U.S. Foreign Corrupt Practices Act and the UK Bribery Act 2010.
     14. Titles and Interpretation.  Section titles are for convenience and reference only. All uses of "including" and similar phrases are non-exhaustive and without limitation.
     15. Signature.  This Agreement may be signed in counterparts, including by electronic copies or acceptance mechanism. Each copy will be deemed an original and all copies, when taken together, will be the same agreement.
@@ -138,7 +136,3 @@ summary: >-
     19. **"Subcontractors"** means other people or companies engaged by Provider to perform some of the Services, including Provider's Affiliates.
     20. **"Third-Party Materials"** means any information, tools, materials, or intellectual property owned by anyone other than Provider, its Affiliates, or Customer.
     21. **"Usage Data"** means data and information about the provision, use, and performance of the Services based on Customer's use of the Services.
-
----
-
-Common Paper Professional Services Agreement Standard Terms, published by [Common Paper](https://commonpaper.com/standards/professional-services-agreement/) and free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged.

@@ -19,10 +19,7 @@ source:
   file: templates/us/commercial/amendments-and-extensions/common-paper-amendment.docx
   retrieved: "2026-11-14"
   notes: >-
-    The document page at https://commonpaper.com/documents/amendment/ states "This document is free to use or modify
-    under CC BY 4.0". Text converted from the Google Doc Common Paper offers on that page (exported as docx, kept under
-    sources/); the help-text first page was removed, tables flattened to label/value lines, and clause headings rendered
-    as bold lead-ins. Wording unchanged.
+    Converted to Markdown from the publisher's own Word file (common-paper-amendment.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -33,7 +30,19 @@ summary: >-
   signature blocks. Governing law and business terms are filled in on the document itself.
 ---
 
-# Common Paper Amendment
+**Interpreting help text**
+
+[Yellow highlighted text in brackets] indicates a field or area where you can enter your own text or customizations.
+
+**How to set up an amendment**
+
+1.  Fill in details about the original agreement using the area labeled “Agreement”.
+2.  Write out what you are amending it and what the new language says. Try to keep one topic per line.
+3.  Don’t forget to enter your company’s information in the signature block at the end.
+4.  Remove this first page.
+5.  Send to your counterparty for review and signature.
+
+**AmendmentThe parties identified below agree to the following:**
 
 **Agreement**
 This Amendment modifies the [ agreement name ] between [ Party 1 ] and [ Party 2 ], with an Effective Date of [ date ].
@@ -58,7 +67,3 @@ By signing this Amendment, each party agrees to enter into this Amendment as of 
 **Notice AddressUse email or postal address**
 
 **Date**
-
----
-
-Common Paper Amendment, published by [Common Paper](https://commonpaper.com/documents/amendment/) and free to use or modify under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged; converted from the Google Doc version.

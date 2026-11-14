@@ -19,8 +19,7 @@ source:
   file: templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted from the docx in github.com/documize/document-templates (LICENSE: MIT, 2015; the repository's own Markdown
-    copy is malformed). Wording unchanged.
+    Converted to Markdown from the publisher's own Word file (basic-non-disclosure-agreement.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: MIT
 status: draft
 version: 1.0.0
@@ -31,7 +30,7 @@ summary: >-
   clause.
 ---
 
-# Basic Non-Disclosure Agreement
+# Non-Disclosure Agreement
 
 IN CONSIDERATION of [Entity Name] providing to the Recipient, Proprietary Information relating to its business, including information of a confidential nature, the Recipient undertakes to [EntityName] in the following terms:
 
@@ -102,7 +101,3 @@ Title ………………………………………. Title …………………
 Date …………………………………………… Date ……………………………………………
 
 [it is advisable to specify dates in dd-mon-yyyy format, which is the international standard]
-
----
-
-From [Documize document templates](https://github.com/documize/document-templates), MIT License, Copyright (c) 2015 Documize. Reproduced unchanged.

@@ -19,10 +19,7 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/github-terms/github-educational-use-agreement.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-terms/github-educational-use-agreement.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -33,12 +30,8 @@ summary: >-
   laws.
 ---
 
-# GitHub Educational Use Agreement
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English educational use agreement. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
-
 > [!NOTE]
-> The below Educational Use Agreement is related to the GitHub Campus Program Partner Schools, also found [here](https://education.github.com/schools/terms), and is considered the program terms and conditions.
+> The below Educational Use Agreement is related to the GitHub Campus Program Partner Schools, also found [here](https://education.github.com/schools/terms), and is considered the program terms and conditions.<!-- markdownlint-disable-line no-generic-link-text -->
 
 ## EDUCATIONAL USE AGREEMENT
 
@@ -213,7 +206,3 @@ This Agreement and your use of the GitHub Products are governed under California
 ### 8.7 Changes to the Agreement; Complete Agreement.
 
 GitHub may amend this Agreement at any time. Should GitHub materially amends this Agreement, it will notify you of such changes at least 30 days prior to the change taking effect by posting a notice on our Website. This Agreement, together with any applicable GitHub Products terms and GitHub's Privacy Statement, and Order Forms represent the complete and exclusive statement of the agreement between you and us and governs your use of the GitHub Products. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms (including, but not limited to, any prior versions of this Agreement).
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-educational-use-agreement.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

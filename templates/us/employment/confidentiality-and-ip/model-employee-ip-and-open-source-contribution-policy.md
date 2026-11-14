@@ -21,10 +21,7 @@ source:
   file: templates/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted from ModelCo_IP_Policy.docx linked from the processmechanics.com article (kept under sources/). The
-    article states the policy "is released under a Creative Commons CC-BY license" without naming a version; recorded
-    here as CC-BY-4.0, the current attribution licence, with the author's wording preserved in this note. Wording
-    unchanged.
+    Converted to Markdown from the publisher's own Word file (model-employee-ip-and-open-source-contribution-policy.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -35,10 +32,6 @@ summary: >-
   lets employees keep prior IP and personal open-source work, and includes the state-law invention-assignment notices.
   Written by Van Lindberg from the Rackspace policy, 2015.
 ---
-
-# Model Employee IP and Open Source Contribution Policy
-
-> **Drafting note:** An employee IP assignment agreement written to respect employees' side projects and open-source contributions, with state-specific invention-assignment notices. "ModelCo" is the placeholder company name. Published 2015; check the state notices against current law.
 
 **Note:
 **
@@ -250,7 +243,3 @@ A provision in an employment agreement which provides that an employee shall ass
 Any provision which purports to apply to such an invention is to that extent against the public policy of the state and is to that extent void and unenforceable.
 
 An employer cannot require as a condition of employment any provision made void and unenforceable by the law. If an employment agreement entered into after Sept. 1, 1979 contains a provision requiring the employee to assign any of the employee's rights in any invention to the employer, the employer must also, at the time the agreement is made, provide a written notification to the employee of the employee's rights under the law. The employee will - at the time of employment or thereafter - disclose all inventions being developed by the employee, for the purpose of determining employer or employee rights. The employer or the employee may disclose such inventions to the Department of Employment Security, and the department will maintain a record of such disclosures for a minimum period of five years.
-
----
-
-Model IP and Open Source Contribution Policy by Van Lindberg (Process Mechanics PLLC), from [processmechanics.com](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/), released under a Creative Commons CC-BY licence. Reproduced unchanged.

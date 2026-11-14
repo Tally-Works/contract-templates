@@ -21,9 +21,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-resignation-letter
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements
-    repository (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders
-    rendered as [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-resignation-letter); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -39,25 +37,29 @@ summary: >-
 
 # Founder Resignation Letter
 
-[RESIGNATION EFFECTIVE DATE]
+{resignation_effective_date}
 
-To the Board of Directors of [COMPANY LEGAL NAME], a Delaware corporation (the "Company"):
+To the Board of Directors of {company_legal_name}, a Delaware corporation (the "Company"):
 
 ## Key Terms
 
-**Company:** [COMPANY LEGAL NAME]
+Company
+: {company_legal_name}
 
-**Founder:** [FOUNDER NAME]
+Founder
+: {founder_name}
 
-**Effective Date:** [RESIGNATION EFFECTIVE DATE]
+Effective Date
+: {resignation_effective_date}
 
-**Positions Resigned:** [RESIGNED POSITIONS]
+Positions Resigned
+: {resigned_positions}
 
 ## Terms
 
 ### Resignation
 
-I, [FOUNDER NAME] (the "Founder"), hereby resign from all positions I hold with the Company, including [RESIGNED POSITIONS], effective as of [RESIGNATION EFFECTIVE DATE] (the "Effective Date").
+I, {founder_name} (the "Founder"), hereby resign from all positions I hold with the Company, including {resigned_positions}, effective as of {resignation_effective_date} (the "Effective Date").
 
 My resignation from the Board of Directors and each officer position is effective on the Effective Date. From and after the Effective Date, I will hold no officer or director position with the Company and will have no authority to act for or bind the Company.
 
@@ -75,10 +77,6 @@ Sincerely,
 
 Signature: _______________
 
-Print Name: [FOUNDER NAME]
+Print Name: {founder_name}
 
-Date: [RESIGNATION EFFECTIVE DATE]
-
----
-
-Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-resignation-letter](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-resignation-letter) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.
+Date: {resignation_effective_date}

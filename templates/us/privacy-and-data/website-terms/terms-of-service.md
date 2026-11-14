@@ -18,10 +18,7 @@ source:
   url: https://github.com/basecamp/policies/blob/master/terms/index.md
   retrieved: "2026-11-14"
   notes: >-
-    From the Basecamp open-source policies repository, released under CC BY 4.0 with the request that adaptations carry
-    the line "Adapted from the Basecamp open-source policies / CC BY 4.0", which is included. Wording unchanged apart
-    from the title heading; a drafting note is added at the top. The repository is archived and the live policies are at
-    37signals.com/policies.
+    Text taken verbatim from https://github.com/basecamp/policies/blob/master/terms/index.md (README: released under Creative Commons Attribution 4.0). The file's site front-matter is omitted; Basecamp's Jekyll variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -31,8 +28,6 @@ summary: >-
   Plain-English terms of service for a SaaS product, covering account terms, payment, cancellation, uptime, liability
   and changes, written for consumers and small businesses rather than lawyers.
 ---
-
-> **Drafting note:** This is 37signals' live policy as published in the Basecamp open-source policies repository, kept verbatim as an example of a plain-English terms of service. Replace the company and product names, the dates, and the links with your own, and have the result reviewed for your jurisdiction.
 
 # Terms of Service
 
@@ -50,7 +45,7 @@ We may update these Terms of Service ("Terms") in the future. You can track all 
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms. There may be times where we do not exercise or enforce a right or provision of the Terms; however, that does not mean we are waiving that right or provision. **These Terms do contain a limitation of our liability.**
 
-If you violate any of the Terms, we may terminate your account. That’s a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://basecamp.com/about/team), [how we work](https://basecamp.com/handbook), and keeping an open door to [your feedback]([SUPPORT EMAIL ADDRESS]).
+If you violate any of the Terms, we may terminate your account. That’s a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://basecamp.com/about/team), [how we work](https://basecamp.com/handbook), and keeping an open door to [your feedback]({{ site.email_support }}).
 
 ## Account Terms
 
@@ -69,7 +64,7 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
 
 ## Cancellation and Termination
 
-1. You are solely responsible for properly canceling your account. Within each of our Services, we provide a simple no-questions-asked cancellation link. You can find instructions for how to cancel your account in our [Cancellation policy](../cancellation/index.md). An email or phone request to cancel your account is not automatically considered cancellation. If you need help canceling your account, you can always [contact our Support team]([SUPPORT EMAIL ADDRESS]).
+1. You are solely responsible for properly canceling your account. Within each of our Services, we provide a simple no-questions-asked cancellation link. You can find instructions for how to cancel your account in our [Cancellation policy](../cancellation/index.md). An email or phone request to cancel your account is not automatically considered cancellation. If you need help canceling your account, you can always [contact our Support team]({{ site.email_support }}).
 2. All of your content will be inaccessible from the Services immediately upon account cancellation. Within 30 days, all content will be permanently deleted from active systems and logs. Within 60 days, all content will be permanently deleted from our backups. We cannot recover this information once it has been permanently deleted. If you want to export any data before your account is canceled, we‘ve provided instructions for [HEY](https://hey.com/faqs/#if-i-don-t-like-hey-can-i-export-my-email-and-contacts), [Basecamp 4](https://3.basecamp-help.com/article/150-export-your-basecamp-data), [Basecamp 2](https://2.basecamp-help.com/article/247-exporting-account-data), [Basecamp Classic](https://classic.basecamp-help.com/article/524-exports), [Highrise](https://support.highrise-help.com/category/314-imports-exports), [Campfire](https://support.campfire-help.com/article/146-how-do-i-export-cancel-my-account), and [Backpack](https://support.backpack-help.com/article/289-can-i-export-my-data-out-of-backpack).
 3. If you cancel the Service before the end of your current paid up month, your cancellation will take effect immediately, and you will not be charged again. We do not automatically prorate unused time in the last billing cycle. See our [Fair Refund policy](../refund/index.md) for more details.
 4. We have the right to suspend or terminate your account and refuse any and all current or future use of our Services for any reason at any time. Suspension means you and any other users on your account will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Services to anyone for any reason at any time. We have this clause because statistically speaking, out of the hundreds of thousands of accounts on our Services, there is at least one doing something nefarious. There are some things we staunchly stand against and this clause is how we exercise that stance. For more details, see our [Use Restrictions policy](../abuse/index.md).
@@ -100,7 +95,7 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
 1. All content posted on the Services must comply with U.S. copyright law. We provide details on [how to file a copyright infringement claim](../copyright/index.md).
 2. You give us a limited license to use the content posted by you and your users in order to provide the Services to you, but we claim no ownership rights over those materials. All materials you submit to the Services remain yours.
 3. We do not pre-screen content, but we reserve the right (but not the obligation) in our sole discretion to refuse or remove any content that is available via the Service.
-4. The Company or its licensors own all right, title, and interest in and to the Services, including all intellectual property rights therein, and you obtain no ownership rights in the Services as a result of your use. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company’s logos or any Service logos for promotional purposes. Please [email us]([SUPPORT EMAIL ADDRESS]) requests to use logos. We reserve the right to rescind any permissions if you violate these Terms.
+4. The Company or its licensors own all right, title, and interest in and to the Services, including all intellectual property rights therein, and you obtain no ownership rights in the Services as a result of your use. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company’s logos or any Service logos for promotional purposes. Please [email us]({{ site.email_support }}) requests to use logos. We reserve the right to rescind any permissions if you violate these Terms.
 5. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Services, use of the Services, or access to the Services without the express written permission of the Company.
 
 ## Features and Bugs
@@ -127,8 +122,4 @@ We mention liability throughout these Terms but to put it all in one section:
 
 In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out, that’s on you, not us. We do our darnedest to be as safe a bet as possible through careful management of the business; investments in security, infrastructure, and talent; and in general [giving a damn](https://basecamp.com/about). If you choose to use our Services, thank you for betting on us.
 
-If you have a question about any of these Terms, please [contact our Support team]([SUPPORT EMAIL ADDRESS]).
-
----
-
-Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The current versions live at [37signals.com/policies](https://37signals.com/policies).
+If you have a question about any of these Terms, please [contact our Support team]({{ site.email_support }}).

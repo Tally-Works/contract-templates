@@ -21,9 +21,7 @@ source:
   url: https://github.com/Bloomberg-Beta/Investment-Documents
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/Bloomberg-Beta/Investment-Documents. The README states the documents are published by
-    Bloomberg Beta under Creative Commons Attribution 3.0 Unported. Wording unchanged apart from the title heading;
-    Bloomberg Beta's own name appears in the text as the investor and should be replaced.
+    Text taken verbatim from "02-SAFE/Side Letter.md" in github.com/Bloomberg-Beta/Investment-Documents (README: published under Creative Commons Attribution 3.0 Unported). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-3.0
 status: draft
 version: 1.0.0
@@ -31,8 +29,6 @@ last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: "Investor side letter accompanying a SAFE: pro rata, information, most-favoured-nation and related rights."
 ---
-
-# Bloomberg Beta SAFE Side Letter
 
 [COMPANY]
 [Address] 
@@ -87,7 +83,3 @@ BLOOMBERG BETA 2025 L.P.
 By:	____________________  
 [____________________]  
 Authorized Signatory
-
----
-
-Published by [Bloomberg Beta](https://github.com/Bloomberg-Beta/Investment-Documents) under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Reproduced unchanged.

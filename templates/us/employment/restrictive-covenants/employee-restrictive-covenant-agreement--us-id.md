@@ -21,10 +21,7 @@ source:
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-idaho
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Idaho-specific analysis informed by the quote-verified Idaho practice note.
-    Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository (metadata.yaml: license CC-BY-4.0,
-    allow_derivatives true). Changes by goHeather: {field} placeholders rendered as [BRACKETED] placeholders and
-    [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-idaho); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -47,85 +44,105 @@ summary: >-
 
 The terms below are incorporated into and form part of this agreement.
 
-**Employer:** [EMPLOYER NAME]
+Employer
+: {employer_name}
 
-**Employee:** [EMPLOYEE NAME]
+Employee
+: {employee_name}
 
-**Employee Title / Position:** [EMPLOYEE TITLE]
+Employee Title / Position
+: {employee_title}
 
-**Effective Date:** [EFFECTIVE DATE]
+Effective Date
+: {effective_date}
 
-**Governing Law:** [GOVERNING LAW]
+Governing Law
+: {governing_law}
 
-**Healthcare Provider:** [HEALTHCARE PROVIDER]
+Healthcare Provider
+: {healthcare_provider}
 
 Confidentiality
 
-**Trade Secrets Duration:** [CONFIDENTIALITY TRADE SECRET DURATION]
+Trade Secrets Duration
+: {confidentiality_trade_secret_duration}
 
-**Other Confidential Information Duration:** [CONFIDENTIALITY OTHER DURATION]
+Other Confidential Information Duration
+: {confidentiality_other_duration}
 
 Employee Non-Solicitation
 
-**Duration:** [EMPLOYEE NONSOLICIT DURATION]
+Duration
+: {employee_nonsolicit_duration}
 
-**Covered Employee Lookback:** [COVERED EMPLOYEE PERIOD]
+Covered Employee Lookback
+: {covered_employee_period}
 
 Customer Non-Solicitation
 
-**Duration:** [CUSTOMER NONSOLICIT DURATION]
+Duration
+: {customer_nonsolicit_duration}
 
-**Covered Customer Lookback:** [COVERED CUSTOMER PERIOD]
+Covered Customer Lookback
+: {covered_customer_period}
 
 Non-Competition
 
-**Duration:** [NONCOMPETE DURATION]
+Duration
+: {noncompete_duration}
 
-**Restricted Territory:** [TERRITORY]
+Restricted Territory
+: {territory}
 
-**Competitive Business:** [COMPETITIVE BUSINESS DEFINITION]
+Competitive Business
+: {competitive_business_definition}
 
-**Specified Competitors:** [SPECIFIED COMPETITORS]
+Specified Competitors
+: {specified_competitors}
 
 No Business with Covered Customers
 
-**Duration:** [NONDEALING DURATION]
+Duration
+: {nondealing_duration}
 
 Non-Investment
 
-**Duration:** [NONINVESTMENT DURATION]
+Duration
+: {noninvestment_duration}
 
 Non-Disparagement
 
-**Duration:** [NONDISPARAGEMENT DURATION]
+Duration
+: {nondisparagement_duration}
 
 Consideration
 
-**Consideration for Restrictive Covenants:** [IDAHO ADDED CONSIDERATION]
+Consideration for Restrictive Covenants
+: {idaho_added_consideration}
 
 ## Standard Terms
 
 ### Defined Terms
 
-**Competitive Business** means a person or entity that engages in the business activities described in Cover Terms under Competitive Business, limited so far as possible to the type of employment or line of business Employee actually conducted for Employer.
+[[Competitive Business]] means a person or entity that engages in the business activities described in Cover Terms under Competitive Business, limited so far as possible to the type of employment or line of business Employee actually conducted for Employer.
 
-**Confidential Information** means non-public information relating to Employer's business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee.
+[[Confidential Information]] means non-public information relating to Employer's business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee.
 
-**Covered Customers** means customers, vendors, referral sources, and business partners with whom Employee had material contact or for whom Employee had responsibility during the [COVERED CUSTOMER PERIOD] before termination of employment.
+[[Covered Customers]] means customers, vendors, referral sources, and business partners with whom Employee had material contact or for whom Employee had responsibility during the {covered_customer_period} before termination of employment.
 
-**Covered Employees** means employees with whom Employee worked or whom Employee managed during the [COVERED EMPLOYEE PERIOD] before termination of employment.
+[[Covered Employees]] means employees with whom Employee worked or whom Employee managed during the {covered_employee_period} before termination of employment.
 
-**Passive Public Holdings** means ownership of securities of a publicly traded company representing less than [PASSIVE PUBLIC HOLDINGS THRESHOLD] of any class of such company's securities, and interests in diversified mutual funds, index funds, and exchange-traded funds that may hold securities of a Competitive Business.
+[[Passive Public Holdings]] means ownership of securities of a publicly traded company representing less than {passive_public_holdings_threshold} of any class of such company's securities, and interests in diversified mutual funds, index funds, and exchange-traded funds that may hold securities of a Competitive Business.
 
-**Protected Interests** means Employer's goodwill, technologies, intellectual property, business plans, business processes and methods of operation, customers, customer lists, customer contacts and referral sources, vendors and vendor contacts, financial and marketing information, and trade secrets.
+[[Protected Interests]] means Employer's goodwill, technologies, intellectual property, business plans, business processes and methods of operation, customers, customer lists, customer contacts and referral sources, vendors and vendor contacts, financial and marketing information, and trade secrets.
 
-**Restricted Period** means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason.
+[[Restricted Period]] means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason.
 
-**Restricted Territory** means the geographic area described in Cover Terms under Restricted Territory.
+[[Restricted Territory]] means the geographic area described in Cover Terms under Restricted Territory.
 
-**Solicit** means an overt act initiated by Employee that entreats, implores, pleads, or petitions a person or entity for the business or relationship at issue, and seeks something in return. Solicit does not include the mere acceptance of business, ordinary communication between Employee and another person, responding to general advertisements, or responding to unsolicited inquiries not initiated by Employee.
+[[Solicit]] means an overt act initiated by Employee that entreats, implores, pleads, or petitions a person or entity for the business or relationship at issue, and seeks something in return. Solicit does not include the mere acceptance of business, ordinary communication between Employee and another person, responding to general advertisements, or responding to unsolicited inquiries not initiated by Employee.
 
-**Trade Secrets** has the meaning given in the Idaho Trade Secrets Act, Idaho Code section 48-801.
+[[Trade Secrets]] has the meaning given in the Idaho Trade Secrets Act, Idaho Code section 48-801.
 
 ### Recitals, Key-Worker Status, and Protected Interests
 
@@ -133,7 +150,7 @@ Employer and Employee acknowledge that each restrictive covenant in this agreeme
 
 ### Timing, Consideration, and Right to Consult Counsel
 
-Employer has advised Employee that Employee may consult with an attorney before entering into this agreement, and Employee confirms having entered this agreement knowingly and voluntarily. In consideration of Employee's employment or continued employment and [IDAHO ADDED CONSIDERATION], the parties agree to the terms of this agreement. Employee acknowledges that the restrictions in this agreement are reasonable and necessary to protect Employer's Protected Interests. This agreement is effective as of the Effective Date listed in Cover Terms.
+Employer has advised Employee that Employee may consult with an attorney before entering into this agreement, and Employee confirms having entered this agreement knowingly and voluntarily. In consideration of Employee's employment or continued employment and {idaho_added_consideration}, the parties agree to the terms of this agreement. Employee acknowledges that the restrictions in this agreement are reasonable and necessary to protect Employer's Protected Interests. This agreement is effective as of the Effective Date listed in Cover Terms.
 
 ### Confidential Information and Trade Secret Protection
 
@@ -211,19 +228,15 @@ This agreement constitutes the entire agreement between the parties regarding it
 
 By signing this agreement, each party acknowledges and agrees to the restrictive covenant obligations above. Employee confirms having read and understood each provision, including the Cover Terms.
 
-Employer: [EMPLOYER NAME]
+Employer: {employer_name}
 
 Signature: _______________
-Signatory Name: [EMPLOYER SIGNATORY NAME]
-Title: [EMPLOYER SIGNATORY TITLE]
+Signatory Name: {employer_signatory_name}
+Title: {employer_signatory_title}
 Date: _______________
 
 **Employee**
 
 Signature: _______________
-Print Name: [EMPLOYEE NAME]
+Print Name: {employee_name}
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. Idaho-specific analysis informed by the quote-verified Idaho practice note. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-idaho](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-idaho) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

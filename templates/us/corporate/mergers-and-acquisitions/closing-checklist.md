@@ -19,9 +19,7 @@ source:
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-closing-checklist
   retrieved: "2026-11-14"
   notes: >-
-    OpenAgreements Closing Checklist. Licensed under CC0 1.0. Taken from template.md in the OpenAgreements repository
-    (metadata.yaml: license CC0-1.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as
-    [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-closing-checklist); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -33,10 +31,18 @@ summary: >-
   marked experimental by its authors.)
 ---
 
+---
+template_id: openagreements-closing-checklist
+title: Closing Checklist
+document:
+  title: Closing Checklist
+  version: "2.1"
+  license: CC0-1.0
+---
 
-# Closing Checklist
+# {deal_name} — Closing Checklist
 
-Updated: [UPDATED AT]
+Updated: {updated_at}
 
 ## Documents
 
@@ -55,7 +61,3 @@ Updated: [UPDATED AT]
 | ID | Title | Status | Summary | Citation |
 | --- | --- | --- | --- | --- |
 | {FOR i IN open_issues}{$i.issue_id} | {$i.title} | {$i.status} | {$i.summary} | {$i.citation}{END-FOR i} |
-
----
-
-OpenAgreements Closing Checklist. Licensed under CC0 1.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-closing-checklist](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-closing-checklist) (version 2.1, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

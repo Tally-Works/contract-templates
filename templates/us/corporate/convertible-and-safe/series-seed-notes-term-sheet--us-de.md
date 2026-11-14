@@ -19,9 +19,7 @@ source:
   url: https://github.com/CooleyLLP/seriesseed
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/CooleyLLP/seriesseed (Cooley's fork of the Series Seed documents). Its README states
-    all documents in the repository are open sourced under the CC0 1.0 Universal Public Domain Dedication. Wording
-    unchanged apart from the title heading; Cooley's bracketed drafting notes are kept.
+    Text taken verbatim from "notes/Series Seed Notes - Term Sheet.md" in github.com/CooleyLLP/seriesseed (README: all documents open sourced under CC0 1.0). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -30,7 +28,7 @@ reviewed_by: ""
 summary: Term sheet for a seed round financed with convertible promissory notes, including an optional diversity rider.
 ---
 
-# Series Seed Notes Term Sheet
+# TERM SHEET FOR CONVERTIBLE PROMISSORY NOTE FINANCING OF [COMPANY NAME]
 
 This term sheet is an expression of intent only, does not express the agreement of the parties, is not meant to be binding on the parties and is meant to be used as a negotiation aid by the parties. The parties do not intend to be bound until they enter into a definitive agreement regarding the subject matter of this term sheet.
 
@@ -158,7 +156,3 @@ As soon as practicable, the Company will deliver to each holder of Series Prefer
 ## ]
 
 # ]
-
----
-
-From [Cooley LLP's fork of the Series Seed documents](https://github.com/CooleyLLP/seriesseed), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

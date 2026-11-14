@@ -21,9 +21,7 @@ source:
   file: templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted from the docx published on dol.gov (kept under sources/). Works of the United States Government are not
-    subject to copyright (17 U.S.C. 105). Wording unchanged; the Department's instructions and Paperwork Reduction Act
-    statement are kept at the top.
+    Converted to Markdown from the publisher's own Word file (model-cobra-continuation-coverage-election-notice.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: Public-Domain
 status: draft
 version: 1.0.0
@@ -34,7 +32,7 @@ summary: >-
   to elect COBRA continuation coverage, deadlines, premiums and alternatives.
 ---
 
-# Model COBRA Continuation Coverage Election Notice
+## Model COBRA Continuation Coverage Election Notice
 
 ## Instructions
 
@@ -88,7 +86,7 @@ Each person (“qualified beneficiary”) in the category(ies) checked below can
 
 □ Child who is losing coverage under the Plan because he or she is no longer a dependent under the Plan
 
-#### Are there other coverage options besides COBRA Continuation Coverage?
+Are there other coverage options besides COBRA Continuation Coverage?
 
 Yes. Instead of enrolling in COBRA continuation coverage, there may be other more affordable coverage options for you and your family through the Health Insurance Marketplace, Medicaid, Medicare, or other group health plan coverage options (such as a spouse’s plan) through what is called a “special enrollment period.” Some of these options may cost less than COBRA continuation coverage.
 
@@ -96,7 +94,7 @@ You should compare your other coverage options with COBRA continuation coverage 
 
 When you lose job-based health coverage, it’s important that you choose carefully between COBRA continuation coverage and other coverage options, because once you’ve made your choice, it can be difficult or impossible to switch to another coverage option.
 
-#### If I elect COBRA continuation coverage, when will my coverage begin and how long will the coverage last?
+If I elect COBRA continuation coverage, when will my coverage begin and how long will the coverage last?
 
 If elected, COBRA continuation coverage will begin on [*enter date*] and can last until [*enter date*]*.*
 
@@ -130,7 +128,7 @@ You always have 60 days from the time you lose your job-based coverage to enroll
 
 To find out more about enrolling in the Marketplace, such as when the next open enrollment period will be and what you need to know about qualifying events and special enrollment periods, visit [www.HealthCare.gov](http://www.HealthCare.gov).
 
-#### If I sign up for COBRA continuation coverage, can I switch to coverage in the Marketplace? What about if I choose Marketplace coverage and want to switch back to COBRA continuation coverage?
+If I sign up for COBRA continuation coverage, can I switch to coverage in the Marketplace? What about if I choose Marketplace coverage and want to switch back to COBRA continuation coverage?
 
 If you sign up for COBRA continuation coverage, you can switch to a Marketplace plan during a Marketplace open enrollment period. You can also end your COBRA continuation coverage early and switch to a Marketplace plan if you have another qualifying event such as marriage or birth of a child through something called a “special enrollment period.” But be careful though - if you terminate your COBRA continuation coverage early without another qualifying event, you’ll have to wait to enroll in Marketplace coverage until the next open enrollment period, and could end up without any health coverage in the interim.
 
@@ -144,7 +142,7 @@ You may be eligible to enroll in coverage under another group health plan (like 
 
 If you or your dependent chooses to elect COBRA continuation coverage instead of enrolling in another group health plan for which you’re eligible, you’ll have another opportunity to enroll in the other group health plan within 30 days of losing your COBRA continuation coverage.
 
-#### Can I enroll in Medicare instead of COBRA continuation coverage after my group health plan coverage ends?
+Can I enroll in Medicare instead of COBRA continuation coverage after my group health plan coverage ends?
 
 In general, if you don’t enroll in Medicare Part A or B when you are first eligible because you are still employed, after the initial enrollment period for Medicare Part A or B, you have an 8-month special enrollment period[[1]](#footnote-1) to sign up, beginning on the earlier of
 
@@ -157,7 +155,7 @@ If you are enrolled in both COBRA continuation coverage and Medicare, Medicare w
 
 For more information visit [https://www.medicare.gov/medicare-and-you](https://www.medicare.gov/medicare-and-you).
 
-#### What factors should I consider when choosing coverage options?
+What factors should I consider when choosing coverage options?
 
 When considering your options for health coverage, you may want to think about:
 
@@ -245,7 +243,3 @@ Your first payment and all periodic payments for continuation coverage should be
 [*enter appropriate payment address*]
 
 1.  [https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start). These rules are different for people with End Stage Renal Disease (ESRD). [↑](#footnote-ref-1)
-
----
-
-Published by the U.S. Department of Labor, Employee Benefits Security Administration ([dol.gov](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra)). A work of the United States Government, in the public domain. Reproduced unchanged, including the Department's instructions page.

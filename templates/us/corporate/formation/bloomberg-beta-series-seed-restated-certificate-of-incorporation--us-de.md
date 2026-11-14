@@ -19,9 +19,7 @@ source:
   url: https://github.com/Bloomberg-Beta/Investment-Documents
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/Bloomberg-Beta/Investment-Documents. The README states the documents are published by
-    Bloomberg Beta under Creative Commons Attribution 3.0 Unported. Wording unchanged apart from the title heading;
-    Bloomberg Beta's own name appears in the text as the investor and should be replaced.
+    Text taken verbatim from "01-Series Seed/Restated Certificate of Incorporation.md" in github.com/Bloomberg-Beta/Investment-Documents (README: published under Creative Commons Attribution 3.0 Unported). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-3.0
 status: draft
 version: 1.0.0
@@ -30,7 +28,7 @@ reviewed_by: ""
 summary: Bloomberg Beta's variant of the Series Seed restated certificate of incorporation for a Delaware corporation.
 ---
 
-# Bloomberg Beta Series Seed Restated Certificate of Incorporation
+# AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF [NAME OF COMPANY]
 
 ##### (Pursuant to Sections 242 and 245 of the General Corporation Law of the State of Delaware)
 
@@ -224,7 +222,3 @@ In accordance with Section 500 of the California Corporations Code, a distributi
 ### ARTICLE X
 
 The Corporation renounces any interest or expectancy of the Corporation in, or in being offered an opportunity to participate in, or in being informed about, an Excluded Opportunity. “*Excluded Opportunity*” means any matter, transaction or interest that is presented to, or acquired, created or developed by, or which otherwise comes into the possession of, (i) any director of the Corporation who is not an employee of the Corporation or any of its subsidiaries, or (ii) any holder of Preferred Stock or any affiliate, partner, member, director, stockholder, employee, agent or other related person of any such holder, other than someone who is an employee of the Corporation or any of its subsidiaries (a “*Covered Person*”), unless such matter, transaction or interest is presented to, or acquired, created or developed by, or otherwise comes into the possession of, a Covered Person expressly and solely in such Covered Person’s capacity as a director of the Corporation.
-
----
-
-Published by [Bloomberg Beta](https://github.com/Bloomberg-Beta/Investment-Documents) under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Reproduced unchanged.

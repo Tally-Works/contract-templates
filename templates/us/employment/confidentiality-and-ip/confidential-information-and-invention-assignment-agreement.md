@@ -21,11 +21,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-confidentiality-invention-assignment-agreement
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Baseline structure inspired by permissive public references including the
-    Balanced Employee IP Agreement (CC0) and Papertrail legal-docs (CC0). Licensed under CC BY 4.0. Taken from
-    template.md in the OpenAgreements repository (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by
-    goHeather: {field} placeholders rendered as [BRACKETED] placeholders and [[defined terms]] rendered bold; wording
-    unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-confidentiality-invention-assignment-agreement); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -36,39 +32,49 @@ summary: >-
   personal-project carveout language placeholders. (OpenAgreements version 0.5.1, marked experimental by its authors.)
 ---
 
-# Confidential Information and Invention Assignment Agreement
+# Confidential Information and Invention Assignment Agreement (CIIAA)
 
 ## Cover Terms
 
 The key business terms of this assignment agreement are as follows.
 
-**Company:** [COMPANY NAME]
+Company
+: {company_name}
 
-**Employee:** [EMPLOYEE NAME]
+Employee
+: {employee_name}
 
-**Effective Date:** [EFFECTIVE DATE]
+Effective Date
+: {effective_date}
 
-**Prior Inventions Disclosure:** [PRIOR INVENTIONS DISCLOSURE]
+Prior Inventions Disclosure
+: {prior_inventions_disclosure}
 
-**Excluded Inventions Statement:** [EXCLUDED INVENTIONS STATEMENT]
+Excluded Inventions Statement
+: {excluded_inventions_statement}
 
-**Return of Materials Timing:** [RETURN OF MATERIALS TIMING]
+Return of Materials Timing
+: {return_of_materials_timing}
 
-**Other Confidential Information Duration:** [CONFIDENTIALITY OTHER DURATION]
+Other Confidential Information Duration
+: {confidentiality_other_duration}
 
-**Post-Termination Assistance:** [POST TERMINATION ASSISTANCE]
+Post-Termination Assistance
+: {post_termination_assistance}
 
-**Governing Law:** [GOVERNING LAW]
+Governing Law
+: {governing_law}
 
-**Venue:** [VENUE]
+Venue
+: {venue}
 
 ## Standard Terms
 
 ### Defined Terms
 
-**Covered Inventions** means all inventions, software, works of authorship, discoveries, improvements, designs, data models, and other intellectual property that Employee makes, conceives, develops, or reduces to practice, alone or with others, during employment, together with all related intellectual property rights, including the right to apply for and claim priority to patents, copyrights, and other registrations and the right to pursue remedies for infringement. Covered Inventions do not include the Prior Inventions or the Excluded Inventions described below.
+[[Covered Inventions]] means all inventions, software, works of authorship, discoveries, improvements, designs, data models, and other intellectual property that Employee makes, conceives, develops, or reduces to practice, alone or with others, during employment, together with all related intellectual property rights, including the right to apply for and claim priority to patents, copyrights, and other registrations and the right to pursue remedies for infringement. Covered Inventions do not include the Prior Inventions or the Excluded Inventions described below.
 
-**Confidential Information** means non-public information of Company that Employee learns, accesses, or develops during employment, including business strategies, customer and prospect data, trade secrets, source code, algorithms, security credentials, technical and product information, financial information, personnel information. Confidential Information also includes non-public information of another person or entity that Employee learns or accesses during employment and that Company has agreed to treat as confidential or that was entrusted to Company in confidence. Confidential Information does not include information that (a) was publicly known when Employee learned it, (b) becomes publicly known through no fault of Employee, (c) was lawfully known to Employee before employment without confidentiality restriction, (d) Employee rightfully receives from a third party without confidentiality restriction, or (e) Employee independently develops outside the scope of employment without using Confidential Information or Company equipment, supplies, facilities, or other resources.
+[[Confidential Information]] means non-public information of Company that Employee learns, accesses, or develops during employment, including business strategies, customer and prospect data, trade secrets, source code, algorithms, security credentials, technical and product information, financial information, personnel information. Confidential Information also includes non-public information of another person or entity that Employee learns or accesses during employment and that Company has agreed to treat as confidential or that was entrusted to Company in confidence. Confidential Information does not include information that (a) was publicly known when Employee learned it, (b) becomes publicly known through no fault of Employee, (c) was lawfully known to Employee before employment without confidentiality restriction, (d) Employee rightfully receives from a third party without confidentiality restriction, or (e) Employee independently develops outside the scope of employment without using Confidential Information or Company equipment, supplies, facilities, or other resources.
 
 ### Assignment of Inventions
 
@@ -166,19 +172,15 @@ By signing this agreement, Employee acknowledges that Employee has had the oppor
 
 In consideration of Employee's employment or continued employment by Company, each party acknowledges and agrees to the assignment and confidentiality obligations above.
 
-Company: [COMPANY NAME]
+Company: {company_name}
 
 Signature: _______________
-Signatory Name: [COMPANY SIGNATORY NAME]
-Title: [COMPANY SIGNATORY TITLE]
+Signatory Name: {company_signatory_name}
+Title: {company_signatory_title}
 Date: _______________
 
 **Employee**
 
 Signature: _______________
-Print Name: [EMPLOYEE NAME]
+Print Name: {employee_name}
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. Baseline structure inspired by permissive public references including the Balanced Employee IP Agreement (CC0) and Papertrail legal-docs (CC0). Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-confidentiality-invention-assignment-agreement](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-confidentiality-invention-assignment-agreement) (version 0.5.1, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

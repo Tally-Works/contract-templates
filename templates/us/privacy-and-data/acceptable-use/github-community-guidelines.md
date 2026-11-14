@@ -18,10 +18,7 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/github-terms/github-community-guidelines.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-terms/github-community-guidelines.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -29,10 +26,6 @@ last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: "Community guidelines for a platform: expected behaviour, what is not allowed, and how reports and moderation work."
 ---
-
-# GitHub Community Guidelines
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English community guidelines. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
 
 Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
 
@@ -95,7 +88,3 @@ If your content or account has been disabled or restricted and you seek reinstat
 We dedicate these Community Guidelines to the public domain for anyone to use, reuse, adapt, or whatever, under the terms of [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 These are only guidelines; they do not modify our [Terms of Service](/site-policy/github-terms/github-terms-of-service) and are not intended to be a complete list. Under those terms, GitHub retains full discretion to remove any content or terminate any accounts for activity that violates our [Acceptable Use Policies](/site-policy/acceptable-use-policies/github-acceptable-use-policies). These guidelines describe when we will exercise that discretion.
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-community-guidelines.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

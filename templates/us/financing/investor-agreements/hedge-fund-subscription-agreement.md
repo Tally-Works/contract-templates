@@ -20,11 +20,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-subscription-agreement
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors using selected provisions from identified public private investment fund
-    subscription agreements filed with the SEC. The cited sources are not a representative market sample. Licensed under
-    CC BY 4.0. Taken from template.md in the OpenAgreements repository (metadata.yaml: license CC-BY-4.0,
-    allow_derivatives true). Changes by goHeather: {field} placeholders rendered as [BRACKETED] placeholders and
-    [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-subscription-agreement); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -38,39 +34,39 @@ summary: >-
   version 0.1.0, marked experimental by its authors.)
 ---
 
-# Hedge Fund Subscription Agreement
+# Subscription Agreement
 
-This Subscription Agreement is made between [FUND NAME], acting through [GENERAL PARTNER NAME] as its general partner, and [LIMITED PARTNER NAME], the Subscriber. The parties agree as follows.
+This Subscription Agreement is made between {fund_name}, acting through {general_partner_name} as its general partner, and {limited_partner_name}, the Subscriber. The parties agree as follows.
 
 ## Part 1: Subscription
 
 ### Definitions
 
-**Partnership** means [FUND NAME].
+[[Partnership]] means {fund_name}.
 
-**General Partner** means [GENERAL PARTNER NAME].
+[[General Partner]] means {general_partner_name}.
 
-**Manager** means [MANAGER NAME].
+[[Manager]] means {manager_name}.
 
-**Subscriber** means [LIMITED PARTNER NAME].
+[[Subscriber]] means {limited_partner_name}.
 
-**Partnership Agreement** means the Limited Partnership Agreement of the Partnership, as amended from time to time.
+[[Partnership Agreement]] means the Limited Partnership Agreement of the Partnership, as amended from time to time.
 
-**Memorandum** means the Partnership's private placement memorandum dated [OFFERING DATE], as supplemented from time to time.
+[[Memorandum]] means the Partnership's private placement memorandum dated {offering_date}, as supplemented from time to time.
 
-**Questionnaire** means the Hedge Fund Investor Questionnaire the Subscriber completes and delivers with this Agreement, and any update of it.
+[[Questionnaire]] means the Hedge Fund Investor Questionnaire the Subscriber completes and delivers with this Agreement, and any update of it.
 
-**Subscription Date** means [SUBSCRIPTION DATE], or any later subscription date the General Partner selects under the Partnership Agreement.
+[[Subscription Date]] means {subscription_date}, or any later subscription date the General Partner selects under the Partnership Agreement.
 
 Capitalized terms used but not defined in this Agreement have the meanings given in the Partnership Agreement.
 
 ### Subscription
 
-Subject to the terms of this Agreement and the Partnership Agreement, the Subscriber irrevocably subscribes for a limited partnership interest in the Partnership and agrees to make a cash capital contribution of [LIMITED PARTNER INITIAL CONTRIBUTION] as of the Subscription Date. The minimum initial contribution is [MINIMUM INITIAL INVESTMENT], which the General Partner may waive or reduce in its discretion. Once delivered, this subscription may not be revoked or withdrawn by the Subscriber.
+Subject to the terms of this Agreement and the Partnership Agreement, the Subscriber irrevocably subscribes for a limited partnership interest in the Partnership and agrees to make a cash capital contribution of {limited_partner_initial_contribution} as of the Subscription Date. The minimum initial contribution is {minimum_initial_investment}, which the General Partner may waive or reduce in its discretion. Once delivered, this subscription may not be revoked or withdrawn by the Subscriber.
 
 ### Delivery and Payment
 
-The Subscriber shall deliver this Agreement, the completed Questionnaire, the tax forms the Questionnaire requests, and any identity information the General Partner requests so that they are received at least [SUBSCRIPTION DEADLINE BUSINESS DAYS] business days before the Subscription Date. The Subscriber shall send its capital contribution in cleared United States dollar funds, by wire transfer from an account in the Subscriber's own name, under the instructions the General Partner provides, so that the funds are received by the same deadline. Funds received before the Subscription Date are held in a Partnership bank account and are not invested for the Partnership until the Subscription Date.
+The Subscriber shall deliver this Agreement, the completed Questionnaire, the tax forms the Questionnaire requests, and any identity information the General Partner requests so that they are received at least {subscription_deadline_business_days} business days before the Subscription Date. The Subscriber shall send its capital contribution in cleared United States dollar funds, by wire transfer from an account in the Subscriber's own name, under the instructions the General Partner provides, so that the funds are received by the same deadline. Funds received before the Subscription Date are held in a Partnership bank account and are not invested for the Partnership until the Subscription Date.
 
 ### Acceptance or Rejection
 
@@ -150,29 +146,25 @@ The Subscriber consents to receive statements, reports, tax information, notices
 
 ### General Provisions
 
-Notices under this Agreement must be in writing and delivered to the General Partner at [GENERAL PARTNER ADDRESS] or to the Subscriber at [LIMITED PARTNER ADDRESS], or to another address a party designates by notice. This Agreement is governed by the laws of the State of Delaware, without regard to conflict-of-laws principles, and any dispute arising out of it will be resolved in the forum and by the method that the Partnership Agreement provides for disputes arising out of the Partnership Agreement. The Subscriber may not assign this Agreement without the General Partner's prior written consent. This Agreement, the Questionnaire, the Partnership Agreement, and any written side letter with the Subscriber constitute the entire agreement concerning the Subscriber's subscription. If any provision is invalid, the remaining provisions continue in effect. The Subscriber's representations and the limited indemnity survive its admission. This Agreement may be signed in counterparts and by electronic signature, each of which is treated as an original.
+Notices under this Agreement must be in writing and delivered to the General Partner at {general_partner_address} or to the Subscriber at {limited_partner_address}, or to another address a party designates by notice. This Agreement is governed by the laws of the State of Delaware, without regard to conflict-of-laws principles, and any dispute arising out of it will be resolved in the forum and by the method that the Partnership Agreement provides for disputes arising out of the Partnership Agreement. The Subscriber may not assign this Agreement without the General Partner's prior written consent. This Agreement, the Questionnaire, the Partnership Agreement, and any written side letter with the Subscriber constitute the entire agreement concerning the Subscriber's subscription. If any provision is invalid, the remaining provisions continue in effect. The Subscriber's representations and the limited indemnity survive its admission. This Agreement may be signed in counterparts and by electronic signature, each of which is treated as an original.
 
 ## Signatures
 
 The Subscriber signs this Subscription Agreement, and a counterpart signature page to the Partnership Agreement, and the General Partner accepts it for the Partnership.
 
-Subscriber: [LIMITED PARTNER NAME]
-Capital Contribution: [LIMITED PARTNER INITIAL CONTRIBUTION]
+Subscriber: {limited_partner_name}
+Capital Contribution: {limited_partner_initial_contribution}
 
 Signature: _______________
-Name: [LIMITED PARTNER SIGNATORY NAME]
-Title: [LIMITED PARTNER SIGNATORY TITLE]
+Name: {limited_partner_signatory_name}
+Title: {limited_partner_signatory_title}
 Date: _______________
 
-General Partner: [GENERAL PARTNER NAME]
-Accepted for the Partnership: [FUND NAME]
+General Partner: {general_partner_name}
+Accepted for the Partnership: {fund_name}
 Amount Accepted: _______________
 
 Signature: _______________
-Signatory Name: [GENERAL PARTNER SIGNATORY NAME]
-Title: [GENERAL PARTNER SIGNATORY TITLE]
+Signatory Name: {general_partner_signatory_name}
+Title: {general_partner_signatory_title}
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors using selected provisions from identified public private investment fund subscription agreements filed with the SEC. The cited sources are not a representative market sample. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-subscription-agreement](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-subscription-agreement) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

@@ -20,13 +20,7 @@ source:
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-due-diligence-request-list
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Category structure and consensus framing informed by publicly available
-    DDRLs and commentary from Cooley, Skadden, Morgan Lewis, Gunderson Dettmer, Lowenstein Sandler, Holland & Knight,
-    Foley & Lardner, Software Equity Group, the International Bar Association, the American Bar Association, Bass Berry
-    & Sims, and Carta. See practice note for sources. Drafted clean-room; no source language was reused. Licensed under
-    CC BY 4.0. Taken from template.md in the OpenAgreements repository (metadata.yaml: license CC-BY-4.0,
-    allow_derivatives true). Changes by goHeather: {field} placeholders rendered as [BRACKETED] placeholders and
-    [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-due-diligence-request-list); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -47,21 +41,29 @@ summary: >-
 
 **CONFIDENTIAL.** This request list and the parties' related discussions are confidential and subject to the parties' executed confidentiality agreement. The thresholds and lookback periods that govern the requests are set out in the Engagement Scope and Instructions below.
 
-**Requesting Firm:** [REQUESTING FIRM NAME]
+Requesting Firm
+: {requesting_firm_name}
 
-**Target Company:** [TARGET COMPANY NAME]
+Target Company
+: {target_company_name}
 
-**Project Code Name:** [PROJECT CODE NAME]
+Project Code Name
+: {project_code_name}
 
-**Request Date:** [REQUEST DATE]
+Request Date
+: {request_date}
 
-**Response Due Date:** [RESPONSE DUE DATE]
+Response Due Date
+: {response_due_date}
 
-**Lead Buyer Counsel:** [LEAD BUYER COUNSEL NAME]
+Lead Buyer Counsel
+: {lead_buyer_counsel_name}
 
-**Lead Buyer Counsel Email:** [LEAD BUYER COUNSEL EMAIL]
+Lead Buyer Counsel Email
+: {lead_buyer_counsel_email}
 
-**Primary Target Contact:** [PRIMARY TARGET CONTACT NAME]
+Primary Target Contact
+: {primary_target_contact_name}
 
 ## Due Diligence Request List
 
@@ -76,9 +78,9 @@ This request list opens the legal due diligence phase of the contemplated transa
 - **Not Applicable** — with brief basis.
 - **Privileged / Withheld** — flag if attorney-client-privileged material is responsive but withheld or produced in redacted form.
 
-**Materiality.** Where a request is qualified by "material," "material" means the lower of (a) [MATERIALITY THRESHOLD USD] per item or annual aggregate, or (b) [MATERIALITY THRESHOLD REVENUE PCT] of the target's gross revenue for the most recent completed fiscal year, with all dollar amounts stated in [CURRENCY]. The materiality qualifier is dollar-based unless the request specifies otherwise. Qualitative materiality (anti-assignment, change-of-control, exclusivity, MFN, IP encumbrance) governs regardless of the dollar threshold.
+**Materiality.** Where a request is qualified by "material," "material" means the lower of (a) {materiality_threshold_usd} per item or annual aggregate, or (b) {materiality_threshold_revenue_pct} of the target's gross revenue for the most recent completed fiscal year, with all dollar amounts stated in {currency}. The materiality qualifier is dollar-based unless the request specifies otherwise. Qualitative materiality (anti-assignment, change-of-control, exclusivity, MFN, IP encumbrance) governs regardless of the dollar threshold.
 
-**Lookback.** Unless a section specifies otherwise, the lookback period is [LOOKBACK YEARS] years. Tax returns are requested for the past 6 years (Section D). Regulatory investigations, settlements, and consent decrees should be produced regardless of date.
+**Lookback.** Unless a section specifies otherwise, the lookback period is {lookback_years} years. Tax returns are requested for the past 6 years (Section D). Regulatory investigations, settlements, and consent decrees should be produced regardless of date.
 
 **Foldering.** Organize responsive materials to match the section structure of this request list, with sub-folders per request. Each file should be named to identify the responsive request.
 
@@ -90,13 +92,13 @@ A.1 Certificate of Incorporation, all amendments, and the current certified or f
 
 A.2 Bylaws or operating agreement, all amendments, and the current operative version.
 
-A.3 Complete minute books for the past [LOOKBACK YEARS] years, including board minutes, written consents, and committee minutes.
+A.3 Complete minute books for the past {lookback_years} years, including board minutes, written consents, and committee minutes.
 
-A.4 Stockholder or member meeting minutes and written consents for the past [LOOKBACK YEARS] years.
+A.4 Stockholder or member meeting minutes and written consents for the past {lookback_years} years.
 
 A.5 Certificates of good standing from the state of formation and from each state where the target is qualified to do business.
 
-A.6 Officer and director list, including titles, dates of service, and any departures within the past [LOOKBACK YEARS] years.
+A.6 Officer and director list, including titles, dates of service, and any departures within the past {lookback_years} years.
 
 A.7 Any Beneficial Ownership Information reports and updates required to be filed by the target.
 
@@ -110,7 +112,7 @@ B.3 Equity incentive plan documents, all amendments, and forms of grant agreemen
 
 B.4 All 83(b) election filings and proof of timely IRS submission within the 30-day statutory window.
 
-B.5 409A valuation reports for the past [LOOKBACK YEARS] years.
+B.5 409A valuation reports for the past {lookback_years} years.
 
 B.6 All stockholder agreements, voting agreements, registration rights agreements, side letters, and similar arrangements.
 
@@ -152,7 +154,7 @@ E.4 Lender consent requirements triggered by change of control.
 
 ### Section F — Material Contracts
 
-F.1 All contracts with annual revenue or expenditure exceeding [MATERIALITY THRESHOLD USD] or [MATERIALITY THRESHOLD REVENUE PCT] of gross revenue.
+F.1 All contracts with annual revenue or expenditure exceeding {materiality_threshold_usd} or {materiality_threshold_revenue_pct} of gross revenue.
 
 F.2 Top 20 customer contracts by revenue, regardless of dollar amount.
 
@@ -204,7 +206,7 @@ I.2 Internal data-protection and information-security policies, including incide
 
 I.3 Schedule of personal-data processing activities, categories of data subjects and personal data, and any DPAs with material processors.
 
-I.4 Cybersecurity-incident history for the past [LOOKBACK YEARS] years, including breach notifications to regulators, customers, or employees.
+I.4 Cybersecurity-incident history for the past {lookback_years} years, including breach notifications to regulators, customers, or employees.
 
 I.5 GDPR / CCPA / state-privacy-law compliance documentation, including data-subject-request handling procedures and any DPIA / TIA records.
 
@@ -214,7 +216,7 @@ J.1 Organizational chart with reporting lines and material compensation tiers.
 
 J.2 Standard form employment agreement, contractor agreement, and PIIA executed by all employees and material contractors.
 
-J.3 All employee benefit plans, including 401(k), health, welfare, severance, and any defined-benefit plans, with IRS Form 5500 filings for the past [LOOKBACK YEARS] years.
+J.3 All employee benefit plans, including 401(k), health, welfare, severance, and any defined-benefit plans, with IRS Form 5500 filings for the past {lookback_years} years.
 
 J.4 Equity incentive plan documents and forms of grant agreement (cross-reference Section B).
 
@@ -226,7 +228,7 @@ J.7 Severance and retention arrangements with key employees, including any singl
 
 ### Section K — Litigation, Disputes, Investigations
 
-K.1 Schedule of all pending and threatened claims, lawsuits, administrative proceedings, arbitrations, and investigations within the past [LOOKBACK YEARS] years. Include the parties, forum, claim summary, status, and amount in controversy.
+K.1 Schedule of all pending and threatened claims, lawsuits, administrative proceedings, arbitrations, and investigations within the past {lookback_years} years. Include the parties, forum, claim summary, status, and amount in controversy.
 
 K.2 All settlement and release agreements with ongoing obligations regardless of date.
 
@@ -234,13 +236,13 @@ K.3 All consent decrees, judgments, injunctions, and similar orders binding on t
 
 K.4 All correspondence with regulatory bodies, government agencies, or self-regulatory organizations regarding investigations, inquiries, settlements, or consent decrees, regardless of date.
 
-K.5 Audit response letters from the target's outside counsel for the past [LOOKBACK YEARS] years.
+K.5 Audit response letters from the target's outside counsel for the past {lookback_years} years.
 
 ### Section L — Compliance with Laws, Permits, Licenses
 
 L.1 Schedule of material licenses, permits, registrations, and authorizations required to operate the target's business.
 
-L.2 Routine regulatory filings and compliance certifications for the past [LOOKBACK YEARS] years.
+L.2 Routine regulatory filings and compliance certifications for the past {lookback_years} years.
 
 L.3 Internal compliance program documentation, including code of conduct, training records, and whistleblower hotline records.
 
@@ -250,7 +252,7 @@ L.4 Any prior compliance investigations, internal audits, or third-party allegat
 
 M.1 Schedule of all material insurance policies, including commercial general liability, D&O, E&O, cyber, employment-practices liability, and any industry-specific policies.
 
-M.2 Claims history for the past [LOOKBACK YEARS] years for each policy type.
+M.2 Claims history for the past {lookback_years} years for each policy type.
 
 M.3 Tail-coverage status and renewal terms for any claims-made policies.
 
@@ -264,7 +266,7 @@ N.3 Special-purpose-entity arrangements and any pass-through revenue or expense 
 
 ### Section O — Environmental
 
-O.1 Environmental permits, registrations, and authorizations, and any notices of violation or noncompliance within the past [LOOKBACK YEARS] years.
+O.1 Environmental permits, registrations, and authorizations, and any notices of violation or noncompliance within the past {lookback_years} years.
 
 O.2 Phase I and Phase II environmental site assessments and any environmental audit reports for owned or leased real property.
 
@@ -286,13 +288,13 @@ P.3 Source-code escrow arrangements with customers or escrow agents, including t
 
 P.4 All material hosted-services and IT agreements (cloud hosting, CDN, monitoring, observability, identity, payments), with change-of-control / assignment provisions identified.
 
-P.5 Most recent SOC 2 Type II report and ISO 27001 audit results, plus any internal vulnerability scan or penetration test reports for the past [LOOKBACK YEARS] years.
+P.5 Most recent SOC 2 Type II report and ISO 27001 audit results, plus any internal vulnerability scan or penetration test reports for the past {lookback_years} years.
 
 P.6 Data-flow architecture diagrams showing how customer data moves through the target's systems and sub-processors.
 
 P.7 Customer-facing Service Level Agreements (SLAs), including uptime commitments and credit / refund mechanics for SLA breaches.
 
-P.8 Security-incident history for the past [LOOKBACK YEARS] years (cross-reference Section I.4 for breaches with regulatory reporting obligations).
+P.8 Security-incident history for the past {lookback_years} years (cross-reference Section I.4 for breaches with regulatory reporting obligations).
 
 P.9 GDPR / CCPA / cross-border data-transfer mechanisms (Standard Contractual Clauses, adequacy decisions, BCRs) where applicable.
 
@@ -304,7 +306,7 @@ Q.1 Schedule of all clinical trials (current and past), with phase, indication, 
 
 Q.2 Investigator's Brochures and clinical-trial protocols for active trials.
 
-Q.3 Serious Adverse Event (SAE) reports filed with the FDA or foreign regulators in the past [LOOKBACK YEARS] years.
+Q.3 Serious Adverse Event (SAE) reports filed with the FDA or foreign regulators in the past {lookback_years} years.
 
 Q.4 Investigational New Drug (IND), New Drug Application (NDA), Biologics License Application (BLA), and 510(k) / PMA filings, including current status.
 
@@ -326,9 +328,9 @@ The following requests apply only if the target's business model includes provid
 
 R.1 Provider licensure for each state of operation, including any prior licensure actions, suspensions, or restrictions.
 
-R.2 Billing and coding compliance audit results for the past [LOOKBACK YEARS] years, including any external audits and any internal RAC / ZPIC review preparation.
+R.2 Billing and coding compliance audit results for the past {lookback_years} years, including any external audits and any internal RAC / ZPIC review preparation.
 
-R.3 Malpractice claims history for the past [LOOKBACK YEARS] years, including tail-coverage status for departing providers.
+R.3 Malpractice claims history for the past {lookback_years} years, including tail-coverage status for departing providers.
 
 R.4 HIPAA breach logs, OCR correspondence, and any corrective-action plans stemming from privacy or security incidents.
 
@@ -359,7 +361,3 @@ S.6 Government-customer relationships (federal, state, local, or foreign), inclu
 S.7 Operations or sales in higher-risk corruption-index jurisdictions; specify each country of operation, sale, or employee presence.
 
 S.8 Foreign-investment-screening filings (CFIUS, foreign FDI regimes), including any prior CFIUS reviews of the target or its subsidiaries.
-
----
-
-Authored by OpenAgreements contributors. Category structure and consensus framing informed by publicly available DDRLs and commentary from Cooley, Skadden, Morgan Lewis, Gunderson Dettmer, Lowenstein Sandler, Holland & Knight, Foley & Lardner, Software Equity Group, the International Bar Association, the American Bar Association, Bass Berry & Sims, and Carta. See practice note for sources. Drafted clean-room; no source language was reused. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-due-diligence-request-list](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-due-diligence-request-list) (version 1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

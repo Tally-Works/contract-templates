@@ -21,9 +21,7 @@ source:
   url: https://commonpaper.com/standards/design-partner-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken from the official Markdown in github.com/CommonPaper/Design-Partner-Agreement. Wording unchanged; HTML
-    span markup stripped. Common Paper publishes all standard agreements under CC BY 4.0 (commonpaper.com/standards) and
-    asks that the attribution line and link be kept, which they are.
+    Text taken verbatim from design-partner-agreement.md in github.com/CommonPaper/Design-Partner-Agreement (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -34,7 +32,7 @@ summary: >-
   feedback ownership and the absence of warranties. Governing law and business terms are chosen on the cover page.
 ---
 
-# Common Paper Design Partner Agreement
+# Design Partner Agreement
 
 1. Design Partner Overview
     1. Product Access.  Partner would like to be one of the first users of the Product. During the Term, Partner will have early access to the Product for its internal business purposes and to give Feedback to Provider and participate in the Program, so long as Partner complies with the terms of this Agreement.
@@ -83,7 +81,3 @@ summary: >-
     6. **"Feedback"** means suggestions, feedback, or comments about the Product or related offerings.
     7. **"Product"** means the product or services described in the Cover Page.
     8. **"Recipient"** means a party to this Agreement when the party receives Confidential Information from the other party.
-
----
-
-Common Paper Design Partner Agreement Standard Terms, published by [Common Paper](https://commonpaper.com/standards/design-partner-agreement/) and free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged.

@@ -19,9 +19,7 @@ source:
   url: https://advottic.com/templates/demand-letter
   retrieved: "2026-11-14"
   notes: >-
-    Taken from data/templates.json in github.com/TechnoOptics/legal-data, whose README states "MIT-licensed for code, CC
-    BY 4.0 for data and template text". The publisher's context and warnings are kept as drafting notes. Wording
-    unchanged; {{tokens}} rendered as [BRACKETED] placeholders.
+    Text taken verbatim from the "body" field of data/templates.json in github.com/TechnoOptics/legal-data (README: CC BY 4.0 for template text), including its {{token}} placeholders; the publisher's separate "context" and "warnings" fields are not part of the template and are not included. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -33,59 +31,43 @@ summary: >-
   per the publisher (last reviewed 2026-06-08).
 ---
 
-# Demand Letter
+{{Your Full Name}}
+{{Your Street Address}}
+{{Your City, State ZIP}}
+{{Your Email}}
+{{Your Phone}}
 
-> **Drafting note:** Send a demand letter when you have a specific, dollar-quantifiable problem with a specific person or business and want them to fix it without going to court. The letter does three things: states the facts clearly, attaches a number to the harm, and gives them a deadline to respond. Keep it factual and polite - it may end up as Exhibit A in a small-claims case.
-
-> **Drafting note:** Send by both email AND certified mail with return receipt; keep both receipts as proof of delivery.
->
-> **Drafting note:** Do not threaten anything you would not actually do. A demand letter threatening "we will sue" should be a letter you are prepared to follow through on.
->
-> **Drafting note:** In some jurisdictions a demand letter starts the statute-of-limitations clock or tolls it. Check your state.
->
-> **Drafting note:** Do not include any settlement offer you are not prepared to honor; an accepted offer becomes a binding contract.
-
-[YOUR FULL NAME]
-[YOUR STREET ADDRESS]
-[YOUR CITY, STATE ZIP]
-[YOUR EMAIL]
-[YOUR PHONE]
-
-[DATE]
+{{Date}}
 
 Via Certified Mail and Email
 
-[RECIPIENT FULL NAME OR BUSINESS NAME]
-[RECIPIENT STREET ADDRESS]
-[RECIPIENT CITY, STATE ZIP]
+{{Recipient Full Name or Business Name}}
+{{Recipient Street Address}}
+{{Recipient City, State ZIP}}
 
-Re: Demand for [BRIEF DESCRIPTION, E.G. "RETURN OF $5,000 SECURITY DEPOSIT"]
+Re: Demand for {{brief description, e.g. "Return of $5,000 Security Deposit"}}
 
-Dear [RECIPIENT],
+Dear {{Recipient}},
 
-I am writing to formally demand [DESCRIBE THE ACTION YOU WANT, E.G. "THE RETURN OF MY $5,000 SECURITY DEPOSIT"]. The relevant facts are:
+I am writing to formally demand {{describe the action you want, e.g. "the return of my $5,000 security deposit"}}. The relevant facts are:
 
-1. [FIRST FACT IN CHRONOLOGICAL ORDER. BE SPECIFIC - DATES, DOLLAR AMOUNTS, WHERE, WHO.]
-2. [SECOND FACT.]
-3. [THIRD FACT, INCLUDING THE ACT OR OMISSION THAT CAUSED THE HARM.]
+1. {{First fact in chronological order. Be specific - dates, dollar amounts, where, who.}}
+2. {{Second fact.}}
+3. {{Third fact, including the act or omission that caused the harm.}}
 
-Despite [DESCRIBE ANY PRIOR ATTEMPTS TO RESOLVE, E.G. "MY EMAIL OF JANUARY 15, 2026 AND FOLLOW-UP CALL ON FEBRUARY 1"], this matter remains unresolved.
+Despite {{describe any prior attempts to resolve, e.g. "my email of January 15, 2026 and follow-up call on February 1"}}, this matter remains unresolved.
 
-I am owed [EXACT DOLLAR AMOUNT, E.G. "$5,000"]. I am willing to resolve this matter without litigation if you pay this amount in full by [DEADLINE - TYPICALLY 14-30 DAYS FROM THIS LETTER, E.G. "MARCH 15, 2026"].
+I am owed {{exact dollar amount, e.g. "$5,000"}}. I am willing to resolve this matter without litigation if you pay this amount in full by {{deadline - typically 14-30 days from this letter, e.g. "March 15, 2026"}}.
 
-If I do not receive payment by that date, I will pursue all available legal remedies, which may include filing a civil claim in [COURT, E.G. "HENNEPIN COUNTY SMALL CLAIMS COURT"] where I will additionally seek court costs and statutory interest. [OPTIONAL: "I HAVE ALREADY BEGUN PREPARING THE NECESSARY COURT PAPERWORK."]
+If I do not receive payment by that date, I will pursue all available legal remedies, which may include filing a civil claim in {{court, e.g. "Hennepin County small claims court"}} where I will additionally seek court costs and statutory interest. {{Optional: "I have already begun preparing the necessary court paperwork."}}
 
-Please send payment to the address above. I prefer payment by [CHECK / WIRE / ACH TO ACCOUNT ENDING IN XXXX].
+Please send payment to the address above. I prefer payment by {{check / wire / ACH to account ending in XXXX}}.
 
 This letter constitutes my good-faith attempt to resolve this matter informally. A copy will be retained for any subsequent legal proceedings.
 
 Sincerely,
 
-[SIGNATURE]
-[YOUR PRINTED NAME]
+{{Signature}}
+{{Your Printed Name}}
 
-Enclosures: [LIST ANY SUPPORTING DOCUMENTS YOU ARE ATTACHING, E.G. "LEASE AGREEMENT, SECURITY-DEPOSIT RECEIPT, PHOTOS OF PROPERTY CONDITION AT MOVE-OUT"]
-
----
-
-From the [Advottic open legal data](https://github.com/TechnoOptics/legal-data) published by Techno Optics LLC under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for template text (reviewed 2026-06-08). Reproduced unchanged; template tokens rendered as [BRACKETED] placeholders.
+Enclosures: {{list any supporting documents you are attaching, e.g. "Lease agreement, security-deposit receipt, photos of property condition at move-out"}}

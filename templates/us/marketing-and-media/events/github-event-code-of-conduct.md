@@ -18,10 +18,7 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/github-terms/github-event-code-of-conduct.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-terms/github-event-code-of-conduct.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -29,10 +26,6 @@ last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: Anti-harassment code of conduct for in-person and online events, with reporting and enforcement.
 ---
-
-# GitHub Event Code of Conduct
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English event code of conduct. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
 
 ## Code of Conduct
 
@@ -77,7 +70,3 @@ GitHub employees will be happy to help Event Participants contact security or lo
 ## Credit
 
 Portions of this Code of Conduct are based on the example anti-harassment policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, under a Creative Commons Zero license.
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-event-code-of-conduct.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

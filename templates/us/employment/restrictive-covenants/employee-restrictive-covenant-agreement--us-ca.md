@@ -22,10 +22,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-california
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. California-specific analysis informed by the quote-verified California
-    practice note. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository (metadata.yaml:
-    license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as [BRACKETED]
-    placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-california); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -45,37 +42,45 @@ summary: >-
 
 The terms below are incorporated into and form part of this agreement.
 
-**Employer:** [EMPLOYER NAME]
+Employer
+: {employer_name}
 
-**Employee:** [EMPLOYEE NAME]
+Employee
+: {employee_name}
 
-**Employee Title / Position:** [EMPLOYEE TITLE]
+Employee Title / Position
+: {employee_title}
 
-**Effective Date:** [EFFECTIVE DATE]
+Effective Date
+: {effective_date}
 
-**Governing Law:** [GOVERNING LAW]
+Governing Law
+: {governing_law}
 
 Confidentiality
 
-**Trade Secrets Duration:** [CONFIDENTIALITY TRADE SECRET DURATION]
+Trade Secrets Duration
+: {confidentiality_trade_secret_duration}
 
-**Other Confidential Information Duration:** [CONFIDENTIALITY OTHER DURATION]
+Other Confidential Information Duration
+: {confidentiality_other_duration}
 
 Non-Disparagement
 
-**Duration:** [NONDISPARAGEMENT DURATION]
+Duration
+: {nondisparagement_duration}
 
 ## Standard Terms
 
 ### Defined Terms
 
-**Confidential Information** means non-public information relating to Employer's business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee.
+[[Confidential Information]] means non-public information relating to Employer's business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee.
 
-**Protected Interests** means Employer's trade secrets, Confidential Information, company property, and legally protected business information.
+[[Protected Interests]] means Employer's trade secrets, Confidential Information, company property, and legally protected business information.
 
-**Restricted Period** means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason.
+[[Restricted Period]] means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason.
 
-**Trade Secrets** means Employer's non-public information that derives independent economic value from not being generally known or readily ascertainable and that Employer takes reasonable measures to keep secret.
+[[Trade Secrets]] means Employer's non-public information that derives independent economic value from not being generally known or readily ascertainable and that Employer takes reasonable measures to keep secret.
 
 ### Timing and Employee Acknowledgements
 
@@ -133,19 +138,15 @@ This agreement constitutes the entire agreement between the parties regarding it
 
 By signing this agreement, each party acknowledges and agrees to the restrictive covenant obligations above. Employee confirms having read and understood each provision, including the Cover Terms.
 
-Employer: [EMPLOYER NAME]
+Employer: {employer_name}
 
 Signature: _______________
-Signatory Name: [EMPLOYER SIGNATORY NAME]
-Title: [EMPLOYER SIGNATORY TITLE]
+Signatory Name: {employer_signatory_name}
+Title: {employer_signatory_title}
 Date: _______________
 
 **Employee**
 
 Signature: _______________
-Print Name: [EMPLOYEE NAME]
+Print Name: {employee_name}
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. California-specific analysis informed by the quote-verified California practice note. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-california](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-california) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

@@ -20,27 +20,57 @@ source:
   file: templates/us/contractors/statement-of-work/common-paper-statement-of-work.docx
   retrieved: "2026-11-14"
   notes: >-
-    The document page at https://commonpaper.com/documents/statement-of-work/ states "This document is free to use or
-    modify under CC BY 4.0". Text converted from the Google Doc Common Paper offers on that page (exported as docx, kept
-    under sources/); the help-text first page was removed, tables flattened to label/value lines, and clause headings
-    rendered as bold lead-ins. Wording unchanged.
+    Converted to Markdown from the publisher's own Word file (common-paper-statement-of-work.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/commercial/master-services/common-paper-professional-services-agreement.md
 summary: >-
   Statement of work to attach to the Common Paper Professional Services Agreement: services, deliverables, schedule,
   fees and acceptance. Governing law and business terms are filled in on the document itself.
 ---
 
-# Common Paper Statement of Work
+**Interpreting help text**
 
-> **Drafting note:** This statement of work attaches to the Common Paper Professional Services Agreement, which is in this library at templates/us/commercial/master-services/common-paper-professional-services-agreement.md.
+[Yellow highlighted text in brackets] indicates a field or area where you can enter your own text or customizations.
 
-**SOW**
+*[Gray highlighted, italicized text in brackets]* indicates information about how to use or complete a particular variable.
 
-**The key business terms of this SOW are as follows:**
+Parenthesis indicate choices where you must select one option.
+
+( ) Option 1
+
+( ) Option 2
+
+Brackets indicate choices that are optional where you can pick none, one, or more than one.
+
+[ ] Option 1
+
+[ ] Option 2
+
+[ ] Option 3
+
+In some cases, default choices are indicated with an “x”.
+
+( x ) Default choice
+
+[ x ] Default choice
+
+**How to set up an agreement**
+
+1.  In the section titled “SOW and Agreement”, input details about the Professional Services Agreement you’re using. This SOW is designed to work with the Common Paper Professional Services Agreement.
+2.  Review each variable on the Cover Page and fill in your details. Don’t forget to enter your company’s information in the signature block at the end.
+3.  Delete any optional variables, choices, or details that do not apply to you.
+4.  Delete all *[informational text]*.
+5.  Remove this first page.
+6.  Send to your counterparty for review and signature.
+
+Professional Services Agreement
+
+**SOWThe key business terms of this SOW are as follows:**
 
 **SOW and Agreement**
 This SOW [no. XX] (“**SOW**”) incorporates the Agreement with a Key Terms Effective Date of [ enter Effective Date of Key Terms ] between [ enter official name of Provider on Key Terms ] and [ enter official name of Customer on Key Terms ]. If there is any inconsistency between this SOW and the Agreement, this SOW will control.
@@ -50,9 +80,7 @@ This SOW [no. XX] (“**SOW**”) incorporates the Agreement with a Key Terms Ef
 
 **Deliverables**
 *[Drafting note: Optional variable. If the Services include creating Deliverables, define the Deliverables here. If the SOW does not include Deliverables, delete this entire row.]*
-The 
-
-**Deliverables** are: [define the Deliverables that will be owned by Customer under this SOW.]
+The **Deliverables** are: [define the Deliverables that will be owned by Customer under this SOW.]
 *[Drafting note: Use the options below to add details about Deliverables. These are all optional and can be removed if not applicable. The first option allows Deliverables to include work product. The second option allows you to attach specifications to the SOW. The third option sets up rejection and resubmission timeframes.]*
 [ ] In addition to completed projects, **Deliverables** include in-progress but not complete drafts or components of **Deliverables** and their associated intellectual property.
 [ ] **Deliverables** will meet the attached specifications.
@@ -114,7 +142,3 @@ By signing this Cover Page, each party agrees to enter into this SOW as of the *
 **Notice AddressUse email or postal address**
 
 **Date**
-
----
-
-Common Paper Statement of Work, published by [Common Paper](https://commonpaper.com/documents/statement-of-work/) and free to use or modify under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged; converted from the Google Doc version.

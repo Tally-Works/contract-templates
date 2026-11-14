@@ -20,68 +20,21 @@ source:
   url: https://commonpaper.com/standards/mutual-nda/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken from the official Markdown in github.com/CommonPaper/Mutual-NDA (Standard Terms Version 1.0). Wording
-    unchanged; HTML span markup stripped. Common Paper publishes all standard agreements under CC BY 4.0
-    (commonpaper.com/standards) and asks that the attribution line and link be kept, which they are.
+    Text taken verbatim from Mutual-NDA.md in github.com/CommonPaper/Mutual-NDA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/confidentiality/mutual-nda/common-paper-mutual-nda-cover-page.md
 summary: >-
   Two-way non-disclosure agreement in cover-page-plus-standard-terms form. The cover page (included) sets the purpose,
   term and governing law; the standard terms are meant to be used unchanged. Version 1.0. Governing law and business
   terms are chosen on the cover page.
 ---
 
-# Common Paper Mutual NDA
-
-## Cover Page
-
-## USING THIS MUTUAL NON-DISCLOSURE AGREEMENT
-
-This Mutual Non-Disclosure Agreement (the “MNDA”) consists of: (1) this Cover Page (“**Cover Page**”) and (2) the Common Paper Mutual NDA Standard Terms Version 1.0 (“**Standard Terms**”) identical to those posted at [commonpaper.com/standards/mutual-nda/1.0](https://commonpaper.com/standards/mutual-nda/1.0). Any modifications of the Standard Terms should be made on the Cover Page, which will control over conflicts with the Standard Terms.
-
-### Purpose
-*How Confidential Information may be used*
-
-[Evaluating whether to enter into a business relationship with the other party.]
-
-### Effective Date
-[Today’s date]
-
-### MNDA Term
-*The length of this MNDA*
-- [x]     Expires [1 year(s)] from Effective Date.
-- [ ]     Continues until terminated in accordance with the terms of the MNDA.
-
-### Term of Confidentiality
-*How long Confidential Information is protected*
-- [x]     [1 year(s)] from Effective Date, but in the case of trade secrets until Confidential Information is no longer considered a trade secret under applicable laws.
-- [ ]     In perpetuity.
-
-### Governing Law & Jurisdiction
-Governing Law: [Fill in state]
-
-Jurisdiction: [Fill in city or county and state, i.e. “courts located in New Castle, DE”]
-
-### MNDA Modifications
-List any modifications to the MNDA
-
-By signing this Cover Page, each party agrees to enter into this MNDA as of the Effective Date.
-
-|| PARTY 1 | PARTY 2 |
-|:--- | :----: | :----: |
-| Signature | | |
-| Print Name | |
-| Title | | |
-| Company | | |
-| Notice Address *Use either email or postal address* | | |
-| Date | | |
-
-Common Paper Mutual Non-Disclosure Agreement (Version 1.0) free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-## Standard Terms
+# Standard Terms
 
 1. **Introduction**. This Mutual Non-Disclosure Agreement (which incorporates these Standard Terms and the Cover Page (defined below)) (“**MNDA**”) allows each party (“**Disclosing Party**”) to disclose or make available information in connection with the Purpose which (1) the Disclosing Party identifies to the receiving party (“**Receiving Party**”) as “confidential”, “proprietary”, or the like or (2) should be reasonably understood as confidential or proprietary due to its nature and the circumstances of its disclosure (“**Confidential Information**”). Each party’s Confidential Information also includes the existence and status of the parties’ discussions and information on the Cover Page. Confidential Information includes technical or business information, product designs or roadmaps, requirements, pricing, security and compliance documentation, technology, inventions and know-how. To use this MNDA, the parties must complete and sign a cover page incorporating these Standard Terms (“**Cover Page**”). Each party is identified on the Cover Page and capitalized terms have the meanings given herein or on the Cover Page.
 

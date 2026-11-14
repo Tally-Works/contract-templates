@@ -21,9 +21,7 @@ source:
   url: https://github.com/github/balanced-employee-ip-agreement
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/balanced-employee-ip-agreement (Balanced_Employee_IP_Agreement.md). LICENSE.md
-    is CC0 1.0 Universal and the README says "Dedicated to the public domain under CC0-1.0 by GitHub, Inc. and
-    contributors." Wording unchanged.
+    Text taken verbatim from Balanced_Employee_IP_Agreement.md in github.com/github/balanced-employee-ip-agreement (LICENSE.md: CC0 1.0). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -81,7 +79,3 @@ Print Name: ＿＿＿＿＿＿＿＿＿＿＿＿＿
 Sign: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 Date: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
----
-
-[Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) by GitHub, Inc. and contributors. Wording unchanged.

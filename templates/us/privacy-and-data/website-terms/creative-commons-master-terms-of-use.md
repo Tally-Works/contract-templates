@@ -19,10 +19,7 @@ source:
   url: https://creativecommons.org/terms/
   retrieved: "2026-11-14"
   notes: >-
-    Converted from the HTML at creativecommons.org/terms. The page contains a "Note about Reusing these Terms of Use"
-    dedicating them to the public domain under CC0; the site footer states "Except where otherwise noted, content on
-    this site is licensed under a Creative Commons Attribution 4.0 International license." Wording unchanged; page
-    navigation removed.
+    Converted to Markdown from the HTML the publisher serves at https://creativecommons.org/terms/; page navigation and site chrome removed, nothing else changed. The publisher's own footer and notices are kept.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -33,9 +30,7 @@ summary: >-
   disclaimers, limitation of liability and dispute terms. Effective 26 August 2020.
 ---
 
-> **Drafting note:** Creative Commons' live website terms, kept verbatim as an example. Replace the organisation, services and contact details with your own.
-
-# Creative Commons Master Terms of Use
+## Creative Commons Master Terms of Use
 
 Effective as of 26 August 2020
 
@@ -221,7 +216,3 @@ Integration: These Master Terms and any applicable Additional Terms constitute t
 **Note about Reusing these Terms of Use.**
 
 The Creative Commons Terms of Use are dedicated to the public domain under the [Creative Commons CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use and adapt these Master Terms and any applicable Additional Terms for your own purposes. However, please keep in mind that these Terms may not be completely suitable for your situation. Creative Commons strongly encourages you to seek the advice of your own attorney before repurposing these Terms on your own site.
-
----
-
-Creative Commons Master Terms of Use, from [creativecommons.org/terms](https://creativecommons.org/terms/). The page itself dedicates these Terms of Use to the public domain under CC0, and the site footer licenses content under CC BY 4.0. Reproduced unchanged.

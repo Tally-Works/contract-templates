@@ -21,9 +21,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-stockholder-consent
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements
-    repository (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders
-    rendered as [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-stockholder-consent); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -38,29 +36,33 @@ summary: >-
   experimental by its authors.)
 ---
 
-# Founder Separation Stockholder Consent
+# Founder Separation Stockholder Written Consent
 
-The undersigned, being stockholders of [COMPANY LEGAL NAME], a Delaware corporation (the "Company"), holding at least the minimum number of votes that would be necessary to authorize or take the following actions at a meeting at which all shares entitled to vote thereon were present and voted, pursuant to Section 228(a) of the Delaware General Corporation Law, hereby adopt the following resolutions by written consent, effective as of [CONSENT DATE]:
+The undersigned, being stockholders of {company_legal_name}, a Delaware corporation (the "Company"), holding at least the minimum number of votes that would be necessary to authorize or take the following actions at a meeting at which all shares entitled to vote thereon were present and voted, pursuant to Section 228(a) of the Delaware General Corporation Law, hereby adopt the following resolutions by written consent, effective as of {consent_date}:
 
-**WHEREAS**, [FOUNDER NAME] (the "Founder") has separated from the Company, and the stockholders desire to approve the action identified as [STOCKHOLDER ACTION].
+**WHEREAS**, {founder_name} (the "Founder") has separated from the Company, and the stockholders desire to approve the action identified as {stockholder_action}.
 
 ## Key Terms
 
-**Company:** [COMPANY LEGAL NAME]
+Company
+: {company_legal_name}
 
-**Founder:** [FOUNDER NAME]
+Founder
+: {founder_name}
 
-**Stockholder Action:** [STOCKHOLDER ACTION]
+Stockholder Action
+: {stockholder_action}
 
-**Consent Date:** [CONSENT DATE]
+Consent Date
+: {consent_date}
 
 ## Resolutions
 
 ### Stockholder Action
 
-The stockholders approve the action identified as [STOCKHOLDER ACTION] pursuant to the corresponding resolution below.
+The stockholders approve the action identified as {stockholder_action} pursuant to the corresponding resolution below.
 
-*Option A — Remove a director (Section 141(k)).* **RESOLVED**, that [REMOVED DIRECTOR NAME] be, and hereby is, removed as a director of the Company, effective as of the date of these resolutions, pursuant to Section 141(k) of the Delaware General Corporation Law; and
+*Option A — Remove a director (Section 141(k)).* **RESOLVED**, that {removed_director_name} be, and hereby is, removed as a director of the Company, effective as of the date of these resolutions, pursuant to Section 141(k) of the Delaware General Corporation Law; and
 
 **RESOLVED FURTHER**, that the resulting vacancy on the Board be addressed in accordance with the Company's certificate of incorporation and bylaws and the Delaware General Corporation Law.
 
@@ -88,12 +90,8 @@ The undersigned have executed this Action by Written Consent as of the date set 
 
 Signature: _______________
 
-Print Name: [NAME]
+Print Name: {name}
 
-Shares: [SHARES]
+Shares: {shares}
 
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-stockholder-consent](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-stockholder-consent) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

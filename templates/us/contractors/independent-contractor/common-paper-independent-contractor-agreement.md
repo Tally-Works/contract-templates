@@ -20,10 +20,7 @@ source:
   file: templates/us/contractors/independent-contractor/common-paper-independent-contractor-agreement.docx
   retrieved: "2026-11-14"
   notes: >-
-    The document page at https://commonpaper.com/documents/independent-contractor-agreement/ states "This document is
-    free to use or modify under CC BY 4.0". Text converted from the Google Doc Common Paper offers on that page
-    (exported as docx, kept under sources/); the help-text first page was removed, tables flattened to label/value
-    lines, and clause headings rendered as bold lead-ins. Wording unchanged.
+    Converted to Markdown from the publisher's own Word file (common-paper-independent-contractor-agreement.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -35,7 +32,42 @@ summary: >-
   and termination. Governing law and business terms are filled in on the document itself.
 ---
 
-# Common Paper Independent Contractor Agreement
+**Interpreting help text**
+
+[Yellow highlighted text in brackets] indicates a field or area where you can enter your own text or customizations.
+
+*[Gray highlighted, italicized text in brackets]* indicates information about how to use or complete a particular variable.
+
+Parentheses indicate choices where you must select one option.
+
+( ) Option 1
+
+( ) Option 2
+
+Brackets indicate choices that are optional where you can pick none, one, or more than one.
+
+[ ] Option 1
+
+[ ] Option 2
+
+[ ] Option 3
+
+In some cases, default choices are indicated with an “x”.
+
+( x ) Default choice
+
+[ x ] Default choice
+
+**How to set up an agreement**
+
+1.  Review the agreement, including the linked Standard Terms.
+2.  Review each variable on the Cover Page and fill in your details. Don’t forget to enter your company’s information in the signature block at the end.
+3.  Delete any optional variables, choices, or details that do not apply to you.
+4.  Delete all *[informational text]*.
+5.  Remove this first page.
+6.  Send to your counterparty for review and signature.
+
+Independent Contractor Agreement
 
 **Statement of Work**
 
@@ -224,7 +256,3 @@ any negligent act or omission or reckless or willful conduct of Contractor that 
 “Terms” means these terms and conditions.
 
 “Work Product” means all inventions, products, designs, drawings, notes, information, documentation, works of authorship, processes, techniques, know-how, algorithms, technical and business plans, specifications, computer programs, interfaces, encoding techniques, and other materials or innovations of any kind that Contractor may make, conceive, develop or reduce to practice, alone or jointly with others, in connection with performing Services or that result from or that are related to such Services, whether or not they are eligible for patent, copyright, mask work, trade secret, trademark or other legal protection.
-
----
-
-Common Paper Independent Contractor Agreement, published by [Common Paper](https://commonpaper.com/documents/independent-contractor-agreement/) and free to use or modify under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged; converted from the Google Doc version.

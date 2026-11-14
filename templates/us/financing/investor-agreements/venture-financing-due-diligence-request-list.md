@@ -21,11 +21,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-venture-financing-due-diligence-request-list
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Adapted from the Cooley GO sample venture capital due diligence request
-    list, with supporting requests from the National Venture Capital Association model stock purchase agreement, K&L
-    Gates and Carta forms. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository
-    (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as
-    [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-venture-financing-due-diligence-request-list); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -40,21 +36,26 @@ summary: >-
 
 ## Cover Sheet
 
-**Requesting Firm:** [REQUESTING FIRM NAME]
+Requesting Firm
+: {requesting_firm_name}
 
-**Company:** [COMPANY NAME]
+Company
+: {company_name}
 
-**Delivery Date:** [REQUEST DATE]
+Delivery Date
+: {request_date}
 
-**Response Due Date:** [RESPONSE DUE DATE]
+Response Due Date
+: {response_due_date}
 
-**Company Contact:** [COMPANY CONTACT NAME]
+Company Contact
+: {company_contact_name}
 
 ## Due Diligence Request List
 
 ### Parties
 
-"Company" means [COMPANY NAME], the company issuing the securities. "Requesting Party" means the investors in this financing and their counsel. These requests concern a priced preferred stock financing.
+"Company" means {company_name}, the company issuing the securities. "Requesting Party" means the investors in this financing and their counsel. These requests concern a priced preferred stock financing.
 
 ### Instructions
 
@@ -249,7 +250,3 @@ Describe contracts that restrict the Company’s ability to compete in a line of
 ### I.4 Business plan and offering materials
 
 Provide the latest business plan, offering memorandum or similar Company document.
-
----
-
-Authored by OpenAgreements contributors. Adapted from the Cooley GO sample venture capital due diligence request list, with supporting requests from the National Venture Capital Association model stock purchase agreement, K&L Gates and Carta forms. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-venture-financing-due-diligence-request-list](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-venture-financing-due-diligence-request-list) (version 1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

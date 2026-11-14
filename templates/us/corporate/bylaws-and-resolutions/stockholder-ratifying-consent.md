@@ -20,10 +20,7 @@ source:
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-ratifying-consent
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Drafting structure informed by publicly available Delaware Section 204
-    ratification practice. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository
-    (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as
-    [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-ratifying-consent); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -36,25 +33,30 @@ summary: >-
   (OpenAgreements version 0.1.0, marked experimental by its authors.)
 ---
 
-# Stockholder Ratifying Consent
+# Stockholder Consent Ratifying a Defective Corporate Act
 
-The undersigned, being the holders of [APPROVING PERCENTAGE] of the outstanding shares of capital stock of [COMPANY NAME], a Delaware corporation (the "Company"), entitled to vote on the ratification described below (computed without regard to the putative shares being ratified), pursuant to Section 228 of the Delaware General Corporation Law (the "DGCL"), hereby adopt the following resolutions by written consent:
+The undersigned, being the holders of {approving_percentage} of the outstanding shares of capital stock of {company_name}, a Delaware corporation (the "Company"), entitled to vote on the ratification described below (computed without regard to the putative shares being ratified), pursuant to Section 228 of the Delaware General Corporation Law (the "DGCL"), hereby adopt the following resolutions by written consent:
 
-**Company:** [COMPANY NAME]
+Company
+: {company_name}
 
-**Board ratifying consent approved:** [BOARD CONSENT REFERENCE]
+Board ratifying consent approved
+: {board_consent_reference}
 
-**Defective corporate act:** [DEFECTIVE ACTS]
+Defective corporate act
+: {defective_acts}
 
-**Approving stockholders:** [APPROVING PERCENTAGE]
+Approving stockholders
+: {approving_percentage}
 
-**Consent date:** [CONSENT DATE]
+Consent date
+: {consent_date}
 
 ## Resolutions
 
 ### Approval of the Ratification
 
-**WHEREAS**, the Board of Directors of the Company adopted resolutions ratifying a defective corporate act pursuant to Section 204 of the DGCL, namely [DEFECTIVE ACTS], as set forth in [BOARD CONSENT REFERENCE] (the "Board Ratification");
+**WHEREAS**, the Board of Directors of the Company adopted resolutions ratifying a defective corporate act pursuant to Section 204 of the DGCL, namely {defective_acts}, as set forth in {board_consent_reference} (the "Board Ratification");
 
 **RESOLVED**, that the stockholders hereby approve the ratification of the defective corporate act described in the Board Ratification, in accordance with Sections 204(c) and 204(d) of the DGCL;
 
@@ -78,10 +80,6 @@ The undersigned have executed this Action by Written Consent as of the date set 
 
 Signature: _______________
 
-Print Name: [NAME]
+Print Name: {name}
 
-Date: [CONSENT DATE]
-
----
-
-Authored by OpenAgreements contributors. Drafting structure informed by publicly available Delaware Section 204 ratification practice. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-ratifying-consent](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-ratifying-consent) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.
+Date: {consent_date}

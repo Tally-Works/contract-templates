@@ -20,10 +20,7 @@ source:
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-ratifying-consent
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Drafting structure informed by publicly available Delaware Section 204
-    ratification practice. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository
-    (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as
-    [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-ratifying-consent); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -36,33 +33,38 @@ summary: >-
   of validation, and notice the statute requires. (OpenAgreements version 0.1.0, marked experimental by its authors.)
 ---
 
-# Board Ratifying Consent
+# Board Consent Ratifying a Defective Corporate Act
 
-The undersigned, constituting all of the members of the Board of Directors (the "Board") of [COMPANY NAME], a Delaware corporation (the "Company"), pursuant to Section 141(f) of the Delaware General Corporation Law (the "DGCL"), hereby adopt the following resolutions by written consent, ratifying one or more defective corporate acts pursuant to Section 204 of the DGCL:
+The undersigned, constituting all of the members of the Board of Directors (the "Board") of {company_name}, a Delaware corporation (the "Company"), pursuant to Section 141(f) of the Delaware General Corporation Law (the "DGCL"), hereby adopt the following resolutions by written consent, ratifying one or more defective corporate acts pursuant to Section 204 of the DGCL:
 
-**Company:** [COMPANY NAME]
+Company
+: {company_name}
 
-**Defective corporate act:** [DEFECTIVE ACTS]
+Defective corporate act
+: {defective_acts}
 
-**Date of the act:** [DEFECTIVE ACT DATES]
+Date of the act
+: {defective_act_dates}
 
-**Nature of the failure of authorization:** [FAILURE OF AUTHORIZATION]
+Nature of the failure of authorization
+: {failure_of_authorization}
 
-**Consent date:** [CONSENT DATE]
+Consent date
+: {consent_date}
 
 ## Resolutions
 
 ### The Defective Corporate Act
 
-**WHEREAS**, the following corporate act or acts (the "Defective Corporate Act") were purportedly taken by or on behalf of the Company: [DEFECTIVE ACTS], on or about [DEFECTIVE ACT DATES];
+**WHEREAS**, the following corporate act or acts (the "Defective Corporate Act") were purportedly taken by or on behalf of the Company: {defective_acts}, on or about {defective_act_dates};
 
 ### Putative Stock
 
-**WHEREAS**, to the extent the Defective Corporate Act involved the issuance of shares of putative stock, such issuance consisted of [PUTATIVE SHARE COUNT] shares of [PUTATIVE SHARE TYPE], purported to have been issued on or about [PUTATIVE ISSUE DATES];
+**WHEREAS**, to the extent the Defective Corporate Act involved the issuance of shares of putative stock, such issuance consisted of {putative_share_count} shares of {putative_share_type}, purported to have been issued on or about {putative_issue_dates};
 
 ### Nature of the Failure of Authorization
 
-**WHEREAS**, the Defective Corporate Act is void or voidable due to the following failure of authorization: [FAILURE OF AUTHORIZATION];
+**WHEREAS**, the Defective Corporate Act is void or voidable due to the following failure of authorization: {failure_of_authorization};
 
 ### Ratification
 
@@ -92,10 +94,6 @@ The undersigned have executed this Action by Written Consent as of the date set 
 
 Signature: _______________
 
-Print Name: [NAME]
+Print Name: {name}
 
-Date: [CONSENT DATE]
-
----
-
-Authored by OpenAgreements contributors. Drafting structure informed by publicly available Delaware Section 204 ratification practice. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-ratifying-consent](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-ratifying-consent) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.
+Date: {consent_date}

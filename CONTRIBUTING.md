@@ -44,7 +44,7 @@ If a template you want is only available under terms that fail this table, leave
      --summary "Full-form agreement for a C-level hire under California law."
    ```
    If the publisher provides a docx, save it beside the template with the same name (`<template>.docx`) and pass `--source-file templates/<path>/<template>.docx`; that file is then served as the template's Word download. Otherwise `npm run build` generates the Word file from the Markdown.
-5. **Clean up the body** (section 4). A template must be complete on its own: if it incorporates other terms (a cover page, an order form, a statement of work), those terms must be in this library and the template must say where. Never point a user to another website to get part of a document.
+5. **Leave the body alone** (section 4). If the template incorporates other terms (a cover page, an order form, a statement of work), those terms must be in this library too, listed in the front-matter `related:` field.
 6. **Validate, build the Word file and rebuild the catalog:**
    ```bash
    npm run validate
@@ -83,16 +83,16 @@ Work top-down. Each answer narrows the path.
 
 **Variant.** Two templates of the same kind in the same folder for the same jurisdiction must differ by `variant`: `short-form`, `long-form`, `employer-favorable`, `employee-favorable`, `with-equity`, `mutual`. Do not use a variant to encode the jurisdiction or the source.
 
-## 4. Body conventions
+## 4. The text is not ours to edit
 
-- Start with a single `# Title` that matches `title`.
-- Placeholders in `[SQUARE BRACKETS]`, upper case: `[EMPLOYER NAME]`, `[START DATE]`, `[AMOUNT]`. Never leave a real name, address or amount from a source document in the body.
-- Drafting notes as blockquotes starting with `> **Drafting note:**`. Keep them short; they are for the person filling in the template.
-- Numbered sections as `## 1. Heading`, sub-clauses as `1.1`, `1.2` in ordinary paragraphs or lists. Do not nest deeper than `###`.
-- Defined terms in **bold** at first definition, Title Case afterwards.
-- Signature blocks as a two-column table at the end.
-- No HTML, no images, no page-break comments. The Markdown must read cleanly on GitHub.
-- Plain ASCII punctuation except where the document needs otherwise.
+The body of a template is the publisher's document, as published. The only thing a contributor does to it is change its format (docx or HTML to Markdown) so that it can be read here.
+
+- Add nothing: no drafting notes, no headings, no placeholders, no credit lines. goHeather's information goes in the front-matter (`summary`, `source.notes`, `related`), never in the document.
+- Remove nothing: not the publisher's instructions page, not their "remove this footer before use" line, not their credit footnote, not their copyright or licence notice. If the publisher's docx has a footer, the docx beside the template keeps it.
+- Change nothing: not the wording, not the title, not the placeholders. The publisher's own placeholder syntax (`[brackets]`, `{fields}`, `<mark>`, `{{tokens}}`) stays as published.
+- If the publisher provides a docx, that docx is the download and it is committed byte-for-byte as received.
+- Format conversion may flatten Word tables into label/value lines and turn Word heading styles used for ordinary clauses into bold lead-ins; that is the limit.
+- If a template needs other terms to work (a cover page, an order form, a statement of work), list those templates in `related:` in the front-matter. Do not write a note into the document.
 
 ## 5. Review and status
 
@@ -115,6 +115,6 @@ Changing a status requires `reviewed_by` and `last_reviewed` to be set in the sa
 - [ ] Front-matter complete; `npm run validate` passes with no errors.
 - [ ] Filed in the right jurisdiction / category / subcategory per the decision guide.
 - [ ] Filename follows [docs/naming.md](docs/naming.md).
-- [ ] Body cleaned up: placeholders bracketed, no real names or amounts, drafting notes marked.
+- [ ] Body is the publisher's text as published: nothing added, nothing removed, every notice and credit line kept.
 - [ ] `npm run build` run and the generated files committed, including the template's `.docx` and `ATTRIBUTION.md`.
-- [ ] The template is complete on its own; any terms it incorporates are in this library and named in a drafting note.
+- [ ] Any terms the template incorporates are in this library and listed in `related:`.

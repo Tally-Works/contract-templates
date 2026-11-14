@@ -19,10 +19,7 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/github-terms/github-event-terms.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-terms/github-event-terms.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -30,10 +27,6 @@ last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: "Terms for attending a company-run event: registration, cancellation, conduct, photo and recording release, liability."
 ---
-
-# GitHub Event Terms
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English event terms. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
 
 By RSVP'ing to or attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you represent that you have read, understand, and agree to the following GitHub Event Terms (hereinafter “Event Terms”).
 
@@ -99,7 +92,3 @@ The views expressed by any event attendee, speaker, exhibitor, or sponsor are no
 GitHub reserves the right to update these Event Terms in its sole discretion and without prior notice. These Event Terms apply to all event participants (attendees, speakers, sponsors, exhibitors, staff, and crew). You are advised to review these Event Terms periodically.
 
 These Event Terms were last updated on February 7th 2024.
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-event-terms.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

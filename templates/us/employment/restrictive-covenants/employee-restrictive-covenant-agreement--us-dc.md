@@ -22,10 +22,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-district-of-columbia
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. District of Columbia-specific analysis informed by the quote-verified
-    District of Columbia practice note. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements
-    repository (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders
-    rendered as [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-district-of-columbia); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -51,71 +48,86 @@ summary: >-
 
 The terms below are incorporated into and form part of this agreement.
 
-**Employer:** [EMPLOYER NAME]
+Employer
+: {employer_name}
 
-**Employee:** [EMPLOYEE NAME]
+Employee
+: {employee_name}
 
-**Employee Title / Position:** [EMPLOYEE TITLE]
+Employee Title / Position
+: {employee_title}
 
-**Effective Date:** [EFFECTIVE DATE]
+Effective Date
+: {effective_date}
 
-**Advance Delivery Date:** [NOTICE DATE]
+Advance Delivery Date
+: {notice_date}
 
-**Governing Law:** [GOVERNING LAW]
+Governing Law
+: {governing_law}
 
 Confidentiality
 
-**Trade Secrets Duration:** [CONFIDENTIALITY TRADE SECRET DURATION]
+Trade Secrets Duration
+: {confidentiality_trade_secret_duration}
 
-**Other Confidential Information Duration:** [CONFIDENTIALITY OTHER DURATION]
+Other Confidential Information Duration
+: {confidentiality_other_duration}
 
 Employee Non-Solicitation
 
-**Duration:** [EMPLOYEE NONSOLICIT DURATION]
+Duration
+: {employee_nonsolicit_duration}
 
 Customer Non-Solicitation
 
-**Duration:** [CUSTOMER NONSOLICIT DURATION]
+Duration
+: {customer_nonsolicit_duration}
 
 Non-Competition
 
-**Duration:** [NONCOMPETE DURATION]
+Duration
+: {noncompete_duration}
 
-**Restricted Territory:** [TERRITORY]
+Restricted Territory
+: {territory}
 
-**Competitive Business:** [COMPETITIVE BUSINESS DEFINITION]
+Competitive Business
+: {competitive_business_definition}
 
-**Specified Competitors:** [SPECIFIED COMPETITORS]
+Specified Competitors
+: {specified_competitors}
 
 Non-Disparagement
 
-**Duration:** [NONDISPARAGEMENT DURATION]
+Duration
+: {nondisparagement_duration}
 
 ## Standard Terms
 
 ### Defined Terms
 
-**Competitive Business** means a person or entity on whose behalf Employee would perform the services or roles, or participate in the industry, described in Cover Terms under Competitive Business.
+[[Competitive Business]] means a person or entity on whose behalf Employee would perform the services or roles, or participate in the industry, described in Cover Terms under Competitive Business.
 
-**Confidential Information** means non-public information relating to Employer's business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee, information that is readily ascertainable to the public, information that arises from Employee's general training, knowledge, skill, or experience, and information Employee otherwise has a right to disclose as legally protected conduct.
+[[Confidential Information]] means non-public information relating to Employer's business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee, information that is readily ascertainable to the public, information that arises from Employee's general training, knowledge, skill, or experience, and information Employee otherwise has a right to disclose as legally protected conduct.
 
-**Covered Customers** means customers, vendors, referral sources, and business partners with whom Employee had material contact or for whom Employee had responsibility during the [COVERED CUSTOMER PERIOD] before termination of employment.
+[[Covered Customers]] means customers, vendors, referral sources, and business partners with whom Employee had material contact or for whom Employee had responsibility during the {covered_customer_period} before termination of employment.
 
-**Covered Employees** means employees with whom Employee worked or whom Employee managed during the [COVERED EMPLOYEE PERIOD] before termination of employment.
+[[Covered Employees]] means employees with whom Employee worked or whom Employee managed during the {covered_employee_period} before termination of employment.
 
-**Highly Compensated Employee** means an employee, other than a broadcast employee, who is reasonably expected to earn from Employer in a consecutive 12-month period, or who earned from Employer in the preceding consecutive 12-month period, compensation at or above the Minimum Qualifying Annual Compensation listed in Cover Terms, as required by D.C. Code § 32-581.01(10). A broadcast employee — an on- or off-air creator for a broadcaster — is excluded from this category.
+[[Highly Compensated Employee]] means an employee, other than a broadcast employee, who is reasonably expected to earn from Employer in a consecutive 12-month period, or who earned from Employer in the preceding consecutive 12-month period, compensation at or above the Minimum Qualifying Annual Compensation listed in Cover Terms, as required by D.C. Code § 32-581.01(10). A broadcast employee — an on- or off-air creator for a broadcaster — is excluded from this category.
 
-**Medical Specialist** means a Highly Compensated Employee engaged primarily in the delivery of medical services who holds a license to practice medicine, is a physician, has completed a medical residency, and receives total compensation at or above the Medical Specialist Minimum Compensation listed in Cover Terms, as defined in D.C. Code § 32-581.01(12).
+[[Medical Specialist]] means a Highly Compensated Employee engaged primarily in the delivery of medical services who holds a license to practice medicine, is a physician, has completed a medical residency, and receives total compensation at or above the Medical Specialist Minimum Compensation listed in Cover Terms, as defined in D.C. Code § 32-581.01(12).
 
-**Protected Interests** means Employer's legitimate interest in protecting its Trade Secrets and its confidential and proprietary information.
+[[Protected Interests]] means Employer's legitimate interest in protecting its Trade Secrets and its confidential and proprietary information.
 
-**Restricted Period** means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason. For any Non-Competition covenant, the Restricted Period is stated and measured in calendar days from separation.
+[[Restricted Period]] means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason. For any Non-Competition covenant, the Restricted Period is stated and measured in calendar days from separation.
 
-**Restricted Territory** means the geographic area described in Cover Terms under Restricted Territory.
+[[Restricted Territory]] means the geographic area described in Cover Terms under Restricted Territory.
 
-**Solicit** means to directly or indirectly initiate contact with, approach, induce, or encourage any person or entity for the purpose of diverting business away from Employer, but does not include responding to general advertisements or unsolicited inquiries not initiated by Employee.
+[[Solicit]] means to directly or indirectly initiate contact with, approach, induce, or encourage any person or entity for the purpose of diverting business away from Employer, but does not include responding to general advertisements or unsolicited inquiries not initiated by Employee.
 
-**Trade Secrets** means information that qualifies as a trade secret under applicable law, including information that derives independent economic value from not being generally known to, and not being readily ascertainable through proper means by, another person who can obtain economic value from its disclosure or use.
+[[Trade Secrets]] means information that qualifies as a trade secret under applicable law, including information that derives independent economic value from not being generally known to, and not being readily ascertainable through proper means by, another person who can obtain economic value from its disclosure or use.
 
 ### Recitals and Protected-Interest Statement
 
@@ -123,7 +135,7 @@ Employer and Employee acknowledge that each restrictive covenant in this agreeme
 
 ### Regime and Worker Classification
 
-Any Non-Competition covenant in this agreement does not apply unless Employee's compensation equals or exceeds [MINIMUM QUALIFYING COMPENSATION] and Employee satisfies the objective work-location conditions stated in this agreement. The confidentiality, non-solicitation, and non-disparagement obligations below do not depend on those conditions.
+Any Non-Competition covenant in this agreement does not apply unless Employee's compensation equals or exceeds {minimum_qualifying_compensation} and Employee satisfies the objective work-location conditions stated in this agreement. The confidentiality, non-solicitation, and non-disparagement obligations below do not depend on those conditions.
 
 ### Timing, Consideration, and Advance Delivery
 
@@ -153,7 +165,7 @@ During the Restricted Period, Employee must not Solicit the business of any Cove
 
 ### Non-Competition
 
-During the Restricted Period, Employee must not perform work for another for pay in a Competitive Business, or operate Employee's own Competitive Business, within the Restricted Territory. This covenant does not apply unless Employee's compensation equals or exceeds [MINIMUM QUALIFYING COMPENSATION]. The restriction is limited to the services, roles, industry, or competing entities set out in Cover Terms under Competitive Business and any Specified Competitors, and to the Restricted Territory. The restriction may not exceed 365 calendar days from separation, or 730 calendar days if Employee is a Medical Specialist.
+During the Restricted Period, Employee must not perform work for another for pay in a Competitive Business, or operate Employee's own Competitive Business, within the Restricted Territory. This covenant does not apply unless Employee's compensation equals or exceeds {minimum_qualifying_compensation}. The restriction is limited to the services, roles, industry, or competing entities set out in Cover Terms under Competitive Business and any Specified Competitors, and to the Restricted Territory. The restriction may not exceed 365 calendar days from separation, or 730 calendar days if Employee is a Medical Specialist.
 
 ### Named-Competitor Narrowing
 
@@ -211,19 +223,15 @@ This agreement constitutes the entire agreement between the parties regarding it
 
 By signing this agreement, each party acknowledges and agrees to the restrictive covenant obligations above. Employee confirms having read and understood each provision, including the Cover Terms.
 
-Employer: [EMPLOYER NAME]
+Employer: {employer_name}
 
 Signature: _______________
-Signatory Name: [EMPLOYER SIGNATORY NAME]
-Title: [EMPLOYER SIGNATORY TITLE]
+Signatory Name: {employer_signatory_name}
+Title: {employer_signatory_title}
 Date: _______________
 
 **Employee**
 
 Signature: _______________
-Print Name: [EMPLOYEE NAME]
+Print Name: {employee_name}
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. District of Columbia-specific analysis informed by the quote-verified District of Columbia practice note. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-district-of-columbia](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-district-of-columbia) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

@@ -21,10 +21,7 @@ source:
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-wisconsin
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Wisconsin-specific analysis informed by the quote-verified Wisconsin
-    practice note. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository (metadata.yaml:
-    license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as [BRACKETED]
-    placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-wisconsin); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -48,81 +45,100 @@ summary: >-
 
 The terms below are incorporated into and form part of this agreement.
 
-**Employer:** [EMPLOYER NAME]
+Employer
+: {employer_name}
 
-**Employee:** [EMPLOYEE NAME]
+Employee
+: {employee_name}
 
-**Employee Title / Position:** [EMPLOYEE TITLE]
+Employee Title / Position
+: {employee_title}
 
-**Effective Date:** [EFFECTIVE DATE]
+Effective Date
+: {effective_date}
 
-**Governing Law:** [GOVERNING LAW]
+Governing Law
+: {governing_law}
 
 Confidentiality
 
-**Trade Secrets Duration:** [CONFIDENTIALITY TRADE SECRET DURATION]
+Trade Secrets Duration
+: {confidentiality_trade_secret_duration}
 
-**Other Confidential Information Duration:** [CONFIDENTIALITY OTHER DURATION]
+Other Confidential Information Duration
+: {confidentiality_other_duration}
 
 Employee Non-Solicitation
 
-**Duration:** [EMPLOYEE NONSOLICIT DURATION]
+Duration
+: {employee_nonsolicit_duration}
 
-**Covered Employee Lookback:** [COVERED EMPLOYEE PERIOD]
+Covered Employee Lookback
+: {covered_employee_period}
 
 Customer Non-Solicitation
 
-**Duration:** [CUSTOMER NONSOLICIT DURATION]
+Duration
+: {customer_nonsolicit_duration}
 
-**Covered Customer Lookback:** [COVERED CUSTOMER PERIOD]
+Covered Customer Lookback
+: {covered_customer_period}
 
 Non-Competition
 
-**Duration:** [NONCOMPETE DURATION]
+Duration
+: {noncompete_duration}
 
-**Restricted Territory:** [TERRITORY]
+Restricted Territory
+: {territory}
 
-**Competitive Business:** [COMPETITIVE BUSINESS DEFINITION]
+Competitive Business
+: {competitive_business_definition}
 
-**Specified Competitors:** [SPECIFIED COMPETITORS]
+Specified Competitors
+: {specified_competitors}
 
 No Business with Covered Customers
 
-**Duration:** [NONDEALING DURATION]
+Duration
+: {nondealing_duration}
 
 Non-Investment
 
-**Duration:** [NONINVESTMENT DURATION]
+Duration
+: {noninvestment_duration}
 
-**Passive Public Holdings Threshold:** [PASSIVE PUBLIC HOLDINGS THRESHOLD]
+Passive Public Holdings Threshold
+: {passive_public_holdings_threshold}
 
 Non-Disparagement
 
-**Duration:** [NONDISPARAGEMENT DURATION]
+Duration
+: {nondisparagement_duration}
 
 ## Standard Terms
 
 ### Defined Terms
 
-**Competitive Business** means a person or entity that engages in the business activities described in Cover Terms under Competitive Business.
+[[Competitive Business]] means a person or entity that engages in the business activities described in Cover Terms under Competitive Business.
 
-**Confidential Information** means Trade Secrets and other non-public information that is genuinely competitively sensitive to Employer's business — including customer and pricing information, business processes, technical data, and strategic plans — that Employer takes reasonable measures to keep confidential. Confidential Information does not include ordinary, non-secret business information, information generally known in the trade, or information that becomes public through no fault of Employee.
+[[Confidential Information]] means Trade Secrets and other non-public information that is genuinely competitively sensitive to Employer's business — including customer and pricing information, business processes, technical data, and strategic plans — that Employer takes reasonable measures to keep confidential. Confidential Information does not include ordinary, non-secret business information, information generally known in the trade, or information that becomes public through no fault of Employee.
 
-**Covered Customers** means customers, vendors, referral sources, and business partners with whom Employee had material contact or for whom Employee had responsibility during the [COVERED CUSTOMER PERIOD] before termination of employment.
+[[Covered Customers]] means customers, vendors, referral sources, and business partners with whom Employee had material contact or for whom Employee had responsibility during the {covered_customer_period} before termination of employment.
 
-**Covered Employees** means employees with whom Employee actually worked, whom Employee supervised, or about whom Employee gained material information during the [COVERED EMPLOYEE PERIOD] before termination of employment. This term does not reach every employee of Employer.
+[[Covered Employees]] means employees with whom Employee actually worked, whom Employee supervised, or about whom Employee gained material information during the {covered_employee_period} before termination of employment. This term does not reach every employee of Employer.
 
-**Passive Public Holdings** means ownership of securities of a publicly traded company representing less than [PASSIVE PUBLIC HOLDINGS THRESHOLD] of any class of such company's securities, and interests in diversified mutual funds, index funds, and exchange-traded funds that may hold securities of a Competitive Business.
+[[Passive Public Holdings]] means ownership of securities of a publicly traded company representing less than {passive_public_holdings_threshold} of any class of such company's securities, and interests in diversified mutual funds, index funds, and exchange-traded funds that may hold securities of a Competitive Business.
 
-**Protected Interests** means Employer's Trade Secrets and genuinely competitively sensitive Confidential Information, its relationships with Covered Customers, and its stable working relationships with Covered Employees.
+[[Protected Interests]] means Employer's Trade Secrets and genuinely competitively sensitive Confidential Information, its relationships with Covered Customers, and its stable working relationships with Covered Employees.
 
-**Restricted Period** means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason. The Restricted Period for each covenant is a fixed and definite period and is not extended by any period of alleged breach or the pendency of any dispute.
+[[Restricted Period]] means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason. The Restricted Period for each covenant is a fixed and definite period and is not extended by any period of alleged breach or the pendency of any dispute.
 
-**Restricted Territory** means the geographic area described in Cover Terms under Restricted Territory.
+[[Restricted Territory]] means the geographic area described in Cover Terms under Restricted Territory.
 
-**Solicit** means to directly or indirectly initiate contact with, approach, induce, or encourage any person or entity for the purpose of diverting business away from Employer, but does not include responding to general advertisements or unsolicited inquiries not initiated by Employee.
+[[Solicit]] means to directly or indirectly initiate contact with, approach, induce, or encourage any person or entity for the purpose of diverting business away from Employer, but does not include responding to general advertisements or unsolicited inquiries not initiated by Employee.
 
-**Trade Secrets** means information that qualifies as a trade secret under applicable law.
+[[Trade Secrets]] means information that qualifies as a trade secret under applicable law.
 
 ### Recitals and Protectable Interests
 
@@ -212,19 +228,15 @@ This agreement constitutes the entire agreement between the parties regarding it
 
 By signing this agreement, each party acknowledges and agrees to the restrictive covenant obligations above. Employee confirms having read and understood each provision, including the Cover Terms.
 
-Employer: [EMPLOYER NAME]
+Employer: {employer_name}
 
 Signature: _______________
-Signatory Name: [EMPLOYER SIGNATORY NAME]
-Title: [EMPLOYER SIGNATORY TITLE]
+Signatory Name: {employer_signatory_name}
+Title: {employer_signatory_title}
 Date: _______________
 
 **Employee**
 
 Signature: _______________
-Print Name: [EMPLOYEE NAME]
+Print Name: {employee_name}
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. Wisconsin-specific analysis informed by the quote-verified Wisconsin practice note. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-wisconsin](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-wisconsin) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

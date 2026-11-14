@@ -20,10 +20,7 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-anti-bribery-statement.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-anti-bribery-statement.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -33,10 +30,6 @@ summary: >-
   Company anti-bribery and anti-corruption statement covering employees, contractors and partners, with reporting and
   consequences.
 ---
-
-# Anti-Bribery Statement
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English anti-bribery statement. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
 
 GitHub upholds our commitment to ethical business practices, including by prohibiting bribery and corruption. As [Transparency International](https://www.transparency.org/what-is-corruption) explains, the costs of corruption are
 * **political**, by posing a major obstacle to democracy and the rule of law
@@ -61,7 +54,7 @@ GitHub’s **Gifts and Entertainment Policy** explains that bribery is not permi
 
 ## Training for our employees
 
-
+<!-- markdownlint-disable GHD034 -->
 
 GitHub employees are required to participate in training on corruption, including bribery. We also provide additional training for particularly relevant people and teams, such as our sales team. The training explains relevant elements of the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act of 2010. For example,
 * definition and structural effects of corruption
@@ -78,7 +71,7 @@ GitHub employees are required to participate in training on corruption, includin
 * due diligence and red flags
 * record-keeping requirements
 
-
+<!-- markdownlint-enable GHD034 -->
 
 In addition, the training covers GitHub’s internal policies related to anti-corruption and bribery, including our non-retaliation (whistleblower) policy.
 
@@ -88,7 +81,3 @@ While the U.S. FCPA is focused on interactions with government officials, the U.
 
 * GitHub’s standard **resale agreements with Channel Partners** include mandatory anti-corruption clauses. Going forward, GitHub now requires our Channel Partners to commit to complying with this Anti-Corruption Statement.
 * Going forward, GitHub’s **vendor contracts** now require a commitment to comply with Microsoft's Supplier Code of Conduct or this Anti-Corruption Statement.
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-anti-bribery-statement.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

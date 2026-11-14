@@ -18,10 +18,7 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/github-terms/github-community-code-of-conduct.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-terms/github-community-code-of-conduct.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -29,10 +26,6 @@ last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: Code of conduct for an online community run by a company, with standards, enforcement and reporting.
 ---
-
-# GitHub Community Code of Conduct
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English community code of conduct. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
 
 ## Overview and Purpose
 
@@ -152,7 +145,3 @@ This Code of Conduct does not modify our [Terms of Service](/site-policy/github-
 ### Data Retention and Deletion of Data
 
 If you're a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting GitHub Support through the [GitHub Support portal](https://support.github.com/). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, will delete your full profile (within reason) within 90 days of your request. For more information please see the [GitHub Privacy Statement](/site-policy/privacy-policies/github-privacy-statement).
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-community-code-of-conduct.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

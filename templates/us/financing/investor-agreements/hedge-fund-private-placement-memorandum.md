@@ -21,11 +21,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-private-placement-memorandum
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors using selected provisions from identified public private investment fund
-    offering memoranda. The cited sources are not a representative market sample. Licensed under CC BY 4.0. Taken from
-    template.md in the OpenAgreements repository (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by
-    goHeather: {field} placeholders rendered as [BRACKETED] placeholders and [[defined terms]] rendered bold; wording
-    unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-private-placement-memorandum); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -37,17 +33,17 @@ summary: >-
   under Rule 506 of Regulation D. (OpenAgreements version 0.1.0, marked experimental by its authors.)
 ---
 
-# Hedge Fund Private Placement Memorandum
+# Private Placement Memorandum
 
-**[FUND NAME]**
+**{fund_name}**
 
 Interests in a Delaware limited partnership
 
-Memorandum dated [OFFERING DATE]
+Memorandum dated {offering_date}
 
 ### Important Offering Legends
 
-This memorandum is confidential and is furnished solely to a prospective investor considering an investment in [FUND NAME], the Fund. It may not be reproduced or distributed without the consent of [GENERAL PARTNER NAME], the General Partner. This memorandum is not legal, tax, accounting, or investment advice. Each prospective investor should consult its own advisers and should review the Limited Partnership Agreement and subscription documents before investing.
+This memorandum is confidential and is furnished solely to a prospective investor considering an investment in {fund_name}, the Fund. It may not be reproduced or distributed without the consent of {general_partner_name}, the General Partner. This memorandum is not legal, tax, accounting, or investment advice. Each prospective investor should consult its own advisers and should review the Limited Partnership Agreement and subscription documents before investing.
 
 Interests means the limited partnership interests in the Fund offered by this memorandum. Capitalized terms not defined in this memorandum have the meanings given in the Limited Partnership Agreement, which governs in the event of any inconsistency with this summary.
 
@@ -75,47 +71,47 @@ The Interests are speculative, illiquid, and involve a high degree of risk. An i
 
 ### Directory
 
-**Fund:** [FUND NAME], a Delaware limited partnership, [FUND ADDRESS]
+**Fund:** {fund_name}, a Delaware limited partnership, {fund_address}
 
-**General Partner:** [GENERAL PARTNER NAME], [GENERAL PARTNER ADDRESS]
+**General Partner:** {general_partner_name}, {general_partner_address}
 
-**Investment Manager:** [MANAGER NAME] (the Manager), [MANAGER ADDRESS]
+**Investment Manager:** {manager_name} (the Manager), {manager_address}
 
-**Administrator:** [ADMINISTRATOR NAME], [ADMINISTRATOR ADDRESS]
+**Administrator:** {administrator_name}, {administrator_address}
 
-**Independent Auditor:** [AUDITOR NAME], [AUDITOR ADDRESS]
+**Independent Auditor:** {auditor_name}, {auditor_address}
 
-**Prime Broker or Custodian:** [PRIME BROKER NAME], [PRIME BROKER ADDRESS]
+**Prime Broker or Custodian:** {prime_broker_name}, {prime_broker_address}
 
-**Legal Counsel:** [LEGAL COUNSEL NAME], [LEGAL COUNSEL ADDRESS]
+**Legal Counsel:** {legal_counsel_name}, {legal_counsel_address}
 
 Legal counsel represents the Fund, the General Partner, and the Manager and does not represent any prospective investor or Limited Partner in connection with an investment in the Fund.
 
-**Investment Manager Status:** [ADVISER REGISTRATION STATUS]
+**Investment Manager Status:** {adviser_registration_status}
 
 ### Summary of Principal Terms
 
 This summary highlights the principal terms of the offering. It is qualified in full by the Limited Partnership Agreement and subscription documents. If this summary conflicts with the Limited Partnership Agreement, the Limited Partnership Agreement controls.
 
-**The Fund.** [FUND NAME] is a Delaware limited partnership. [GENERAL PARTNER NAME] is its General Partner, and the Manager is its investment manager. Interests are limited partnership interests in the Fund. A Capital Account records an investor's contributions, allocations, charges, and distributions, including any designated-investment sub-accounts. An investor may hold more than one Capital Account, and each is tested separately for the Performance Allocation.
+**The Fund.** {fund_name} is a Delaware limited partnership. {general_partner_name} is its General Partner, and the Manager is its investment manager. Interests are limited partnership interests in the Fund. A Capital Account records an investor's contributions, allocations, charges, and distributions, including any designated-investment sub-accounts. An investor may hold more than one Capital Account, and each is tested separately for the Performance Allocation.
 
 **Offering.** The Fund expects to accept subscriptions monthly, or on other dates selected by the General Partner. The Fund reserves the right to suspend or terminate offerings of Interests at any time.
 
-**Minimum Investment.** The minimum initial investment is [MINIMUM INITIAL INVESTMENT], which the General Partner may waive in its discretion.
+**Minimum Investment.** The minimum initial investment is {minimum_initial_investment}, which the General Partner may waive in its discretion.
 
-**Management Fee.** The Fund pays the Manager a management fee at an annual rate of [MANAGEMENT FEE RATE] of each investor's opening Capital Account, after effective capital activity and Performance Allocations and before the period's fee, including designated investments unless waived. The fee is charged [MANAGEMENT FEE FREQUENCY] in advance for calendar periods, and the General Partner makes equitable adjustments to reflect admissions of, and withdrawals or distributions paid to, investors during a period.
+**Management Fee.** The Fund pays the Manager a management fee at an annual rate of {management_fee_rate} of each investor's opening Capital Account, after effective capital activity and Performance Allocations and before the period's fee, including designated investments unless waived. The fee is charged {management_fee_frequency} in advance for calendar periods, and the General Partner makes equitable adjustments to reflect admissions of, and withdrawals or distributions paid to, investors during a period.
 
-**Performance Allocation.** At the end of each fiscal year, on the admission of a substitute limited partner to whom an investor's entire Interest has been transferred, and on the final distribution following dissolution, [PERFORMANCE ALLOCATION PERCENT] of each investor's eligible Performance Change above its opening Loss Carryforward is reallocated from that investor's Capital Account to the General Partner's Capital Account. Performance Change includes realized and unrealized gains and losses after Management Fees and expenses; contributions are excluded and taxes charged to the account during the period are added back. An interim withdrawal or distribution crystallizes only the proportion represented by the gross capital leaving the account divided by the whole account immediately before the transaction; that proportion of the opening balance, contributions, tax add-backs, and Loss Carryforward is tested with the departing capital, and the Performance Allocation is computed on the gross amount and deducted from withdrawal proceeds. The continuing account retains its untested calculation balances. Any other transfer is not tested: the transferee succeeds to the transferred capital together with the same proportion of the opening balance, contributions, tax add-backs, and Loss Carryforward. The Performance Allocation provisions remain in effect during winding up, and the General Partner will not be obligated to return any portion of the Performance Allocation due to the subsequent performance of the Fund. The Loss Carryforward starts at zero, increases dollar for dollar with negative Performance Change, and is reduced by positive Performance Change before another Performance Allocation is made. Contributions do not reset it. The departing portion's carryforward is retired on withdrawal or distribution; the continuing portion is retained without expiration. On a transfer, the carryforward attributable to the transferred capital moves with it into a separate Capital Account of the transferee, which is tested on its own even if the transferee is already an investor, so one account's carryforward does not shelter another account's gains. There is no hurdle rate.
+**Performance Allocation.** At the end of each fiscal year, on the admission of a substitute limited partner to whom an investor's entire Interest has been transferred, and on the final distribution following dissolution, {performance_allocation_percent} of each investor's eligible Performance Change above its opening Loss Carryforward is reallocated from that investor's Capital Account to the General Partner's Capital Account. Performance Change includes realized and unrealized gains and losses after Management Fees and expenses; contributions are excluded and taxes charged to the account during the period are added back. An interim withdrawal or distribution crystallizes only the proportion represented by the gross capital leaving the account divided by the whole account immediately before the transaction; that proportion of the opening balance, contributions, tax add-backs, and Loss Carryforward is tested with the departing capital, and the Performance Allocation is computed on the gross amount and deducted from withdrawal proceeds. The continuing account retains its untested calculation balances. Any other transfer is not tested: the transferee succeeds to the transferred capital together with the same proportion of the opening balance, contributions, tax add-backs, and Loss Carryforward. The Performance Allocation provisions remain in effect during winding up, and the General Partner will not be obligated to return any portion of the Performance Allocation due to the subsequent performance of the Fund. The Loss Carryforward starts at zero, increases dollar for dollar with negative Performance Change, and is reduced by positive Performance Change before another Performance Allocation is made. Contributions do not reset it. The departing portion's carryforward is retired on withdrawal or distribution; the continuing portion is retained without expiration. On a transfer, the carryforward attributable to the transferred capital moves with it into a separate Capital Account of the transferee, which is tested on its own even if the transferee is already an investor, so one account's carryforward does not shelter another account's gains. There is no hurdle rate.
 
 **Designated Investments.** The General Partner may segregate an illiquid or difficult-to-value investment into memorandum sub-accounts for its existing participants. Designation does not defer annual performance accounting: designated values, gains, losses, and expenses remain in the investor's Capital Account for performance accounting. Unrealized appreciation can therefore generate a Performance Allocation before the investment is sold. The General Partner may satisfy a withdrawal first from the investor's ordinary Capital Account and then from its sub-account; a withdrawal from either remains subject to the gate, suspension, and in-kind payment terms that apply to all withdrawals.
 
 **Capital Account Deficits.** If a debit to an investor's Capital Account, other than a withdrawal or distribution, would reduce that Capital Account below zero, the amount below zero is allocated to the General Partner's Capital Account instead. Later allocations of profit that would otherwise be credited to that investor's Capital Account, but not new capital contributions or the tax special allocations described below, are allocated to the General Partner until the General Partner has recovered those amounts. No investor is required to pay any deficit in its Capital Account to the Fund or to another investor, and no withdrawal or distribution may leave a Capital Account with a negative balance. The Limited Partnership Agreement also contains a qualified income offset and a gross income allocation, tax provisions that specially allocate income and gain to a partner whose Capital Account has a deficit.
 
-**Lock-Up.** Each contribution has a separate initial lock-up ending [LOCK UP MONTHS] months after acceptance.
+**Lock-Up.** Each contribution has a separate initial lock-up ending {lock_up_months} months after acceptance.
 
-**Withdrawals.** After the applicable lock-up, an investor may withdraw on the last business day of each [WITHDRAWAL FREQUENCY] period. The Fund must receive irrevocable written notice at least [WITHDRAWAL NOTICE DAYS] calendar days before the withdrawal date.
+**Withdrawals.** After the applicable lock-up, an investor may withdraw on the last business day of each {withdrawal_frequency} period. The Fund must receive irrevocable written notice at least {withdrawal_notice_days} calendar days before the withdrawal date.
 
-**Gate, Suspension, and Holdback.** The General Partner may limit aggregate payments on a withdrawal date to [GATE PERCENT] of Fund net asset value, reduce requests pro rata, suspend withdrawals and valuation in extraordinary circumstances, and retain up to fifteen percent of the amount due until completion of the Fund's audit.
+**Gate, Suspension, and Holdback.** The General Partner may limit aggregate payments on a withdrawal date to {gate_percent} of Fund net asset value, reduce requests pro rata, suspend withdrawals and valuation in extraordinary circumstances, and retain up to fifteen percent of the amount due until completion of the Fund's audit.
 
 **Reports.** The Limited Partnership Agreement requires the General Partner to furnish quarterly unaudited Capital Account statements, annual financial statements prepared in accordance with U.S. generally accepted accounting principles and audited by an independent certified public accountant within 120 days after each fiscal year end, audited financial statements promptly after completion of an audit upon liquidation, and annual tax information.
 
@@ -127,15 +123,15 @@ This summary highlights the principal terms of the offering. It is qualified in 
 
 ### Investment Program
 
-**Investment Objective.** [INVESTMENT OBJECTIVE]
+**Investment Objective.** {investment_objective}
 
-**Strategy.** [INVESTMENT STRATEGY]
+**Strategy.** {investment_strategy}
 
 The Manager may change the manner in which it implements the strategy as markets, available opportunities, portfolio size, and regulatory conditions change. No assurance can be given that the Fund will achieve its objective.
 
-**Leverage.** [LEVERAGE POLICY]
+**Leverage.** {leverage_policy}
 
-**Concentration.** [CONCENTRATION POLICY]
+**Concentration.** {concentration_policy}
 
 The Fund may hold cash or defensive positions when the Manager considers it appropriate.
 
@@ -143,7 +139,7 @@ The Fund may hold cash or defensive positions when the Manager considers it appr
 
 The General Partner controls the Fund and has delegated portfolio management to the Manager. The Manager selects investments, executes transactions, allocates opportunities among accounts, and supervises the Fund's service providers, subject to the Limited Partnership Agreement and its internal policies. The General Partner determines net asset value and may consult the Manager regarding assets without readily available market prices.
 
-**Principals.** [MANAGER PRINCIPALS DESCRIPTION]
+**Principals.** {manager_principals_description}
 
 No investor may participate in management or bind the Fund.
 
@@ -165,7 +161,7 @@ The Fund also bears:
 
 The Manager bears its ordinary office rent, employee compensation, and general overhead except for costs specifically attributable to the Fund.
 
-**Placement Agents.** [PLACEMENT AGENT COMPENSATION]
+**Placement Agents.** {placement_agent_compensation}
 
 Fund expenses are allocated among Capital Accounts in the manner the General Partner determines is fair, including special allocation of an expense attributable to a particular investor, investment, class, or transaction.
 
@@ -189,7 +185,7 @@ An investment in the Fund is speculative and suitable only for an investor that 
 
 **Investment and Market Risk.** The value of Fund investments may decline rapidly because of issuer, market, interest-rate, currency, political, economic, or other events. The Fund may lose all of its investment in a position, and past performance is not necessarily indicative of future results.
 
-**Strategy-Specific Risk.** [STRATEGY SPECIFIC RISKS DESCRIPTION]
+**Strategy-Specific Risk.** {strategy_specific_risks_description}
 
 **Leverage and Short-Sale Risk.** Borrowing, derivatives, short sales, and other forms of leverage can magnify losses and force liquidation at unfavorable prices, and derivatives present the risk of losses in excess of the amounts invested. A short position has theoretically unlimited loss potential.
 
@@ -281,7 +277,3 @@ A prospective investor must:
 The subscription documents require the investor to represent, among other matters, that it is an accredited investor (relying on its equity owners' status only where its own status depends on them) or is otherwise eligible under the exemption on which the offering relies; that it is a qualified client under paragraph (d)(1) of Rule 205-3 and that, if it is a private investment company as defined in Rule 205-3(d)(3), a registered investment company, or a business development company, each equity owner that rule treats as a client is also a qualified client under that paragraph, or, where the General Partner has waived the qualified-client criterion for it on the conditions stated under Important Offering Legends, that it holds that written waiver; is acquiring the Interest for its own account and not for distribution; must bear the economic risk of its investment for an indefinite period of time; has reviewed the offering documents and had an opportunity to ask questions; if it is a benefit plan investor, that the investment was independently selected by the plan fiduciary; and has provided accurate tax and sanctions information and the information reasonably requested to identify any equity owners to whom either test applies.
 
 The General Partner may accept or reject a subscription in whole or in part for any reason and may accept less than the stated minimum. A subscription is not accepted until the General Partner signs or otherwise records its acceptance and the investor is admitted as a Limited Partner.
-
----
-
-Authored by OpenAgreements contributors using selected provisions from identified public private investment fund offering memoranda. The cited sources are not a representative market sample. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-private-placement-memorandum](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-private-placement-memorandum) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

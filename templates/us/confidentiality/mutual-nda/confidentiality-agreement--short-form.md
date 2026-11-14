@@ -20,8 +20,7 @@ source:
   url: https://github.com/papertrail/legal-docs/blob/master/nda-short-individual-or-corporate.md
   retrieved: "2026-11-14"
   notes: >-
-    From github.com/papertrail/legal-docs, whose README states "Public domain under Creative Commons 0. No rights
-    reserved." Wording unchanged; the company-name heading was removed and the title reformatted.
+    Text taken verbatim from https://github.com/papertrail/legal-docs/blob/master/nda-short-individual-or-corporate.md (README: "Public domain under Creative Commons 0"). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -32,7 +31,7 @@ summary: >-
   relationship or transaction.
 ---
 
-# Confidentiality Agreement
+CONFIDENTIALITY AGREEMENT
 
 This Confidentiality Agreement (this "Agreement") is made and entered into as of  _______________ by and between [Company Name] ("[AKA]") and ____ _________ residing at ______________________ (the "Company" or the "Individual"). [AKA] and the Company or the Individual are considering a potential relationship or transaction whereby the parties will be exchanging information in order to evaluate such relationship or transaction.  As a condition to the exchange of such confidential information, the parties hereby agree as follows:
 
@@ -70,7 +69,3 @@ Individual or Company
   Signature: _________________________________________
 
   Title: _____________________________________________
-
----
-
-Published by [Papertrail](https://github.com/papertrail/legal-docs) and dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Wording unchanged; headings reformatted.

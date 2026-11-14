@@ -19,9 +19,7 @@ source:
   url: https://creativecommons.org/privacy/
   retrieved: "2026-11-14"
   notes: >-
-    Converted from the HTML at creativecommons.org/privacy. The site footer states "Except where otherwise noted,
-    content on this site is licensed under a Creative Commons Attribution 4.0 International license." Wording unchanged;
-    page navigation removed.
+    Converted to Markdown from the HTML the publisher serves at https://creativecommons.org/privacy/; page navigation and site chrome removed, nothing else changed. The publisher's own footer and notices are kept.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -31,10 +29,6 @@ summary: >-
   Privacy policy of a global non-profit: principles, data collected, uses, disclosures, legal bases under GDPR,
   analytics, retention, security, international transfers and user rights.
 ---
-
-> **Drafting note:** Creative Commons' live privacy policy, kept verbatim as an example. Replace the organisation, services, processors and contact details with your own.
-
-# Creative Commons Privacy Policy
 
 ### 1\.     Our Principles
 
@@ -184,7 +178,3 @@ We will continue to evaluate this Privacy Policy as we update and expand our Ser
 If you have any questions about this Privacy Policy or our privacy practices, you can contact us at: legal@creativecommons.org.
 
 The Creative Commons Privacy Policy is dedicated to the public domain under the [Creative Commons CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use and adapt this Privacy Policy and any applicable Supplemental Privacy Policy Terms for your own purposes. However, please keep in mind that this Privacy Policy may not be completely suitable for your situation. Creative Commons strongly encourages you to seek the advice of your own attorney before repurposing this Privacy Policy on your own site.
-
----
-
-Creative Commons Privacy Policy, from [creativecommons.org/privacy](https://creativecommons.org/privacy/). The site footer licenses content under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged.

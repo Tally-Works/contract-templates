@@ -20,9 +20,7 @@ source:
   url: https://github.com/kemitchell/slipstream
   retrieved: "2026-11-14"
   notes: >-
-    Taken from terms.md in github.com/kemitchell/slipstream, whose LICENSE applies Mitchell's Law Form License, Version
-    1.1.0 (permissive; if changed, remove or flag the title). Wording unchanged; YAML front-matter removed and backtick
-    blanks rendered as [BRACKETED] placeholders.
+    Text taken verbatim from terms.md in github.com/kemitchell/slipstream (LICENSE: Mitchell's Law Form License 1.1.0), including the form's own YAML header and backtick blanks. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: Mitchell-Law-Form-1.1
 status: draft
 version: 1.0.0
@@ -34,21 +32,37 @@ summary: >-
   Mitchell; marked by him as a development draft.
 ---
 
-# Slipstream Software Service Terms
-
-> **Drafting note:** Standard terms for a hosted or licensed software product sold through an account dashboard or purchase order. Blanks such as [SOFTWARE NAME] come from the author's form; the author marks this version a development draft.
+---
+title: Slipstream Software Service Terms
+version: Development Draft
+blanks:
+  Software Name: Example Software, Inc.
+  Software Description: demonstrating the use of this form
+  Website URL: https://example.com/
+  Account Dashboard URL: https://account.example.com/
+  Documentation URL: https://doc.exmaple.com/
+styles:
+  heading:
+    italic: true
+  beforeDefinition: false
+  afterDefinition: false
+  reference:
+    italic: true
+  referenceHeading:
+    italic: true
+---
 
 **Provider** and **Customer** agree:
 
 # Software
 
-- The **Software** is [SOFTWARE NAME], for [SOFTWARE DESCRIPTION].
+- The **Software** is `Software Name`, for `Software Description`.
 
-- The **Website** is at [WEBSITE URL].
+- The **Website** is at `Website URL`.
 
-- The **Account Dashboard** is at [ACCOUNT DASHBOARD URL].
+- The **Account Dashboard** is at `Account Dashboard URL`.
 
-- The **Documentation** is at [DOCUMENTATION URL].
+- The **Documentation** is at `Documentation URL`.
 
 # Order
 
@@ -521,7 +535,3 @@ Both sides waive any objection to venue for any _Lawsuit_ in _Provider's Local C
 - **User Accounts** means the number of _Users_ with _Access Credentials_, not counting any administrative _Access Credentials_.
 
 - **Users** means _Customer Personnel_ using the _Software_ and _Customer Systems_ using the _Software_.
-
----
-
-Slipstream Software Service Terms by Kyle E. Mitchell, [github.com/kemitchell/slipstream](https://github.com/kemitchell/slipstream), licensed under Mitchell's Law Form License, Version 1.1.0. Reproduced without changes to the wording; blanks rendered in brackets.

@@ -20,10 +20,7 @@ source:
   url: https://bonterms.com/standard/service-level-agreement-version-1-0
   retrieved: "2026-11-14"
   notes: >-
-    Converted from the HTML published at https://bonterms.com/standard/service-level-agreement-version-1-0. Wording
-    unchanged; the copyright and "Free to use under CC BY 4.0" footer is kept. Bonterms states at
-    bonterms.com/download-center that its Standard Agreements are released under CC BY 4.0 unless otherwise noted; this
-    one carries the CC BY 4.0 footer.
+    Converted to Markdown from the HTML the publisher serves at https://bonterms.com/standard/service-level-agreement-version-1-0; page navigation and site chrome removed, nothing else changed. The publisher's own footer and notices are kept. Bonterms states at bonterms.com/download-center that its Standard Agreements are released under CC BY 4.0 unless otherwise noted; this one carries the CC BY 4.0 footer.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -35,7 +32,7 @@ summary: >-
 ---
 
 # Bonterms Service Level Agreement
-*(Version 1.0)*
+(Version 1.0)
 
 Attachment to Bonterms Cloud Terms
 
@@ -69,16 +66,45 @@ Attachment to Bonterms Cloud Terms
 
 **7\. SLA Key Terms Chart.**
 
-| SLA Key Terms Chart |
-| --- |
-|  | **Monthly Uptime Percentage:** | **Service Credit:** |
-| **Target Availability:** | 99.9% or higher | None |
-| Credit Tier 1 | 99.00% – 99.89% | 5% of monthly fees |
-| Credit Tier 2 | 97.00% – 98.99% | 20% of monthly fees |
-| Credit Tier 3 | 95.00% – 96.99% | 35% of monthly fees |
-| Credit Tier 4 | < 95.00% | 50% of monthly fees |
-|  |
-| **Multiple Failures:** | means Target Availability is not met for 2 consecutive months or any 3 months in a rolling 12-month period. |
+SLA Key Terms Chart
+
+**Monthly Uptime Percentage:**
+
+**Service Credit:**
+
+**Target Availability:**
+
+99.9% or higher
+
+None
+
+Credit Tier 1
+
+99.00% – 99.89%
+
+5% of monthly fees
+
+Credit Tier 2
+
+97.00% – 98.99%
+
+20% of monthly fees
+
+Credit Tier 3
+
+95.00% – 96.99%
+
+35% of monthly fees
+
+Credit Tier 4
+
+< 95.00%
+
+50% of monthly fees
+
+**Multiple Failures:**
+
+means Target Availability is not met for 2 consecutive months or any 3 months in a rolling 12-month period.
 
 Bonterms Service Level Agreement (Version 1.0)
 © 2022 Bonterms, Inc. Free to use under [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/).

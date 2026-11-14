@@ -20,10 +20,7 @@ source:
   url: https://github.com/basecamp/policies/blob/master/copyright/index.md
   retrieved: "2026-11-14"
   notes: >-
-    From the Basecamp open-source policies repository, released under CC BY 4.0 with the request that adaptations carry
-    the line "Adapted from the Basecamp open-source policies / CC BY 4.0", which is included. Wording unchanged apart
-    from the title heading; a drafting note is added at the top. The repository is archived and the live policies are at
-    37signals.com/policies.
+    Text taken verbatim from https://github.com/basecamp/policies/blob/master/copyright/index.md (README: released under Creative Commons Attribution 4.0). The file's site front-matter is omitted; Basecamp's Jekyll variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -34,9 +31,7 @@ summary: >-
   notice must contain, and how counter-notices work.
 ---
 
-> **Drafting note:** This is 37signals' live policy as published in the Basecamp open-source policies repository, kept verbatim as an example of a plain-English copyright infringement notification policy. Replace the company and product names, the dates, and the links with your own, and have the result reviewed for your jurisdiction.
-
-# Copyright Infringement Notification Policy
+# Copyright Infringement Claims
 
 ## Notification of Copyright Infringement Claims
 
@@ -75,7 +70,3 @@ ATTN: David H. Hansson
 Chicago, IL 60612 USA
 
 **This policy and process applies to any product created and owned by Basecamp, LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List.*
-
----
-
-Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The current versions live at [37signals.com/policies](https://37signals.com/policies).

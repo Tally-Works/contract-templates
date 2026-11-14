@@ -21,11 +21,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-limited-partnership-agreement
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors using selected provisions from identified public private investment fund
-    partnership agreements. The cited sources are not a representative market sample. Licensed under CC BY 4.0. Taken
-    from template.md in the OpenAgreements repository (metadata.yaml: license CC-BY-4.0, allow_derivatives true).
-    Changes by goHeather: {field} placeholders rendered as [BRACKETED] placeholders and [[defined terms]] rendered bold;
-    wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-limited-partnership-agreement); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -38,37 +34,37 @@ summary: >-
   closed-end fund. (OpenAgreements version 0.1.0, marked experimental by its authors.)
 ---
 
-# Hedge Fund Limited Partnership Agreement
+# Limited Partnership Agreement
 
-This Limited Partnership Agreement is effective as of [EFFECTIVE DATE] and is entered into by [GENERAL PARTNER NAME], as general partner, and each person admitted to the Partnership as a limited partner. Capitalized terms have the meanings given in Article I. The Partners agree as follows.
+This Limited Partnership Agreement is effective as of {effective_date} and is entered into by {general_partner_name}, as general partner, and each person admitted to the Partnership as a limited partner. Capitalized terms have the meanings given in Article I. The Partners agree as follows.
 
 ## Article I: Organization
 
 ### Definitions
 
-**Agreement** means this Limited Partnership Agreement, as amended.
+[[Agreement]] means this Limited Partnership Agreement, as amended.
 
-**Effective Date** means [EFFECTIVE DATE].
+[[Effective Date]] means {effective_date}.
 
-**General Partner** means [GENERAL PARTNER NAME].
+[[General Partner]] means {general_partner_name}.
 
-**Manager** means [MANAGER NAME].
+[[Manager]] means {manager_name}.
 
-**Partnership** means [FUND NAME].
+[[Partnership]] means {fund_name}.
 
-**Limited Partner** means each person admitted to the Partnership as a limited partner.
+[[Limited Partner]] means each person admitted to the Partnership as a limited partner.
 
-**Partner** means the General Partner or a Limited Partner, and Partners means all of them.
+[[Partner]] means the General Partner or a Limited Partner, and Partners means all of them.
 
-**Interest** means a Partner's entire partnership interest, including its Capital Account and its rights and obligations under this Agreement.
+[[Interest]] means a Partner's entire partnership interest, including its Capital Account and its rights and obligations under this Agreement.
 
 Capital Account, Fiscal Period, net profit, net loss, Designated Investment, Management Fee, Performance Allocation, Performance Period, Performance Change, and Loss Carryforward have the meanings assigned to them in Articles II through V.
 
 ### Formation
 
-[FUND NAME] has been formed as a Delaware limited partnership under the Delaware Revised Uniform Limited Partnership Act. The General Partner shall maintain the Partnership's certificate of limited partnership and may make any filing reasonably required to preserve the Partnership's existence and authority to conduct its business.
+{fund_name} has been formed as a Delaware limited partnership under the Delaware Revised Uniform Limited Partnership Act. The General Partner shall maintain the Partnership's certificate of limited partnership and may make any filing reasonably required to preserve the Partnership's existence and authority to conduct its business.
 
-The Partnership's principal office is [PRINCIPAL OFFICE]. The General Partner may change the principal office and may establish other offices.
+The Partnership's principal office is {principal_office}. The General Partner may change the principal office and may establish other offices.
 
 The Partnership began upon the filing of its certificate of limited partnership and will continue until dissolved under Article XII.
 
@@ -107,7 +103,7 @@ No Limited Partner may participate in the management or control of the Partnersh
 
 ### Capital Contributions
 
-The initial capital contribution of the Limited Partner signing this counterpart is [LIMITED PARTNER INITIAL CONTRIBUTION]. The minimum initial contribution is [MINIMUM INITIAL INVESTMENT]. The General Partner may accept or reject any proposed contribution, accept less than that minimum, establish subscription dates, and accept contributions in cash or other property on terms it determines.
+The initial capital contribution of the Limited Partner signing this counterpart is {limited_partner_initial_contribution}. The minimum initial contribution is {minimum_initial_investment}. The General Partner may accept or reject any proposed contribution, accept less than that minimum, establish subscription dates, and accept contributions in cash or other property on terms it determines.
 
 No Limited Partner shall be obligated to make any additional capital contribution, subject to the prior-period adjustment provisions of Article VIII and the tax provisions of Article III. A Limited Partner may make an additional contribution only with the General Partner's consent.
 
@@ -159,7 +155,7 @@ This section does not apply to an excess tax amount payable personally by a Part
 
 ### Management Fee
 
-The Partnership shall pay the Manager a Management Fee for investment-management and related services. The fee accrues at an annual rate of [MANAGEMENT FEE RATE] on each Limited Partner's Capital Account at the start of the fee period, after capital activity and any Performance Allocation effective at that time and before the fee for that period. The fee is charged [MANAGEMENT FEE FREQUENCY] in advance for successive calendar periods. In determining the amount of the Management Fee charged to each Limited Partner, the General Partner shall make such equitable adjustments as are necessary to reflect the admission of, and withdrawals or distributions paid to, Limited Partners during a fee period.
+The Partnership shall pay the Manager a Management Fee for investment-management and related services. The fee accrues at an annual rate of {management_fee_rate} on each Limited Partner's Capital Account at the start of the fee period, after capital activity and any Performance Allocation effective at that time and before the fee for that period. The fee is charged {management_fee_frequency} in advance for successive calendar periods. In determining the amount of the Management Fee charged to each Limited Partner, the General Partner shall make such equitable adjustments as are necessary to reflect the admission of, and withdrawals or distributions paid to, Limited Partners during a fee period.
 
 The General Partner or Manager may reduce, waive, rebate, or calculate the Management Fee differently for any Partner without the consent of any other Partner.
 
@@ -167,7 +163,7 @@ The General Partner or Manager may reduce, waive, rebate, or calculate the Manag
 
 ### Performance Allocation
 
-The Partnership shall determine the Performance Allocation separately for each Capital Account, other than the General Partner's, for each Performance Period. The initial Performance Period for a Capital Account begins on admission, except that capital to which a transferee succeeds continues the Performance Period in which it was transferred; subsequent Performance Periods commence as of the day following the last day of the preceding Performance Period. Each ends as of the close of business on the first to occur of the last day of a fiscal year, the admission as a substitute Limited Partner of a person to whom the entire Interest of the Limited Partner has been transferred, and the final distribution following the dissolution of the Partnership. A withdrawal or distribution before then closes the Performance Period only for the portion of capital withdrawn or distributed. The Performance Allocation equals [PERFORMANCE ALLOCATION PERCENT] of the positive amount, if any, by which the Performance Change for the capital being tested exceeds its opening Loss Carryforward. There is no hurdle rate.
+The Partnership shall determine the Performance Allocation separately for each Capital Account, other than the General Partner's, for each Performance Period. The initial Performance Period for a Capital Account begins on admission, except that capital to which a transferee succeeds continues the Performance Period in which it was transferred; subsequent Performance Periods commence as of the day following the last day of the preceding Performance Period. Each ends as of the close of business on the first to occur of the last day of a fiscal year, the admission as a substitute Limited Partner of a person to whom the entire Interest of the Limited Partner has been transferred, and the final distribution following the dissolution of the Partnership. A withdrawal or distribution before then closes the Performance Period only for the portion of capital withdrawn or distributed. The Performance Allocation equals {performance_allocation_percent} of the positive amount, if any, by which the Performance Change for the capital being tested exceeds its opening Loss Carryforward. There is no hurdle rate.
 
 Performance Change equals the closing Capital Account balance before the current Performance Allocation and capital withdrawal, plus any debits to that Capital Account during the Performance Period to reflect taxes charged to it under Article III, less its opening balance and contributions during the Performance Period. Contributions do not count as profit, and gain or loss is allocated to contributed capital only from its acceptance under Article III.
 
@@ -239,9 +235,9 @@ These protections survive a person's cessation of service and the dissolution of
 
 ### Voluntary Withdrawals
 
-Each capital contribution has a separate initial lock-up ending [LOCK UP MONTHS] months after that contribution is accepted. The lock-up does not renew on an anniversary, and a later contribution does not restart the lock-up for earlier capital. No voluntary withdrawal of a contribution may occur before its lock-up ends unless the General Partner consents.
+Each capital contribution has a separate initial lock-up ending {lock_up_months} months after that contribution is accepted. The lock-up does not renew on an anniversary, and a later contribution does not restart the lock-up for earlier capital. No voluntary withdrawal of a contribution may occur before its lock-up ends unless the General Partner consents.
 
-After the applicable lock-up, a Limited Partner may withdraw all or part of its eligible Capital Account as of the last business day of each [WITHDRAWAL FREQUENCY] period. The General Partner must receive irrevocable written notice at least [WITHDRAWAL NOTICE DAYS] calendar days before the requested withdrawal date, unless it waives or shortens the notice period.
+After the applicable lock-up, a Limited Partner may withdraw all or part of its eligible Capital Account as of the last business day of each {withdrawal_frequency} period. The General Partner must receive irrevocable written notice at least {withdrawal_notice_days} calendar days before the requested withdrawal date, unless it waives or shortens the notice period.
 
 The General Partner may withdraw any positive balance in its Capital Account, including a Performance Allocation credited to it, at any time without notice to the Limited Partners, subject to the Partnership's liabilities and reasonable reserves. Its withdrawal does not create an obligation to restore a later deficit and does not limit any liability of the General Partner under applicable law.
 
@@ -249,7 +245,7 @@ To the extent that a Limited Partner's capital derives from multiple capital con
 
 ### Withdrawal Gate
 
-If aggregate withdrawal requests for a withdrawal date exceed [GATE PERCENT] of the Partnership's net asset value, the General Partner may reduce all requests pro rata so that payments do not exceed that percentage. The portion deferred by the gate has not been withdrawn or debited from the Capital Account. It remains invested and subject to investment gain and loss, Management Fees, and the Performance Allocation until its effective withdrawal date. A withdrawal request that is not fully satisfied as of a withdrawal date will be satisfied as of the next withdrawal date and, if necessary, successive withdrawal dates, each time subject to this limit. Unsatisfied withdrawal requests will not be prioritized over later withdrawal requests and will be satisfied together with those later requests on a pro rata basis.
+If aggregate withdrawal requests for a withdrawal date exceed {gate_percent} of the Partnership's net asset value, the General Partner may reduce all requests pro rata so that payments do not exceed that percentage. The portion deferred by the gate has not been withdrawn or debited from the Capital Account. It remains invested and subject to investment gain and loss, Management Fees, and the Performance Allocation until its effective withdrawal date. A withdrawal request that is not fully satisfied as of a withdrawal date will be satisfied as of the next withdrawal date and, if necessary, successive withdrawal dates, each time subject to this limit. Unsatisfied withdrawal requests will not be prioritized over later withdrawal requests and will be satisfied together with those later requests on a pro rata basis.
 
 ### Suspension of Withdrawals
 
@@ -296,7 +292,7 @@ The General Partner may admit additional Limited Partners on any subscription da
 
 ### Books and Reports
 
-The Partnership shall maintain complete books and records at its principal office or with its administrator. Its fiscal year ends on [FISCAL YEAR END] unless changed by the General Partner.
+The Partnership shall maintain complete books and records at its principal office or with its administrator. Its fiscal year ends on {fiscal_year_end} unless changed by the General Partner.
 
 The General Partner shall furnish each Limited Partner unaudited Capital Account statements quarterly. The Partnership's financial statements shall be prepared in accordance with U.S. generally accepted accounting principles and audited by an independent certified public accountant selected by the General Partner as of the end of each fiscal year and upon the liquidation of the Partnership. The General Partner shall furnish the audited annual financial statements to each Limited Partner within 120 days after the end of each fiscal year, and the audited financial statements prepared upon liquidation promptly after completion of that audit. If the General Partner or the Manager relies on the audit provision of Rule 206(4)-2(b)(4) under the Investment Advisers Act of 1940 for the Partnership, the accountant must be registered with, and subject to regular inspection by, the Public Company Accounting Oversight Board as that rule requires.
 
@@ -370,7 +366,7 @@ This special power is coupled with an interest, survives incapacity and transfer
 
 ### Notices
 
-Notices under this Agreement must be in writing and may be delivered personally, by nationally recognized courier, by registered or certified mail, or by electronic transmission to the address in the Partnership's records. A Limited Partner's initial notice address is [LIMITED PARTNER ADDRESS]. Notice is effective when received, except that notice by electronic mail is effective when sent, if sent on a business day, or on the next business day after it is sent, if sent on a day that is not a business day.
+Notices under this Agreement must be in writing and may be delivered personally, by nationally recognized courier, by registered or certified mail, or by electronic transmission to the address in the Partnership's records. A Limited Partner's initial notice address is {limited_partner_address}. Notice is effective when received, except that notice by electronic mail is effective when sent, if sent on a business day, or on the next business day after it is sent, if sent on a day that is not a business day.
 
 ### Governing Law and Forum
 
@@ -390,19 +386,15 @@ This Agreement shall be binding upon and inure to the benefit of the Partners an
 
 The undersigned agree to be bound by this Limited Partnership Agreement as of the Effective Date.
 
-General Partner: [GENERAL PARTNER NAME]
+General Partner: {general_partner_name}
 
 Signature: _______________
-Signatory Name: [GENERAL PARTNER SIGNATORY NAME]
-Title: [GENERAL PARTNER SIGNATORY TITLE]
+Signatory Name: {general_partner_signatory_name}
+Title: {general_partner_signatory_title}
 Date: _______________
 
-Limited Partner: [LIMITED PARTNER NAME]
+Limited Partner: {limited_partner_name}
 
 Signature: _______________
-Print Name: [LIMITED PARTNER NAME]
+Print Name: {limited_partner_name}
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors using selected provisions from identified public private investment fund partnership agreements. The cited sources are not a representative market sample. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-limited-partnership-agreement](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-limited-partnership-agreement) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

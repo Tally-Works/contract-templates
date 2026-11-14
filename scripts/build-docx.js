@@ -22,6 +22,7 @@ const {
 
 const ROOT = path.resolve(__dirname, '..');
 const TEMPLATES_DIR = path.join(ROOT, 'templates');
+const TAXONOMY = yaml.load(fs.readFileSync(path.join(ROOT, 'taxonomy.yaml'), 'utf8'));
 const args = process.argv.slice(2);
 const CHECK = args.includes('--check');
 const FORCE = args.includes('--force');
@@ -187,9 +188,10 @@ function buildDocument(meta, body, relMd) {
   children.push(...blocks(tokens, {}));
 
   const src = meta.source || {};
+  const licUrl = (TAXONOMY.license_urls || {})[meta.license] || '';
   const footerLines = [
-    `${meta.title} — ${src.name || 'unknown source'} — licence: ${meta.license}${src.url ? ` — ${src.url}` : ''}`,
-    `Collected in goHeather's contract-templates library (${relMd}). goHeather did not write this document; see ATTRIBUTION.md. Not legal advice.`,
+    `${meta.title}. Published by ${src.name || 'unknown source'}${src.url ? ` (${src.url})` : ''} under ${meta.license}${licUrl ? ` (${licUrl})` : ''}. Text as published; converted to this format by goHeather without changes.`,
+    `goHeather did not write this document and holds no rights in it; it is collected in the contract-templates library (${relMd}), see ATTRIBUTION.md. Not legal advice.`,
   ];
   const when = /^\d{4}-\d{2}-\d{2}$/.test(String(meta.last_reviewed)) ? new Date(`${meta.last_reviewed}T00:00:00Z`) : new Date('2026-01-01T00:00:00Z');
 

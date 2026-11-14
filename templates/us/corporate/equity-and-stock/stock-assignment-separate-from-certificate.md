@@ -21,9 +21,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-stock-assignment-separate
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements
-    repository (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders
-    rendered as [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-stock-assignment-separate); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -39,23 +37,27 @@ summary: >-
 
 # Stock Assignment Separate from Certificate
 
-This assignment separate from certificate (this "Stock Power") is executed by [FOUNDER NAME] (the "Assignor") in favor of [COMPANY LEGAL NAME], a Delaware corporation (the "Company"), to effect the transfer of the shares described below.
+This assignment separate from certificate (this "Stock Power") is executed by {founder_name} (the "Assignor") in favor of {company_legal_name}, a Delaware corporation (the "Company"), to effect the transfer of the shares described below.
 
 ## Key Terms
 
-**Company:** [COMPANY LEGAL NAME]
+Company
+: {company_legal_name}
 
-**Founder (Assignor):** [FOUNDER NAME]
+Founder (Assignor)
+: {founder_name}
 
-**Shares Assigned:** [SHARES ASSIGNED]
+Shares Assigned
+: {shares_assigned}
 
-**Certificate Number:** [CERTIFICATE NUMBER]
+Certificate Number
+: {certificate_number}
 
 ## Assignment
 
 ### Assignment Separate from Certificate
 
-FOR VALUE RECEIVED, the Assignor hereby sells, assigns, and transfers unto [COMPANY LEGAL NAME], a Delaware corporation, [SHARES ASSIGNED] of the Company standing in the Assignor's name on the books of the Company and represented by Certificate No. [CERTIFICATE NUMBER] (or, if the shares are uncertificated, represented by the corresponding book-entry), and does hereby irrevocably constitute and appoint [ATTORNEY IN FACT] as the Assignor's attorney-in-fact to transfer the said shares on the books of the Company, with full power of substitution in the premises.
+FOR VALUE RECEIVED, the Assignor hereby sells, assigns, and transfers unto {company_legal_name}, a Delaware corporation, {shares_assigned} of the Company standing in the Assignor's name on the books of the Company and represented by Certificate No. {certificate_number} (or, if the shares are uncertificated, represented by the corresponding book-entry), and does hereby irrevocably constitute and appoint {attorney_in_fact} as the Assignor's attorney-in-fact to transfer the said shares on the books of the Company, with full power of substitution in the premises.
 
 This Stock Power is delivered under the Assignor's Restricted Stock Purchase Agreement in connection with the Company's repurchase of the shares described above and does not modify the terms of that agreement.
 
@@ -65,10 +67,6 @@ The Assignor has executed this Stock Power as of the date set forth below.
 
 Signature: _______________
 
-Print Name: [FOUNDER NAME]
+Print Name: {founder_name}
 
-Date: [ASSIGNMENT DATE]
-
----
-
-Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-stock-assignment-separate](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-stock-assignment-separate) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.
+Date: {assignment_date}

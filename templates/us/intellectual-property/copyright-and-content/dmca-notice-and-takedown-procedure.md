@@ -20,8 +20,7 @@ source:
   url: https://creativecommons.org/dmca/
   retrieved: "2026-11-14"
   notes: >-
-    Converted from the HTML at creativecommons.org/dmca. The site footer states content is licensed under CC BY 4.0.
-    Wording unchanged; page navigation removed.
+    Converted to Markdown from the HTML the publisher serves at https://creativecommons.org/dmca/; page navigation and site chrome removed, nothing else changed. The publisher's own footer and notices are kept.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -31,10 +30,6 @@ summary: >-
   Short DMCA notice-and-takedown procedure: what a copyright notice must contain, where to send it, and how
   counter-notices are handled.
 ---
-
-# DMCA Notice and Takedown Procedure
-
-> **Drafting note:** Creative Commons' live DMCA procedure, kept verbatim as an example. Replace the organisation and the designated agent's contact details with your own.
 
 Creative Commons abides by the federal [Digital Millennium Copyright Act (DMCA)](https://web.archive.org/web/20160612072436/http://www.copyright.gov/legislation/dmca.pdf) by responding to notices of alleged infringement that comply with the DMCA and other applicable laws. As part of our response, we may remove or disable access to material residing on a site that is controlled or operated by Creative Commons (such as creativecommons.org) that is claimed to be infringing, in which case we will make a good-faith attempt to contact the person who submitted the affected material so that they may make a counter notification, also in accordance with the DMCA.
 
@@ -84,7 +79,3 @@ Mountain View CA 94042
 Email: [dmca@creativecommons.org](mailto:dmca@creativecommons.org)
 
 You may be able to find examples of counter-notifications at [www.chillingeffects.org/dmca/counter512.pdf](https://web.archive.org/web/20160612072436/http://www.chillingeffects.org/dmca/counter512.pdf). Please note, however, that this is no substitute for legal advice and you should obtain legal advice to better understand your rights and obligations under the DMCA and applicable laws.
-
----
-
-From [creativecommons.org/dmca](https://creativecommons.org/dmca/). The site footer licenses content under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged.

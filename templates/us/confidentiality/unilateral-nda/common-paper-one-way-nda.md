@@ -20,10 +20,7 @@ source:
   file: templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.docx
   retrieved: "2026-11-14"
   notes: >-
-    The document page at https://commonpaper.com/documents/one-way-nda/ states "This document is free to use or modify
-    under CC BY 4.0". Text converted from the Google Doc Common Paper offers on that page (exported as docx, kept under
-    sources/); the help-text first page was removed, tables flattened to label/value lines, and clause headings rendered
-    as bold lead-ins. Wording unchanged.
+    Converted to Markdown from the publisher's own Word file (common-paper-one-way-nda.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -35,7 +32,42 @@ summary: >-
   itself.
 ---
 
-# Common Paper One-Way NDA
+**Interpreting help text**
+
+[Yellow highlighted text in brackets] indicates a field or area where you can enter your own text or customizations.
+
+*[Gray highlighted, italicized text in brackets]* indicates information about how to use or complete a particular variable.
+
+Parenthesis indicate choices where you must select one option.
+
+( ) Option 1
+
+( ) Option 2
+
+Brackets indicate choices that are optional where you can pick none, one, or more than one.
+
+[ ] Option 1
+
+[ ] Option 2
+
+[ ] Option 3
+
+In some cases, default choices are indicated with an “x”.
+
+( x ) Default choice
+
+[ x ] Default choice
+
+**How to set up an agreement**
+
+1.  Review the agreement, including the attached NDA Terms.
+2.  Review each variable on the Cover Page and fill in your details. Don’t forget to enter your company’s information in the signature block at the end.
+3.  Delete any optional variables, choices, or details that do not apply to you.
+4.  Delete all *[informational text]*.
+5.  Remove this first page.
+6.  Send to your counterparty for review and signature.
+
+One-Way NDA
 
 **This One-Way Non-Disclosure Agreement (the “NDA”) consists of: (1) this Cover Page (“Cover Page”) and (2) the NDA Terms below (“NDA Terms”). If there is any inconsistency between the Cover Page and the NDA Terms, the Cover Page will control over the NDA Terms. Capitalized words have the meanings or descriptions given in the Cover Page or the NDA Terms.**
 
@@ -92,7 +124,3 @@ By signing this Cover Page, Recipient agrees to enter into this NDA as of the Ef
 9.  **Governing Law and Jurisdiction**. This NDA and all matters relating hereto are governed by, and construed in accordance with, the laws of the State of **Governing Law**, without regard to the conflict of laws provisions of such **Governing Law**. Any legal suit, action, or proceeding relating to this NDA must be instituted in the federal or state courts located in **Jurisdiction**. Each party irrevocably submits to the exclusive jurisdiction of such **Jurisdiction** in any such suit, action, or proceeding.
 10.  **Equitable Relief**. A breach of this NDA may cause irreparable harm for which monetary damages are an insufficient remedy. Upon a breach of this NDA, the Discloser is entitled to seek appropriate equitable relief, including an injunction, in addition to its other remedies.
 11.  **General**. Discloser has no obligation under this NDA to disclose Confidential Information to Recipient or proceed with any proposed transaction. Neither party may assign this NDA without the prior written consent of the other party, except that Discloser may assign this NDA in connection with a merger, reorganization, acquisition or other transfer of all or substantially all its assets or voting securities. Any assignment in violation of this Section is null and void. This NDA will bind and inure to the benefit of each party’s permitted successors and assigns. Waivers must be signed by the waiving party’s authorized representative and cannot be implied from conduct. If any provision of this NDA is held unenforceable, it will be limited to the minimum extent necessary so the rest of this NDA remains in effect. This NDA (including the Cover Page) constitutes the entire agreement of the parties with respect to its subject matter, and supersedes all prior and contemporaneous understandings, agreements, representations, and warranties, whether written or oral, regarding such subject matter. This NDA may only be amended, modified, waived, or supplemented by an agreement in writing signed by both parties. Notices, requests and approvals under this NDA must be sent in writing to the email or postal addresses on the Cover Page and are deemed delivered on receipt. This NDA may be executed in counterparts, including electronic copies, each of which is deemed an original and which together form the same agreement.
-
----
-
-Common Paper One-Way NDA, published by [Common Paper](https://commonpaper.com/documents/one-way-nda/) and free to use or modify under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged; converted from the Google Doc version.

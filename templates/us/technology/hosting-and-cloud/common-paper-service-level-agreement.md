@@ -20,9 +20,7 @@ source:
   url: https://commonpaper.com/standards/service-level-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken from the official Markdown in github.com/CommonPaper/SLA (Standard Terms Version 2.0). Wording unchanged;
-    HTML span markup stripped. Common Paper publishes all standard agreements under CC BY 4.0
-    (commonpaper.com/standards) and asks that the attribution line and link be kept, which they are.
+    Text taken verbatim from sla.md in github.com/CommonPaper/SLA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -34,7 +32,7 @@ summary: >-
   the cover page.
 ---
 
-# Common Paper Service Level Agreement
+# Service Level Agreement
 
 1. Uptime
     1. Target Uptime.  If there is a Target Uptime, Provider will use commercially reasonable efforts to make the Cloud Service available for at least the Target Uptime as calculated each calendar month.
@@ -60,7 +58,3 @@ summary: >-
     4. **"Service Credit"** means the accrued Uptime Credit plus the accrued Response Time Credit.
     5. **"SLA"** means these SLA Standard Terms as incorporated into the applicable Order Form.
     6. **"SLA Standard Terms"** means these Common Paper Service Level Agreement Standard Terms Version 2.0, which are posted at <https://commonpaper.com/standards/service-level-agreement/2.0/>.
-
----
-
-Common Paper Service Level Agreement Standard Terms Version 2.0, published by [Common Paper](https://commonpaper.com/standards/service-level-agreement/) and free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged.

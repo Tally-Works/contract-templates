@@ -21,60 +21,22 @@ source:
   url: https://bonterms.com/standard/climate-addendum-cover-page-version
   retrieved: "2026-11-14"
   notes: >-
-    Converted from the HTML published at https://bonterms.com/standard/climate-addendum-cover-page-version. Wording
-    unchanged; the copyright and "Free to use under CC BY 4.0" footer is kept. Bonterms states at
-    bonterms.com/download-center that its Standard Agreements are released under CC BY 4.0 unless otherwise noted; this
-    one carries the CC BY 4.0 footer.
-    The example cover page published by Bonterms under CC0 at https://bonterms.com/resources/climate-addendum-version-1-0-cover-page-example is merged in above the standard terms so the
-    template is complete on its own.
+    Converted to Markdown from the HTML the publisher serves at https://bonterms.com/standard/climate-addendum-cover-page-version; page navigation and site chrome removed, nothing else changed. The publisher's own footer and notices are kept. Bonterms states at bonterms.com/download-center that its Standard Agreements are released under CC BY 4.0 unless otherwise noted; this one carries the CC BY 4.0 footer.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/commercial/master-services/bonterms-climate-addendum-cover-page.md
 summary: >-
   Addendum adding climate and emissions-reporting commitments to a commercial agreement. Cover-page version. Governing
   law and business terms are chosen on the cover page.
 ---
 
-# Bonterms Climate Addendum
-*Climate Addendum v.1.0*
-*(Cover Page Version)*
-
-> **Drafting note:** This file is complete on its own. Fill in and sign the cover page below; it incorporates the standard terms that follow it. Bonterms publishes the cover page as a CC0 example and the standard terms under CC BY 4.0.
-
-## Cover Page
-
-**Cover Page for
-Bonterms Climate Addendum**
-
-**By executing this Cover Page, Customer and Supplier enter into the Bonterms Climate Addendum Version 1.0 (Cover Page Version) (“Climate Addendum”). The Climate Addendum is a Standard Agreement published by Bonterms available here: [https://bonterms.com/standard/climate-addendum-cover-page-version/](https://bonterms.com/standard/climate-addendum-cover-page-version/). A reference copy may be attached. The Climate Addendum includes the contents of this Cover Page, including the Key Terms any Additional Terms. Capitalized terms not defined in this Cover Page have the meanings given in the Climate Addendum.**
-
-**Key Terms**
-
-**Main Agreement**
-This Climate Addendum is incorporated into the agreement between Customer and Supplier identified below:
-***[Name/date of Main Agreement]***
-
-**Addendum Effective Date**
-***[Fill in date]***
-
-**Additional Terms**
-
-**The following additions to or modifications of the Climate Addendum are agreed by the parties and control in the event of any conflicts:**
-
-**Signatures**
-
-**Agreed to as of the Addendum Effective Date by each party’s authorized representative:**
-
-**Customer:Signature: Name and Title:Company: Date:**
-**Supplier**:
-Signature:
-Name and Title:
-Company:
-Date:
-
-## Standard Terms
+# Bonterms Standard Agreement
+Climate Addendum v.1.0
+(Cover Page Version)
 
 This Bonterms Climate Addendum Version 1.0 (Cover Page Version) ("Climate Addendum") is a set of standard terms entered into between Customer and Supplier by executing a Cover Page.
 

@@ -20,11 +20,7 @@ source:
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-employment-offer-letter-texas
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Projected from the master employment offer letter for Texas; offer-letter
-    structure benchmarked against the local Cooley GO and Orrick forms and public EDGAR examples recorded in the
-    precedent audit sidecar. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository
-    (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as
-    [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-employment-offer-letter-texas); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -41,29 +37,41 @@ summary: >-
 
 The key business terms of this Employment Offer Letter are as follows.
 
-**Employer:** [EMPLOYER NAME]
+Employer
+: {employer_name}
 
-**Employee:** [EMPLOYEE NAME]
+Employee
+: {employee_name}
 
-**Position Title:** [POSITION TITLE]
+Position Title
+: {position_title}
 
-**Employment Type:** [EMPLOYMENT TYPE]
+Employment Type
+: {employment_type}
 
-**Start Date:** [START DATE]
+Start Date
+: {start_date}
 
-**Reporting Manager:** [REPORTING MANAGER]
+Reporting Manager
+: {reporting_manager}
 
-**Base Salary:** [BASE SALARY]
+Base Salary
+: {base_salary}
 
-**Bonus Terms:** [BONUS TERMS]
+Bonus Terms
+: {bonus_terms}
 
-**Equity Terms:** [EQUITY TERMS]
+Equity Terms
+: {equity_terms}
 
-**Primary Work Location:** [WORK LOCATION]
+Primary Work Location
+: {work_location}
 
-**Governing Law:** [GOVERNING LAW]
+Governing Law
+: {governing_law}
 
-**Offer Expiration Date:** [OFFER EXPIRATION DATE]
+Offer Expiration Date
+: {offer_expiration_date}
 
 ## Standard Terms
 
@@ -155,19 +163,15 @@ This offer expires on the date listed in Cover Terms unless extended in writing 
 
 By signing this Employment Offer Letter, each party agrees to these Cover Terms and Standard Terms.
 
-Employer: [EMPLOYER NAME]
+Employer: {employer_name}
 
 Signature: _______________
-Signatory Name: [EMPLOYER SIGNATORY NAME]
-Title: [EMPLOYER SIGNATORY TITLE]
+Signatory Name: {employer_signatory_name}
+Title: {employer_signatory_title}
 Date: _______________
 
 **Employee**
 
 Signature: _______________
-Print Name: [EMPLOYEE NAME]
+Print Name: {employee_name}
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. Projected from the master employment offer letter for Texas; offer-letter structure benchmarked against the local Cooley GO and Orrick forms and public EDGAR examples recorded in the precedent audit sidecar. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-employment-offer-letter-texas](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-employment-offer-letter-texas) (version 0.5.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

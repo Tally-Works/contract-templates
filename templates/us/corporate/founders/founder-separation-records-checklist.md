@@ -19,9 +19,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-records-checklist
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements
-    repository (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders
-    rendered as [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-records-checklist); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -35,25 +33,29 @@ summary: >-
   experimental by its authors.)
 ---
 
-# Founder Separation Records Checklist
+# Founder Separation Records Certificate and Minute-Book Filing Checklist
 
-This certificate and checklist records that the executed instruments documenting the separation of [FOUNDER NAME] (the "Founder") from [COMPANY LEGAL NAME], a Delaware corporation (the "Company"), effective as of [SEPARATION DATE], have been assembled and filed in the Company's minute book.
+This certificate and checklist records that the executed instruments documenting the separation of {founder_name} (the "Founder") from {company_legal_name}, a Delaware corporation (the "Company"), effective as of {separation_date}, have been assembled and filed in the Company's minute book.
 
 ## Key Terms
 
-**Company:** [COMPANY LEGAL NAME]
+Company
+: {company_legal_name}
 
-**Founder:** [FOUNDER NAME]
+Founder
+: {founder_name}
 
-**Separation Date:** [SEPARATION DATE]
+Separation Date
+: {separation_date}
 
-**Minute-Book Location:** [MINUTE BOOK LOCATION]
+Minute-Book Location
+: {minute_book_location}
 
 ## Records Checklist
 
 ### Documents to File in the Minute Book
 
-The following executed instruments should be filed in the Company's minute book maintained at [MINUTE BOOK LOCATION]. Check each item as filed and note where an item is not applicable to this separation.
+The following executed instruments should be filed in the Company's minute book maintained at {minute_book_location}. Check each item as filed and note where an item is not applicable to this separation.
 
 - **1. Board written consent (DGCL § 141(f)).** The action by unanimous written consent of the board accepting the Founder's resignation, removing the Founder from any offices held, authorizing the share repurchase, and addressing the vacated board seat — signed by all directors and filed with the minutes as § 141(f) requires. — Filed: ______
 - **2. Founder resignation letter.** The Founder's dated written resignation from every officer and director position held, whose effective date starts the repurchase-option window under the Founder's Restricted Stock Purchase Agreement. — Filed: ______
@@ -67,18 +69,14 @@ The following executed instruments should be filed in the Company's minute book 
 
 ## Certification
 
-The undersigned officer of the Company hereby certifies that the records listed above have been assembled and filed in the Company's minute book maintained at [MINUTE BOOK LOCATION], and that this certificate and checklist may be filed with the minutes of the proceedings of the Board of Directors of the Company. Any copy, facsimile, .PDF, or other complete and reliable reproduction of this certificate may be used in lieu of the original for any purpose for which the original could be used.
+The undersigned officer of the Company hereby certifies that the records listed above have been assembled and filed in the Company's minute book maintained at {minute_book_location}, and that this certificate and checklist may be filed with the minutes of the proceedings of the Board of Directors of the Company. Any copy, facsimile, .PDF, or other complete and reliable reproduction of this certificate may be used in lieu of the original for any purpose for which the original could be used.
 
-Company: [COMPANY LEGAL NAME]
+Company: {company_legal_name}
 
 By: _______________
 
-Name: [CERTIFYING OFFICER NAME]
+Name: {certifying_officer_name}
 
-Title: [CERTIFYING OFFICER TITLE]
+Title: {certifying_officer_title}
 
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-records-checklist](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-records-checklist) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

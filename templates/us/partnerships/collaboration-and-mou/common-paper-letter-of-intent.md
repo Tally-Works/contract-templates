@@ -20,10 +20,7 @@ source:
   file: templates/us/partnerships/collaboration-and-mou/common-paper-letter-of-intent.docx
   retrieved: "2026-11-14"
   notes: >-
-    The document page at https://commonpaper.com/documents/letter-of-intent/ states "This document is free to use or
-    modify under CC BY 4.0". Text converted from the Google Doc Common Paper offers on that page (exported as docx, kept
-    under sources/); the help-text first page was removed, tables flattened to label/value lines, and clause headings
-    rendered as bold lead-ins. Wording unchanged.
+    Converted to Markdown from the publisher's own Word file (common-paper-letter-of-intent.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -35,25 +32,44 @@ summary: >-
   the document itself.
 ---
 
-# Common Paper Letter of Intent
+**Interpreting help text**
+
+[Yellow highlighted text in brackets] indicates a field or area where you can enter your own text or customizations.
+
+*[Gray highlighted, italicized text in brackets]* indicates information about how to use or complete a particular variable.
+
+**Optional details**
+
+The following sections are optional: Functionality, Fees, and Launch Date. If you’d like to include these details in the LOI, customize them as appropriate. If you do not want to include any of these details, delete the section(s) you wish to omit.
+
+**How to set up an agreement**
+
+1.  Review the agreement, including the linked Standard Terms.
+2.  Review each variable on the Cover Page and fill in your details. Don’t forget to enter your company’s information in the signature block at the end.
+3.  Delete any optional sections or details that do not apply to you. Remember to delete all Confidentiality options except for the one you’ll be using.
+4.  Delete all *[informational text]*.
+5.  Remove this first page.
+6.  Send to your counterparty for review and signature.
+
+## Letter of Intent
 
 This non-binding letter of intent ("**LOI**") expresses our mutual excitement and intention to work together as detailed below. Final details, terms, and conditions will be as mutually agreed in a separate, binding agreement ("**Definitive Agreement**"). This LOI is meant to assist our negotiation of the Definitive Agreement. As such, this LOI is non-binding and no liability nor obligation is intended to be created between either of us, except for the portion called Confidentiality. This LOI does not require either of us to enter into a Definitive Agreement nor does it preclude the Definitive Agreement from including additional provisions.
 
 Our current intentions are as follows:
 
-## Product
+## **Product**
 
 We, the Provider identified below, will make available [ enter name of the product ] ("**Product**") to you, the Customer identified below.
 
-## Functionality
+## **Functionality**
 
 The Product will [ description of what the Product will do ].
 
-## Fees
+## **Fees**
 
 You, the Customer, will pay us [ include description of fees ] for access to the Product.
 
-## Launch Date
+## **Launch Date**
 
 We expect the Product to be ready on or around [ anticipated access / launch date ].
 
@@ -69,7 +85,7 @@ We expect the Product to be ready on or around [ anticipated access / launch dat
 
 *Option 5. Incorporating an existing NDA but without explicit ability to share the LOI with investors or for M&A discussions]*
 
-## Confidentiality
+## **Confidentiality**
 
 *[Option 1 – Mutual]* We each have or may disclose information about our company that is confidential or proprietary in nature or that should be reasonably understood as confidential or proprietary due to its nature and the circumstances of its disclosure ("**Confidential Information**"). Neither of us will (a) use the other's Confidential Information; nor (b) disclose the other's Confidential Information to anyone else except as required by applicable law. In addition, we each will protect the other's Confidential Information using at least the same protections that we use for our own similar information but no less than a reasonable standard of care. However, Provider may share this LOI and its terms with prospective investors or in the context of a potential corporate merger or acquisition.
 
@@ -95,7 +111,3 @@ By signing this LOI, each party acknowledges their intent as outlined in the LOI
 **Legal Notice Address**
 
 **Date**
-
----
-
-Common Paper Letter of Intent, published by [Common Paper](https://commonpaper.com/documents/letter-of-intent/) and free to use or modify under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged; converted from the Google Doc version.

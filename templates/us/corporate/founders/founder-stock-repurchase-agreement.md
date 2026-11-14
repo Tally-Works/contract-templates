@@ -20,9 +20,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-stock-repurchase-agreement
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements
-    repository (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders
-    rendered as [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-stock-repurchase-agreement); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -36,41 +34,50 @@ summary: >-
   authors.)
 ---
 
-# Founder Stock Repurchase Agreement
+# Founder Stock Repurchase and Cancellation Agreement
 
-This Founder Stock Repurchase and Cancellation Agreement (this "Agreement") is entered into as of [CLOSING DATE] by and between [COMPANY LEGAL NAME], a Delaware corporation (the "Company"), and [FOUNDER NAME] (the "Founder").
+This Founder Stock Repurchase and Cancellation Agreement (this "Agreement") is entered into as of {closing_date} by and between {company_legal_name}, a Delaware corporation (the "Company"), and {founder_name} (the "Founder").
 
-**WHEREAS**, the Founder holds [SHARES REPURCHASED] of the Company's capital stock (the "Repurchased Shares"), which shares are subject to the Company's repurchase right under the Founder's [RSPA REFERENCE] (the "RSPA"); and
+**WHEREAS**, the Founder holds {shares_repurchased} of the Company's capital stock (the "Repurchased Shares"), which shares are subject to the Company's repurchase right under the Founder's {rspa_reference} (the "RSPA"); and
 
 **WHEREAS**, the Company and the Founder wish to consummate the repurchase and cancellation of the Repurchased Shares under the RSPA on the terms set forth below.
 
 ## Key Terms
 
-**Company:** [COMPANY LEGAL NAME]
+Company
+: {company_legal_name}
 
-**Founder:** [FOUNDER NAME]
+Founder
+: {founder_name}
 
-**Restricted Stock Purchase Agreement:** [RSPA REFERENCE]
+Restricted Stock Purchase Agreement
+: {rspa_reference}
 
-**Shares Repurchased:** [SHARES REPURCHASED]
+Shares Repurchased
+: {shares_repurchased}
 
-**Price per Share:** [REPURCHASE PRICE PER SHARE]
+Price per Share
+: {repurchase_price_per_share}
 
-**Aggregate Price:** [AGGREGATE PRICE]
+Aggregate Price
+: {aggregate_price}
 
-**Consideration:** [CONSIDERATION FORM]
+Consideration
+: {consideration_form}
 
-**Closing Date:** [CLOSING DATE]
+Closing Date
+: {closing_date}
 
-**Release Scope:** [RELEASE SCOPE]
+Release Scope
+: {release_scope}
 
 ## Terms
 
 ### Repurchase and Cancellation of Shares
 
-Effective as of [CLOSING DATE] (the "Closing Date"), the Founder hereby sells, assigns, and transfers to the Company, and the Company hereby repurchases from the Founder, the Repurchased Shares, being [SHARES REPURCHASED], at a repurchase price of [REPURCHASE PRICE PER SHARE] per share, for an aggregate repurchase price of [AGGREGATE PRICE] (the "Repurchase Price").
+Effective as of {closing_date} (the "Closing Date"), the Founder hereby sells, assigns, and transfers to the Company, and the Company hereby repurchases from the Founder, the Repurchased Shares, being {shares_repurchased}, at a repurchase price of {repurchase_price_per_share} per share, for an aggregate repurchase price of {aggregate_price} (the "Repurchase Price").
 
-The Company shall pay the Repurchase Price in the form of [CONSIDERATION FORM]. Upon payment or delivery of the Repurchase Price, all right, title, and interest of the Founder in and to the Repurchased Shares shall transfer to the Company free and clear of all liens and encumbrances, and the Founder shall cease to have any rights as a holder of the Repurchased Shares.
+The Company shall pay the Repurchase Price in the form of {consideration_form}. Upon payment or delivery of the Repurchase Price, all right, title, and interest of the Founder in and to the Repurchased Shares shall transfer to the Company free and clear of all liens and encumbrances, and the Founder shall cease to have any rights as a holder of the Repurchased Shares.
 
 The Company shall cancel or take possession of the certificate(s) (or make the corresponding book-entry adjustment for any uncertificated shares) representing the Repurchased Shares and shall update its stock ledger and capitalization records to reflect the repurchase and the disposition authorized by its board of directors.
 
@@ -82,7 +89,7 @@ The Founder represents and warrants to the Company that: (a) the Founder is the 
 
 ### Mutual Release of Claims
 
-In consideration of the mutual covenants in this Agreement, and effective as of the Closing Date, each of the Company and the Founder, on behalf of itself and its respective successors and assigns, hereby releases and forever discharges the other party, together with the other party's successors, assigns, affiliates, officers, directors, employees, agents, and representatives (collectively, the "Released Parties"), from any and all claims, demands, causes of action, and liabilities, whether known or unknown, arising on or before the Closing Date, within the scope described as [RELEASE SCOPE]. Each party releases only claims it holds in its own right (together with its successors and assigns); neither party purports to release claims belonging to any person who is not a party to this Agreement.
+In consideration of the mutual covenants in this Agreement, and effective as of the Closing Date, each of the Company and the Founder, on behalf of itself and its respective successors and assigns, hereby releases and forever discharges the other party, together with the other party's successors, assigns, affiliates, officers, directors, employees, agents, and representatives (collectively, the "Released Parties"), from any and all claims, demands, causes of action, and liabilities, whether known or unknown, arising on or before the Closing Date, within the scope described as {release_scope}. Each party releases only claims it holds in its own right (together with its successors and assigns); neither party purports to release claims belonging to any person who is not a party to this Agreement.
 
 This release does NOT release, waive, or affect: (a) any vested rights of the Founder, including any right to vested shares or previously earned compensation; (b) the Founder's right to indemnification and advancement of expenses under the Company's certificate of incorporation, bylaws, any indemnification agreement, or applicable law; (c) any rights of the Founder under any directors' and officers' liability insurance policy of the Company; (d) any rights of the Founder as a continuing holder of equity in the Company, to the extent the Founder retains any shares after the repurchase contemplated by this Agreement; and (e) any rights or obligations created by, or preserved under, this Agreement itself.
 
@@ -98,19 +105,15 @@ This release does NOT release, waive, or affect: (a) any vested rights of the Fo
 
 The parties have executed this Agreement as of the Closing Date.
 
-Company: [COMPANY LEGAL NAME]
+Company: {company_legal_name}
 
 By: _______________
-Name: [SIGNATORY NAME]
-Title: [SIGNATORY TITLE]
+Name: {signatory_name}
+Title: {signatory_title}
 Date: _______________
 
 **Founder**
 
 Signature: _______________
-Print Name: [FOUNDER NAME]
+Print Name: {founder_name}
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-stock-repurchase-agreement](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-stock-repurchase-agreement) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

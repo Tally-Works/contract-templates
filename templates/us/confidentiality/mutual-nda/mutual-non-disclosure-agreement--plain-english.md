@@ -20,9 +20,7 @@ source:
   url: https://advottic.com/templates/nda
   retrieved: "2026-11-14"
   notes: >-
-    Taken from data/templates.json in github.com/TechnoOptics/legal-data, whose README states "MIT-licensed for code, CC
-    BY 4.0 for data and template text". The publisher's context and warnings are kept as drafting notes. Wording
-    unchanged; {{tokens}} rendered as [BRACKETED] placeholders.
+    Text taken verbatim from the "body" field of data/templates.json in github.com/TechnoOptics/legal-data (README: CC BY 4.0 for template text), including its {{token}} placeholders; the publisher's separate "context" and "warnings" fields are not part of the template and are not included. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -34,27 +32,17 @@ summary: >-
   Lawyer-reviewed per the publisher (last reviewed 2026-06-08).
 ---
 
-# Mutual Non-Disclosure Agreement
+MUTUAL NON-DISCLOSURE AGREEMENT
 
-> **Drafting note:** Use a Non-Disclosure Agreement before any business conversation where one or both sides will share confidential information you do not want public: technical roadmaps, customer lists, source code, financial figures, unreleased products. This is a mutual NDA - it protects both sides. For a one-way NDA (one side sharing, the other receiving) you would strike the mutual language and identify which party is the Disclosing Party.
+This Mutual Non-Disclosure Agreement (the "Agreement") is entered into on {{Effective Date}} (the "Effective Date") by and between:
 
-> **Drafting note:** NDAs do not cover information that becomes public on its own, was already known to the receiving party, or that the receiving party develops independently.
->
-> **Drafting note:** NDAs typically have a fixed duration (1-5 years is common). Perpetual NDAs are hard to enforce.
->
-> **Drafting note:** Trade secrets get separate, stronger protection under the Defend Trade Secrets Act (federal) and state UTSA. An NDA is not a substitute for trade-secret hygiene.
->
-> **Drafting note:** NDAs cannot stop someone from reporting a crime, harassment, or a securities violation. Many states have explicit carveouts.
+{{Party A Name}}, a {{state of incorporation}} {{entity type, e.g. "limited liability company"}} located at {{address}} ("Party A"), and
 
-This Mutual Non-Disclosure Agreement (the "Agreement") is entered into on [EFFECTIVE DATE] (the "Effective Date") by and between:
-
-[PARTY A NAME], a [STATE OF INCORPORATION] [ENTITY TYPE, E.G. "LIMITED LIABILITY COMPANY"] located at [ADDRESS] ("Party A"), and
-
-[PARTY B NAME], a [STATE] [ENTITY TYPE] located at [ADDRESS] ("Party B").
+{{Party B Name}}, a {{state}} {{entity type}} located at {{address}} ("Party B").
 
 Each party may be referred to as a "Party" and collectively as the "Parties."
 
-1. PURPOSE. The Parties wish to explore a potential [DESCRIBE PURPOSE, E.G. "BUSINESS RELATIONSHIP INVOLVING A SOFTWARE LICENSING ARRANGEMENT"] (the "Purpose"). In connection with the Purpose, each Party may disclose to the other confidential information.
+1. PURPOSE. The Parties wish to explore a potential {{describe purpose, e.g. "business relationship involving a software licensing arrangement"}} (the "Purpose"). In connection with the Purpose, each Party may disclose to the other confidential information.
 
 2. CONFIDENTIAL INFORMATION. "Confidential Information" means any non-public information, in any form, that a Party identifies as confidential or that a reasonable person would understand to be confidential under the circumstances, including but not limited to: technical data, trade secrets, know-how, research, product plans, customer lists, software, source code, financial information, business strategies, and pricing.
 
@@ -62,7 +50,7 @@ Each party may be referred to as a "Party" and collectively as the "Parties."
 
 4. OBLIGATIONS. Each Party agrees to: (a) hold the other Party's Confidential Information in strict confidence; (b) use the Confidential Information solely for the Purpose; (c) limit disclosure to its employees, contractors, and advisors who have a need to know and are bound by confidentiality obligations at least as protective as those in this Agreement; and (d) protect the Confidential Information with at least the same degree of care it uses to protect its own confidential information, but no less than reasonable care.
 
-5. TERM. This Agreement begins on the Effective Date and continues for [DURATION, E.G. "THREE (3) YEARS"], after which the confidentiality obligations survive for an additional [DURATION, E.G. "TWO (2) YEARS"] from the date of last disclosure.
+5. TERM. This Agreement begins on the Effective Date and continues for {{duration, e.g. "three (3) years"}}, after which the confidentiality obligations survive for an additional {{duration, e.g. "two (2) years"}} from the date of last disclosure.
 
 6. RETURN OR DESTRUCTION. Upon written request, the receiving Party will promptly return or destroy all Confidential Information of the disclosing Party in its possession, except as required to be retained by law or its internal records-retention policies.
 
@@ -72,7 +60,7 @@ Each party may be referred to as a "Party" and collectively as the "Parties."
 
 9. NO WARRANTY. All Confidential Information is provided "AS IS." Neither Party makes any warranty about the accuracy or completeness of its Confidential Information.
 
-10. GOVERNING LAW. This Agreement is governed by the laws of the State of [STATE], without regard to its conflict-of-laws principles.
+10. GOVERNING LAW. This Agreement is governed by the laws of the State of {{state}}, without regard to its conflict-of-laws principles.
 
 11. INJUNCTIVE RELIEF. The Parties acknowledge that breach of this Agreement may cause irreparable harm and that the non-breaching Party is entitled to seek injunctive relief in addition to any other remedies available.
 
@@ -83,17 +71,13 @@ IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective
 PARTY A:
 
 By: ______________________________
-Name: [NAME]
-Title: [TITLE]
+Name: {{name}}
+Title: {{title}}
 Date: ____________
 
 PARTY B:
 
 By: ______________________________
-Name: [NAME]
-Title: [TITLE]
+Name: {{name}}
+Title: {{title}}
 Date: ____________
-
----
-
-From the [Advottic open legal data](https://github.com/TechnoOptics/legal-data) published by Techno Optics LLC under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for template text (reviewed 2026-06-08). Reproduced unchanged; template tokens rendered as [BRACKETED] placeholders.

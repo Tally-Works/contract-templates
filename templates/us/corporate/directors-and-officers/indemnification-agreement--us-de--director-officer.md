@@ -22,10 +22,7 @@ source:
   file: templates/us/corporate/directors-and-officers/indemnification-agreement--us-de--director-officer.docx
   retrieved: "2026-11-14"
   notes: >-
-    From General Legal's "Agent-Operated Company Formation Package" (general.legal/library states all templates are
-    released under CC0 1.0; the package page carries the same CC0 notice). Converted from the docx in the package zip
-    (kept under sources/); the drafting note at the top is General Legal's own, reformatted as a blockquote. Wording
-    unchanged.
+    Converted to Markdown from the publisher's own Word file (indemnification-agreement--us-de--director-officer.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -37,9 +34,7 @@ summary: >-
   documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.
 ---
 
-# Indemnification Agreement
-
-> **Drafting note (from General Legal):** Protects the company’s human director/officer to the fullest extent Delaware law allows — broader and more certain than the Bylaws alone. Use one agreement per indemnitee. Replace bracketed terms.
+***Drafting note (delete before use):*** *Protects the company’s human director/officer to the fullest extent Delaware law allows — broader and more certain than the Bylaws alone. Use one agreement per indemnitee. Replace bracketed terms.*
 
 **INDEMNIFICATION AGREEMENT**
 
@@ -92,7 +87,3 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 [INDEMNITEE NAME]
-
----
-
-Published by [General Legal](https://general.legal/library/agent-operated-company-formation-package) under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). General Legal asks that its credit footnote be kept when the template is reproduced, and it is.

@@ -21,9 +21,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-ip-confidentiality-confirmation
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements
-    repository (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders
-    rendered as [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-ip-confidentiality-confirmation); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -38,25 +36,29 @@ summary: >-
   marked experimental by its authors.)
 ---
 
-# Founder IP and Confidentiality Confirmation
+# Founder IP and Confidentiality Survival Confirmation
 
-This Confirmation is delivered by [FOUNDER NAME] (the "Founder") to [COMPANY LEGAL NAME], a Delaware corporation (the "Company"), in connection with the end of the Founder's service to the Company, effective [SEPARATION DATE] (the "Separation Date").
+This Confirmation is delivered by {founder_name} (the "Founder") to {company_legal_name}, a Delaware corporation (the "Company"), in connection with the end of the Founder's service to the Company, effective {separation_date} (the "Separation Date").
 
 ## Key Terms
 
-**Company:** [COMPANY LEGAL NAME]
+Company
+: {company_legal_name}
 
-**Founder:** [FOUNDER NAME]
+Founder
+: {founder_name}
 
-**CIIAA Reference:** [CIIAA REFERENCE]
+CIIAA Reference
+: {ciiaa_reference}
 
-**Separation Date:** [SEPARATION DATE]
+Separation Date
+: {separation_date}
 
 ## Confirmations
 
 ### Survival of the CIIAA
 
-The Founder confirms that the CIIAA — the [CIIAA REFERENCE] between the Founder and the Company — remains valid, binding, and in full force and effect notwithstanding the end of the Founder's service on the Separation Date. In particular, the Founder confirms that the confidentiality, non-disclosure, and invention-assignment obligations set forth in the CIIAA continue to apply according to their terms following the Separation Date, and that the Founder will continue to comply with them. This confirmation restates and acknowledges obligations that already exist under the CIIAA; it does not modify, expand, or extend them, except as stated under Protected Disclosures.
+The Founder confirms that the CIIAA — the {ciiaa_reference} between the Founder and the Company — remains valid, binding, and in full force and effect notwithstanding the end of the Founder's service on the Separation Date. In particular, the Founder confirms that the confidentiality, non-disclosure, and invention-assignment obligations set forth in the CIIAA continue to apply according to their terms following the Separation Date, and that the Founder will continue to comply with them. This confirmation restates and acknowledges obligations that already exist under the CIIAA; it does not modify, expand, or extend them, except as stated under Protected Disclosures.
 
 ### Return of Company Property and Access
 
@@ -81,16 +83,12 @@ The Founder has executed this Confirmation, and the Company has countersigned it
 **Founder**
 
 Signature: _______________
-Print Name: [FOUNDER NAME]
+Print Name: {founder_name}
 Date: _______________
 
-Company: [COMPANY LEGAL NAME]
+Company: {company_legal_name}
 
 By: _______________
-Name: [SIGNATORY NAME]
-Title: [SIGNATORY TITLE]
+Name: {signatory_name}
+Title: {signatory_title}
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-ip-confidentiality-confirmation](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-ip-confidentiality-confirmation) (version 0.2.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

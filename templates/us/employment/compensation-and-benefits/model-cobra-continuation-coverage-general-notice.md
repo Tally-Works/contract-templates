@@ -21,9 +21,7 @@ source:
   file: templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-general-notice.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted from the docx published on dol.gov (kept under sources/). Works of the United States Government are not
-    subject to copyright (17 U.S.C. 105). Wording unchanged; the Department's instructions and Paperwork Reduction Act
-    statement are kept at the top.
+    Converted to Markdown from the publisher's own Word file (model-cobra-continuation-coverage-general-notice.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: Public-Domain
 status: draft
 version: 1.0.0
@@ -35,7 +33,7 @@ summary: >-
   fills in the blanks.
 ---
 
-# Model COBRA Continuation Coverage General Notice
+## Model COBRA Continuation Coverage General Notice
 
 ## Instructions
 
@@ -112,19 +110,19 @@ COBRA continuation coverage is a temporary continuation of coverage that general
 
 There are also ways in which this 18-month period of COBRA continuation coverage can be extended:
 
-#### Disability extension of 18-month period of COBRA continuation coverage
+Disability extension of 18-month period of COBRA continuation coverage
 
 If you or anyone in your family covered under the Plan is determined by Social Security to be disabled and you notify the Plan Administrator in a timely fashion, you and your entire family may be entitled to get up to an additional 11 months of COBRA continuation coverage, for a maximum of 29 months. The disability would have to have started at some time before the 60th day of COBRA continuation coverage and must last at least until the end of the 18-month period of COBRA continuation coverage. [*Add description of any additional Plan procedures for this notice, including a description of any required information or documentation, the name of the appropriate party to whom notice must be sent, and the time period for giving notice.*]
 
-#### Second qualifying event extension of 18-month period of continuation coverage
+Second qualifying event extension of 18-month period of continuation coverage
 
 If your family experiences another qualifying event during the 18 months of COBRA continuation coverage, the spouse and dependent children in your family can get up to 18 additional months of COBRA continuation coverage, for a maximum of 36 months, if the Plan is properly notified about the second qualifying event. This extension may be available to the spouse and any dependent children getting COBRA continuation coverage if the employee or former employee dies; becomes entitled to Medicare benefits (under Part A, Part B, or both); gets divorced or legally separated; or if the dependent child stops being eligible under the Plan as a dependent child. This extension is only available if the second qualifying event would have caused the spouse or dependent child to lose coverage under the Plan had the first qualifying event not occurred.
 
-#### Are there other coverage options besides COBRA Continuation Coverage?
+Are there other coverage options besides COBRA Continuation Coverage?
 
 Yes. Instead of enrolling in COBRA continuation coverage, there may be other coverage options for you and your family through the Health Insurance Marketplace, Medicare, Medicaid, [Children’s Health Insurance Program (CHIP)](https://www.healthcare.gov/are-my-children-eligible-for-chip), or other group health plan coverage options (such as a spouse’s plan) through what is called a “special enrollment period.” Some of these options may cost less than COBRA continuation coverage. You can learn more about many of these options at [**www.healthcare.gov**](https://www.dol.gov/ebsa/www.healthcare.gov).
 
-#### Can I enroll in Medicare instead of COBRA continuation coverage after my group health plan coverage ends?
+Can I enroll in Medicare instead of COBRA continuation coverage after my group health plan coverage ends?
 
 In general, if you don’t enroll in Medicare Part A or B when you are first eligible because you are still employed, after the Medicare initial enrollment period, you have an 8-month special enrollment period[[1]](#footnote-2) to sign up for Medicare Part A or B, beginning on the earlier of
 
@@ -150,7 +148,3 @@ To protect your family’s rights, let the Plan Administrator know about any cha
 [*Enter name of the Plan and name (or position), address and phone number of party or parties from whom information about the Plan and COBRA continuation coverage can be obtained on request.*]
 
 1.  [https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start). [↑](#footnote-ref-2)
-
----
-
-Published by the U.S. Department of Labor, Employee Benefits Security Administration ([dol.gov](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra)). A work of the United States Government, in the public domain. Reproduced unchanged, including the Department's instructions page.

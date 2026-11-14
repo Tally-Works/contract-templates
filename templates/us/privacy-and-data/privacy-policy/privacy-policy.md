@@ -20,10 +20,7 @@ source:
   url: https://github.com/basecamp/policies/blob/master/privacy/index.md
   retrieved: "2026-11-14"
   notes: >-
-    From the Basecamp open-source policies repository, released under CC BY 4.0 with the request that adaptations carry
-    the line "Adapted from the Basecamp open-source policies / CC BY 4.0", which is included. Wording unchanged apart
-    from the title heading; a drafting note is added at the top. The repository is archived and the live policies are at
-    37signals.com/policies.
+    Text taken verbatim from https://github.com/basecamp/policies/blob/master/privacy/index.md (README: released under Creative Commons Attribution 4.0). The file's site front-matter is omitted; Basecamp's Jekyll variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -34,9 +31,7 @@ summary: >-
   secured, and the rights users have under GDPR and US state law.
 ---
 
-> **Drafting note:** This is 37signals' live policy as published in the Basecamp open-source policies repository, kept verbatim as an example of a plain-English privacy policy. Replace the company and product names, the dates, and the links with your own, and have the result reviewed for your jurisdiction.
-
-# Privacy Policy
+# Privacy policy
 
 *Last updated: April 20, 2023*
 
@@ -202,7 +197,3 @@ There are also a few ad hoc cases where EU personal data may be transferred to t
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@37signals.com](mailto:privacy@37signals.com) and we’ll be happy to try to answer them!
-
----
-
-Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The current versions live at [37signals.com/policies](https://37signals.com/policies).

@@ -20,9 +20,7 @@ source:
   url: https://commonpaper.com/standards/cloud-service-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken from the official Markdown in github.com/CommonPaper/CSA (Standard Terms Version 3.0). Wording unchanged;
-    HTML span markup stripped. Common Paper publishes all standard agreements under CC BY 4.0
-    (commonpaper.com/standards) and asks that the attribution line and link be kept, which they are.
+    Text taken verbatim from CSA.md in github.com/CommonPaper/CSA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -34,7 +32,7 @@ summary: >-
   these terms by reference. Version 3.0. Governing law and business terms are chosen on the cover page.
 ---
 
-# Common Paper Cloud Service Agreement
+# Cloud Service Agreement
 
 1. Service
     1. Access and Use.  During the Subscription Period and subject to the terms of this Agreement, Customer may (a) access and use the Cloud Service; and (b) copy and use the included Software and Documentation only as needed to access and use the Cloud Service, in each case, for its internal business purposes. If a Customer Affiliate enters a separate Order Form with Provider, the Customer’s Affiliate creates a separate agreement between Provider and that Affiliate, where Provider’s responsibility to the Affiliate is individual and separate from Customer and Customer is not responsible for its Affiliates’ agreement.
@@ -165,7 +163,3 @@ summary: >-
     31. **"Usage Data"** means data and information about the provision, use, and performance of the Product and related offerings based on Customer’s or User’s use of the Product.
     32. **"User"** means any individual who uses the Product on Customer’s behalf or through Customer’s account.
     33. **"Variable"** means a word or phrase that is highlighted and capitalized, such as Subscription Period or Governing Law.
-
----
-
-Common Paper Cloud Service Agreement Standard Terms Version 3.0, published by [Common Paper](https://commonpaper.com/standards/cloud-service-agreement/) and free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged.

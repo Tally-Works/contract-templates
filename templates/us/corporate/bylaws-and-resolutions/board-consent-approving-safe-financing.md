@@ -20,9 +20,7 @@ source:
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-consent-safe
   retrieved: "2026-11-14"
   notes: >-
-    Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository (metadata.yaml: license CC-BY-4.0,
-    allow_derivatives true). Changes by goHeather: {field} placeholders rendered as [BRACKETED] placeholders and
-    [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-consent-safe); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -33,13 +31,13 @@ summary: >-
   or more Simple Agreements for Future Equity (SAFEs). (OpenAgreements version 1.3, marked experimental by its authors.)
 ---
 
-# Board Consent Approving SAFE Financing
+# Board Consent for SAFE Financing
 
-The undersigned, constituting all of the members of the Board of Directors (the "Board") of [COMPANY NAME], a Delaware corporation (the "Company"), pursuant to Section 141(f) of the Delaware General Corporation Law, hereby adopt the following resolutions by written consent:
+The undersigned, constituting all of the members of the Board of Directors (the "Board") of {company_name}, a Delaware corporation (the "Company"), pursuant to Section 141(f) of the Delaware General Corporation Law, hereby adopt the following resolutions by written consent:
 
-This Action by Written Consent is effective as of [EFFECTIVE DATE].
+This Action by Written Consent is effective as of {effective_date}.
 
-**WHEREAS**, the Board believes it is in the best interests of the Company to enter into one or more Simple Agreements for Future Equity (each, a "SAFE", and together, the "SAFEs"), providing for the sale of rights to future shares of the Company's capital stock for an aggregate purchase amount of up to $[PURCHASE AMOUNT], in accordance with terms set forth therein.
+**WHEREAS**, the Board believes it is in the best interests of the Company to enter into one or more Simple Agreements for Future Equity (each, a "SAFE", and together, the "SAFEs"), providing for the sale of rights to future shares of the Company's capital stock for an aggregate purchase amount of up to ${purchase_amount}, in accordance with terms set forth therein.
 
 ## Resolutions
 
@@ -69,10 +67,6 @@ The undersigned have executed this Action by Written Consent as of the date set 
 
 Signature: _______________
 
-Print Name: [NAME]
+Print Name: {name}
 
-Date: [SIGNING DATE]
-
----
-
-Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-consent-safe](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-consent-safe) (version 1.3, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.
+Date: {signing_date}

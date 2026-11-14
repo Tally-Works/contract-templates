@@ -4,13 +4,13 @@
 
 Every template is a Markdown file with a Word (.docx) file of the same name beside it. "original" marks the publisher's own file; the others are generated from the Markdown.
 
-211 template(s). Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.
+222 template(s). Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.
 
 ## By jurisdiction
 
 | Jurisdiction | Templates |
 | --- | ---: |
-| United States (`us`) | 209 |
+| United States (`us`) | 220 |
 | Canada (`ca`) | 0 |
 | United Kingdom (`gb`) | 2 |
 | Ireland (`ie`) | 0 |
@@ -27,12 +27,12 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | --- | ---: |
 | Employment (`employment`) | 73 |
 | Contractors & Consultants (`contractors`) | 6 |
-| Confidentiality (`confidentiality`) | 9 |
-| Commercial (`commercial`) | 10 |
-| Technology (`technology`) | 22 |
+| Confidentiality (`confidentiality`) | 11 |
+| Commercial (`commercial`) | 12 |
+| Technology (`technology`) | 25 |
 | Intellectual Property (`intellectual-property`) | 7 |
-| Privacy & Data (`privacy-and-data`) | 26 |
-| Corporate (`corporate`) | 38 |
+| Privacy & Data (`privacy-and-data`) | 28 |
+| Corporate (`corporate`) | 40 |
 | Financing (`financing`) | 10 |
 | Real Estate (`real-estate`) | 2 |
 | Partnerships & Joint Ventures (`partnerships`) | 4 |
@@ -109,7 +109,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | [Employee Restrictive Covenant Agreement](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ok.md) | [docx](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ok.docx) | US-OK | agreement | draft | CC-BY-4.0 | non-compete, non-solicitation, restrictive-covenant, confidentiality, employee, oklahoma, openagreements |
 | [Employee Restrictive Covenant Agreement](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-or.md) | [docx](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-or.docx) | US-OR | agreement | draft | CC-BY-4.0 | non-compete, non-solicitation, restrictive-covenant, confidentiality, employee, oregon, openagreements |
 | [Employee Restrictive Covenant Agreement](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-pa.md) | [docx](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-pa.docx) | US-PA | agreement | draft | CC-BY-4.0 | non-compete, non-solicitation, restrictive-covenant, confidentiality, employee, pennsylvania, openagreements |
-| [Employee Restrictive Covenant Agreement](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-pr.md) | [docx](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-pr.docx) | US-PR | agreement | draft | CC-BY-4.0 | non-compete, non-solicitation, restrictive-covenant, confidentiality, employee, puerto-rico, openagreements |
+| [Employee Restrictive Covenant Agreement](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-pr.md) | [docx](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-pr.docx) (original) | US-PR | agreement | draft | CC-BY-4.0 | non-compete, non-solicitation, restrictive-covenant, confidentiality, employee, puerto-rico, openagreements |
 | [Employee Restrictive Covenant Agreement](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ri.md) | [docx](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ri.docx) | US-RI | agreement | draft | CC-BY-4.0 | non-compete, non-solicitation, restrictive-covenant, confidentiality, employee, rhode-island, openagreements |
 | [Employee Restrictive Covenant Agreement](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-sc.md) | [docx](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-sc.docx) | US-SC | agreement | draft | CC-BY-4.0 | non-compete, non-solicitation, restrictive-covenant, confidentiality, employee, south-carolina, openagreements |
 | [Employee Restrictive Covenant Agreement](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-sd.md) | [docx](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-sd.docx) | US-SD | agreement | draft | CC-BY-4.0 | non-compete, non-solicitation, restrictive-covenant, confidentiality, employee, south-dakota, openagreements |
@@ -182,7 +182,9 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Bonterms Mutual NDA Cover Page](templates/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page.md) | [docx](templates/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page.docx) (original) | US | form | draft | CC0-1.0 | cover-page, nda, mutual, bonterms |
 | [Bonterms Mutual NDA](templates/us/confidentiality/mutual-nda/bonterms-mutual-nda.md) | [docx](templates/us/confidentiality/mutual-nda/bonterms-mutual-nda.docx) | US | agreement | draft | CC-BY-4.0 | nda, mutual, confidentiality, standard-terms, cover-page, bonterms |
+| [Common Paper Mutual NDA Cover Page](templates/us/confidentiality/mutual-nda/common-paper-mutual-nda-cover-page.md) | [docx](templates/us/confidentiality/mutual-nda/common-paper-mutual-nda-cover-page.docx) | US | form | draft | CC-BY-4.0 | cover-page, nda, mutual, common-paper |
 | [Common Paper Mutual NDA](templates/us/confidentiality/mutual-nda/common-paper-mutual-nda.md) | [docx](templates/us/confidentiality/mutual-nda/common-paper-mutual-nda.docx) | US | agreement | draft | CC-BY-4.0 | nda, mutual, confidentiality, standard-terms, cover-page, common-paper |
 | [Confidentiality Agreement (short-form)](templates/us/confidentiality/mutual-nda/confidentiality-agreement--short-form.md) | [docx](templates/us/confidentiality/mutual-nda/confidentiality-agreement--short-form.docx) | US | agreement | draft | CC0-1.0 | nda, mutual, short-form, confidentiality, individual |
 | [Mutual Non-Disclosure Agreement (plain-english)](templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement--plain-english.md) | [docx](templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement--plain-english.docx) | US | agreement | draft | CC-BY-4.0 | nda, mutual, confidentiality, plain-english, advottic |
@@ -202,8 +204,10 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Bonterms Climate Addendum Cover Page](templates/us/commercial/master-services/bonterms-climate-addendum-cover-page.md) | [docx](templates/us/commercial/master-services/bonterms-climate-addendum-cover-page.docx) (original) | US | form | draft | CC0-1.0 | cover-page, climate, addendum, bonterms |
 | [Bonterms Climate Addendum](templates/us/commercial/master-services/bonterms-climate-addendum.md) | [docx](templates/us/commercial/master-services/bonterms-climate-addendum.docx) | US | schedule | draft | CC-BY-4.0 | climate, sustainability, esg, emissions, addendum, standard-terms, bonterms |
 | [Bonterms Professional Services Agreement](templates/us/commercial/master-services/bonterms-professional-services-agreement.md) | [docx](templates/us/commercial/master-services/bonterms-professional-services-agreement.docx) | US | agreement | draft | CC-BY-4.0 | professional-services, msa, statement-of-work, consulting, standard-terms, bonterms |
+| [Bonterms PSA Cover Page](templates/us/commercial/master-services/bonterms-psa-cover-page.md) | [docx](templates/us/commercial/master-services/bonterms-psa-cover-page.docx) (original) | US | form | draft | CC0-1.0 | cover-page, professional-services, psa, bonterms |
 | [Common Paper Professional Services Agreement](templates/us/commercial/master-services/common-paper-professional-services-agreement.md) | [docx](templates/us/commercial/master-services/common-paper-professional-services-agreement.docx) | US | agreement | draft | CC-BY-4.0 | professional-services, msa, statement-of-work, consulting, standard-terms, common-paper |
 | [Master Services Agreement](templates/us/commercial/master-services/master-services-agreement.md) | [docx](templates/us/commercial/master-services/master-services-agreement.docx) (original) | US | agreement | draft | CC0-1.0 | msa, services, software, platform, integration, statement-of-work |
 
@@ -234,7 +238,9 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Bonterms AI Addendum Cover Page](templates/us/technology/saas/bonterms-ai-addendum-cover-page.md) | [docx](templates/us/technology/saas/bonterms-ai-addendum-cover-page.docx) (original) | US | form | draft | CC0-1.0 | cover-page, ai, addendum, bonterms |
 | [Bonterms AI Addendum](templates/us/technology/saas/bonterms-ai-addendum.md) | [docx](templates/us/technology/saas/bonterms-ai-addendum.docx) | US | schedule | draft | CC-BY-4.0 | ai, machine-learning, training-data, addendum, saas, standard-terms, bonterms |
+| [Bonterms Cloud Terms Cover Page](templates/us/technology/saas/bonterms-cloud-terms-cover-page.md) | [docx](templates/us/technology/saas/bonterms-cloud-terms-cover-page.docx) (original) | US | form | draft | CC0-1.0 | cover-page, saas, cloud, key-terms, bonterms |
 | [Bonterms Cloud Terms Order Form](templates/us/technology/saas/bonterms-cloud-terms-order-form.md) | [docx](templates/us/technology/saas/bonterms-cloud-terms-order-form.docx) (original) | US | schedule | draft | CC0-1.0 | order-form, saas, subscription, fees, bonterms |
 | [Bonterms Cloud Terms](templates/us/technology/saas/bonterms-cloud-terms.md) | [docx](templates/us/technology/saas/bonterms-cloud-terms.docx) | US | agreement | draft | CC-BY-4.0 | saas, cloud, subscription, standard-terms, cover-page, bonterms |
 | [Common Paper AI Addendum](templates/us/technology/saas/common-paper-ai-addendum.md) | [docx](templates/us/technology/saas/common-paper-ai-addendum.docx) | US | schedule | draft | CC-BY-4.0 | ai, machine-learning, training-data, addendum, saas, standard-terms, common-paper |
@@ -250,6 +256,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Bonterms Software License Terms Cover Page](templates/us/technology/software-license/bonterms-software-license-terms-cover-page.md) | [docx](templates/us/technology/software-license/bonterms-software-license-terms-cover-page.docx) (original) | US | form | draft | CC0-1.0 | cover-page, software-license, key-terms, bonterms |
 | [Bonterms Software License Terms](templates/us/technology/software-license/bonterms-software-license-terms.md) | [docx](templates/us/technology/software-license/bonterms-software-license-terms.docx) | US | agreement | draft | CC-BY-4.0 | software-license, on-premise, standard-terms, cover-page, bonterms |
 | [Common Paper Software License Agreement](templates/us/technology/software-license/common-paper-software-license-agreement.md) | [docx](templates/us/technology/software-license/common-paper-software-license-agreement.docx) | US | agreement | draft | CC-BY-4.0 | software-license, on-premise, perpetual, subscription, standard-terms, common-paper |
 | [GitHub Pre-release License Terms](templates/us/technology/software-license/github-pre-release-license-terms.md) | [docx](templates/us/technology/software-license/github-pre-release-license-terms.docx) | US | agreement | draft | CC0-1.0 | beta, pre-release, preview, software-terms, github |
@@ -324,8 +331,10 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Bonterms BAA Cover Page](templates/us/privacy-and-data/data-processing/bonterms-baa-cover-page.md) | [docx](templates/us/privacy-and-data/data-processing/bonterms-baa-cover-page.docx) (original) | US | form | draft | CC0-1.0 | cover-page, baa, hipaa, bonterms |
 | [Bonterms Business Associate Agreement](templates/us/privacy-and-data/data-processing/bonterms-business-associate-agreement.md) | [docx](templates/us/privacy-and-data/data-processing/bonterms-business-associate-agreement.docx) | US | agreement | draft | CC-BY-4.0 | baa, hipaa, phi, healthcare, standard-terms, bonterms |
 | [Bonterms Data Protection Addendum](templates/us/privacy-and-data/data-processing/bonterms-data-protection-addendum.md) | [docx](templates/us/privacy-and-data/data-processing/bonterms-data-protection-addendum.docx) | US | agreement | draft | CC-BY-4.0 | dpa, gdpr, uk-gdpr, ccpa, privacy, processor, standard-terms, bonterms |
+| [Bonterms DPA Cover Page](templates/us/privacy-and-data/data-processing/bonterms-dpa-cover-page.md) | [docx](templates/us/privacy-and-data/data-processing/bonterms-dpa-cover-page.docx) (original) | US | form | draft | CC0-1.0 | cover-page, dpa, gdpr, processing-details, bonterms |
 | [Business Associate Agreement](templates/us/privacy-and-data/data-processing/business-associate-agreement.md) | [docx](templates/us/privacy-and-data/data-processing/business-associate-agreement.docx) (original) | US | agreement | draft | CC0-1.0 | baa, hipaa, phi, healthcare |
 | [Common Paper Business Associate Agreement](templates/us/privacy-and-data/data-processing/common-paper-business-associate-agreement.md) | [docx](templates/us/privacy-and-data/data-processing/common-paper-business-associate-agreement.docx) | US | agreement | draft | CC-BY-4.0 | baa, hipaa, phi, healthcare, standard-terms, common-paper |
 | [Common Paper Data Processing Agreement](templates/us/privacy-and-data/data-processing/common-paper-data-processing-agreement.md) | [docx](templates/us/privacy-and-data/data-processing/common-paper-data-processing-agreement.docx) | US | agreement | draft | CC-BY-4.0 | dpa, gdpr, ccpa, privacy, processor, standard-terms, common-paper |
@@ -368,7 +377,9 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | [Bloomberg Beta Series Seed Restated Certificate of Incorporation](templates/us/corporate/formation/bloomberg-beta-series-seed-restated-certificate-of-incorporation--us-de.md) | [docx](templates/us/corporate/formation/bloomberg-beta-series-seed-restated-certificate-of-incorporation--us-de.docx) | US-DE | charter | draft | CC-BY-3.0 | certificate-of-incorporation, charter, preferred-stock, series-seed, delaware, bloomberg-beta |
 | [Certificate of Formation (llc)](templates/us/corporate/formation/certificate-of-formation--us-de--llc.md) | [docx](templates/us/corporate/formation/certificate-of-formation--us-de--llc.docx) (original) | US-DE | charter | draft | CC0-1.0 | certificate-of-formation, llc, delaware, filing |
 | [Certificate of Incorporation (c-corp)](templates/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.md) | [docx](templates/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.docx) (original) | US-DE | charter | draft | CC0-1.0 | certificate-of-incorporation, charter, single-class, delaware, c-corp, filing |
-| [Company Formation Filing Instructions](templates/us/corporate/formation/company-formation-filing-instructions.md) | [docx](templates/us/corporate/formation/company-formation-filing-instructions.docx) | US | checklist | draft | CC0-1.0 | formation, checklist, delaware, home-state, ein, registered-agent, llc, c-corp |
+| [Delaware Filing Instructions](templates/us/corporate/formation/delaware-filing-instructions.md) | [docx](templates/us/corporate/formation/delaware-filing-instructions.docx) | US | checklist | draft | CC0-1.0 | formation, delaware, filing, division-of-corporations |
+| [Home State Filing Instructions](templates/us/corporate/formation/home-state-filing-instructions.md) | [docx](templates/us/corporate/formation/home-state-filing-instructions.docx) | US | checklist | draft | CC0-1.0 | formation, home-state, filing, foreign-qualification |
+| [How to File Your Agent-Operated Company](templates/us/corporate/formation/how-to-file-your-agent-operated-company.md) | [docx](templates/us/corporate/formation/how-to-file-your-agent-operated-company.docx) | US | checklist | draft | CC0-1.0 | formation, checklist, filing, ein, registered-agent, llc, c-corp |
 | [Series Seed Restated Certificate of Incorporation](templates/us/corporate/formation/series-seed-restated-certificate-of-incorporation--us-de.md) | [docx](templates/us/corporate/formation/series-seed-restated-certificate-of-incorporation--us-de.docx) | US-DE | charter | draft | CC0-1.0 | certificate-of-incorporation, charter, preferred-stock, seed, series-seed, delaware |
 
 **shareholders-and-operating** — Shareholder agreements, operating agreements and unanimous shareholder agreements.

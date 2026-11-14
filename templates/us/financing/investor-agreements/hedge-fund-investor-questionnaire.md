@@ -21,11 +21,7 @@ source:
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-investor-questionnaire
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors using selected provisions from identified public private investment fund
-    subscription documents filed with the SEC. The cited sources are not a representative market sample. Licensed under
-    CC BY 4.0. Taken from template.md in the OpenAgreements repository (metadata.yaml: license CC-BY-4.0,
-    allow_derivatives true). Changes by goHeather: {field} placeholders rendered as [BRACKETED] placeholders and
-    [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-investor-questionnaire); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -39,15 +35,15 @@ summary: >-
   with the Hedge Fund Subscription Agreement. (OpenAgreements version 0.1.0, marked experimental by its authors.)
 ---
 
-# Hedge Fund Investor Questionnaire
+# Investor Questionnaire
 
-[FUND NAME]
+{fund_name}
 
 ## Part A: Instructions and Investor Information
 
 ### Instructions
 
-This Questionnaire is part of the Subscription Agreement between [LIMITED PARTNER NAME], the Investor, and [FUND NAME], the Partnership, whose general partner is [GENERAL PARTNER NAME] and whose investment manager is [MANAGER NAME]. The General Partner will rely on the Investor's answers to determine whether the Investor may be admitted, whether the Partnership can continue to rely on its exemptions, and whether the Investor may participate in new issues. Answer each question on the basis of facts the Investor knows or can determine. Check each box that applies, attach additional pages if necessary, and notify the General Partner promptly if any answer ceases to be accurate.
+This Questionnaire is part of the Subscription Agreement between {limited_partner_name}, the Investor, and {fund_name}, the Partnership, whose general partner is {general_partner_name} and whose investment manager is {manager_name}. The General Partner will rely on the Investor's answers to determine whether the Investor may be admitted, whether the Partnership can continue to rely on its exemptions, and whether the Investor may participate in new issues. Answer each question on the basis of facts the Investor knows or can determine. Check each box that applies, attach additional pages if necessary, and notify the General Partner promptly if any answer ceases to be accurate.
 
 ### Investor Information
 
@@ -91,8 +87,8 @@ If no statement applies, describe the facts on which the Investor may otherwise 
 
 Check each statement that is true of the Investor. The General Partner uses these answers to determine whether the Investor is a qualified client under Rule 205-3(d)(1) under the Investment Advisers Act of 1940.
 
-- [ ] Immediately after its subscription, the Investor will have at least [QUALIFIED CLIENT AUM THRESHOLD] under the management of the Manager, including its investment in the Partnership.
-- [ ] Immediately before its subscription, the Investor has a net worth of more than [QUALIFIED CLIENT NET WORTH THRESHOLD], together with assets held jointly with a spouse in the case of a natural person, excluding the value of a natural person's primary residence and the related indebtedness as Rule 205-3(d)(1)(ii)(A) provides.
+- [ ] Immediately after its subscription, the Investor will have at least {qualified_client_aum_threshold} under the management of the Manager, including its investment in the Partnership.
+- [ ] Immediately before its subscription, the Investor has a net worth of more than {qualified_client_net_worth_threshold}, together with assets held jointly with a spouse in the case of a natural person, excluding the value of a natural person's primary residence and the related indebtedness as Rule 205-3(d)(1)(ii)(A) provides.
 - [ ] The Investor meets one of the statements under Qualified Purchaser Status below, and completes that section with the facts it asks for.
 - [ ] The Investor is a natural person who is an executive officer, director, trustee, or general partner of the Manager, or an employee of the Manager who participates in its investment activities and has done so, for the Manager or another company, for at least twelve months.
 
@@ -196,13 +192,9 @@ Is the Investor subject to the Freedom of Information Act, a state public record
 
 The Investor certifies that its answers in this Questionnaire are true, correct, and complete, agrees to notify the General Partner promptly if any answer ceases to be accurate, and acknowledges that the Partnership, the General Partner, and the Manager will rely on them.
 
-Investor: [LIMITED PARTNER NAME]
+Investor: {limited_partner_name}
 
 Signature: _______________
 Name: _______________
 Title: _______________
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors using selected provisions from identified public private investment fund subscription documents filed with the SEC. The cited sources are not a representative market sample. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-investor-questionnaire](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-investor-questionnaire) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

@@ -19,24 +19,18 @@ source:
   file: templates/us/privacy-and-data/acceptable-use/bonterms-acceptable-use-policy.docx
   retrieved: "2026-11-14"
   notes: >-
-    The Bonterms page https://bonterms.com/resources/acceptable-use-policy-version-1-0 loads its download link with a
-    script, so the docx was taken from the unmodified copy bundled in github.com/open-legal-products/mike
-    (frontend/public/preset-templates/Bonterms), which records publisher files as unchanged. The docx's own footer reads
-    "Made available under CC0 1.0 - you may freely use, modify or distribute without attribution", which is the licence
-    recorded here. Docx kept under sources/; wording unchanged; Bonterms' own "Example" note kept as a drafting note.
+    Converted to Markdown from the publisher's own Word file (bonterms-acceptable-use-policy.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/technology/saas/bonterms-cloud-terms.md
 summary: Example acceptable use policy attachment for the Bonterms Cloud Terms.
 ---
 
-# Bonterms Acceptable Use Policy
-
-> **Drafting note:** This acceptable use policy attaches to the Bonterms Cloud Terms, which are in this library at templates/us/technology/saas/bonterms-cloud-terms.md.
-
-> **Drafting note (from Bonterms):** Example. Create your own version and remove this note and the footer before using.
+[Example: Create your own version and remove this note and the footer before using]
 
 # Acceptable Use Policy Attachment
 
@@ -65,7 +59,3 @@ This Acceptable Use Policy (“**AUP**”) sets forth rules that apply to the us
 We may monitor compliance with this AUP and investigate any violations. If we determine that you or your content violates this AUP, we may remove or suspend access to your content or invoke our suspension rights under the Agreement (see Section 13 of the Bonterms Cloud Terms (Suspension)).
 
 We may report any activity that we suspect violates any law or regulation to law enforcement officials, regulators or other appropriate third parties, and cooperate with them to investigate and prosecute illegal conduct. Our reporting may include disclosing information related to the violation of this AUP.
-
----
-
-Published by [Bonterms](https://bonterms.com/resources/acceptable-use-policy-version-1-0) as an example document and dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) on that page. Converted from the docx; wording unchanged.

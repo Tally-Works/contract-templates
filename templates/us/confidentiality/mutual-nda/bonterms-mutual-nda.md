@@ -20,71 +20,20 @@ source:
   url: https://bonterms.com/standard/bonterms-mutual-nda-v1
   retrieved: "2026-11-14"
   notes: >-
-    Converted from the HTML published at https://bonterms.com/standard/bonterms-mutual-nda-v1. Wording unchanged; the
-    copyright and "Free to use under CC BY 4.0" footer is kept. Bonterms states at bonterms.com/download-center that its
-    Standard Agreements are released under CC BY 4.0 unless otherwise noted; this one carries the CC BY 4.0 footer.
-    The example cover page published by Bonterms under CC0 at https://bonterms.com/resources/mutual-nda-cover-page-example is merged in above the standard terms so the
-    template is complete on its own.
+    Converted to Markdown from the HTML the publisher serves at https://bonterms.com/standard/bonterms-mutual-nda-v1; page navigation and site chrome removed, nothing else changed. The publisher's own footer and notices are kept. Bonterms states at bonterms.com/download-center that its Standard Agreements are released under CC BY 4.0 unless otherwise noted; this one carries the CC BY 4.0 footer.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page.md
 summary: >-
   Two-way NDA in cover-page form, drafted by a working group of in-house and law-firm lawyers as neutral terms both
   sides can accept without negotiation. Version 1.0. Governing law and business terms are chosen on the cover page.
 ---
 
-# Bonterms Mutual NDA
-
-> **Drafting note:** This file is complete on its own. Fill in and sign the cover page below; it incorporates the standard terms that follow it. Bonterms publishes the cover page as a CC0 example and the standard terms under CC BY 4.0.
-
-## Cover Page
-
-**Cover Page
-for Bonterms Mutual NDA**
-
-**By executing this Cover Page, the parties enter into the Bonterms Mutual NDA (Version 1.0) (available at [https://bonterms.com/forms/bonterms-mutual-nda-v1/](https://bonterms.com/forms/bonterms-mutual-nda-v1/)). A reference copy may be attached. This Cover Page controls over directly conflicting provisions of the Bonterms Mutual NDA. Capitalized terms not defined in this Cover Page have the meanings given in the Bonterms Mutual NDA.**
-
-**Key Terms**
-
-**Purpose**
-***[How Confidential Information may be used]***
-
-**Effective Date**
-***[Fill in]***
-
-**Term of NDA**
-***[Agreement term and disclosure period]***
-
-**Confidentiality Period**
-***[How long Confidential Information is protected]***
-
-**Governing Law**
-***[Fill in]***
-
-**Courts**
-***[Fill in]***
-
-**Additional Terms**
-
-**The following additions to or modifications of the Bonterms Mutual NDA are agreed by the parties and control in the event of any conflicts:**
-
-**Signatures**
-
-**Agreed to as of the Effective Date by each party’s authorized representative:**
-
-**Party Name:Signature: Name and Title:Company: Notice Address *(choose one or both)*:☐ Email:☐ Postal mail:Date:**
-**Party Name**:
-Signature:
-Name and Title:
-Company:
-Notice Address *(choose one or both)*:
-☐ Email:
-☐ Postal mail:
-Date:
-
-## Standard Terms
+# Bonterms Mutual NDA (Version 1.0)
 
 **1\. Introduction.** This Mutual Non-Disclosure Agreement (**“NDA”**) is designed to allow each party (**“Discloser”**) to disclose its Confidential Information to the other party (**“Recipient”**). To use this NDA, the parties complete and sign a Bonterms Cover Page or other compatible addendum incorporating this NDA (**“Cover Page”**). Each party is identified on the Cover Page and capitalized terms have the meanings given on the Cover Page or below.
 

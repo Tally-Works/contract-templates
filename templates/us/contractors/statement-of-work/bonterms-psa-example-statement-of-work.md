@@ -19,24 +19,18 @@ source:
   file: templates/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.docx
   retrieved: "2026-11-14"
   notes: >-
-    The Bonterms page https://bonterms.com/resources/psa-example-sow loads its download link with a script, so the docx
-    was taken from the unmodified copy bundled in github.com/open-legal-products/mike
-    (frontend/public/preset-templates/Bonterms), which records publisher files as unchanged. The docx's own footer reads
-    "Made available under CC0 1.0 - you may freely use, modify or distribute without attribution", which is the licence
-    recorded here. Docx kept under sources/; wording unchanged; Bonterms' own "Example" note kept as a drafting note.
+    Converted to Markdown from the publisher's own Word file (bonterms-psa-example-statement-of-work.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/commercial/master-services/bonterms-professional-services-agreement.md
 summary: Example statement of work under the Bonterms Professional Services Agreement.
 ---
 
-# Bonterms PSA Example Statement of Work
-
-> **Drafting note:** This statement of work attaches to the Bonterms Professional Services Agreement, which is in this library at templates/us/commercial/master-services/bonterms-professional-services-agreement.md.
-
-> **Drafting note (from Bonterms):** Example. Create your own version and remove this note and the footer before using.
+[Example: Create your own version and remove this note and the footer before using]
 
 **Professional Services Agreement (PSA)STATEMENT OF WORK
 **
@@ -147,7 +141,3 @@ Address *(choose one or both)*:
 ☐ Email:
 ☐ Postal mail:
 Date:
-
----
-
-Published by [Bonterms](https://bonterms.com/resources/psa-example-sow) as an example document and dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) on that page. Converted from the docx; wording unchanged.

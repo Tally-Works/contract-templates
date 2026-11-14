@@ -19,8 +19,7 @@ source:
   url: https://github.com/papertrail/legal-docs/blob/master/employee-nda.md
   retrieved: "2026-11-14"
   notes: >-
-    From github.com/papertrail/legal-docs, whose README states "Public domain under Creative Commons 0. No rights
-    reserved." Wording unchanged; the company-name heading was removed and the title reformatted.
+    Text taken verbatim from https://github.com/papertrail/legal-docs/blob/master/employee-nda.md (README: "Public domain under Creative Commons 0"). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -31,7 +30,9 @@ summary: >-
   clients' confidential information, return of materials and remedies.
 ---
 
-# Employee Confidentiality and Non-Disclosure Agreement
+## [Company Name]
+
+### EMPLOYEE CONFIDENTIALITY AND NON DISCLOSURE AGREEMENT
 
 This Employee Confidentiality and Non-Disclosure Agreement (the "Agreement"), executed this ____ day of _____________, 20____, but effective for all purposes on the Effective Date, is entered into, by and among "[COMPANY NAME]" ("[AKA]"), a [state and entity type], and ____________________________________, an individual and Employee of "[AKA]" ("Employee").
 
@@ -200,7 +201,3 @@ Employee
   Name: ______________________________________________
 
   Signature: _________________________________________
-
----
-
-Published by [Papertrail](https://github.com/papertrail/legal-docs) and dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Wording unchanged; headings reformatted.

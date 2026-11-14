@@ -19,10 +19,7 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-cookies.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-cookies.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -30,10 +27,6 @@ last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: Cookie policy listing the cookies a platform sets, their purposes and durations, and how users can control them.
 ---
-
-# GitHub Cookies Policy
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English cookies policy. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
 
 # Cookies
 
@@ -140,7 +133,3 @@ GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 [Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no) | `b` | This cookie collects anonymous data related to the visitor's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The registered data is used to categorize the users' interest and demographic profiles with the purpose of customizing the website content depending on the visitor. | One year
 
 (*) The expiration dates for the cookies listed above generally apply on a rolling basis.
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-cookies.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

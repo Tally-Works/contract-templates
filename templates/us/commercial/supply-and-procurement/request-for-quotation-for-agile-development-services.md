@@ -20,9 +20,7 @@ source:
   url: https://github.com/18F/acq-templates/blob/master/agile_bpa/rfq.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/18F/acq-templates, whose LICENSE.md states the project is in the public domain within
-    the United States with a CC0 1.0 waiver worldwide. Wording unchanged; {{ }} template variables rendered as
-    placeholders.
+    Text taken verbatim from https://github.com/18F/acq-templates/blob/master/agile_bpa/rfq.md (LICENSE.md: public domain in the United States, CC0 1.0 worldwide); 18F's {{ }} template variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: Public-Domain
 status: draft
 version: 1.0.0
@@ -33,19 +31,19 @@ summary: >-
     purchase agreement.
 ---
 
-# Request for Quotation for Agile Development Services
+REQUEST FOR QUOTATION (RFQ)
+===========================
 
-> **Drafting note:** A U.S. General Services Administration (18F) procurement template, written for federal buyers. Useful as a model for performance-based services contracting; the agency-specific references will need replacing.
+{{ buy.name }}
+=====================================================================================
 
-**[NAME]**
-
-**From:** [NAME], Contracting Specialist, [NAME]  
+**From:** {{ buy.contractingSpecialist.name }}, Contracting Specialist, {{ buy.contractingSpecialist.office.name }}  
 **Subject:** Request for Quotation (RFQ)
 
-**Project Title:** [NAME]
+**Project Title:** {{ buy.name }}
 
-**Date:** [ISSUE DATE]
-**Reply By:** [REPLIES DUE BY]
+**Date:** {{ buy.issueDate }}
+**Reply By:** {{ buy.repliesDueBy }}
 
 **To:** Agile Blanket Purchase Agreement (aBPA) Pool 3 Holders
 
@@ -73,8 +71,8 @@ offers. Therefore, it is critical that you are fully responsive to the
 solicitation and submit your best offer initially.
 
 Questions or comments regarding this RFQ shall be submitted as issues
-within the GitHub repository at *[GITHUB REPOSITORY]* no
-later than [QUESTIONS DUE BY], to allow the Government
+within the GitHub repository at *{{ buy.githubRepository }}* no
+later than {{ buy.questionsDueBy }}, to allow the Government
 sufficient time to respond. All questions and comments will be publicly
 available. Please subscribe to the repository if your firm would like
 updates about changes and comments. Questions or comments received after
@@ -107,12 +105,12 @@ current. Failure to be registered or have an active account will result
 in a delay in the award or no award.
 
 **3. Period of Performance.** The Period of Performance (POP) includes a
-base period of [BASE PERIOD LENGTH], with [OPTION PERIODS]
-additional option periods, each [OPTION PERIOD LENGTH] in duration. The
+base period of {{ buy.basePeriodLength }}, with {{ buy.optionPeriods }}
+additional option periods, each {{ buy.optionPeriodLength }} in duration. The
 POP is expected to begin within 10 days after award. A contingency period of up
 to 6 months is included via FAR 52.217-8, Option to Extend Services.
 
-**4. Type of Contract.** The Government contemplates award of a [CONTRACT TYPE] order.
+**4. Type of Contract.** The Government contemplates award of a {{ buy.contractType }} order.
 
 **5. Special Instructions.**
 
@@ -288,7 +286,8 @@ Note that Price Quotation will not be reviewed prior to Oral Interview.
 
 **7. Oral Interview.** Each offeror will be provided the questions, via e-mail, approximately 60 minutes prior to their Oral Presentation. The Government is much more interested in the informational content of the offeror’s answers rather than the particular style or technique used in delivering the answers. The Government may take notes during the presentation at its discretion and exclusive right and property, and may use such notes in the evaluation. No copies will be provided to the offeror.
 
-### Schedule and Agenda for Oral Presentations:
+Schedule and Agenda for Oral Presentations:
+-------------------------------------------
 
 **Agenda Item** | **Time Allocated**
 --------------- | ----------------
@@ -552,7 +551,3 @@ contract in accordance with 48 CFR 517.207.
 1.  PWS
 1.  PWS - QASP
 1.  Non Disclosure Agreement
-
----
-
-From [18F acquisition templates](https://github.com/18F/acq-templates/blob/master/agile_bpa/rfq.md). As a work of the United States Government it is in the public domain, and 18F additionally waives rights worldwide under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged; template variables rendered as [BRACKETED] placeholders.

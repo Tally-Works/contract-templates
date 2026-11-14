@@ -20,10 +20,7 @@ source:
   file: templates/us/corporate/bylaws-and-resolutions/stockholder-consent--us-de.docx
   retrieved: "2026-11-14"
   notes: >-
-    From General Legal's "Agent-Operated Company Formation Package" (general.legal/library states all templates are
-    released under CC0 1.0; the package page carries the same CC0 notice). Converted from the docx in the package zip
-    (kept under sources/); the drafting note at the top is General Legal's own, reformatted as a blockquote. Wording
-    unchanged.
+    Converted to Markdown from the publisher's own Word file (stockholder-consent--us-de.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -35,9 +32,7 @@ summary: >-
   Delaware forms apart from the AI-governance provisions, which can be removed.
 ---
 
-# Stockholder Consent
-
-> **Drafting note (from General Legal):** A slim written consent of the sole stockholder, adopted alongside the Board’s Organizational Resolutions. Its main job is stockholder approval of the Indemnification Agreement with the sole director (a self-interested transaction best ratified by stockholders under DGCL 144) and ratification of the initial Board. Replace bracketed terms.
+***Drafting note (delete before use):*** *A slim written consent of the sole stockholder, adopted alongside the Board’s Organizational Resolutions. Its main job is stockholder approval of the Indemnification Agreement with the sole director (a self-interested transaction best ratified by stockholders under DGCL 144) and ratification of the initial Board. Replace bracketed terms.*
 
 **ACTION BY WRITTEN CONSENT**
 
@@ -72,7 +67,3 @@ This consent may be executed by electronic signature and shall be filed with the
 Form of Indemnification Agreement
 
 [Attached]
-
----
-
-Published by [General Legal](https://general.legal/library/agent-operated-company-formation-package) under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). General Legal asks that its credit footnote be kept when the template is reproduced, and it is.

@@ -21,9 +21,7 @@ source:
   url: https://commonpaper.com/standards/data-processing-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken from the official Markdown in github.com/CommonPaper/DPA. Wording unchanged; HTML span markup stripped.
-    Common Paper publishes all standard agreements under CC BY 4.0 (commonpaper.com/standards) and asks that the
-    attribution line and link be kept, which they are.
+    Text taken verbatim from DPA.md in github.com/CommonPaper/DPA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -35,7 +33,7 @@ summary: >-
   are chosen on the cover page.
 ---
 
-# Common Paper Data Processing Agreement
+# Data Processing Agreement
 
 1. Processor and Subprocessor Relationships
 
@@ -45,7 +43,7 @@ summary: >-
 
 2. Processing
 
-    1. Processing Details.  Annex I(B) on the Cover Page describes the subject matter, nature, purpose, and duration of this Processing, as well as the Categories of Personal Data collected and Categories of Data Subjects.
+    1. Processing Details.  Annex I(B) on the Cover Page describes the subject matter, nature, purpose, and duration of this Processing, as well as the Categories of Personal Data collected and Categories of Data Subjects.  
 
     2. Processing Instructions.  Customer instructs Provider to Process Customer Personal Data: (a) to provide and maintain the Service; (b) as may be further specified through Customer’s use of the Service; (c) as documented in the Agreement; and (d) as documented in any other written instructions given by Customer and acknowledged by Provider about Processing Customer Personal Data under this DPA. Provider will abide by these instructions unless prohibited from doing so by Applicable Laws. Provider will immediately inform Customer if it is unable to follow the Processing instructions. Customer has given and will only give instructions that comply with Applicable Laws.
 
@@ -75,7 +73,7 @@ summary: >-
 
         b. Module Three (Processor to Sub-Processor) of the EEA SCCs apply when Customer is a Processor and Provider is Processing Customer Personal Data on behalf of Customer as a Subprocessor.
 
-        c. For each module, the following applies (when applicable):
+        c. For each module, the following applies (when applicable):    
 
             i. The optional docking clause in Clause 7 does not apply;
 
@@ -186,7 +184,3 @@ summary: >-
     19. **"UK GDPR"** means European Union Regulation 2016/679 as implemented by section 3 of the United Kingdom’s European Union (Withdrawal) Act of 2018 in the United Kingdom.
 
     20. **"UK Addendum"** means the international data transfer addendum to the EEA SCCs issued by the Information Commissioner for Parties making Restricted Transfers under S119A(1) Data Protection Act 2018.
-
----
-
-Common Paper Data Processing Agreement Standard Terms, published by [Common Paper](https://commonpaper.com/standards/data-processing-agreement/) and free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged.

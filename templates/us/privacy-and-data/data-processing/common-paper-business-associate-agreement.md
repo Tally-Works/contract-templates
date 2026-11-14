@@ -20,9 +20,7 @@ source:
   url: https://commonpaper.com/standards/business-associate-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken from the official Markdown in github.com/CommonPaper/BAA (Standard Terms Version 1.0). Wording unchanged;
-    HTML span markup stripped. Common Paper publishes all standard agreements under CC BY 4.0
-    (commonpaper.com/standards) and asks that the attribution line and link be kept, which they are.
+    Text taken verbatim from BAA.md in github.com/CommonPaper/BAA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -34,7 +32,7 @@ summary: >-
   page.
 ---
 
-# Common Paper Business Associate Agreement
+# Business Associate Agreement
 
 1. Business Associate Obligations
     1. Obligations and Restrictions.  Provider may not use or disclose PHI other than as described in this BAA, as permitted under the Privacy Rule, or as otherwise required by applicable law.
@@ -87,7 +85,3 @@ summary: >-
     16. **"Services"** means the products and services provided by Provider under the Agreement.
     17. **"Subcontractor"** means a third party to whom Provider provides PHI under this BAA.
     18. **"Variable"** means a word or phrase in the BAA Standard Terms that is highlighted and capitalized, such as Limitations.
-
----
-
-Common Paper Business Associate Agreement Standard Terms Version 1.0, published by [Common Paper](https://commonpaper.com/standards/business-associate-agreement/) and free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged.

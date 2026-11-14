@@ -19,9 +19,7 @@ source:
   url: https://github.com/seriesseed/equity
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/seriesseed/equity ("Series Seed - Restated Certificate of Incorporation.md"). The
-    repository README states "Series Seed is open sourced under CC0". Wording unchanged apart from the title heading;
-    see RELEASENOTES.md in the source repository for the document version.
+    Text taken verbatim from "Series Seed - Restated Certificate of Incorporation.md" in github.com/seriesseed/equity (README: "Series Seed is open sourced under CC0"). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -34,7 +32,7 @@ summary: >-
 
 [Corporation Name in All Caps]
 
-# Series Seed Restated Certificate of Incorporation
+# RESTATED CERTIFICATE OF INCORPORATION
 
 (Pursuant to Sections 242 and 245 of the
 General Corporation Law of the State of Delaware)
@@ -275,7 +273,3 @@ Any amendment, repeal, or modification of the foregoing provisions of this Artic
 ## ARTICLE X:  CORPORATE OPPORTUNITIES.
 
 The Corporation renounces any interest or expectancy of the Corporation in, or in being offered an opportunity to participate in, or in being informed about, an Excluded Opportunity.  "Excluded Opportunity" means any matter, transaction or interest that is presented to, or acquired, created or developed by, or which otherwise comes into the possession of, (i) any director of the Corporation who is not an employee of the Corporation or any of its subsidiaries, or (ii) any holder of Preferred Stock or any affiliate, partner, member, director, stockholder, employee, agent or other related person of any such holder, other than someone who is an employee of the Corporation or any of its subsidiaries (a "Covered Person"), unless such matter, transaction or interest is presented to, or acquired, created or developed by, or otherwise comes into the possession of, a Covered Person expressly and solely in such Covered Person's capacity as a director of the Corporation.
-
----
-
-From the [Series Seed documents](https://github.com/seriesseed/equity) (Fenwick & West LLP), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Wording unchanged apart from the title line.

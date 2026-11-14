@@ -19,10 +19,7 @@ source:
   url: https://github.com/basecamp/policies/blob/master/refund/index.md
   retrieved: "2026-11-14"
   notes: >-
-    From the Basecamp open-source policies repository, released under CC BY 4.0 with the request that adaptations carry
-    the line "Adapted from the Basecamp open-source policies / CC BY 4.0", which is included. Wording unchanged apart
-    from the title heading; a drafting note is added at the top. The repository is archived and the live policies are at
-    37signals.com/policies.
+    Text taken verbatim from https://github.com/basecamp/policies/blob/master/refund/index.md (README: released under Creative Commons Attribution 4.0). The file's site front-matter is omitted; Basecamp's Jekyll variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -31,11 +28,9 @@ reviewed_by: ""
 summary: "Customer-friendly refund policy for a subscription product: when refunds are given, how to ask, and the exceptions."
 ---
 
-> **Drafting note:** This is 37signals' live policy as published in the Basecamp open-source policies repository, kept verbatim as an example of a plain-English refund policy. Replace the company and product names, the dates, and the links with your own, and have the result reviewed for your jurisdiction.
+# A fair refund policy.
 
-# Refund Policy
-
-Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you’re ever unhappy with our products* for any reason, just contact [our support team]([SUPPORT EMAIL ADDRESS]) and we'll take care of you.
+Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you’re ever unhappy with our products* for any reason, just contact [our support team]({{ site.email_support }}) and we'll take care of you.
 
 ## Examples of full refunds we’d grant.
 
@@ -51,10 +46,6 @@ Bad refund policies are infuriating. You feel like the company is just trying to
 
 ## Get in touch
 
-At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note]([SUPPORT EMAIL ADDRESS]), tell us what's up, and we'll work with you to make sure you’re happy.
+At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note]({{ site.email_support }}), tell us what's up, and we'll work with you to make sure you’re happy.
 
 **This policy applies to any product created and owned by 37signals LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List. There are [some nuances with HEY](hey/index.md) because its subscriptions are on an annual basis only.*
-
----
-
-Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The current versions live at [37signals.com/policies](https://37signals.com/policies).

@@ -21,9 +21,7 @@ source:
   url: https://github.com/Bloomberg-Beta/Investment-Documents
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/Bloomberg-Beta/Investment-Documents. The README states the documents are published by
-    Bloomberg Beta under Creative Commons Attribution 3.0 Unported. Wording unchanged apart from the title heading;
-    Bloomberg Beta's own name appears in the text as the investor and should be replaced.
+    Text taken verbatim from "01-Series Seed/Stock Investment Agreement.md" in github.com/Bloomberg-Beta/Investment-Documents (README: published under Creative Commons Attribution 3.0 Unported). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-3.0
 status: draft
 version: 1.0.0
@@ -32,7 +30,7 @@ reviewed_by: ""
 summary: Bloomberg Beta's variant of the Series Seed preferred stock investment agreement.
 ---
 
-# Bloomberg Beta Series Seed Stock Investment Agreement
+# [NAME OF COMPANY] SERIES SEED PREFERRED STOCK INVESTMENT AGREEMENT
 
 This Series Seed Preferred Stock Investment Agreement (this “*Agreement*”) is dated as of the Agreement Date by and among the Company, the Purchasers and the Key Holders.
 
@@ -339,7 +337,3 @@ Title: ______________
 ## EXHIBIT D - DISCLOSURE SCHEDULE
 
 This Disclosure Schedule (this “*Disclosure Schedule*”) is delivered by the Company in connection with the sale of shares of the Company’s Series Seed Preferred Stock on or about the Agreement Date by the Company. This Disclosure Schedule is arranged in sections corresponding to the numbered and lettered sections contained in *Exhibit B* of the Agreement, and the disclosures in any section of this Disclosure Schedule qualify other sections in *Exhibit B* of the Agreement to the extent it is reasonably apparent from a reading of the disclosure that such disclosure is applicable to such other sections. Where any representation or warranty is limited or qualified by the materiality of the matters to which the representation or warranty are given, the inclusion of any matter in this Disclosure Schedule does not constitute an admission by the Company that such matter is material. Unless otherwise defined herein, any capitalized terms in this Disclosure Schedule have the same meanings assigned to those terms in the Agreement. Nothing in this Disclosure Schedule constitutes an admission of any liability or obligation of the Company to any third party, or an admission against the Company’s interests.
-
----
-
-Published by [Bloomberg Beta](https://github.com/Bloomberg-Beta/Investment-Documents) under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Reproduced unchanged.

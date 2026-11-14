@@ -19,9 +19,7 @@ source:
   url: https://advottic.com/templates/lease-termination-notice
   retrieved: "2026-11-14"
   notes: >-
-    Taken from data/templates.json in github.com/TechnoOptics/legal-data, whose README states "MIT-licensed for code, CC
-    BY 4.0 for data and template text". The publisher's context and warnings are kept as drafting notes. Wording
-    unchanged; {{tokens}} rendered as [BRACKETED] placeholders.
+    Text taken verbatim from the "body" field of data/templates.json in github.com/TechnoOptics/legal-data (README: CC BY 4.0 for template text), including its {{token}} placeholders; the publisher's separate "context" and "warnings" fields are not part of the template and are not included. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -33,58 +31,42 @@ summary: >-
   2026-06-08).
 ---
 
-# Lease Termination Notice
-
-> **Drafting note:** Use a lease termination notice when you want to end a month-to-month tenancy, a fixed-term lease that allows early termination, or a tenancy where the other party has breached. The notice period is dictated by state law and (sometimes) the lease itself - 30 days is the most common minimum, but several states require 60 or 90 days. Always send via a method that creates a delivery record (certified mail, hand delivery with a witness, or a state-permitted electronic delivery method).
-
-> **Drafting note:** Notice periods vary by state. California requires 60 days for tenancies over one year; New York requires 30, 60, or 90 days depending on length of tenancy.
->
-> **Drafting note:** Just-cause eviction protections in California, Oregon, New York, and many cities limit when a landlord can serve a no-fault termination notice.
->
-> **Drafting note:** If you are a tenant terminating during a fixed-term lease, you may owe rent through the end of the lease unless your state has an early-termination statute or your lease allows it.
->
-> **Drafting note:** Military service members have additional protections under the Servicemembers Civil Relief Act allowing early lease termination.
-
-[YOUR NAME]
-[YOUR ADDRESS]
-[YOUR CITY, STATE ZIP]
-[DATE]
+{{Your Name}}
+{{Your Address}}
+{{Your City, State ZIP}}
+{{Date}}
 
 Via Certified Mail and Email
 
-[OTHER PARTY NAME]
-[OTHER PARTY ADDRESS]
-[OTHER PARTY CITY, STATE ZIP]
+{{Other Party Name}}
+{{Other Party Address}}
+{{Other Party City, State ZIP}}
 
-NOTICE TO [TERMINATE / VACATE] TENANCY
+NOTICE TO {{TERMINATE / VACATE}} TENANCY
 
-Re: [RENTAL PROPERTY ADDRESS]
+Re: {{Rental Property Address}}
 
-Dear [OTHER PARTY],
+Dear {{Other Party}},
 
-Pursuant to the terms of the rental agreement dated [LEASE DATE] (the "Lease") and [RELEVANT STATE STATUTE, E.G. "MINNESOTA STATUTE § 504B.135"], this letter serves as formal notice that [SPECIFY: "I, THE TENANT, INTEND TO VACATE" OR "THE TENANCY IS BEING TERMINATED"] the property at [RENTAL PROPERTY ADDRESS] (the "Property").
+Pursuant to the terms of the rental agreement dated {{lease date}} (the "Lease") and {{relevant state statute, e.g. "Minnesota Statute § 504B.135"}}, this letter serves as formal notice that {{specify: "I, the tenant, intend to vacate" OR "the tenancy is being terminated"}} the property at {{rental property address}} (the "Property").
 
-The effective date of termination will be [DATE - COUNT NOTICE DAYS FROM DELIVERY, E.G. "THIRTY (30) DAYS FROM RECEIPT OF THIS NOTICE, NO EARLIER THAN APRIL 15, 2026"]. [IF MONTH-TO-MONTH: "THIS IS AT LEAST THE MINIMUM NOTICE REQUIRED BY STATE LAW AND BY THE LEASE."]
+The effective date of termination will be {{date - count notice days from delivery, e.g. "thirty (30) days from receipt of this notice, no earlier than April 15, 2026"}}. {{If month-to-month: "This is at least the minimum notice required by state law and by the Lease."}}
 
-[IF TENANT TERMINATING]
-I will return possession of the Property by [MOVE-OUT DATE]. The Property will be returned in the same condition as when received, normal wear and tear excepted. I will provide a forwarding address for the return of the security deposit:
+{{If tenant terminating}}
+I will return possession of the Property by {{move-out date}}. The Property will be returned in the same condition as when received, normal wear and tear excepted. I will provide a forwarding address for the return of the security deposit:
 
-[FORWARDING ADDRESS]
+{{Forwarding Address}}
 
-Please return the security deposit in the amount of [DEPOSIT AMOUNT] by [STATE-REQUIRED DEADLINE, E.G. "TWENTY-ONE (21) DAYS FROM THE DATE OF MOVE-OUT, AS REQUIRED BY [STATE] LAW"]. Any deductions must be itemized in writing as required by [STATE STATUTE].
+Please return the security deposit in the amount of {{deposit amount}} by {{state-required deadline, e.g. "twenty-one (21) days from the date of move-out, as required by [state] law"}}. Any deductions must be itemized in writing as required by {{state statute}}.
 
-[IF LANDLORD TERMINATING]
-You must vacate the Property on or before [MOVE-OUT DATE]. Please return all keys, garage remotes, and access cards. I will conduct a move-out inspection on [DATE]; please contact me at [PHONE OR EMAIL] to be present. Your security deposit will be returned, less any lawful deductions itemized in writing, within [STATE-REQUIRED DEADLINE] as required by [STATE STATUTE].
+{{If landlord terminating}}
+You must vacate the Property on or before {{move-out date}}. Please return all keys, garage remotes, and access cards. I will conduct a move-out inspection on {{date}}; please contact me at {{phone or email}} to be present. Your security deposit will be returned, less any lawful deductions itemized in writing, within {{state-required deadline}} as required by {{state statute}}.
 
-[REASON FOR TERMINATION, IF APPLICABLE - SOME STATES REQUIRE A STATED REASON FOR LANDLORD-INITIATED TERMINATIONS.]
+{{Reason for termination, if applicable - some states require a stated reason for landlord-initiated terminations.}}
 
 Sincerely,
 
-[SIGNATURE]
-[PRINTED NAME]
+{{Signature}}
+{{Printed Name}}
 
-cc: [ANY OTHER RELEVANT PARTY, E.G. CO-TENANT, PROPERTY MANAGER, OR LEGAL COUNSEL]
-
----
-
-From the [Advottic open legal data](https://github.com/TechnoOptics/legal-data) published by Techno Optics LLC under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for template text (reviewed 2026-06-08). Reproduced unchanged; template tokens rendered as [BRACKETED] placeholders.
+cc: {{any other relevant party, e.g. co-tenant, property manager, or legal counsel}}

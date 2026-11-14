@@ -20,78 +20,22 @@ source:
   url: https://bonterms.com/standard/professional-services-agreement-v1.2
   retrieved: "2026-11-14"
   notes: >-
-    Converted from the HTML published at https://bonterms.com/standard/professional-services-agreement-v1.2. Wording
-    unchanged; the copyright and "Free to use under CC BY 4.0" footer is kept. Bonterms states at
-    bonterms.com/download-center that its Standard Agreements are released under CC BY 4.0 unless otherwise noted; this
-    one carries the CC BY 4.0 footer.
-    The example cover page published by Bonterms under CC0 at https://bonterms.com/resources/psa-cover-page-example is merged in above the standard terms so the
-    template is complete on its own.
+    Converted to Markdown from the HTML the publisher serves at https://bonterms.com/standard/professional-services-agreement-v1.2; page navigation and site chrome removed, nothing else changed. The publisher's own footer and notices are kept. Bonterms states at bonterms.com/download-center that its Standard Agreements are released under CC BY 4.0 unless otherwise noted; this one carries the CC BY 4.0 footer.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/commercial/master-services/bonterms-psa-cover-page.md
+  - templates/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.md
 summary: >-
   Neutral master terms for professional services delivered under statements of work, with IP, acceptance, payment and
   liability terms. Version 1.2. Governing law and business terms are chosen on the cover page.
 ---
 
 # Bonterms Professional Services Agreement
-*(Version 1.2)*
-
-> **Drafting note:** This file is complete on its own. Fill in and sign the cover page below; it incorporates the standard terms that follow it. Bonterms publishes the cover page as a CC0 example and the standard terms under CC BY 4.0.
-
-## Cover Page
-
-**Cover Pagefor Bonterms Professional Services Agreement (PSA)
-**
-
-**By executing this Cover Page, Customer and Provider enter into an Agreement which incorporates the Bonterms Professional Services Agreement (Version 1.2) (available at [https://bonterms.com/forms/professional-services-agreement-v1.2/](https://bonterms.com/forms/professional-services-agreement-v1.2/)) by this reference. A reference copy may be attached. The Agreement also includes the contents of this Cover Page, including the Key Terms, Attachments and any Additional Terms. Capitalized terms not defined in this Cover Page have the meanings given in the Bonterms Professional Services Agreement.**
-
-**Name of Agreement:**
-
-**The parties will reference the Agreement as: “[Professional Services Agreement] between [Customer] and [Provider] dated as of [Effective Date]”**
-
-**Key Terms**
-
-**Effective Date**
-***[Fill in]***
-
-**Rights in Deliverables**
-Unless otherwise specified for a particular Deliverable in a SOW, all Deliverables will be provided as:
-Licensed Deliverables
-Assigned Deliverables
-***[See Section 6 (Rights in Deliverables) of the Professional Services Agreement for more information]***
-
-**Governing Law**
-***[Fill in]***
-
-**Courts**
-***[Fill in]***
-
-**Attachments *(link or attach)***
-
-**The following Attachments (if any) are incorporated into the Agreement:**
-
-**Additional Terms**
-
-**The following additions to or modifications of the Bonterms Professional Services Agreement are agreed by the parties and control in the event of any conflicts:**
-
-**Signatures**
-
-**Agreed to as of the Effective Date by each party’s authorized representative:**
-
-**Customer:Signature: Name and Title:Company: Notice Address *(choose one or both)*:☐ Email:☐ Postal mail:Date:**
-**Provider**:
-Signature:
-Name and Title:
-Company:
-Notice Address *(choose one or both)*:
-☐ Email:
-☐ Postal mail:
-Date:
-
-## Standard Terms
+(Version 1.2)
 
 1.  **The Agreement.** The Bonterms Professional Services Agreement provides standardized terms for the provision of professional services. To use the Bonterms Professional Services Agreement, Customer and Provider complete and execute a Cover Page that specifies Key Terms, Attachments and any Additional Terms. Collectively, the Bonterms Professional Services Agreement, Cover Page and any SOWs or Change Orders form the parties’ agreement (“**Agreement**"). Conflicts between parts of the Agreement are governed by Section 17.5 (Order of Precedence). Capitalized terms are defined in context or in Section 2 (Definitions).
 2.  **Definitions.**

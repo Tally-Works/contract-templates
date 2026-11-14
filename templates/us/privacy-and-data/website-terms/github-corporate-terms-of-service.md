@@ -19,10 +19,7 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/github-terms/github-corporate-terms-of-service.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-terms/github-corporate-terms-of-service.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -33,9 +30,7 @@ summary: >-
   protection and support terms.
 ---
 
-# GitHub Corporate Terms of Service
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English corporate terms of service. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
+<!-- markdownlint-disable search-replace -->
 
 > [!NOTE]
 > The GitHub Corporate Terms of Service were deprecated effective 30 November 2021, and are no longer used for new customers. The terms below apply _only_ to those GitHub customers with executed agreements that explicitly reference the Corporate Terms of Service. All other business or institution customers are directed to the GitHub Customer Agreement terms available at [github.com/customer-terms](https://github.com/customer-terms).
@@ -395,7 +390,3 @@ Each Party is an independent contractor with respect to the subject matter of th
 ### 10. Questions
 
 Questions about the Terms of Service? [Contact us](https://github.com/contact/).
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-corporate-terms-of-service.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

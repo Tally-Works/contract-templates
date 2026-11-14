@@ -20,10 +20,7 @@ source:
     https://github.com/github/site-policy/blob/main/Policies/github-terms/github-open-source-applications-terms-and-conditions.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/github/site-policy, whose LICENSE.md is CC0-1.0 ("Note that CC0-1.0 does not grant
-    any trademark permissions"). Wording unchanged; the site front-matter was removed and GitHub's templating variables
-    were replaced with the plain names they stand for. GitHub's own name and trademarks remain in the text and must be
-    replaced.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-terms/github-open-source-applications-terms-and-conditions.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -33,10 +30,6 @@ summary: >-
   End-user terms for a company's open-source desktop applications, covering the licence, updates, data, disclaimers and
   liability.
 ---
-
-# GitHub Open Source Applications Terms and Conditions
-
-> **Drafting note:** GitHub's live policy, kept verbatim as an example of a plain-English open source applications terms and conditions. Replace GitHub's name, products, trademarks, links and contact details with your own; CC0 does not grant any trademark permission.
 
 These GitHub Open Source Applications Terms and Conditions ("Application Terms") are a legal agreement between you (either as an individual or on behalf of an entity) and GitHub, Inc. regarding your use of GitHub's applications, such as GitHub Desktop™ and associated documentation ("Software"). These Application Terms apply to the executable code version of the Software. Source code for the Software is available separately and free of charge under open source software license agreements. If you do not agree to all of the terms in these Application Terms, do not download, install, use, or copy the Software.
 
@@ -93,7 +86,3 @@ GitHub reserves the right at any time and from time to time to modify or discont
 1. License to GitHub Policies. These Application Terms are licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
 1. Contact Us. Questions about the Terms of Service? Contact us through the [GitHub Support portal](https://support.github.com/).
-
----
-
-From the [GitHub site-policy repository](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-open-source-applications-terms-and-conditions.md), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.

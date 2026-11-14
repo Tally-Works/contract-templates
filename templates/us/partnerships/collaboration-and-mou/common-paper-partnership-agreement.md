@@ -21,9 +21,7 @@ source:
   url: https://commonpaper.com/standards/partnership-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken from the official Markdown in github.com/CommonPaper/Partnership-Agreement (Standard Terms Version 1.0).
-    Wording unchanged; HTML span markup stripped. Common Paper publishes all standard agreements under CC BY 4.0
-    (commonpaper.com/standards) and asks that the attribution line and link be kept, which they are.
+    Text taken verbatim from Partnership-Agreement.md in github.com/CommonPaper/Partnership-Agreement (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -35,7 +33,7 @@ summary: >-
   agreement. Version 1.0. Governing law and business terms are chosen on the cover page.
 ---
 
-# Common Paper Partnership Agreement
+# Partnership Agreement
 
 1. Cooperation
     1. Obligations.  Each party will perform its Obligations as detailed in the Cover Page.
@@ -71,7 +69,7 @@ summary: >-
 8. Disclaimer of Warranties
     1. Except for the warranties in Section 7 (Representations & Warranties), Company and Partner each disclaim all other warranties, whether express or implied, including the implied warranties of merchantability, fitness for a particular purpose, and title. These disclaimers apply to the maximum extent permitted by Applicable Laws.
 9. Limitation of Liability
-    1. Liability Caps.
+    1. Liability Caps.  
         a. **Except as provided in Section 9.3, each party’s total cumulative liability for all claims arising out of or relating to this Agreement will not be more than the General Cap Amount.**
         b. **If there are Increased Claims, each party’s total cumulative liability for the Increased Claims arising out of or relating to this Agreement will not be more than the Increased Cap Amount.**
     2. Damages Waiver.  Except as provided in Section 9.3, under no circumstances will either party be liable to the other for lost profits or revenues, or for consequential, special, indirect, exemplary, punitive, or incidental damages relating to this Agreement, even if the party is informed of the possibility of this type of damage in advance.
@@ -121,7 +119,3 @@ summary: >-
     18. **"Recipient"** means a party to this Agreement when the party receives Confidential Information from the other party.
     19. **"Standard Terms"** means these Common Paper Partnership Standard Terms Version 1.0, which are posted at [https://commonpaper.com/standards/partnership-agreement/1.0](commonpaper.com/standards/partnership-agreement/1.0).
     20. **"Variable"** means a word or phrase in the Standard Terms that is highlighted and capitalized, such as Obligations or Governing Law.
-
----
-
-Common Paper Partnership Agreement Standard Terms Version 1.0, published by [Common Paper](https://commonpaper.com/standards/partnership-agreement/) and free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged.

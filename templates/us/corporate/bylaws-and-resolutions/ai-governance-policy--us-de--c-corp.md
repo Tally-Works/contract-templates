@@ -20,10 +20,7 @@ source:
   file: templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--c-corp.docx
   retrieved: "2026-11-14"
   notes: >-
-    From General Legal's "Agent-Operated Company Formation Package" (general.legal/library states all templates are
-    released under CC0 1.0; the package page carries the same CC0 notice). Converted from the docx in the package zip
-    (kept under sources/); the drafting note at the top is General Legal's own, reformatted as a blockquote. Wording
-    unchanged.
+    Converted to Markdown from the publisher's own Word file (ai-governance-policy--us-de--c-corp.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -36,9 +33,7 @@ summary: >-
   provisions, which can be removed.
 ---
 
-# AI Governance Policy
-
-> **Drafting note (from General Legal):** The board-adopted policy that sets what the company’s AI agent may do on its own, what needs human sign-off, and what is reserved to the board. It implements Article XII of the Bylaws. Fill the bracketed names and the Schedule 1/Schedule 2 limits. For a single-founder company, the one human typically holds every human role noted below.
+***Drafting note (delete before use):*** *The board-adopted policy that sets what the company’s AI agent may do on its own, what needs human sign-off, and what is reserved to the board. It implements Article XII of the Bylaws. Fill the bracketed names and the Schedule 1/Schedule 2 limits. For a single-founder company, the one human typically holds every human role noted below.*
 
 **AI GOVERNANCE POLICY**
 
@@ -111,7 +106,3 @@ Nothing in this Policy limits, modifies, or transfers the fiduciary duties of an
 **SCHEDULE 2 — AUTHORITY LIMITS**
 
 [Set the dollar thresholds and category limits referenced in Sections 4–5 — e.g., per-contract and aggregate spending limits, payment limits, approved vendor or budget categories, and any matters that always require Officer or Board sign-off.]
-
----
-
-Published by [General Legal](https://general.legal/library/agent-operated-company-formation-package) under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). General Legal asks that its credit footnote be kept when the template is reproduced, and it is.

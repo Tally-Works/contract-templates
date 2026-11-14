@@ -19,76 +19,21 @@ source:
   url: https://bonterms.com/standard/software-license-terms-v1
   retrieved: "2026-11-14"
   notes: >-
-    Converted from the HTML published at https://bonterms.com/standard/software-license-terms-v1. Wording unchanged; the
-    copyright and "Free to use under CC BY 4.0" footer is kept. Bonterms states at bonterms.com/download-center that its
-    Standard Agreements are released under CC BY 4.0 unless otherwise noted; this one carries the CC BY 4.0 footer.
-    The example cover page published by Bonterms under CC0 at https://bonterms.com/resources/software-license-terms-cover-page-example is merged in above the standard terms so the
-    template is complete on its own.
+    Converted to Markdown from the HTML the publisher serves at https://bonterms.com/standard/software-license-terms-v1; page navigation and site chrome removed, nothing else changed. The publisher's own footer and notices are kept. Bonterms states at bonterms.com/download-center that its Standard Agreements are released under CC BY 4.0 unless otherwise noted; this one carries the CC BY 4.0 footer.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/technology/software-license/bonterms-software-license-terms-cover-page.md
 summary: >-
   Standard terms for licensing on-premise or downloadable software, the counterpart to the Bonterms Cloud Terms. Version
   1.0. Governing law and business terms are chosen on the cover page.
 ---
 
 # Bonterms Software License Terms
-*(Version 1.0)*
-
-> **Drafting note:** This file is complete on its own. Fill in and sign the cover page below; it incorporates the standard terms that follow it. Bonterms publishes the cover page as a CC0 example and the standard terms under CC BY 4.0.
-
-## Cover Page
-
-**Cover Page
-for Bonterms Software License Terms**
-
-**By executing this Cover Page, Customer and Provider enter into an Agreement which incorporates the Bonterms Software License Terms (Version 1.0) (available at [https://bonterms.com/standard/software-license-terms-v1](https://bonterms.com/standard/software-license-terms-v1)) by this reference. A reference copy may be attached. The Agreement also includes the contents of this Cover Page, including the Key Terms, Attachments and any Additional Terms. Capitalized terms not defined in this Cover Page have the meanings given in the Bonterms Software License Terms.**
-
-**Name of Agreement:**
-
-**The parties will reference the Agreement as: [“Software License Agreement”] between [Customer] and [Provider] dated as of [Effective Date]”**
-
-**Key Terms**
-
-**Effective Date**
-***[Fill in]***
-
-**Governing Law**
-***[Fill in]***
-
-**Courts**
-***[Fill in]***
-
-**Initial Order**
-***[Optional place to add date and order # for first Order under this Agreement]***
-
-**Attachments *(link or attach)***
-
-**The following Attachments (if any) are incorporated into the Agreement:**
-
-**Support Policy**
-
-**Additional Terms**
-
-**The following additions to or modifications of the Bonterms Software License Terms are agreed by the parties and control in the event of any conflicts:**
-
-**Signatures**
-
-**Agreed to as of the Effective Date by each party’s authorized representative:**
-
-**Customer:Signature: Name and Title:Company: Notice Address *(choose one or both)*:☐ Email:☐ Postal mail:Date:**
-**Provider**:
-Signature:
-Name and Title:
-Company:
-Notice Address *(choose one or both)*:
-☐ Email:
-☐ Postal mail:
-Date:
-
-## Standard Terms
+(Version 1.0)
 
 1.  **Using this Standard Agreement**.
     1.  Standard Agreement. This Bonterms Software License Terms (Version 1.0) (“**Standard Agreement**”) sets forth the terms and conditions under which Provider makes available Subscriptions to its Provider Software (a “**Product**”). Capitalized terms are defined in context or in Section 20 (Definitions).
@@ -141,16 +86,16 @@ Date:
      4.  Nature of Claims. The waivers and limitations in this Section 14 apply regardless of the form of action, whether in contract, tort (including negligence), strict liability or otherwise and will survive and apply even if any limited remedy in this Agreement fails of its essential purpose.
      5.  Liability Definitions.
 
-“**General Cap**” means amounts paid or payable by Customer to Provider under this Agreement in the 12 months immediately preceding the first incident giving rise to liability.
-“**Uncapped Claims**” means (i) the indemnifying party’s obligations under Section 15 (Indemnification), (ii) either party’s infringement or misappropriation of the other party’s intellectual property rights, (iii) any breach of subsection (a) (distribution restrictions), (b) (reverse engineering restrictions) or (c) (derivative work restrictions) of Section 2.2 (Restrictions) or Section 16 (Confidentiality) and (iv) liabilities that cannot be limited by Law.
+         “**General Cap**” means amounts paid or payable by Customer to Provider under this Agreement in the 12 months immediately preceding the first incident giving rise to liability.
+         “**Uncapped Claims**” means (i) the indemnifying party’s obligations under Section 15 (Indemnification), (ii) either party’s infringement or misappropriation of the other party’s intellectual property rights, (iii) any breach of subsection (a) (distribution restrictions), (b) (reverse engineering restrictions) or (c) (derivative work restrictions) of Section 2.2 (Restrictions) or Section 16 (Confidentiality) and (iv) liabilities that cannot be limited by Law.
 
 15.  **Indemnification**.
      1.  Indemnification by Provider. Provider, at its own cost, will defend Customer from and against any Provider-Covered Claims and will indemnify and hold harmless Customer from and against any damages or costs awarded against Customer (including reasonable attorneys’ fees) or agreed in settlement by Provider resulting from the Provider-Covered Claims.
      2.  Indemnification by Customer. Customer, at its own cost, will defend Provider from and against any Customer-Covered Claims and will indemnify and hold harmless Provider from and against any damages or costs awarded against Provider (including reasonable attorneys’ fees) or agreed in settlement by Customer resulting from the Customer-Covered Claims.
      3.  Indemnification Definitions.
 
-“**Customer-Covered Claim**” means a third-party claim that any Customer Materials, when used by Provider as authorized under this Agreement, infringe or misappropriate a third party’s intellectual property rights.
-“**Provider-Covered Claim**” means a third-party claim that the Product, when used by Customer as authorized in this Agreement, infringes or misappropriates a third party’s intellectual property rights.
+         “**Customer-Covered Claim**” means a third-party claim that any Customer Materials, when used by Provider as authorized under this Agreement, infringe or misappropriate a third party’s intellectual property rights.
+         “**Provider-Covered Claim**” means a third-party claim that the Product, when used by Customer as authorized in this Agreement, infringes or misappropriates a third party’s intellectual property rights.
 
      4.  Procedures. The indemnifying party’s obligations in this Section 15 are subject to receiving from the indemnified party: (a) prompt notice of the claim (but delayed notice will only reduce the indemnifying party’s obligations to the extent it is prejudiced by the delay), (b) the exclusive right to control the claim’s investigation, defense and settlement and (c) reasonable cooperation at the indemnifying party’s expense. The indemnifying party may not settle a claim without the indemnified party’s prior approval if settlement would require the indemnified party to admit fault or take or refrain from taking any action (except regarding use or nonuse of the Product when Provider is the indemnifying party). The indemnified party may participate in a claim with its own counsel at its own expense.
      5.  Mitigation. In response to an infringement or misappropriation claim, if required by settlement or injunction or as Provider determines necessary to avoid material liability, Provider may: (a) procure rights for Customer’s continued use of the Product, (b) replace or modify the allegedly infringing portion of the Product to avoid infringement, without reducing the Product’s overall functionality or (c) terminate the affected Subscription and refund to Customer any prepaid, unused fees for the terminated portion of the Subscription Term.

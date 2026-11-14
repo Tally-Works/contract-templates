@@ -21,9 +21,7 @@ source:
   url: https://commonpaper.com/standards/ai-addendum/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken from the official Markdown in github.com/CommonPaper/AI-Addendum (Standard Terms Version 1.0). Wording
-    unchanged; HTML span markup stripped. Common Paper publishes all standard agreements under CC BY 4.0
-    (commonpaper.com/standards) and asks that the attribution line and link be kept, which they are.
+    Text taken verbatim from AI-Addendum.md in github.com/CommonPaper/AI-Addendum (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -35,7 +33,7 @@ summary: >-
   the cover page.
 ---
 
-# Common Paper AI Addendum
+# AI Addendum
 
 1. AI Services
     1. Using AI Services.  The AI Services are part of the Product and subject to the Agreement as supplemented by this AI Addendum. Customer may use AI Services by providing Input. The AI Services may generate Output in response to Input. Provider may copy, display, modify, distribute, and use Input to the extent necessary to provide the AI Services as contemplated by this AI Addendum. Customer authorizes Provider to process Input for all such purposes.
@@ -57,7 +55,3 @@ summary: >-
     5. **"Model"** means a large language, machine learning, or artificial intelligence model.
     6. **"Output"** means the data, information, or materials created by the AI Services in response to Input.
     7. **"Train"** or **"Training"** means the use of data, information, or materials to create or improve a Model.
-
----
-
-Common Paper AI Addendum Standard Terms Version 1.0, published by [Common Paper](https://commonpaper.com/standards/ai-addendum/) and free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reproduced unchanged.

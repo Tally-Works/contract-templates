@@ -22,10 +22,7 @@ source:
   file: templates/us/corporate/shareholders-and-operating/operating-agreement--us-de--single-member.docx
   retrieved: "2026-11-14"
   notes: >-
-    From General Legal's "Agent-Operated Company Formation Package" (general.legal/library states all templates are
-    released under CC0 1.0; the package page carries the same CC0 notice). Converted from the docx in the package zip
-    (kept under sources/); the drafting note at the top is General Legal's own, reformatted as a blockquote. Wording
-    unchanged.
+    Converted to Markdown from the publisher's own Word file (operating-agreement--us-de--single-member.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -37,9 +34,7 @@ summary: >-
   documents are standard Delaware forms apart from the AI-governance provisions, which can be removed.
 ---
 
-# Operating Agreement
-
-> **Drafting note (from General Legal):** A single-member, manager-managed Delaware LLC operating agreement built to run through an AI agent as the company’s “electronic agent,” with a human Manager supervising. The capital contribution is stated inline in Section 5 (no separate exhibit). For multiple members, expand the noted sections with a lawyer. Replace bracketed terms.
+***Drafting note (delete before use):*** *A single-member, manager-managed Delaware LLC operating agreement built to run through an AI agent as the company’s “electronic agent,” with a human Manager supervising. The capital contribution is stated inline in Section 5 (no separate exhibit). For multiple members, expand the noted sections with a lawyer. Replace bracketed terms.*
 
 **LIMITED LIABILITY COMPANY**
 
@@ -136,7 +131,3 @@ IN WITNESS WHEREOF, the Member has executed this Agreement as of the date first 
 **Form of Indemnification Agreement**
 
 **[Attached]**
-
----
-
-Published by [General Legal](https://general.legal/library/agent-operated-company-formation-package) under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). General Legal asks that its credit footnote be kept when the template is reproduced, and it is.

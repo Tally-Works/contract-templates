@@ -21,10 +21,7 @@ source:
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-missouri
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Missouri-specific analysis informed by the quote-verified Missouri practice
-    note. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository (metadata.yaml: license
-    CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as [BRACKETED] placeholders
-    and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-missouri); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -54,77 +51,94 @@ summary: >-
 
 The terms below are incorporated into and form part of this agreement.
 
-**Employer:** [EMPLOYER NAME]
+Employer
+: {employer_name}
 
-**Employee:** [EMPLOYEE NAME]
+Employee
+: {employee_name}
 
-**Employee Title / Position:** [EMPLOYEE TITLE]
+Employee Title / Position
+: {employee_title}
 
-**Effective Date:** [EFFECTIVE DATE]
+Effective Date
+: {effective_date}
 
-**Independent Consideration:** [INDEPENDENT CONSIDERATION]
+Independent Consideration
+: {independent_consideration}
 
-**Governing Law:** [GOVERNING LAW]
+Governing Law
+: {governing_law}
 
 Confidentiality
 
-**Trade Secrets Duration:** [CONFIDENTIALITY TRADE SECRET DURATION]
+Trade Secrets Duration
+: {confidentiality_trade_secret_duration}
 
-**Other Confidential Information Duration:** [CONFIDENTIALITY OTHER DURATION]
+Other Confidential Information Duration
+: {confidentiality_other_duration}
 
 Employee Non-Solicitation
 
-**Duration:** [EMPLOYEE NONSOLICIT DURATION]
+Duration
+: {employee_nonsolicit_duration}
 
 Customer Non-Solicitation
 
-**Duration:** [CUSTOMER NONSOLICIT DURATION]
+Duration
+: {customer_nonsolicit_duration}
 
 Non-Competition
 
-**Duration:** [NONCOMPETE DURATION]
+Duration
+: {noncompete_duration}
 
-**Restricted Territory:** [TERRITORY]
+Restricted Territory
+: {territory}
 
-**Competitive Business:** [COMPETITIVE BUSINESS DEFINITION]
+Competitive Business
+: {competitive_business_definition}
 
-**Specified Competitors:** [SPECIFIED COMPETITORS]
+Specified Competitors
+: {specified_competitors}
 
 No Business with Covered Customers
 
-**Duration:** [NONDEALING DURATION]
+Duration
+: {nondealing_duration}
 
 Non-Investment
 
-**Duration:** [NONINVESTMENT DURATION]
+Duration
+: {noninvestment_duration}
 
 Non-Disparagement
 
-**Duration:** [NONDISPARAGEMENT DURATION]
+Duration
+: {nondisparagement_duration}
 
 ## Standard Terms
 
 ### Defined Terms
 
-**Competitive Business** means a person or entity that engages in the business activities described in Cover Terms under Competitive Business.
+[[Competitive Business]] means a person or entity that engages in the business activities described in Cover Terms under Competitive Business.
 
-**Confidential Information** means non-public information relating to Employer's business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee.
+[[Confidential Information]] means non-public information relating to Employer's business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee.
 
-**Covered Customers** means customers, vendors, referral sources, and business partners whom Employee actually serviced, solicited, or had substantial contact with, or for whom Employee had responsibility, during the [COVERED CUSTOMER PERIOD] before termination of employment. Covered Customers does not include a customer with whom Employee had no such relationship, and does not include a prospective customer Employee never serviced.
+[[Covered Customers]] means customers, vendors, referral sources, and business partners whom Employee actually serviced, solicited, or had substantial contact with, or for whom Employee had responsibility, during the {covered_customer_period} before termination of employment. Covered Customers does not include a customer with whom Employee had no such relationship, and does not include a prospective customer Employee never serviced.
 
-**Covered Employees** means employees with whom Employee worked or whom Employee managed during the [COVERED EMPLOYEE PERIOD] before termination of employment.
+[[Covered Employees]] means employees with whom Employee worked or whom Employee managed during the {covered_employee_period} before termination of employment.
 
-**Passive Public Holdings** means ownership of securities of a publicly traded company representing less than [PASSIVE PUBLIC HOLDINGS THRESHOLD] of any class of such company's securities, and interests in diversified mutual funds, index funds, and exchange-traded funds that may hold securities of a Competitive Business.
+[[Passive Public Holdings]] means ownership of securities of a publicly traded company representing less than {passive_public_holdings_threshold} of any class of such company's securities, and interests in diversified mutual funds, index funds, and exchange-traded funds that may hold securities of a Competitive Business.
 
-**Protected Interests** means Employer's Trade Secrets and goodwill in customer relationships with which Employee had substantial contact and an opportunity to influence.
+[[Protected Interests]] means Employer's Trade Secrets and goodwill in customer relationships with which Employee had substantial contact and an opportunity to influence.
 
-**Restricted Period** means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason.
+[[Restricted Period]] means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason.
 
-**Restricted Territory** means the geographic area described in Cover Terms under Restricted Territory.
+[[Restricted Territory]] means the geographic area described in Cover Terms under Restricted Territory.
 
-**Solicit** means to directly or indirectly contact, approach, induce, encourage, or provide Confidential Information to any person or entity for the purpose of diverting business away from Employer, but does not include responding to general advertisements or unsolicited inquiries not initiated by Employee.
+[[Solicit]] means to directly or indirectly contact, approach, induce, encourage, or provide Confidential Information to any person or entity for the purpose of diverting business away from Employer, but does not include responding to general advertisements or unsolicited inquiries not initiated by Employee.
 
-**Trade Secrets** means information that derives independent economic value from not being generally known or readily ascertainable and that Employer takes reasonable measures to keep secret.
+[[Trade Secrets]] means information that derives independent economic value from not being generally known or readily ascertainable and that Employer takes reasonable measures to keep secret.
 
 ### Recitals and Protectable Interests
 
@@ -132,7 +146,7 @@ Employer and Employee acknowledge that each restrictive covenant in this agreeme
 
 ### Timing, Consideration, and Employee Acknowledgements
 
-The parties acknowledge that this agreement is supported by adequate and independent consideration, namely [INDEPENDENT CONSIDERATION], conferred on Employee in exchange for Employee's assent to the covenants in this agreement. Employee acknowledges having had the opportunity to consult with independent legal counsel before signing this agreement. This agreement is effective as of the Effective Date listed in Cover Terms.
+The parties acknowledge that this agreement is supported by adequate and independent consideration, namely {independent_consideration}, conferred on Employee in exchange for Employee's assent to the covenants in this agreement. Employee acknowledges having had the opportunity to consult with independent legal counsel before signing this agreement. This agreement is effective as of the Effective Date listed in Cover Terms.
 
 ### Confidential Information and Trade Secret Protection
 
@@ -214,19 +228,15 @@ This agreement constitutes the entire agreement between the parties regarding it
 
 By signing this agreement, each party acknowledges and agrees to the restrictive covenant obligations above. Employee confirms having read and understood each provision, including the Cover Terms.
 
-Employer: [EMPLOYER NAME]
+Employer: {employer_name}
 
 Signature: _______________
-Signatory Name: [EMPLOYER SIGNATORY NAME]
-Title: [EMPLOYER SIGNATORY TITLE]
+Signatory Name: {employer_signatory_name}
+Title: {employer_signatory_title}
 Date: _______________
 
 **Employee**
 
 Signature: _______________
-Print Name: [EMPLOYEE NAME]
+Print Name: {employee_name}
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. Missouri-specific analysis informed by the quote-verified Missouri practice note. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-missouri](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-missouri) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

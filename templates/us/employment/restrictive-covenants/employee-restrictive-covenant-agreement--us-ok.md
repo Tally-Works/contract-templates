@@ -21,10 +21,7 @@ source:
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-oklahoma
   retrieved: "2026-11-14"
   notes: >-
-    Authored by OpenAgreements contributors. Oklahoma-specific analysis informed by the quote-verified Oklahoma practice
-    note. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository (metadata.yaml: license
-    CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as [BRACKETED] placeholders
-    and [[defined terms]] rendered bold; wording unchanged.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-oklahoma); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -51,59 +48,72 @@ summary: >-
 
 The terms below are incorporated into and form part of this agreement.
 
-**Employer:** [EMPLOYER NAME]
+Employer
+: {employer_name}
 
-**Employee:** [EMPLOYEE NAME]
+Employee
+: {employee_name}
 
-**Employee Title / Position:** [EMPLOYEE TITLE]
+Employee Title / Position
+: {employee_title}
 
-**Effective Date:** [EFFECTIVE DATE]
+Effective Date
+: {effective_date}
 
-**Governing Law:** [GOVERNING LAW]
+Governing Law
+: {governing_law}
 
-**Venue:** [GOVERNING VENUE]
+Venue
+: {governing_venue}
 
 Confidentiality
 
-**Trade Secrets Duration:** [CONFIDENTIALITY TRADE SECRET DURATION]
+Trade Secrets Duration
+: {confidentiality_trade_secret_duration}
 
-**Other Confidential Information Duration:** [CONFIDENTIALITY OTHER DURATION]
+Other Confidential Information Duration
+: {confidentiality_other_duration}
 
 Customer Non-Solicitation
 
-**Duration:** [CUSTOMER NONSOLICIT DURATION]
+Duration
+: {customer_nonsolicit_duration}
 
-**Covered Customer Look-Back:** [COVERED CUSTOMER PERIOD]
+Covered Customer Look-Back
+: {covered_customer_period}
 
 Employee Non-Solicitation
 
-**Duration:** [EMPLOYEE NONSOLICIT DURATION]
+Duration
+: {employee_nonsolicit_duration}
 
-**Covered Employee Look-Back:** [COVERED EMPLOYEE PERIOD]
+Covered Employee Look-Back
+: {covered_employee_period}
 
 Non-Disparagement
 
-**Duration:** [NONDISPARAGEMENT DURATION]
+Duration
+: {nondisparagement_duration}
 
 ## Standard Terms
 
 ### Defined Terms
 
-**Confidential Information** means non-public information relating to Employer's business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee.
+[[Confidential Information]] means non-public information relating to Employer's business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee.
 
-**Covered Customers** means only established customers of Employer from whom Employee solicited, with whom Employee had material contact, or for whom Employee had responsibility during the [COVERED CUSTOMER PERIOD] before termination of employment. Covered Customers do not include prospective customers or former customers.
+[[Covered Customers]] means only established customers of Employer from whom Employee solicited, with whom Employee had material contact, or for whom Employee had responsibility during the {covered_customer_period} before termination of employment. Covered Customers do not include prospective customers or former customers.
 
-**Covered Employees** means those employees and independent contractors of Employer with whom Employee worked, or whom Employee supervised or managed, during the [COVERED EMPLOYEE PERIOD] before termination of employment. This defined class is bounded to colleagues Employee actually worked with rather than Employer's workforce generally.
+[[Covered Employees]] means those employees and independent contractors of Employer with whom Employee worked, or whom Employee supervised or managed, during the {covered_employee_period} before termination of employment. This defined class is bounded to colleagues Employee actually worked with rather than Employer's workforce generally.
 
-**Protected Interests** means Employer's trade secrets, Confidential Information, company property, legally protected business information, and Employer's relationships with its established Covered Customers and its workforce.
+[[Protected Interests]] means Employer's trade secrets, Confidential Information, company property, legally protected business information, and Employer's relationships with its established Covered Customers and its workforce.
 
-**Restricted Period** means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason.
+[[Restricted Period]] means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason.
 
-**Direct Solicitation** means for Employee personally to initiate contact with, approach, induce, or encourage a Covered Customer for the purpose of selling to that Covered Customer goods or services, or a combination of goods and services, of the kind Employer provides, and thereby diverting that customer's business away from Employer. Direct Solicitation does not include indirect solicitation, passively receiving or responding to an inquiry that Employee did not initiate, responding to a general advertisement or an unsolicited approach, or continuing to serve a Covered Customer who follows Employee without any initiating contact by Employee.
+[[Direct Solicitation]] means for Employee personally to initiate contact with, approach, induce, or encourage a Covered Customer for the purpose of selling to that Covered Customer goods or services, or a combination of goods and services, of the kind Employer provides, and thereby diverting that customer's business away from Employer. Direct Solicitation does not include indirect solicitation, passively receiving or responding to an inquiry that Employee did not initiate, responding to a general advertisement or an unsolicited approach, or continuing to serve a Covered Customer who follows Employee without any initiating contact by Employee.
 
-**Solicit Employees** means for Employee, directly or indirectly, actively or inactively, to solicit, recruit, or induce a Covered Employee to leave Employer and to become an employee or independent contractor of another person or business. Solicit Employees does not include hiring a Covered Employee who applies on the Covered Employee's own initiative without any solicitation by Employee.
+[[Solicit Employees]] means for Employee, directly or indirectly, actively or inactively, to solicit, recruit, or induce a Covered Employee to leave Employer and to become an employee or independent contractor of another person or business. Solicit Employees does not include hiring a Covered Employee who applies on the Covered Employee's own initiative without any solicitation by Employee.
 
-**Trade Secrets** means information that qualifies for protection as a trade secret under applicable law, including by the Oklahoma Uniform Trade Secrets Act, information that derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable through proper means by, another person who can obtain economic value from its disclosure or use.
+[[Trade Secrets]] means information that qualifies for protection as a trade secret under applicable law, including by the Oklahoma Uniform Trade Secrets Act, information that derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable through proper means by, another person who can obtain economic value from its disclosure or use.
 
 ### Timing and Employee Acknowledgements
 
@@ -169,19 +179,15 @@ This agreement constitutes the entire agreement between the parties regarding it
 
 By signing this agreement, each party acknowledges and agrees to the restrictive covenant obligations above. Employee confirms having read and understood each provision, including the Cover Terms.
 
-Employer: [EMPLOYER NAME]
+Employer: {employer_name}
 
 Signature: _______________
-Signatory Name: [EMPLOYER SIGNATORY NAME]
-Title: [EMPLOYER SIGNATORY TITLE]
+Signatory Name: {employer_signatory_name}
+Title: {employer_signatory_title}
 Date: _______________
 
 **Employee**
 
 Signature: _______________
-Print Name: [EMPLOYEE NAME]
+Print Name: {employee_name}
 Date: _______________
-
----
-
-Authored by OpenAgreements contributors. Oklahoma-specific analysis informed by the quote-verified Oklahoma practice note. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-oklahoma](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-oklahoma) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

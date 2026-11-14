@@ -20,9 +20,7 @@ source:
   url: https://github.com/18F/acq-templates/blob/master/agile_bpa/pws.md
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/18F/acq-templates, whose LICENSE.md states the project is in the public domain within
-    the United States with a CC0 1.0 waiver worldwide. Wording unchanged; [VALUE] template variables rendered as
-    placeholders.
+    Text taken verbatim from https://github.com/18F/acq-templates/blob/master/agile_bpa/pws.md (LICENSE.md: public domain in the United States, CC0 1.0 worldwide); 18F's {{ }} template variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: Public-Domain
 status: draft
 version: 1.0.0
@@ -33,19 +31,18 @@ summary: >-
     standards and deliverables.
 ---
 
-# Performance Work Statement for Agile Software Development
-
-> **Drafting note:** A U.S. General Services Administration (18F) procurement template, written for federal buyers. Useful as a model for performance-based services contracting; the agency-specific references will need replacing.
+Performance Work Statement for {{ buy.name }}
+=========================================
 
 ## 1.0 Introduction
 
 ## 2.0 Background
 
-[DESCRIPTION]
+{{ buy.description }}
 
 ## 3.0 Scope
 
-The scope of this call order is for the contractor to deliver the [NAME]. This Performance Work Statement (PWS) describes the technical and administrative components of the requirement as follows:
+The scope of this call order is for the contractor to deliver the {{ buy.name }}. This Performance Work Statement (PWS) describes the technical and administrative components of the requirement as follows:
 
 -   Tasks that the contractor must successfully perform.
 -   Operational requirements that must be met while the contractor performs.
@@ -64,7 +61,7 @@ The COR and the ACOR are designated in writing by the CO to act as his or her au
 
 ### Procurement Project Manager:
 
-The Procurement Project Manager is the interface between the requiring organization (GSA's TTS Office of Acquisitions) and contracting organization ([NAME]). The Procurement PM coordinates technical aspects of the contract with the COR/ACOR and CO, assists with contract administration, ensures client acceptance of services, and reviews invoices for payment.
+The Procurement Project Manager is the interface between the requiring organization (GSA's TTS Office of Acquisitions) and contracting organization ({{ buy.contractingOfficer.office.name }}). The Procurement PM coordinates technical aspects of the contract with the COR/ACOR and CO, assists with contract administration, ensures client acceptance of services, and reviews invoices for payment.
 
 ### TTS Product Lead:
 
@@ -82,7 +79,7 @@ The Product Owner is the project’s key stakeholder and represents the client. 
 
 The contractor will perform the following services:
 
-[TASKS]
+{{ buy.tasks }}
 
 Additional requirement:
 
@@ -104,7 +101,7 @@ The contractor shall provide qualified personnel commensurate with this task's p
 
 Broadly, a team assigned to complete this project is expected to have experience with:
 
-[SKILLS]
+{{ buy.skills }}
 -   Human-centered design practices, such as:
     -   User research, such as (but not limited to) contextual inquiry and usability testing
     -   User experience design
@@ -131,7 +128,7 @@ To ensure successful performance of the requirement, contractor shall satisfy th
 - Ability to communicate end user feedback to technical and design leads.
 - Strong communication skills.
 - Proven knowledge of industry standards.
-[NEEDS CLEARANCE]
+{{ buy.needsClearance }}
 
 ##### 6.1.2.1 Key Personnel Substitution
 
@@ -272,7 +269,7 @@ This is a labor-hour (LH) order under master Agile BPA (aBPA) terms and conditio
 
 ### 7.2 Period of Performance (POP)
 
-The Period of Performance (POP) includes a base period of [BASE PERIOD LENGTH], with [OPTION PERIODS] additional option periods, each [OPTION PERIOD LENGTH] in duration. Further, a contingency of up to 6 months may be exercised . The POP is expected to begin within 10 calendar days after award.
+The Period of Performance (POP) includes a base period of {{ buy.basePeriodLength }}, with {{ buy.optionPeriods }} additional option periods, each {{ buy.optionPeriodLength }} in duration. Further, a contingency of up to 6 months may be exercised . The POP is expected to begin within 10 calendar days after award.
 
 ### 7.3 Place and Hours of Performance
 
@@ -282,14 +279,14 @@ The primary place of performance will be at the contractor’s facility. The con
 
 The following Points of Contact are applicable to this order:
 
-CO: [NAME]   
-Contracting Officer, [NAME]  
+CO: {{ buy.contractingOfficer.name }}   
+Contracting Officer, {{ buy.contractingOfficer.contractingOffice.name }}  
 
-COR: [NAME]
-[NAME]
+COR: {{ buy.contractingOfficerRepresentative.name }}
+{{ buy.contractingOfficerRepresentative.office.name }}
 
-ACOR: [NAME]
-[NAME]
+ACOR: {{ buy.alternateContractingOfficerRepresentative.name }}
+{{ buy.alternateContractingOfficerRepresentative.office.name }}
 
 ### 7.5 Government Furnished Items
 
@@ -388,8 +385,4 @@ The contractor shall submit a final invoice within 60 calendar days after the en
 
 ### Attachments:
 
-[PWS ATTACHMENTS]
-
----
-
-From [18F acquisition templates](https://github.com/18F/acq-templates/blob/master/agile_bpa/pws.md). As a work of the United States Government it is in the public domain, and 18F additionally waives rights worldwide under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged; template variables rendered as [BRACKETED] placeholders.
+{{ buy.pwsAttachments }}

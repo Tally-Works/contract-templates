@@ -20,9 +20,7 @@ source:
   url: https://github.com/seriesseed/equity
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/seriesseed/equity ("Series Seed - Term Sheet.md"). The repository README states
-    "Series Seed is open sourced under CC0". Wording unchanged apart from the title heading; see RELEASENOTES.md in the
-    source repository for the document version.
+    Text taken verbatim from "Series Seed - Term Sheet.md" in github.com/seriesseed/equity (README: "Series Seed is open sourced under CC0"). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -33,7 +31,7 @@ summary: >-
   preference, conversion, voting, board and information rights. Non-binding except for the stated binding terms.
 ---
 
-# Series Seed Term Sheet
+# TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF *[Insert Company Name]*, INC.
 
 *[Date]*
 
@@ -121,7 +119,3 @@ Name:
 Title:  
 
 Date:
-
----
-
-From the [Series Seed documents](https://github.com/seriesseed/equity) (Fenwick & West LLP), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Wording unchanged apart from the title line.

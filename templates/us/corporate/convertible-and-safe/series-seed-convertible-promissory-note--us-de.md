@@ -21,9 +21,7 @@ source:
   url: https://github.com/CooleyLLP/seriesseed
   retrieved: "2026-11-14"
   notes: >-
-    Markdown taken from github.com/CooleyLLP/seriesseed (Cooley's fork of the Series Seed documents). Its README states
-    all documents in the repository are open sourced under the CC0 1.0 Universal Public Domain Dedication. Wording
-    unchanged apart from the title heading; Cooley's bracketed drafting notes are kept.
+    Text taken verbatim from "notes/Series Seed Notes - Convertible Promissory Note.md" in github.com/CooleyLLP/seriesseed (README: all documents open sourced under CC0 1.0). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -36,7 +34,7 @@ summary: >-
 
 THIS NOTE AND THE SECURITIES ISSUABLE UPON THE CONVERSION HEREOF HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE "**_ACT_**"), OR UNDER THE SECURITIES LAWS OF ANY STATES IN THE UNITED STATES. THESE SECURITIES ARE SUBJECT TO RESTRICTIONS ON TRANSFERABILITY AND RESALE AND MAY NOT BE TRANSFERRED OR RESOLD EXCEPT AS PERMITTED UNDER THE ACT AND THE APPLICABLE STATE SECURITIES LAWS, PURSUANT TO REGISTRATION OR EXEMPTION THEREFROM. THE ISSUER OF THESE SECURITIES MAY REQUIRE AN OPINION OF COUNSEL IN FORM AND SUBSTANCE SATISFACTORY TO THE ISSUER TO THE EFFECT THAT ANY PROPOSED TRANSFER OR RESALE IS IN COMPLIANCE WITH THE ACT AND ANY APPLICABLE STATE SECURITIES LAWS.
 
-# Series Seed Convertible Promissory Note
+# CONVERTIBLE PROMISSORY NOTE
 
 **Note Series**: [*_________*]
 
@@ -269,7 +267,3 @@ Address: *____________________________________________*
 **_Other Matters:_** _Market stand-off_.  Holders of Series Preferred will agree not to effect any transactions with respect to any of the Company's securities within 180 days following the Company's initial public offering, provided that all officers, directors and 1% stockholders of the Company are similarly bound.
 
 ### ]
-
----
-
-From [Cooley LLP's fork of the Series Seed documents](https://github.com/CooleyLLP/seriesseed), dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reproduced unchanged.
