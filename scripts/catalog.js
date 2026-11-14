@@ -450,6 +450,14 @@ function buildAttributionMd(results, taxonomy) {
   L.push('Where a template has been changed from the original, the change is described in the template\'s `source.notes` field.');
   L.push('');
   for (const s of sources) {
+    // link the publisher, not one template: longest common URL prefix of its templates, cut at a slash
+    const urls = s.templates.map((e) => e.meta.source.url).filter(Boolean);
+    if (urls.length > 1) {
+      let prefix = urls[0];
+      for (const u of urls) while (!u.startsWith(prefix)) prefix = prefix.slice(0, -1);
+      const cut = prefix.lastIndexOf('/');
+      if (cut > 'https://'.length) s.url = prefix.slice(0, cut + 1);
+    }
     L.push(`## ${s.url ? `[${s.name}](${s.url})` : s.name}`);
     L.push('');
     L.push('| Template | Licence | Original | Retrieved |');
@@ -534,6 +542,8 @@ Optional
   --source-name    who published the original (default: goHeather)
   --source-url     where it came from
   --source-file    path under sources/ to the original docx/pdf
+  --source-retrieved  YYYY-MM-DD the original was downloaded (default: today when a URL/file is given)
+  --source-notes   licence evidence, attribution text, what was changed from the original
   --summary        one-paragraph plain-English description
   --from <file>    use this Markdown/text file as the body and delete it (for filing from _intake/)
   --dry-run        print what would be created without writing
@@ -639,8 +649,9 @@ function newTemplate(args, taxonomy) {
   meta.source = { name: args['source-name'] || 'goHeather' };
   if (args['source-url']) meta.source.url = args['source-url'];
   if (args['source-file']) meta.source.file = args['source-file'];
-  if (args['source-url'] || args['source-file']) meta.source.retrieved = today();
-  meta.source.notes = '';
+  if (args['source-retrieved']) meta.source.retrieved = String(args['source-retrieved']);
+  else if (args['source-url'] || args['source-file']) meta.source.retrieved = today();
+  meta.source.notes = args['source-notes'] ? String(args['source-notes']) : '';
   meta.license = license;
   meta.status = 'draft';
   meta.version = '1.0.0';

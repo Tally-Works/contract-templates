@@ -1,0 +1,241 @@
+---
+title: Employee Restrictive Covenant Agreement
+jurisdiction: US-CO
+category: employment
+subcategory: restrictive-covenants
+type: agreement
+parties:
+  - employee
+  - employer
+tags:
+  - non-compete
+  - non-solicitation
+  - restrictive-covenant
+  - confidentiality
+  - employee
+  - colorado
+  - openagreements
+language: en
+source:
+  name: OpenAgreements
+  url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-colorado
+  retrieved: "2026-11-14"
+  notes: >-
+    Authored by OpenAgreements contributors. Colorado-specific analysis informed by the quote-verified Colorado practice
+    note. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository (metadata.yaml: license
+    CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as [BRACKETED] placeholders
+    and [[defined terms]] rendered bold; wording unchanged.
+license: CC-BY-4.0
+status: draft
+version: 1.0.0
+last_reviewed: "2026-11-14"
+reviewed_by: ""
+summary: >-
+  Colorado-specific employee restrictive covenant agreement built for C.R.S. § 8-2-113: confidentiality and trade-secret
+  protection with the statutory general-skills and protected-disclosure carve-outs, an employee non-solicitation
+  covenant, a customer non-solicitation covenant gated on sixty percent of the highly compensated worker threshold
+  ($78,008.40 for 2026), and an optional non-compete gated on the highly compensated worker threshold ($130,014 for
+  2026) and tied to trade-secret protection. Both earnings gates run at signing and at enforcement. The agreement flags
+  the separate, signed 14-day advance-notice document the statute requires, excludes restrictive covenants for
+  health-care providers under S.B. 25-083 with the patient-communication protections, keeps Colorado law and a Colorado
+  forum for Colorado-based workers, and drafts each covenant within its enforceable scope rather than relying on
+  discretionary judicial reformation. Drafted as a starting point for licensed counsel review. (OpenAgreements version
+  0.1.0, marked experimental by its authors.)
+---
+
+# Employee Restrictive Covenant Agreement
+
+## Cover Terms
+
+The terms below are incorporated into and form part of this agreement.
+
+**Employer:** [EMPLOYER NAME]
+
+**Employee:** [EMPLOYEE NAME]
+
+**Employee Title / Position:** [EMPLOYEE TITLE]
+
+**Effective Date:** [EFFECTIVE DATE]
+
+**Advance Notice Date:** [NOTICE DATE]
+
+**Governing Law:** [GOVERNING LAW]
+
+Confidentiality
+
+**Trade Secrets Duration:** [CONFIDENTIALITY TRADE SECRET DURATION]
+
+**Other Confidential Information Duration:** [CONFIDENTIALITY OTHER DURATION]
+
+Employee Non-Solicitation
+
+**Duration:** [EMPLOYEE NONSOLICIT DURATION]
+
+Customer Non-Solicitation
+
+**Duration:** [CUSTOMER NONSOLICIT DURATION]
+
+Non-Competition
+
+**Duration:** [NONCOMPETE DURATION]
+
+**Restricted Territory:** [TERRITORY]
+
+**Competitive Business:** [COMPETITIVE BUSINESS DEFINITION]
+
+**Specified Competitors:** [SPECIFIED COMPETITORS]
+
+No Business with Covered Customers
+
+**Duration:** [NONDEALING DURATION]
+
+Non-Investment
+
+**Duration:** [NONINVESTMENT DURATION]
+
+Non-Disparagement
+
+**Duration:** [NONDISPARAGEMENT DURATION]
+
+## Standard Terms
+
+### Defined Terms
+
+**Competitive Business** means a person or entity that engages, in competition with Employer, in the products, services, or business activities described in Cover Terms under Competitive Business.
+
+**Confidential Information** means non-public information relating to Employer's business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee, information that arises from Employee's general training, knowledge, skill, or experience whether gained on the job or otherwise, information that is readily ascertainable to the public, and information Employee otherwise has a right to disclose as legally protected conduct.
+
+**Covered Customers** means current customers of Employer with whom Employee had material contact or for whom Employee had responsibility during the [COVERED CUSTOMER PERIOD] before termination of employment.
+
+**Covered Employees** means employees with whom Employee worked or whom Employee managed during the [COVERED EMPLOYEE PERIOD] before termination of employment.
+
+**Passive Public Holdings** means ownership of securities of a publicly traded company representing less than [PASSIVE PUBLIC HOLDINGS THRESHOLD] of any class of such company's securities, and interests in diversified mutual funds, index funds, and exchange-traded funds that may hold securities of a Competitive Business.
+
+**Protected Interests** means Employer's legitimate interest in protecting its Trade Secrets.
+
+**Restricted Period** means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason.
+
+**Restricted Territory** means the geographic area described in Cover Terms under Restricted Territory.
+
+**Solicit** means to directly or indirectly initiate contact with, approach, induce, or encourage any person or entity for the purpose of diverting business away from Employer, but does not include responding to general advertisements or unsolicited inquiries not initiated by Employee.
+
+**Trade Secrets** means information that qualifies as a trade secret under applicable law, including information that derives independent economic value from not being generally known to, and not being readily ascertainable through proper means by, another person who can obtain economic value from its disclosure or use.
+
+### Recitals and Trade-Secret Interest
+
+Employer and Employee acknowledge that each restrictive covenant in this agreement is ancillary to a valid employment relationship. Each covenant in this agreement that is enforceable only as a restraint for the protection of trade secrets is included solely for that purpose and applies only if Employee actually receives access to Employer's Trade Secrets relevant to that covenant. Employer provides such access in reliance on Employee's confidentiality obligations and any lawful restrictive covenants in this agreement. The applicability and enforceability of each such covenant depend on the actual facts, including whether the relevant information remains a Trade Secret and whether the covenant is no broader than reasonably necessary, when enforcement is sought.
+
+### Timing, Consideration, and Advance Notice
+
+This agreement is effective as of the Effective Date listed in Cover Terms. Employer and Employee acknowledge that continued at-will employment is adequate consideration for the restrictive covenants in this agreement.
+
+For any enabled non-compete, customer non-solicitation, no-business-with-customers, or non-investment covenant in this agreement, Employer must provide Employee the separate notice required by C.R.S. § 8-2-113(4), using the companion Employee Notice of Restrictive Covenants (Colorado). The notice must accompany a complete copy of this agreement, identify this agreement by name, state that it contains a covenant not to compete that could restrict Employee's options for subsequent employment following separation from Employer, and direct Employee to each enabled covenant by its exact section heading. It must be a standalone writing, separate from this agreement and every other covenant, in clear and conspicuous terms in the language in which Employer and Employee communicate about Employee's performance, and signed by Employee. Employer must deliver it before a prospective worker accepts the offer of employment or, for a current worker, at least fourteen days before the earlier of (a) the covenant's effective date or (b) the effective date of the additional compensation or change in employment terms that supplies consideration. The parties may complete the past-tense delivery acknowledgment below only after delivery and signature are documented.
+
+Employer and Employee acknowledge that the compliant separate notice and a complete copy of this agreement were delivered on the Advance Notice Date shown in Cover Terms: _______________ (Employer initials) / _______________ (Employee initials).
+
+### Confidential Information and Trade Secret Protection
+
+Employee must treat all Confidential Information as strictly confidential. Employee must not use or disclose Confidential Information except as required to perform authorized job duties or with Employer's prior written consent. Employee's obligations regarding trade secrets continue for the period specified in Cover Terms under Trade Secrets Duration, which is intended to last as long as the information remains a trade secret. Employee's obligations regarding other Confidential Information continue for the period specified in Cover Terms under Other Confidential Information Duration. This section does not prohibit Employee from disclosing information that arises from Employee's general training, knowledge, skill, or experience, whether gained on the job or otherwise, information that is readily ascertainable to the public, or information that Employee otherwise has a right to disclose as legally protected conduct.
+
+### Permitted Disclosures and Protected Conduct
+
+Nothing in this agreement prohibits Employee from: (a) reporting possible violations of law to any government agency, including the Securities and Exchange Commission, the Equal Employment Opportunity Commission, the Occupational Safety and Health Administration, or any other federal, state, or local agency; (b) making disclosures protected under whistleblower provisions of any law; (c) discussing wages, hours, or other terms and conditions of employment as protected by applicable law, including Section 7 of the National Labor Relations Act, 29 U.S.C. § 157; (d) testifying truthfully in legal proceedings; (e) disclosing information that arises from Employee's general training, knowledge, skill, or experience, information readily ascertainable to the public, or information Employee otherwise has a right to disclose as legally protected conduct, as preserved by C.R.S. § 8-2-113(3)(b); or (f) filing a sealed complaint in court using Confidential Information without liability. Pursuant to the Defend Trade Secrets Act (18 U.S.C. § 1833(b)), Employee may not be held criminally or civilly liable for disclosing a trade secret in confidence to a government official or attorney solely for the purpose of reporting or investigating a suspected violation of law, or in a sealed court filing.
+
+### Return, Deletion, and Certification of Company Property
+
+Upon termination of employment, Employee must promptly return to Employer all documents, devices, files, credentials, and other materials containing or relating to Confidential Information. Where permitted, Employee must permanently delete electronic copies of Confidential Information from personal devices and accounts. Employee must certify compliance with this section in writing upon Employer's request.
+
+### Non-Solicitation of Employees
+
+During the Restricted Period, Employee must not Solicit, recruit, hire, or attempt to hire any Covered Employee. This restriction is limited to initiating contact with or actively soliciting Covered Employees; it does not prohibit Employee from providing a professional reference upon request or from hiring a person who responds to a general advertisement not directed specifically at Employer's employees.
+
+### Non-Solicitation of Customers
+
+During the Restricted Period, Employee must not Solicit the business of any Covered Customer. This covenant does not apply unless Employee's annualized cash compensation equals or exceeds the applicable compensation threshold for a covenant not to solicit customers under C.R.S. § 8-2-113(2)(d) both when this agreement is entered into and when enforcement is sought. This covenant is a restraint for the protection of Employer's Trade Secrets and applies only to the extent it is no broader than reasonably necessary to protect that interest.
+
+### No Business with Covered Customers
+
+This optional covenant must not be enabled unless Colorado counsel documents an independently valid statutory basis for restricting unsolicited business. C.R.S. § 8-2-113(2)(d) addresses solicitation and does not, by its text alone, authorize a no-dealing restraint.
+
+### Non-Competition
+
+During the Restricted Period, Employee must not, within the Restricted Territory, provide services to a Competitive Business if both (a) the services are the same as or materially similar to services Employee performed for Employer during the final twelve months of employment, and (b) because of Employee's actual access to Employer's Trade Secrets, performing those services would reasonably be likely to require or result in the use or disclosure of Trade Secrets that remain protected when enforcement is sought. This covenant does not prohibit employment by or affiliation with a Competitive Business unless both conditions are satisfied. Notwithstanding any other provision of this agreement, this covenant applies only if Employee earns annualized cash compensation equivalent to or greater than the applicable compensation threshold under C.R.S. § 8-2-113(2)(b) and (2)(c)(II) both at the time this agreement is entered into and at the time the covenant is enforced, and only as a restraint for the protection of Employer's Trade Secrets that is no broader than reasonably necessary to protect that interest. Passive Public Holdings are permitted.
+
+### Non-Investment
+
+During the Restricted Period, Employee must not acquire or hold an active ownership interest in, serve as a director, officer, manager, or advisor to, or have material economic participation in a Competitive Business, but only if, because of Employee's actual access to Employer's Trade Secrets, that ownership, service, or participation would reasonably be likely to require or result in the use or disclosure of Trade Secrets that remain protected when enforcement is sought. Passive Public Holdings are permitted. This covenant does not apply unless Employee's annualized cash compensation equals or exceeds the applicable compensation threshold under C.R.S. § 8-2-113(2)(b) and (2)(c)(II) both when this agreement is entered into and when enforcement is sought, and applies only to the extent it is no broader than reasonably necessary to protect Employer's Trade Secrets.
+
+### Non-Disparagement
+
+During the Restricted Period specified in Cover Terms for Non-Disparagement, Employee must not make statements that are intended to or reasonably likely to disparage Employer, its officers, directors, employees, products, or services. This section does not restrict Employee from making truthful statements in legal proceedings, providing truthful testimony, making disclosures to government agencies, discussing wages, hours, or working conditions as protected by law, or otherwise exercising rights protected by law.
+
+### Health-Care Provider Exclusion and Patient Communications
+
+No covenant not to compete in this agreement that restricts the practice of medicine, the practice of advanced practice registered nursing, or the practice of dentistry in this state is enforceable against Employee on the basis of the highly compensated worker threshold, and no covenant not to solicit customers in this agreement that restricts any of those practices is enforceable against Employee on the basis of the sixty percent threshold (C.R.S. § 8-2-113(2)(b), (2)(d)).
+
+Nothing in this agreement restricts Employee from disclosing to a patient to whom Employee was providing consultation or treatment before Employee's departure from a medical or dental practice Employee's continuing practice of medicine, Employee's new professional contact information, or the patient's right to choose a health-care provider (C.R.S. § 8-2-113(5.5)).
+
+### Minority-Owner Sale-of-Business Duration Cap
+
+If any non-compete in this agreement is entered into in connection with the purchase and sale of a business, a direct or indirect ownership share in a business, or all or substantially all of the assets of a business under C.R.S. § 8-2-113(3)(c), and Employee is a minority owner who received the ownership interest as equity compensation or otherwise in connection with services rendered, the duration in years of that covenant must not exceed a number calculated by dividing the total consideration Employee received from the sale by Employee's average annualized cash compensation received from the business, including income received on account of the ownership interest, during the preceding two years or during the period Employee was affiliated with the business, whichever period is shorter. Any stated duration that exceeds this cap is limited to the cap.
+
+### Limits on Recovery of Training Costs
+
+Employer may recover only the reasonable costs of educating and training Employee where the training is distinct from normal, on-the-job training and satisfies any then-applicable attorney-general rules on the transferability of the training or credentialing available to Employee. The maximum recoverable amount decreases proportionately each month over the two years following completion of the training, based on the number of months that have passed since completion, and is zero after that period. Employer may recover an amount only to the extent the recovery complies with the federal Fair Labor Standards Act of 1938, 29 U.S.C. § 201 et seq., and article 4 of title 8 of the Colorado Revised Statutes, as required under C.R.S. § 8-2-113(3)(a). No such provision recovers ordinary onboarding or routine skills training or a flat amount untethered from documented training cost.
+
+### No Conflicting Obligations
+
+Employee represents that performing duties for Employer and complying with this agreement does not conflict with any prior agreement, court order, or legal obligation binding on Employee. Employee must promptly disclose to Employer any potential conflict that arises during employment.
+
+### Notice to Future Employers and Other Third Parties
+
+Employer may disclose the existence and terms of this agreement to a prospective employer or business associate of Employee only where a covenant in this agreement is enforceable against Employee under C.R.S. § 8-2-113 and Employer has a reasonable belief that Employee may breach that covenant. Employee consents to a disclosure permitted by this section.
+
+### Tolling During Breach
+
+The Restricted Period for each covenant runs from the date Employee's employment ends and is not extended by any period of breach. Any non-compete or customer non-solicitation covenant must satisfy the applicable earnings threshold under C.R.S. § 8-2-113 at the time it is enforced.
+
+### Remedies
+
+Employee acknowledges that a breach of this agreement may cause Employer irreparable harm for which money damages would be inadequate, and Employer may seek injunctive or other equitable relief in addition to any other remedies available at law. Any fee-shifting between the parties is mutual and prevailing-party based.
+
+### Enforceability and Severability
+
+If any provision of this agreement is found to be unenforceable, the remaining provisions remain in full force and effect. Each restrictive covenant in this agreement is intended to be independently enforceable and is drawn in separable tiers so that an unenforceable covenant does not affect the others.
+
+### Survival and Expiration of Each Covenant
+
+Each restrictive covenant in this agreement survives the termination of Employee's employment for the Restricted Period specified in Cover Terms. Obligations under the Confidential Information and Trade Secret Protection section survive as long as the relevant information remains a trade secret. All other provisions survive to the extent necessary to enforce rights that arose during employment.
+
+### Assignment and Successors
+
+Employee may not assign this agreement or any rights or obligations under it. Employer may assign this agreement to any affiliate, successor, or acquirer of all or substantially all of Employer's business or assets; any assignee remains subject to C.R.S. § 8-2-113 as of the enforcement date, including the earnings threshold and trade-secret requirements. This agreement is binding on and inures to the benefit of the parties and their respective heirs, successors, and permitted assigns.
+
+### Governing Law, Venue, and Dispute Process
+
+This agreement is governed by the law listed in Cover Terms, except as follows. For a worker who, at the time of termination of employment, primarily resided or worked in Colorado, this agreement does not require the worker to adjudicate outside Colorado the enforceability of any covenant covered by C.R.S. § 8-2-113(6). For a worker who, at the time of termination of employment, primarily resided and worked in Colorado, Colorado law governs the enforceability of each such covenant notwithstanding any provision to the contrary. The governing-law and forum provisions applicable to other disputes do not apply to the extent they conflict with this paragraph or with other non-waivable law.
+
+### Entire Agreement, Amendment, Waiver, and Electronic Signatures
+
+This agreement constitutes the entire agreement between the parties regarding its subject matter and supersedes all prior agreements, understandings, and negotiations on this subject. This agreement may be amended only in writing signed by both parties; the parties acknowledge that an amendment providing new compensation or changed terms as consideration for a covenant restarts the fourteen-day advance-notice requirement of C.R.S. § 8-2-113(4) for a current worker. A party's failure to enforce any provision does not waive that party's right to enforce it later. This agreement may be executed in counterparts, including by electronic signature, each of which is an original.
+
+## Signatures
+
+By signing this agreement, each party acknowledges and agrees to the restrictive covenant obligations above. Employee confirms having read and understood each provision, including the Cover Terms.
+
+Employer: [EMPLOYER NAME]
+
+Signature: _______________
+Signatory Name: [EMPLOYER SIGNATORY NAME]
+Title: [EMPLOYER SIGNATORY TITLE]
+Date: _______________
+
+**Employee**
+
+Signature: _______________
+Print Name: [EMPLOYEE NAME]
+Date: _______________
+
+---
+
+Authored by OpenAgreements contributors. Colorado-specific analysis informed by the quote-verified Colorado practice note. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-colorado](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-colorado) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.

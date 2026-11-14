@@ -210,7 +210,8 @@ Standalone clauses to insert into other documents. Files here are type "clause".
 | `form` | A fill-in form, application or questionnaire. |
 | `clause` | A standalone clause or short block of clauses for insertion into another document. |
 | `checklist` | A drafting, review or closing checklist (not itself a contract). |
-| `schedule` | A schedule, exhibit, annex or statement of work that attaches to a parent agreement. |
+| `schedule` | A schedule, exhibit, annex, addendum or statement of work that attaches to a parent agreement. |
+| `resolution` | A board or shareholder resolution, written consent or minutes. |
 
 ## Statuses
 

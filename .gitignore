@@ -5,6 +5,9 @@ node_modules/
 _intake/*
 !_intake/README.md
 
+# local working notes
+outreach-drafts.md
+
 # OS / editor noise
 .DS_Store
 Thumbs.db

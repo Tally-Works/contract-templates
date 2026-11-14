@@ -1,0 +1,233 @@
+---
+title: Employee Restrictive Covenant Agreement
+jurisdiction: US-NY
+category: employment
+subcategory: restrictive-covenants
+type: agreement
+parties:
+  - employee
+  - employer
+tags:
+  - non-compete
+  - non-solicitation
+  - restrictive-covenant
+  - confidentiality
+  - employee
+  - new-york
+  - openagreements
+language: en
+source:
+  name: OpenAgreements
+  url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-new-york
+  retrieved: "2026-11-14"
+  notes: >-
+    Authored by OpenAgreements contributors. New York-specific analysis informed by the quote-verified New York practice
+    note. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository (metadata.yaml: license
+    CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as [BRACKETED] placeholders
+    and [[defined terms]] rendered bold; wording unchanged.
+license: CC-BY-4.0
+status: draft
+version: 1.0.0
+last_reviewed: "2026-11-14"
+reviewed_by: ""
+summary: >-
+  New York-specific employee restrictive covenant agreement built for New York's common-law reasonableness regime: there
+  is no general New York non-compete statute, so every post-employment restraint stands or falls on the three-pronged
+  common-law reasonableness test, and a single failed prong invalidates the covenant. It provides confidentiality and
+  trade-secret protection, a continued-employment consideration recital, customer and employee non-solicitation with the
+  customer non-solicit narrowed to customers the employee actually served, an optional non-compete tied to New York's
+  short list of recognized protectable interests, a broadcast-employee exclusion under N.Y. Labor Law § 202-k, a
+  sale-of-business covenant aligned with New York's implied goodwill covenant, a governing-law clause drafted against
+  New York's public-policy limit on foreign choice-of-law, and a drafting posture that sizes each covenant to the
+  protectable interest rather than relying on discretionary partial enforcement. Drafted as a starting point for
+  licensed counsel review. (OpenAgreements version 0.1.0, marked experimental by its authors.)
+---
+
+# Employee Restrictive Covenant Agreement
+
+## Cover Terms
+
+The terms below are incorporated into and form part of this agreement.
+
+**Employer:** [EMPLOYER NAME]
+
+**Employee:** [EMPLOYEE NAME]
+
+**Employee Title / Position:** [EMPLOYEE TITLE]
+
+**Effective Date:** [EFFECTIVE DATE]
+
+**Governing Law:** [GOVERNING LAW]
+
+Confidentiality
+
+**Trade Secrets Duration:** [CONFIDENTIALITY TRADE SECRET DURATION]
+
+**Other Confidential Information Duration:** [CONFIDENTIALITY OTHER DURATION]
+
+Employee Non-Solicitation
+
+**Duration:** [EMPLOYEE NONSOLICIT DURATION]
+
+Customer Non-Solicitation
+
+**Duration:** [CUSTOMER NONSOLICIT DURATION]
+
+Non-Competition
+
+**Duration:** [NONCOMPETE DURATION]
+
+**Restricted Territory:** [TERRITORY]
+
+**Competitive Business:** [COMPETITIVE BUSINESS DEFINITION]
+
+**Specified Competitors:** [SPECIFIED COMPETITORS]
+
+No Business with Covered Customers
+
+**Duration:** [NONDEALING DURATION]
+
+Non-Investment
+
+**Duration:** [NONINVESTMENT DURATION]
+
+Non-Disparagement
+
+**Duration:** [NONDISPARAGEMENT DURATION]
+
+## Standard Terms
+
+### Defined Terms
+
+**Competitive Business** means a person or entity that engages in the business activities described in Cover Terms under Competitive Business.
+
+**Confidential Information** means non-public information relating to Employer's business, including trade secrets, confidential customer information, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee, the general knowledge, skill, and experience Employee acquired during employment, and information about the ordinary, internal operations of the business that does not itself qualify as a Trade Secret.
+
+**Covered Customers** means customers, referral sources, and business partners the Employee actually developed or serviced, or for whom Employee had responsibility, and with whom Employee therefore had material contact during the [COVERED CUSTOMER PERIOD] before termination of employment; it does not include customers Employee never met, did not know about, and did no work for.
+
+**Covered Employees** means employees with whom Employee actually worked or whom Employee managed during the [COVERED EMPLOYEE PERIOD] before termination of employment.
+
+**Passive Public Holdings** means ownership of securities of a publicly traded company representing less than [PASSIVE PUBLIC HOLDINGS THRESHOLD] of any class of such company's securities, and interests in diversified mutual funds, index funds, and exchange-traded funds that may hold securities of a Competitive Business.
+
+**Protected Interests** means Employer's Protected Interests in protection against misappropriation of Employer's trade secrets or confidential customer information, protection from competition by a former employee whose services to Employer were unique or extraordinary, and protection of client goodwill created and maintained at Employer's expense.
+
+**Restricted Period** means the duration specified in Cover Terms for each covenant, beginning on the date Employee's employment with Employer ends for any reason.
+
+**Restricted Territory** means the geographic area described in Cover Terms under Restricted Territory.
+
+**Solicit** means to directly or indirectly contact, approach, induce, or encourage any person or entity, on Employee's own initiative, for the purpose of diverting business away from Employer, but does not include responding to general advertisements or accepting the unprompted patronage of a customer who chooses to leave Employer without solicitation by Employee.
+
+**Trade Secrets** means information that qualifies as a trade secret under applicable law, including the federal Defend Trade Secrets Act, 18 U.S.C. § 1839(3), covering information that derives independent economic value, actual or potential, from not being generally known or readily ascertainable and that is the subject of efforts reasonable under the circumstances to maintain its secrecy.
+
+### Recitals and Protectable Interests
+
+Employee will receive access to Employer's Trade Secrets and other Confidential Information and will develop customer relationships and goodwill on Employer's behalf. Employer and Employee acknowledge that the restrictive covenants in this agreement protect those interests.
+
+### Timing, Consideration, and Employee Acknowledgements
+
+This agreement is effective as of the Effective Date listed in Cover Terms. The parties acknowledge that this agreement is supported by adequate consideration. If this agreement is signed at the outset of employment, the consideration is the offer and commencement of employment. If Employee signs this agreement after employment has begun, the consideration is Employer's continued employment of Employee and any raise, promotion, bonus, or other benefit provided to Employee in connection with signing. Employee acknowledges having had the opportunity to review this agreement, and to consult with independent legal counsel about it, before signing.
+
+### Confidential Information and Trade Secret Protection
+
+Employee must treat all Confidential Information as strictly confidential. Employee must not use or disclose Confidential Information except as required to perform authorized job duties or with Employer's prior written consent. Employee's obligations regarding Trade Secrets continue for the period specified in Cover Terms under Trade Secrets Duration, for as long as the information remains a trade secret. Employee's obligations regarding other Confidential Information continue for the period specified in Cover Terms under Other Confidential Information Duration. This confidentiality obligation operates alongside, and independent of, the restrictive covenants in this agreement, and does not restrict Employee's use of the general knowledge, skill, and experience Employee acquired during employment or of information about Employer's ordinary internal operations that is not itself a Trade Secret.
+
+### Permitted Disclosures and Protected Conduct
+
+Nothing in this agreement prohibits Employee from: (a) reporting possible violations of law to any government agency, including the Securities and Exchange Commission, the Equal Employment Opportunity Commission, the Occupational Safety and Health Administration, or any other federal, state, or local agency; (b) making disclosures protected under whistleblower provisions of any law; (c) discussing wages, hours, or other terms and conditions of employment as protected by applicable law, including Section 7 of the National Labor Relations Act (29 U.S.C. § 157); (d) testifying truthfully in legal proceedings; or (e) filing a sealed complaint in court using Confidential Information without liability. Pursuant to the Defend Trade Secrets Act (18 U.S.C. § 1833(b)), Employee may not be held criminally or civilly liable for disclosing a trade secret in confidence to a government official or attorney solely for the purpose of reporting or investigating a suspected violation of law, or in a sealed court filing. Confidentiality and non-disparagement obligations in this agreement do not waive or restrict rights that cannot lawfully be waived.
+
+### Return, Deletion, and Certification of Company Property
+
+Upon termination of employment, Employee must promptly return to Employer all documents, devices, files, credentials, and other materials containing or relating to Confidential Information. Where permitted, Employee must permanently delete electronic copies of Confidential Information from personal devices and accounts. Employee must certify compliance with this section in writing upon Employer's request.
+
+### Non-Solicitation of Employees
+
+During the Restricted Period, Employee must not Solicit, recruit, hire, or attempt to hire any Covered Employee. This restriction does not prohibit Employee from providing a professional reference upon request or from hiring a person who responds to a general advertisement not directed specifically at Employer's employees. This covenant is included to protect Employer's Protected Interests and is drawn no broader than reasonably necessary to protect them.
+
+### Non-Solicitation of Customers, Referral Sources, and Business Partners
+
+During the Restricted Period, Employee must not Solicit the business of any Covered Customer. This covenant reaches only Covered Customers — customers, referral sources, and business partners the Employee actually developed or serviced and with whom Employee had material contact — and does not reach customers Employee never met, did not know about, and did no work for. This covenant is included to protect Employer's Protected Interests and is drawn no broader than reasonably necessary to protect them.
+
+### No Business with Covered Customers
+
+During the Restricted Period, Employee must not accept, service, or do business with any Covered Customer, regardless of whether Employee or the Covered Customer first initiated contact. This covenant reaches only Covered Customers with whom Employee had material contact, is included to protect Employer's Protected Interests, and is drawn no broader than reasonably necessary to protect them.
+
+### Non-Competition
+
+During the Restricted Period, Employee must not engage in, be employed by, consult for, or have an active ownership interest in any Competitive Business within the Restricted Territory. Where Cover Terms list Specified Competitors, this covenant is limited to those named competitors and their affiliates. This covenant is subject to the Broadcast Employee Exclusion section. Passive Public Holdings are permitted.
+
+### Non-Investment
+
+During the Restricted Period, Employee must not acquire or hold any active ownership interest in, serve as a director, officer, manager, or advisor to, or have material economic participation in any Competitive Business. This covenant is included to protect Employer's Protected Interests and is drawn no broader than reasonably necessary to protect them. Passive Public Holdings are permitted.
+
+### Non-Disparagement
+
+During the Restricted Period specified in Cover Terms for Non-Disparagement, Employee must not make statements that are intended to or reasonably likely to disparage Employer, its officers, directors, employees, products, or services. This section does not restrict Employee from making truthful statements in legal proceedings, providing truthful testimony, making disclosures to government agencies, or exercising rights protected by law, including rights protected under Section 7 of the National Labor Relations Act (29 U.S.C. § 157).
+
+### Physician and Health Care Practitioner Covenants
+
+If Employee is a physician or other health care practitioner, no covenant prohibits Employee from continuing care for an existing patient or complying with applicable patient-notification and access requirements.
+
+### Broadcast Employee Exclusion
+
+If Employee is a broadcast employee of a broadcasting-industry employer, this agreement does not impose, and no provision of this agreement may be enforced as, a post-employment restriction on Employee obtaining employment in any geographic area, for any period of time, or with any employer or in any industry. This exclusion applies only after Employee's employment concludes; it does not affect any covenant that operates during the term of Employee's employment.
+
+### Sale-of-Business and Goodwill Covenants
+
+Where a restraint in this agreement arises from Employee's sale of a business and its goodwill, that restraint bars Employee from soliciting the customers of the business sold and does not bar Employee from accepting the patronage of a customer who chooses to leave without solicitation by Employee.
+
+### No Conflicting Obligations
+
+Employee represents that performing duties for Employer and complying with this agreement does not conflict with any prior agreement, court order, or legal obligation binding on Employee. Employee must promptly disclose to Employer any potential conflict that arises during employment.
+
+### Notice to Future Employers and Other Third Parties
+
+Employer may disclose the existence and terms of this agreement to any prospective employer or business associate of Employee if Employer has a reasonable belief that Employee may breach this agreement. Employee consents to this disclosure.
+
+### Tolling During Breach
+
+If Employee breaches any restrictive covenant in this agreement, the Restricted Period for that covenant is extended by one day for each day of the breach, so that the full duration of the restriction runs from the date the breach ends. Any extension under this section is limited to the period of the breach; the parties do not intend any open-ended or indefinite extension.
+
+### Remedies
+
+Employee acknowledges that a breach of this agreement may cause Employer irreparable harm for which money damages would be inadequate, and that Employer may seek injunctive or other equitable relief in addition to any other remedies available at law. Any fee-shifting between the parties under this agreement is mutual and prevailing-party based.
+
+### Reasonable Scope and Severability
+
+If any provision of this agreement is found to be unenforceable, it is severed and the remaining provisions remain in effect.
+
+### Survival and Expiration of Each Covenant
+
+Each restrictive covenant in this agreement survives the termination of Employee's employment for the Restricted Period specified in Cover Terms for that covenant. Obligations under the Confidential Information and Trade Secret Protection section survive for as long as the relevant information remains a trade secret, and for the period specified in Cover Terms for other Confidential Information. All other provisions survive to the extent necessary to enforce rights that arose during employment.
+
+### Assignment and Successors
+
+Employee may not assign this agreement or any rights or obligations under it. Employer may assign this agreement to any affiliate, successor, or acquirer of all or substantially all of Employer's business or assets. This agreement is binding on and inures to the benefit of the parties and their respective heirs, successors, and permitted assigns.
+
+### Governing Law, Venue, and Dispute Process
+
+This agreement is governed by the law listed in Cover Terms. All disputes will be resolved in the courts of the Governing Law state, subject to non-waivable rights under applicable law.
+
+### Entire Agreement, Amendment, Waiver, and Electronic Signatures
+
+This agreement constitutes the entire agreement between the parties regarding its subject matter and supersedes all prior agreements, understandings, and negotiations on this subject. This agreement may be amended only in writing signed by both parties. A party's failure to enforce any provision does not waive that party's right to enforce it later. This agreement may be executed in counterparts, including by electronic signature, each of which is an original.
+
+## Signatures
+
+By signing this agreement, each party acknowledges and agrees to the restrictive covenant obligations above. Employee confirms having read and understood each provision, including the Cover Terms.
+
+Employer: [EMPLOYER NAME]
+
+Signature: _______________
+Signatory Name: [EMPLOYER SIGNATORY NAME]
+Title: [EMPLOYER SIGNATORY TITLE]
+Date: _______________
+
+**Employee**
+
+Signature: _______________
+Print Name: [EMPLOYEE NAME]
+Date: _______________
+
+---
+
+Authored by OpenAgreements contributors. New York-specific analysis informed by the quote-verified New York practice note. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-new-york](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-new-york) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.
