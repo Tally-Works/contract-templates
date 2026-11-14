@@ -17,7 +17,7 @@ language: en
 source:
   name: Bonterms
   url: https://bonterms.com/resources/order-form-example
-  file: sources/us/technology/saas/bonterms-cloud-terms-order-form.docx
+  file: templates/us/technology/saas/bonterms-cloud-terms-order-form.docx
   retrieved: "2026-11-14"
   notes: >-
     Converted from the docx linked on https://bonterms.com/resources/order-form-example, which carries a CC0 1.0 notice;
@@ -35,6 +35,8 @@ summary: >-
 ---
 
 # Bonterms Cloud Terms Order Form
+
+> **Drafting note:** This order is placed under the Bonterms Cloud Terms, which are in this library at templates/us/technology/saas/bonterms-cloud-terms.md.
 
 > **Drafting note (from Bonterms):** Example. Create your own version and remove this note and the footer before using.
 

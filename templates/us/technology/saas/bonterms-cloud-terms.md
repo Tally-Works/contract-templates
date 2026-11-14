@@ -23,6 +23,8 @@ source:
     Converted from the HTML published at https://bonterms.com/standard/bonterms-cloud-terms-v1. Wording unchanged; the
     copyright and "Free to use under CC BY 4.0" footer is kept. Bonterms states at bonterms.com/download-center that its
     Standard Agreements are released under CC BY 4.0 unless otherwise noted; this one carries the CC BY 4.0 footer.
+    The example cover page published by Bonterms under CC0 at https://bonterms.com/resources/cloud-terms-cover-page-example is merged in above the standard terms so the
+    template is complete on its own.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -34,6 +36,70 @@ summary: >-
 ---
 
 # Bonterms Cloud Terms
+
+> **Drafting note:** This file is complete on its own. Fill in and sign the cover page below; it incorporates the standard terms that follow it. Bonterms publishes the cover page as a CC0 example and the standard terms under CC BY 4.0.
+
+## Cover Page
+
+**Cover Page
+for Bonterms Cloud Terms**
+
+**By executing this Cover Page, Customer and Provider enter into an Agreement which incorporates the Bonterms Cloud Terms (Version 1.0) (available at [https://bonterms.com/forms/bonterms-cloud-terms-v1/](https://bonterms.com/forms/bonterms-cloud-terms-v1/)) by this reference. A reference copy may be attached. The Agreement also includes the contents of this Cover Page, including the Key Terms, Attachments and any Additional Terms. Capitalized terms not defined in this Cover Page have the meanings given in the Bonterms Cloud Terms.**
+
+**Name of Agreement:**
+
+**The parties will reference the Agreement as: “[Cloud Service Agreement] between [Customer] and [Provider] dated as of [Effective Date]”**
+
+**Key Terms**
+
+**Overview**
+***[Optional context about Cloud Service or deal]***
+
+**Effective Date**
+***[Fill in]***
+
+**Governing Law**
+***[Fill in]***
+
+**Courts**
+***[Fill in]***
+
+**Initial Order**
+***[Optional place to add date and order # for first Order under this Agreement]***
+
+**Attachments *(link or attach)***
+
+**The following Attachments (if any) are incorporated into the Agreement:**
+
+**Acceptable Use Policy (AUP)**
+
+**Support Policy**
+
+**Service Level Agreement (SLA)**
+
+**Data Protection Addendum (DPA)**
+
+**Security Measures**
+
+**Additional Terms**
+
+**The following additions to or modifications of the Bonterms Cloud Terms are agreed by the parties and control in the event of any conflicts:**
+
+**Signatures**
+
+**Agreed to as of the Effective Date by each party’s authorized representative:**
+
+**Customer:Signature: Name and Title:Company: Notice Address *(choose one or both)*:☐ Email:☐ Postal mail:Date:**
+**Provider**:
+Signature:
+Name and Title:
+Company:
+Notice Address *(choose one or both)*:
+☐ Email:
+☐ Postal mail:
+Date:
+
+## Standard Terms
 
 **1\. The Agreement**. The Bonterms Cloud Terms are standardized terms for use of cloud services. To use the Bonterms Cloud Terms, Customer and Provider complete and execute a Cover Page that specifies Key Terms, Attachments (such as a Support Policy or Data Protection Addendum) and any Additional Terms. Collectively, the Bonterms Cloud Terms, Cover Page and any Orders form the parties’ agreement (“**Agreement**”). Conflicts between parts of the Agreement are governed by Section 22.5 (Order of Precedence). Capitalized terms are defined in context or in Section 23 (Definitions).
 

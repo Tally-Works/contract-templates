@@ -18,7 +18,7 @@ language: en
 source:
   name: General Legal
   url: https://general.legal/library/agent-operated-company-formation-package
-  file: sources/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.docx
+  file: templates/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.docx
   retrieved: "2026-11-14"
   notes: >-
     From General Legal's "Agent-Operated Company Formation Package" (general.legal/library states all templates are

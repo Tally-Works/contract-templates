@@ -19,7 +19,7 @@ governing_law: Delaware
 source:
   name: Example Publisher
   url: https://example.org/templates/executive-employment-agreement
-  file: sources/us/employment/executive/executive-employment-agreement--us-de--employer-favorable.docx
+  file: templates/us/employment/executive/executive-employment-agreement--us-de--employer-favorable.docx
   retrieved: 2026-11-14
   notes: Published under CC BY 4.0 (licence notice on the page). Wording unchanged.
 license: CC-BY-4.0
@@ -47,7 +47,7 @@ summary: One-paragraph plain-English description shown in the catalog.
 | `governing_law` | no | free text | Named governing law if the template fixes one. |
 | `source.name` | yes | free text | Who published the original. Never goHeather: goHeather gathers and organises templates and does not write them. |
 | `source.url` | yes | URL | Where the original was published. |
-| `source.file` | no | repo path | Original file (docx, pdf) kept under `sources/`, mirroring the template path. Must exist if set. |
+| `source.file` | no | repo path | Set only when the `.docx` beside the template is the publisher's original file; it must be that path. When unset, the `.docx` is generated from the Markdown. |
 | `source.retrieved` | yes | `YYYY-MM-DD` | Date the original was downloaded. |
 | `source.notes` | no | free text | Licence evidence, permission links, what was changed from the original. |
 | `license` | yes | a key under `licenses` in `taxonomy.yaml` | The licence the **original author** published the template under, which is what lets anyone redistribute it. goHeather holds no rights in the template text. |

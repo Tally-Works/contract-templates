@@ -18,7 +18,7 @@ language: en
 source:
   name: Van Lindberg (Process Mechanics)
   url: https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/
-  file: sources/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.docx
+  file: templates/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.docx
   retrieved: "2026-11-14"
   notes: >-
     Converted from ModelCo_IP_Policy.docx linked from the processmechanics.com article (kept under sources/). The

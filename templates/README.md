@@ -1,6 +1,6 @@
 # templates/
 
-One Markdown file per template, filed as:
+For every template, a Markdown file and a Word file of the same name, filed as:
 
 ```
 templates/<country>/<category>/<subcategory>/<slug>[--<sub-jurisdiction>][--<variant>].md

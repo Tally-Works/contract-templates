@@ -15,6 +15,8 @@ jobs:
           node-version: 20
           cache: npm
       - run: npm ci
+      - name: Every template has a .docx beside it
+        run: node scripts/build-docx.js --check
       - name: Validate every template against taxonomy.yaml
         run: npm run validate
       - name: Check CATALOG.md, catalog.json, ATTRIBUTION.md and docs/taxonomy.md are up to date

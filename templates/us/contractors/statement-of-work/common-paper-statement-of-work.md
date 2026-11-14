@@ -17,7 +17,7 @@ language: en
 source:
   name: Common Paper
   url: https://commonpaper.com/documents/statement-of-work/
-  file: sources/us/contractors/statement-of-work/common-paper-statement-of-work.docx
+  file: templates/us/contractors/statement-of-work/common-paper-statement-of-work.docx
   retrieved: "2026-11-14"
   notes: >-
     The document page at https://commonpaper.com/documents/statement-of-work/ states "This document is free to use or
@@ -35,6 +35,8 @@ summary: >-
 ---
 
 # Common Paper Statement of Work
+
+> **Drafting note:** This statement of work attaches to the Common Paper Professional Services Agreement, which is in this library at templates/us/commercial/master-services/common-paper-professional-services-agreement.md.
 
 **SOW**
 

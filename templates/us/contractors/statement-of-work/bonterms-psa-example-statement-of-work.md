@@ -16,7 +16,7 @@ language: en
 source:
   name: Bonterms
   url: https://bonterms.com/resources/psa-example-sow
-  file: sources/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.docx
+  file: templates/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.docx
   retrieved: "2026-11-14"
   notes: >-
     The Bonterms page https://bonterms.com/resources/psa-example-sow loads its download link with a script, so the docx
@@ -33,6 +33,8 @@ summary: Example statement of work under the Bonterms Professional Services Agre
 ---
 
 # Bonterms PSA Example Statement of Work
+
+> **Drafting note:** This statement of work attaches to the Bonterms Professional Services Agreement, which is in this library at templates/us/commercial/master-services/bonterms-professional-services-agreement.md.
 
 > **Drafting note (from Bonterms):** Example. Create your own version and remove this note and the footer before using.
 

@@ -17,7 +17,7 @@ language: en
 source:
   name: Common Paper
   url: https://commonpaper.com/documents/one-way-nda/
-  file: sources/us/confidentiality/unilateral-nda/common-paper-one-way-nda.docx
+  file: templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.docx
   retrieved: "2026-11-14"
   notes: >-
     The document page at https://commonpaper.com/documents/one-way-nda/ states "This document is free to use or modify

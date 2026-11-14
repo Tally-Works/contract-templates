@@ -17,7 +17,7 @@ language: en
 source:
   name: Bonterms
   url: https://bonterms.com/resources/support-policy-version-1-0
-  file: sources/us/technology/support-and-maintenance/bonterms-support-policy.docx
+  file: templates/us/technology/support-and-maintenance/bonterms-support-policy.docx
   retrieved: "2026-11-14"
   notes: >-
     Converted from the docx linked on https://bonterms.com/resources/support-policy-version-1-0, which carries a CC0 1.0
@@ -35,6 +35,8 @@ summary: >-
 ---
 
 # Bonterms Support Policy
+
+> **Drafting note:** This support policy attaches to the Bonterms Cloud Terms, which are in this library at templates/us/technology/saas/bonterms-cloud-terms.md.
 
 > **Drafting note (from Bonterms):** Example. Create your own version and remove this note and the footer before using.
 

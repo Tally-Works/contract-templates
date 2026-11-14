@@ -19,7 +19,7 @@ language: en
 source:
   name: General Legal
   url: https://general.legal/library/agent-operated-company-formation-package
-  file: sources/us/corporate/shareholders-and-operating/operating-agreement--us-de--single-member.docx
+  file: templates/us/corporate/shareholders-and-operating/operating-agreement--us-de--single-member.docx
   retrieved: "2026-11-14"
   notes: >-
     From General Legal's "Agent-Operated Company Formation Package" (general.legal/library states all templates are

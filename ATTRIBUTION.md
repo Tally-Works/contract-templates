@@ -49,26 +49,17 @@ Where a template has been changed from the original, the change is described in 
 
 | Template | Licence | Original | Retrieved |
 | --- | --- | --- | --- |
-| [Bonterms Climate Addendum Cover Page (US)](templates/us/commercial/master-services/bonterms-climate-addendum-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/climate-addendum-version-1-0-cover-page-example) | 2026-11-14 |
 | [Bonterms Climate Addendum (US)](templates/us/commercial/master-services/bonterms-climate-addendum.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/climate-addendum-cover-page-version) | 2026-11-14 |
 | [Bonterms Professional Services Agreement (US)](templates/us/commercial/master-services/bonterms-professional-services-agreement.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/professional-services-agreement-v1.2) | 2026-11-14 |
-| [Bonterms PSA Cover Page (US)](templates/us/commercial/master-services/bonterms-psa-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/psa-cover-page-example) | 2026-11-14 |
-| [Bonterms Mutual NDA Cover Page (US)](templates/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/mutual-nda-cover-page-example) | 2026-11-14 |
 | [Bonterms Mutual NDA (US)](templates/us/confidentiality/mutual-nda/bonterms-mutual-nda.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/bonterms-mutual-nda-v1) | 2026-11-14 |
-| [Bonterms One-Way NDA Cover Page (US)](templates/us/confidentiality/unilateral-nda/bonterms-one-way-nda-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/one-way-nda-version-1-0-cover-page-example) | 2026-11-14 |
 | [Bonterms PSA Example Statement of Work (US)](templates/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.md) | CC0-1.0 | [link](https://bonterms.com/resources/psa-example-sow) | 2026-11-14 |
 | [Bonterms Acceptable Use Policy (US)](templates/us/privacy-and-data/acceptable-use/bonterms-acceptable-use-policy.md) | CC0-1.0 | [link](https://bonterms.com/resources/acceptable-use-policy-version-1-0) | 2026-11-14 |
-| [Bonterms BAA Cover Page (US)](templates/us/privacy-and-data/data-processing/bonterms-baa-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/baa-cover-page-example) | 2026-11-14 |
 | [Bonterms Business Associate Agreement (US)](templates/us/privacy-and-data/data-processing/bonterms-business-associate-agreement.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/business-associate-agreement-v1) | 2026-11-14 |
 | [Bonterms Data Protection Addendum (US)](templates/us/privacy-and-data/data-processing/bonterms-data-protection-addendum.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/dpa-v2-cover-page-version) | 2026-11-14 |
-| [Bonterms DPA Cover Page (US)](templates/us/privacy-and-data/data-processing/bonterms-dpa-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/example-dpa-cover-page-v2) | 2026-11-14 |
 | [Bonterms Service Level Agreement (US)](templates/us/technology/hosting-and-cloud/bonterms-service-level-agreement.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/service-level-agreement-version-1-0) | 2026-11-14 |
-| [Bonterms AI Addendum Cover Page (US)](templates/us/technology/saas/bonterms-ai-addendum-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/ai-addendum-cover-page-example) | 2026-11-14 |
 | [Bonterms AI Addendum (US)](templates/us/technology/saas/bonterms-ai-addendum.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/ai-addendum-v2-cover-page-version) | 2026-11-14 |
-| [Bonterms Cloud Terms Cover Page (US)](templates/us/technology/saas/bonterms-cloud-terms-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/cloud-terms-cover-page-example) | 2026-11-14 |
 | [Bonterms Cloud Terms Order Form (US)](templates/us/technology/saas/bonterms-cloud-terms-order-form.md) | CC0-1.0 | [link](https://bonterms.com/resources/order-form-example) | 2026-11-14 |
 | [Bonterms Cloud Terms (US)](templates/us/technology/saas/bonterms-cloud-terms.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/bonterms-cloud-terms-v1) | 2026-11-14 |
-| [Bonterms Software License Terms Cover Page (US)](templates/us/technology/software-license/bonterms-software-license-terms-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/software-license-terms-cover-page-example) | 2026-11-14 |
 | [Bonterms Software License Terms (US)](templates/us/technology/software-license/bonterms-software-license-terms.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/software-license-terms-v1) | 2026-11-14 |
 | [Bonterms Support Policy (US)](templates/us/technology/support-and-maintenance/bonterms-support-policy.md) | CC0-1.0 | [link](https://bonterms.com/resources/support-policy-version-1-0) | 2026-11-14 |
 

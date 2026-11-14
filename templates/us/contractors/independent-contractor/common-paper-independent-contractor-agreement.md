@@ -17,7 +17,7 @@ language: en
 source:
   name: Common Paper
   url: https://commonpaper.com/documents/independent-contractor-agreement/
-  file: sources/us/contractors/independent-contractor/common-paper-independent-contractor-agreement.docx
+  file: templates/us/contractors/independent-contractor/common-paper-independent-contractor-agreement.docx
   retrieved: "2026-11-14"
   notes: >-
     The document page at https://commonpaper.com/documents/independent-contractor-agreement/ states "This document is

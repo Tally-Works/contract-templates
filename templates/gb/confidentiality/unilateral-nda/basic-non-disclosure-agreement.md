@@ -16,7 +16,7 @@ language: en
 source:
   name: Documize
   url: https://github.com/documize/document-templates
-  file: sources/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.docx
+  file: templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.docx
   retrieved: "2026-11-14"
   notes: >-
     Converted from the docx in github.com/documize/document-templates (LICENSE: MIT, 2015; the repository's own Markdown

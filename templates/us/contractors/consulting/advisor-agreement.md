@@ -18,7 +18,7 @@ language: en
 source:
   name: General Legal
   url: https://general.legal/library/advisor-agreement
-  file: sources/us/contractors/consulting/advisor-agreement.docx
+  file: templates/us/contractors/consulting/advisor-agreement.docx
   retrieved: "2026-11-14"
   notes: >-
     From General Legal's template library (general.legal/library states "Our templates are released under a CC0 1.0

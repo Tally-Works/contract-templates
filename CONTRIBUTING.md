@@ -43,14 +43,14 @@ If a template you want is only available under terms that fail this table, leave
      --source-url https://example.org/template \
      --summary "Full-form agreement for a C-level hire under California law."
    ```
-   Keep the original under `sources/` at the mirrored path and point `source.file` at it when the docx or pdf has formatting worth keeping.
-5. **Clean up the body** (section 4).
-6. **Validate and rebuild the catalog:**
+   If the publisher provides a docx, save it beside the template with the same name (`<template>.docx`) and pass `--source-file templates/<path>/<template>.docx`; that file is then served as the template's Word download. Otherwise `npm run build` generates the Word file from the Markdown.
+5. **Clean up the body** (section 4). A template must be complete on its own: if it incorporates other terms (a cover page, an order form, a statement of work), those terms must be in this library and the template must say where. Never point a user to another website to get part of a document.
+6. **Validate, build the Word file and rebuild the catalog:**
    ```bash
    npm run validate
    npm run build
    ```
-7. **Commit** the template, any `sources/` file, and the regenerated `CATALOG.md`, `catalog.json`, `ATTRIBUTION.md` and `docs/taxonomy.md`. Commit message format:
+7. **Commit** the template, its `.docx`, and the regenerated `CATALOG.md`, `catalog.json`, `ATTRIBUTION.md` and `docs/taxonomy.md`. Commit message format:
    ```
    add(us/employment/executive): executive employment agreement
    update(ca/employment/offer-letters): fix ESA notice wording in Ontario offer letter
@@ -116,4 +116,5 @@ Changing a status requires `reviewed_by` and `last_reviewed` to be set in the sa
 - [ ] Filed in the right jurisdiction / category / subcategory per the decision guide.
 - [ ] Filename follows [docs/naming.md](docs/naming.md).
 - [ ] Body cleaned up: placeholders bracketed, no real names or amounts, drafting notes marked.
-- [ ] `npm run build` run and the generated files committed, including `ATTRIBUTION.md`.
+- [ ] `npm run build` run and the generated files committed, including the template's `.docx` and `ATTRIBUTION.md`.
+- [ ] The template is complete on its own; any terms it incorporates are in this library and named in a drafting note.

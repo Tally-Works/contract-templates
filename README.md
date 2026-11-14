@@ -63,10 +63,13 @@ The validator refuses any file whose metadata disagrees with its folder or filen
 ## Using a template
 
 1. Find it in the [Catalog](CATALOG.md) (or search `catalog.json` programmatically).
-2. Check its `status` and `reviewed_by`. Everything is `draft` unless a named person has reviewed it.
-3. Check its `jurisdiction`. A `US` template is state-neutral; `US-CA` is written for California.
-4. Replace every `[BRACKETED]` placeholder and delete the drafting notes.
-5. Have a lawyer in your jurisdiction review it before you sign it. See the disclaimer below.
+2. Download the Word file beside it. Every template has one, in this repository, with no account and no other website involved.
+3. Check its `status` and `reviewed_by`. Everything is `draft` unless a named person has reviewed it.
+4. Check its `jurisdiction`. A `US` template is state-neutral; `US-CA` is written for California.
+5. Replace every `[BRACKETED]` placeholder and delete the drafting notes.
+6. Have a lawyer in your jurisdiction review it before you sign it. See the disclaimer below.
+
+Every template is complete on its own. Where a document is designed to incorporate another set of terms (an order form, a cover page, a statement of work), those terms are in this library too and the template says where.
 
 ## Adding templates
 
@@ -79,7 +82,7 @@ npm run validate
 npm run build
 ```
 
-`npm run new` creates the file in the correct folder with a complete front-matter block. To file a document you dropped into `_intake/`, add `--from _intake/the-file.md`. The full intake workflow, licensing rules and review checklist are in [CONTRIBUTING.md](CONTRIBUTING.md).
+`npm run new` creates the file in the correct folder with a complete front-matter block. To file a document you dropped into `_intake/`, add `--from _intake/the-file.md`. `npm run build` then writes the Word file beside it and regenerates the catalog. The full intake workflow and licensing rules are in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## What is accepted
 
@@ -97,14 +100,14 @@ Every template is filed with `status: draft`. Nothing in this library has been r
 
 | Path | What it is |
 | --- | --- |
-| `templates/` | The library. One Markdown file per template, filed by jurisdiction / category / subcategory. |
-| `sources/` | Original files (docx, pdf) a template was converted from, mirroring the `templates/` path. |
+| `templates/` | The library. For every template, a Markdown file and a Word file of the same name, filed by jurisdiction / category / subcategory. The Word file is the publisher's original where one exists, otherwise generated from the Markdown. |
 | `_intake/` | Local drop zone for documents not yet filed. Git-ignored. |
 | `taxonomy.yaml` | The allowed jurisdictions, categories, subcategories, types, statuses and licences. |
 | `CATALOG.md`, `catalog.json` | Generated index of every template. Do not edit by hand. |
 | `ATTRIBUTION.md` | Generated credit to every source author and licence. Do not edit by hand. |
 | `docs/` | Taxonomy (generated), metadata schema, naming rules. |
 | `scripts/catalog.js` | The librarian: `validate`, `build`, `new`. |
+| `scripts/build-docx.js` | Writes the Word file for every template that has no publisher original. |
 | `.github/` | CI that runs the validator on every pull request. |
 
 ## Licence

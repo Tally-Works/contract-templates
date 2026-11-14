@@ -22,6 +22,8 @@ source:
     Converted from the HTML published at https://bonterms.com/standard/software-license-terms-v1. Wording unchanged; the
     copyright and "Free to use under CC BY 4.0" footer is kept. Bonterms states at bonterms.com/download-center that its
     Standard Agreements are released under CC BY 4.0 unless otherwise noted; this one carries the CC BY 4.0 footer.
+    The example cover page published by Bonterms under CC0 at https://bonterms.com/resources/software-license-terms-cover-page-example is merged in above the standard terms so the
+    template is complete on its own.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -34,6 +36,59 @@ summary: >-
 
 # Bonterms Software License Terms
 *(Version 1.0)*
+
+> **Drafting note:** This file is complete on its own. Fill in and sign the cover page below; it incorporates the standard terms that follow it. Bonterms publishes the cover page as a CC0 example and the standard terms under CC BY 4.0.
+
+## Cover Page
+
+**Cover Page
+for Bonterms Software License Terms**
+
+**By executing this Cover Page, Customer and Provider enter into an Agreement which incorporates the Bonterms Software License Terms (Version 1.0) (available at [https://bonterms.com/standard/software-license-terms-v1](https://bonterms.com/standard/software-license-terms-v1)) by this reference. A reference copy may be attached. The Agreement also includes the contents of this Cover Page, including the Key Terms, Attachments and any Additional Terms. Capitalized terms not defined in this Cover Page have the meanings given in the Bonterms Software License Terms.**
+
+**Name of Agreement:**
+
+**The parties will reference the Agreement as: [“Software License Agreement”] between [Customer] and [Provider] dated as of [Effective Date]”**
+
+**Key Terms**
+
+**Effective Date**
+***[Fill in]***
+
+**Governing Law**
+***[Fill in]***
+
+**Courts**
+***[Fill in]***
+
+**Initial Order**
+***[Optional place to add date and order # for first Order under this Agreement]***
+
+**Attachments *(link or attach)***
+
+**The following Attachments (if any) are incorporated into the Agreement:**
+
+**Support Policy**
+
+**Additional Terms**
+
+**The following additions to or modifications of the Bonterms Software License Terms are agreed by the parties and control in the event of any conflicts:**
+
+**Signatures**
+
+**Agreed to as of the Effective Date by each party’s authorized representative:**
+
+**Customer:Signature: Name and Title:Company: Notice Address *(choose one or both)*:☐ Email:☐ Postal mail:Date:**
+**Provider**:
+Signature:
+Name and Title:
+Company:
+Notice Address *(choose one or both)*:
+☐ Email:
+☐ Postal mail:
+Date:
+
+## Standard Terms
 
 1.  **Using this Standard Agreement**.
     1.  Standard Agreement. This Bonterms Software License Terms (Version 1.0) (“**Standard Agreement**”) sets forth the terms and conditions under which Provider makes available Subscriptions to its Provider Software (a “**Product**”). Capitalized terms are defined in context or in Section 20 (Definitions).

@@ -18,7 +18,7 @@ language: en
 source:
   name: U.S. Department of Labor
   url: https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/laws/cobra/model-election-notice.docx
-  file: sources/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.docx
+  file: templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.docx
   retrieved: "2026-11-14"
   notes: >-
     Converted from the docx published on dol.gov (kept under sources/). Works of the United States Government are not

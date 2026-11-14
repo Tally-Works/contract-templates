@@ -1,9 +1,11 @@
 {
   "generated_from": "taxonomy.yaml + templates/**",
-  "count": 220,
+  "count": 211,
   "templates": [
     {
       "path": "templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.md",
+      "docx": "templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.docx",
+      "docx_is_publisher_original": true,
       "title": "Basic Non-Disclosure Agreement",
       "jurisdiction": "GB",
       "category": "confidentiality",
@@ -30,11 +32,13 @@
       "source": {
         "name": "Documize",
         "url": "https://github.com/documize/document-templates",
-        "file": "sources/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.docx"
+        "file": "templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.docx"
       }
     },
     {
       "path": "templates/gb/contractors/statement-of-work/statement-of-work.md",
+      "docx": "templates/gb/contractors/statement-of-work/statement-of-work.docx",
+      "docx_is_publisher_original": true,
       "title": "Statement of Work",
       "jurisdiction": "GB",
       "category": "contractors",
@@ -62,11 +66,13 @@
       "source": {
         "name": "Documize",
         "url": "https://github.com/documize/document-templates",
-        "file": "sources/gb/contractors/statement-of-work/statement-of-work.docx"
+        "file": "templates/gb/contractors/statement-of-work/statement-of-work.docx"
       }
     },
     {
       "path": "templates/us/commercial/amendments-and-extensions/common-paper-amendment.md",
+      "docx": "templates/us/commercial/amendments-and-extensions/common-paper-amendment.docx",
+      "docx_is_publisher_original": true,
       "title": "Common Paper Amendment",
       "jurisdiction": "US",
       "category": "commercial",
@@ -93,42 +99,13 @@
       "source": {
         "name": "Common Paper",
         "url": "https://commonpaper.com/documents/amendment/",
-        "file": "sources/us/commercial/amendments-and-extensions/common-paper-amendment.docx"
-      }
-    },
-    {
-      "path": "templates/us/commercial/master-services/bonterms-climate-addendum-cover-page.md",
-      "title": "Bonterms Climate Addendum Cover Page",
-      "jurisdiction": "US",
-      "category": "commercial",
-      "subcategory": "master-services",
-      "type": "form",
-      "variant": null,
-      "parties": [
-        "provider",
-        "customer"
-      ],
-      "tags": [
-        "cover-page",
-        "climate",
-        "addendum",
-        "bonterms"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC0-1.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "Example cover page for the Bonterms Climate Addendum (Version 1.0).",
-      "source": {
-        "name": "Bonterms",
-        "url": "https://bonterms.com/resources/climate-addendum-version-1-0-cover-page-example",
-        "file": "sources/us/commercial/master-services/bonterms-climate-addendum-cover-page.docx"
+        "file": "templates/us/commercial/amendments-and-extensions/common-paper-amendment.docx"
       }
     },
     {
       "path": "templates/us/commercial/master-services/bonterms-climate-addendum.md",
+      "docx": "templates/us/commercial/master-services/bonterms-climate-addendum.docx",
+      "docx_is_publisher_original": false,
       "title": "Bonterms Climate Addendum",
       "jurisdiction": "US",
       "category": "commercial",
@@ -163,6 +140,8 @@
     },
     {
       "path": "templates/us/commercial/master-services/bonterms-professional-services-agreement.md",
+      "docx": "templates/us/commercial/master-services/bonterms-professional-services-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Bonterms Professional Services Agreement",
       "jurisdiction": "US",
       "category": "commercial",
@@ -195,38 +174,9 @@
       }
     },
     {
-      "path": "templates/us/commercial/master-services/bonterms-psa-cover-page.md",
-      "title": "Bonterms PSA Cover Page",
-      "jurisdiction": "US",
-      "category": "commercial",
-      "subcategory": "master-services",
-      "type": "form",
-      "variant": null,
-      "parties": [
-        "provider",
-        "customer"
-      ],
-      "tags": [
-        "cover-page",
-        "professional-services",
-        "psa",
-        "bonterms"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC0-1.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "Example cover page for the Bonterms Professional Services Agreement.",
-      "source": {
-        "name": "Bonterms",
-        "url": "https://bonterms.com/resources/psa-cover-page-example",
-        "file": "sources/us/commercial/master-services/bonterms-psa-cover-page.docx"
-      }
-    },
-    {
       "path": "templates/us/commercial/master-services/common-paper-professional-services-agreement.md",
+      "docx": "templates/us/commercial/master-services/common-paper-professional-services-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Common Paper Professional Services Agreement",
       "jurisdiction": "US",
       "category": "commercial",
@@ -260,6 +210,8 @@
     },
     {
       "path": "templates/us/commercial/master-services/master-services-agreement.md",
+      "docx": "templates/us/commercial/master-services/master-services-agreement.docx",
+      "docx_is_publisher_original": true,
       "title": "Master Services Agreement",
       "jurisdiction": "US",
       "category": "commercial",
@@ -288,11 +240,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/master-services-agreement-msa",
-        "file": "sources/us/commercial/master-services/master-services-agreement.docx"
+        "file": "templates/us/commercial/master-services/master-services-agreement.docx"
       }
     },
     {
       "path": "templates/us/commercial/subscription-and-membership/cancellation-policy.md",
+      "docx": "templates/us/commercial/subscription-and-membership/cancellation-policy.docx",
+      "docx_is_publisher_original": false,
       "title": "Cancellation Policy",
       "jurisdiction": "US",
       "category": "commercial",
@@ -325,6 +279,8 @@
     },
     {
       "path": "templates/us/commercial/subscription-and-membership/refund-policy.md",
+      "docx": "templates/us/commercial/subscription-and-membership/refund-policy.docx",
+      "docx_is_publisher_original": false,
       "title": "Refund Policy",
       "jurisdiction": "US",
       "category": "commercial",
@@ -357,6 +313,8 @@
     },
     {
       "path": "templates/us/commercial/supply-and-procurement/performance-work-statement-for-agile-software-development.md",
+      "docx": "templates/us/commercial/supply-and-procurement/performance-work-statement-for-agile-software-development.docx",
+      "docx_is_publisher_original": false,
       "title": "Performance Work Statement for Agile Software Development",
       "jurisdiction": "US",
       "category": "commercial",
@@ -390,6 +348,8 @@
     },
     {
       "path": "templates/us/commercial/supply-and-procurement/quality-assurance-surveillance-plan.md",
+      "docx": "templates/us/commercial/supply-and-procurement/quality-assurance-surveillance-plan.docx",
+      "docx_is_publisher_original": false,
       "title": "Quality Assurance Surveillance Plan",
       "jurisdiction": "US",
       "category": "commercial",
@@ -423,6 +383,8 @@
     },
     {
       "path": "templates/us/commercial/supply-and-procurement/request-for-quotation-for-agile-development-services.md",
+      "docx": "templates/us/commercial/supply-and-procurement/request-for-quotation-for-agile-development-services.docx",
+      "docx_is_publisher_original": false,
       "title": "Request for Quotation for Agile Development Services",
       "jurisdiction": "US",
       "category": "commercial",
@@ -455,38 +417,9 @@
       }
     },
     {
-      "path": "templates/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page.md",
-      "title": "Bonterms Mutual NDA Cover Page",
-      "jurisdiction": "US",
-      "category": "confidentiality",
-      "subcategory": "mutual-nda",
-      "type": "form",
-      "variant": null,
-      "parties": [
-        "discloser",
-        "recipient"
-      ],
-      "tags": [
-        "cover-page",
-        "nda",
-        "mutual",
-        "bonterms"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC0-1.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "Example cover page that, when signed, creates a Mutual NDA on the Bonterms Mutual NDA standard terms: purpose, effective date, term, confidentiality period, governing law and courts.",
-      "source": {
-        "name": "Bonterms",
-        "url": "https://bonterms.com/resources/mutual-nda-cover-page-example",
-        "file": "sources/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page.docx"
-      }
-    },
-    {
       "path": "templates/us/confidentiality/mutual-nda/bonterms-mutual-nda.md",
+      "docx": "templates/us/confidentiality/mutual-nda/bonterms-mutual-nda.docx",
+      "docx_is_publisher_original": false,
       "title": "Bonterms Mutual NDA",
       "jurisdiction": "US",
       "category": "confidentiality",
@@ -520,6 +453,8 @@
     },
     {
       "path": "templates/us/confidentiality/mutual-nda/common-paper-mutual-nda.md",
+      "docx": "templates/us/confidentiality/mutual-nda/common-paper-mutual-nda.docx",
+      "docx_is_publisher_original": false,
       "title": "Common Paper Mutual NDA",
       "jurisdiction": "US",
       "category": "confidentiality",
@@ -553,6 +488,8 @@
     },
     {
       "path": "templates/us/confidentiality/mutual-nda/confidentiality-agreement--short-form.md",
+      "docx": "templates/us/confidentiality/mutual-nda/confidentiality-agreement--short-form.docx",
+      "docx_is_publisher_original": false,
       "title": "Confidentiality Agreement",
       "jurisdiction": "US",
       "category": "confidentiality",
@@ -585,6 +522,8 @@
     },
     {
       "path": "templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement--plain-english.md",
+      "docx": "templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement--plain-english.docx",
+      "docx_is_publisher_original": false,
       "title": "Mutual Non-Disclosure Agreement",
       "jurisdiction": "US",
       "category": "confidentiality",
@@ -617,6 +556,8 @@
     },
     {
       "path": "templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement.md",
+      "docx": "templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement.docx",
+      "docx_is_publisher_original": true,
       "title": "Mutual Non-Disclosure Agreement",
       "jurisdiction": "US",
       "category": "confidentiality",
@@ -643,42 +584,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/mutual-non-disclosure-agreement-nda",
-        "file": "sources/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement.docx"
-      }
-    },
-    {
-      "path": "templates/us/confidentiality/unilateral-nda/bonterms-one-way-nda-cover-page.md",
-      "title": "Bonterms One-Way NDA Cover Page",
-      "jurisdiction": "US",
-      "category": "confidentiality",
-      "subcategory": "unilateral-nda",
-      "type": "form",
-      "variant": null,
-      "parties": [
-        "discloser",
-        "recipient"
-      ],
-      "tags": [
-        "cover-page",
-        "nda",
-        "one-way",
-        "bonterms"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC0-1.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "Example cover page for the Bonterms One-Way NDA standard terms.",
-      "source": {
-        "name": "Bonterms",
-        "url": "https://bonterms.com/resources/one-way-nda-version-1-0-cover-page-example",
-        "file": "sources/us/confidentiality/unilateral-nda/bonterms-one-way-nda-cover-page.docx"
+        "file": "templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement.docx"
       }
     },
     {
       "path": "templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.md",
+      "docx": "templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.docx",
+      "docx_is_publisher_original": true,
       "title": "Common Paper One-Way NDA",
       "jurisdiction": "US",
       "category": "confidentiality",
@@ -706,11 +618,13 @@
       "source": {
         "name": "Common Paper",
         "url": "https://commonpaper.com/documents/one-way-nda/",
-        "file": "sources/us/confidentiality/unilateral-nda/common-paper-one-way-nda.docx"
+        "file": "templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.docx"
       }
     },
     {
       "path": "templates/us/confidentiality/unilateral-nda/confidentiality-and-non-disclosure-agreement--long-form.md",
+      "docx": "templates/us/confidentiality/unilateral-nda/confidentiality-and-non-disclosure-agreement--long-form.docx",
+      "docx_is_publisher_original": false,
       "title": "Confidentiality and Non-Disclosure Agreement",
       "jurisdiction": "US",
       "category": "confidentiality",
@@ -743,6 +657,8 @@
     },
     {
       "path": "templates/us/confidentiality/unilateral-nda/one-way-non-disclosure-agreement.md",
+      "docx": "templates/us/confidentiality/unilateral-nda/one-way-non-disclosure-agreement.docx",
+      "docx_is_publisher_original": true,
       "title": "One-Way Non-Disclosure Agreement",
       "jurisdiction": "US",
       "category": "confidentiality",
@@ -769,11 +685,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/one-way-non-disclosure-agreement-nda",
-        "file": "sources/us/confidentiality/unilateral-nda/one-way-non-disclosure-agreement.docx"
+        "file": "templates/us/confidentiality/unilateral-nda/one-way-non-disclosure-agreement.docx"
       }
     },
     {
       "path": "templates/us/contractors/consulting/advisor-agreement.md",
+      "docx": "templates/us/contractors/consulting/advisor-agreement.docx",
+      "docx_is_publisher_original": true,
       "title": "Advisor Agreement",
       "jurisdiction": "US",
       "category": "contractors",
@@ -802,11 +720,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/advisor-agreement",
-        "file": "sources/us/contractors/consulting/advisor-agreement.docx"
+        "file": "templates/us/contractors/consulting/advisor-agreement.docx"
       }
     },
     {
       "path": "templates/us/contractors/independent-contractor/common-paper-independent-contractor-agreement.md",
+      "docx": "templates/us/contractors/independent-contractor/common-paper-independent-contractor-agreement.docx",
+      "docx_is_publisher_original": true,
       "title": "Common Paper Independent Contractor Agreement",
       "jurisdiction": "US",
       "category": "contractors",
@@ -834,11 +754,13 @@
       "source": {
         "name": "Common Paper",
         "url": "https://commonpaper.com/documents/independent-contractor-agreement/",
-        "file": "sources/us/contractors/independent-contractor/common-paper-independent-contractor-agreement.docx"
+        "file": "templates/us/contractors/independent-contractor/common-paper-independent-contractor-agreement.docx"
       }
     },
     {
       "path": "templates/us/contractors/independent-contractor/switchmode-developer-agreement.md",
+      "docx": "templates/us/contractors/independent-contractor/switchmode-developer-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Switchmode Developer Agreement",
       "jurisdiction": "US",
       "category": "contractors",
@@ -872,6 +794,8 @@
     },
     {
       "path": "templates/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.md",
+      "docx": "templates/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.docx",
+      "docx_is_publisher_original": true,
       "title": "Bonterms PSA Example Statement of Work",
       "jurisdiction": "US",
       "category": "contractors",
@@ -898,11 +822,13 @@
       "source": {
         "name": "Bonterms",
         "url": "https://bonterms.com/resources/psa-example-sow",
-        "file": "sources/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.docx"
+        "file": "templates/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.docx"
       }
     },
     {
       "path": "templates/us/contractors/statement-of-work/common-paper-statement-of-work.md",
+      "docx": "templates/us/contractors/statement-of-work/common-paper-statement-of-work.docx",
+      "docx_is_publisher_original": true,
       "title": "Common Paper Statement of Work",
       "jurisdiction": "US",
       "category": "contractors",
@@ -930,11 +856,13 @@
       "source": {
         "name": "Common Paper",
         "url": "https://commonpaper.com/documents/statement-of-work/",
-        "file": "sources/us/contractors/statement-of-work/common-paper-statement-of-work.docx"
+        "file": "templates/us/contractors/statement-of-work/common-paper-statement-of-work.docx"
       }
     },
     {
       "path": "templates/us/corporate/bylaws-and-resolutions/action-of-incorporator--us-de.md",
+      "docx": "templates/us/corporate/bylaws-and-resolutions/action-of-incorporator--us-de.docx",
+      "docx_is_publisher_original": true,
       "title": "Action of Incorporator",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -963,11 +891,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
-        "file": "sources/us/corporate/bylaws-and-resolutions/action-of-incorporator--us-de.docx"
+        "file": "templates/us/corporate/bylaws-and-resolutions/action-of-incorporator--us-de.docx"
       }
     },
     {
       "path": "templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--c-corp.md",
+      "docx": "templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--c-corp.docx",
+      "docx_is_publisher_original": true,
       "title": "AI Governance Policy",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -994,11 +924,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
-        "file": "sources/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--c-corp.docx"
+        "file": "templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--c-corp.docx"
       }
     },
     {
       "path": "templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--llc.md",
+      "docx": "templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--llc.docx",
+      "docx_is_publisher_original": true,
       "title": "AI Governance Policy",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1025,11 +957,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
-        "file": "sources/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--llc.docx"
+        "file": "templates/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--llc.docx"
       }
     },
     {
       "path": "templates/us/corporate/bylaws-and-resolutions/board-consent-approving-safe-financing.md",
+      "docx": "templates/us/corporate/bylaws-and-resolutions/board-consent-approving-safe-financing.docx",
+      "docx_is_publisher_original": false,
       "title": "Board Consent Approving SAFE Financing",
       "jurisdiction": "US",
       "category": "corporate",
@@ -1063,6 +997,8 @@
     },
     {
       "path": "templates/us/corporate/bylaws-and-resolutions/board-ratifying-consent.md",
+      "docx": "templates/us/corporate/bylaws-and-resolutions/board-ratifying-consent.docx",
+      "docx_is_publisher_original": false,
       "title": "Board Ratifying Consent",
       "jurisdiction": "US",
       "category": "corporate",
@@ -1096,6 +1032,8 @@
     },
     {
       "path": "templates/us/corporate/bylaws-and-resolutions/bylaws--us-de.md",
+      "docx": "templates/us/corporate/bylaws-and-resolutions/bylaws--us-de.docx",
+      "docx_is_publisher_original": true,
       "title": "Bylaws",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1124,11 +1062,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
-        "file": "sources/us/corporate/bylaws-and-resolutions/bylaws--us-de.docx"
+        "file": "templates/us/corporate/bylaws-and-resolutions/bylaws--us-de.docx"
       }
     },
     {
       "path": "templates/us/corporate/bylaws-and-resolutions/organizational-resolutions--us-de.md",
+      "docx": "templates/us/corporate/bylaws-and-resolutions/organizational-resolutions--us-de.docx",
+      "docx_is_publisher_original": true,
       "title": "Organizational Resolutions",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1157,11 +1097,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
-        "file": "sources/us/corporate/bylaws-and-resolutions/organizational-resolutions--us-de.docx"
+        "file": "templates/us/corporate/bylaws-and-resolutions/organizational-resolutions--us-de.docx"
       }
     },
     {
       "path": "templates/us/corporate/bylaws-and-resolutions/series-seed-board-consent--us-de.md",
+      "docx": "templates/us/corporate/bylaws-and-resolutions/series-seed-board-consent--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Series Seed Board Consent",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1195,6 +1137,8 @@
     },
     {
       "path": "templates/us/corporate/bylaws-and-resolutions/series-seed-notes-board-consent--us-de.md",
+      "docx": "templates/us/corporate/bylaws-and-resolutions/series-seed-notes-board-consent--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Series Seed Notes Board Consent",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1227,6 +1171,8 @@
     },
     {
       "path": "templates/us/corporate/bylaws-and-resolutions/series-seed-stockholder-consent--us-de.md",
+      "docx": "templates/us/corporate/bylaws-and-resolutions/series-seed-stockholder-consent--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Series Seed Stockholder Consent",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1260,6 +1206,8 @@
     },
     {
       "path": "templates/us/corporate/bylaws-and-resolutions/stockholder-consent--us-de.md",
+      "docx": "templates/us/corporate/bylaws-and-resolutions/stockholder-consent--us-de.docx",
+      "docx_is_publisher_original": true,
       "title": "Stockholder Consent",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1287,11 +1235,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
-        "file": "sources/us/corporate/bylaws-and-resolutions/stockholder-consent--us-de.docx"
+        "file": "templates/us/corporate/bylaws-and-resolutions/stockholder-consent--us-de.docx"
       }
     },
     {
       "path": "templates/us/corporate/bylaws-and-resolutions/stockholder-consent-approving-safe-financing.md",
+      "docx": "templates/us/corporate/bylaws-and-resolutions/stockholder-consent-approving-safe-financing.docx",
+      "docx_is_publisher_original": false,
       "title": "Stockholder Consent Approving SAFE Financing",
       "jurisdiction": "US",
       "category": "corporate",
@@ -1325,6 +1275,8 @@
     },
     {
       "path": "templates/us/corporate/bylaws-and-resolutions/stockholder-ratifying-consent.md",
+      "docx": "templates/us/corporate/bylaws-and-resolutions/stockholder-ratifying-consent.docx",
+      "docx_is_publisher_original": false,
       "title": "Stockholder Ratifying Consent",
       "jurisdiction": "US",
       "category": "corporate",
@@ -1358,6 +1310,8 @@
     },
     {
       "path": "templates/us/corporate/convertible-and-safe/bloomberg-beta-safe-side-letter--us-de.md",
+      "docx": "templates/us/corporate/convertible-and-safe/bloomberg-beta-safe-side-letter--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Bloomberg Beta SAFE Side Letter",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1392,6 +1346,8 @@
     },
     {
       "path": "templates/us/corporate/convertible-and-safe/series-seed-convertible-promissory-note--us-de.md",
+      "docx": "templates/us/corporate/convertible-and-safe/series-seed-convertible-promissory-note--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Series Seed Convertible Promissory Note",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1426,6 +1382,8 @@
     },
     {
       "path": "templates/us/corporate/convertible-and-safe/series-seed-notes-term-sheet--us-de.md",
+      "docx": "templates/us/corporate/convertible-and-safe/series-seed-notes-term-sheet--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Series Seed Notes Term Sheet",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1458,6 +1416,8 @@
     },
     {
       "path": "templates/us/corporate/directors-and-officers/indemnification-agreement--us-de--director-officer.md",
+      "docx": "templates/us/corporate/directors-and-officers/indemnification-agreement--us-de--director-officer.docx",
+      "docx_is_publisher_original": true,
       "title": "Indemnification Agreement",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1486,11 +1446,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
-        "file": "sources/us/corporate/directors-and-officers/indemnification-agreement--us-de--director-officer.docx"
+        "file": "templates/us/corporate/directors-and-officers/indemnification-agreement--us-de--director-officer.docx"
       }
     },
     {
       "path": "templates/us/corporate/directors-and-officers/indemnification-agreement--us-de--llc-manager.md",
+      "docx": "templates/us/corporate/directors-and-officers/indemnification-agreement--us-de--llc-manager.docx",
+      "docx_is_publisher_original": true,
       "title": "Indemnification Agreement",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1517,11 +1479,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
-        "file": "sources/us/corporate/directors-and-officers/indemnification-agreement--us-de--llc-manager.docx"
+        "file": "templates/us/corporate/directors-and-officers/indemnification-agreement--us-de--llc-manager.docx"
       }
     },
     {
       "path": "templates/us/corporate/equity-and-stock/common-stock-purchase-agreement--us-de.md",
+      "docx": "templates/us/corporate/equity-and-stock/common-stock-purchase-agreement--us-de.docx",
+      "docx_is_publisher_original": true,
       "title": "Common Stock Purchase Agreement",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1550,11 +1514,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
-        "file": "sources/us/corporate/equity-and-stock/common-stock-purchase-agreement--us-de.docx"
+        "file": "templates/us/corporate/equity-and-stock/common-stock-purchase-agreement--us-de.docx"
       }
     },
     {
       "path": "templates/us/corporate/equity-and-stock/membership-interest-purchase-agreement--us-de.md",
+      "docx": "templates/us/corporate/equity-and-stock/membership-interest-purchase-agreement--us-de.docx",
+      "docx_is_publisher_original": true,
       "title": "Membership Interest Purchase Agreement",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1581,11 +1547,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
-        "file": "sources/us/corporate/equity-and-stock/membership-interest-purchase-agreement--us-de.docx"
+        "file": "templates/us/corporate/equity-and-stock/membership-interest-purchase-agreement--us-de.docx"
       }
     },
     {
       "path": "templates/us/corporate/equity-and-stock/stock-assignment-separate-from-certificate.md",
+      "docx": "templates/us/corporate/equity-and-stock/stock-assignment-separate-from-certificate.docx",
+      "docx_is_publisher_original": false,
       "title": "Stock Assignment Separate from Certificate",
       "jurisdiction": "US",
       "category": "corporate",
@@ -1619,6 +1587,8 @@
     },
     {
       "path": "templates/us/corporate/formation/bloomberg-beta-series-seed-restated-certificate-of-incorporation--us-de.md",
+      "docx": "templates/us/corporate/formation/bloomberg-beta-series-seed-restated-certificate-of-incorporation--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Bloomberg Beta Series Seed Restated Certificate of Incorporation",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1651,6 +1621,8 @@
     },
     {
       "path": "templates/us/corporate/formation/certificate-of-formation--us-de--llc.md",
+      "docx": "templates/us/corporate/formation/certificate-of-formation--us-de--llc.docx",
+      "docx_is_publisher_original": true,
       "title": "Certificate of Formation",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1676,11 +1648,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
-        "file": "sources/us/corporate/formation/certificate-of-formation--us-de--llc.docx"
+        "file": "templates/us/corporate/formation/certificate-of-formation--us-de--llc.docx"
       }
     },
     {
       "path": "templates/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.md",
+      "docx": "templates/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.docx",
+      "docx_is_publisher_original": true,
       "title": "Certificate of Incorporation",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1708,11 +1682,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
-        "file": "sources/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.docx"
+        "file": "templates/us/corporate/formation/certificate-of-incorporation--us-de--c-corp.docx"
       }
     },
     {
       "path": "templates/us/corporate/formation/company-formation-filing-instructions.md",
+      "docx": "templates/us/corporate/formation/company-formation-filing-instructions.docx",
+      "docx_is_publisher_original": false,
       "title": "Company Formation Filing Instructions",
       "jurisdiction": "US",
       "category": "corporate",
@@ -1747,6 +1723,8 @@
     },
     {
       "path": "templates/us/corporate/formation/series-seed-restated-certificate-of-incorporation--us-de.md",
+      "docx": "templates/us/corporate/formation/series-seed-restated-certificate-of-incorporation--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Series Seed Restated Certificate of Incorporation",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -1779,6 +1757,8 @@
     },
     {
       "path": "templates/us/corporate/founders/founder-ip-and-confidentiality-confirmation.md",
+      "docx": "templates/us/corporate/founders/founder-ip-and-confidentiality-confirmation.docx",
+      "docx_is_publisher_original": false,
       "title": "Founder IP and Confidentiality Confirmation",
       "jurisdiction": "US",
       "category": "corporate",
@@ -1812,6 +1792,8 @@
     },
     {
       "path": "templates/us/corporate/founders/founder-resignation-letter.md",
+      "docx": "templates/us/corporate/founders/founder-resignation-letter.docx",
+      "docx_is_publisher_original": false,
       "title": "Founder Resignation Letter",
       "jurisdiction": "US",
       "category": "corporate",
@@ -1845,6 +1827,8 @@
     },
     {
       "path": "templates/us/corporate/founders/founder-separation-board-consent.md",
+      "docx": "templates/us/corporate/founders/founder-separation-board-consent.docx",
+      "docx_is_publisher_original": false,
       "title": "Founder Separation Board Consent",
       "jurisdiction": "US",
       "category": "corporate",
@@ -1878,6 +1862,8 @@
     },
     {
       "path": "templates/us/corporate/founders/founder-separation-cap-table-update-instructions.md",
+      "docx": "templates/us/corporate/founders/founder-separation-cap-table-update-instructions.docx",
+      "docx_is_publisher_original": false,
       "title": "Founder Separation Cap Table Update Instructions",
       "jurisdiction": "US",
       "category": "corporate",
@@ -1909,6 +1895,8 @@
     },
     {
       "path": "templates/us/corporate/founders/founder-separation-records-checklist.md",
+      "docx": "templates/us/corporate/founders/founder-separation-records-checklist.docx",
+      "docx_is_publisher_original": false,
       "title": "Founder Separation Records Checklist",
       "jurisdiction": "US",
       "category": "corporate",
@@ -1940,6 +1928,8 @@
     },
     {
       "path": "templates/us/corporate/founders/founder-separation-stockholder-consent.md",
+      "docx": "templates/us/corporate/founders/founder-separation-stockholder-consent.docx",
+      "docx_is_publisher_original": false,
       "title": "Founder Separation Stockholder Consent",
       "jurisdiction": "US",
       "category": "corporate",
@@ -1973,6 +1963,8 @@
     },
     {
       "path": "templates/us/corporate/founders/founder-share-repurchase-notice.md",
+      "docx": "templates/us/corporate/founders/founder-share-repurchase-notice.docx",
+      "docx_is_publisher_original": false,
       "title": "Founder Share Repurchase Notice",
       "jurisdiction": "US",
       "category": "corporate",
@@ -2006,6 +1998,8 @@
     },
     {
       "path": "templates/us/corporate/founders/founder-stock-repurchase-agreement.md",
+      "docx": "templates/us/corporate/founders/founder-stock-repurchase-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Founder Stock Repurchase Agreement",
       "jurisdiction": "US",
       "category": "corporate",
@@ -2038,6 +2032,8 @@
     },
     {
       "path": "templates/us/corporate/mergers-and-acquisitions/closing-checklist.md",
+      "docx": "templates/us/corporate/mergers-and-acquisitions/closing-checklist.docx",
+      "docx_is_publisher_original": false,
       "title": "Closing Checklist",
       "jurisdiction": "US",
       "category": "corporate",
@@ -2070,6 +2066,8 @@
     },
     {
       "path": "templates/us/corporate/mergers-and-acquisitions/legal-due-diligence-request-list.md",
+      "docx": "templates/us/corporate/mergers-and-acquisitions/legal-due-diligence-request-list.docx",
+      "docx_is_publisher_original": false,
       "title": "Legal Due Diligence Request List",
       "jurisdiction": "US",
       "category": "corporate",
@@ -2103,6 +2101,8 @@
     },
     {
       "path": "templates/us/corporate/mergers-and-acquisitions/working-group-list.md",
+      "docx": "templates/us/corporate/mergers-and-acquisitions/working-group-list.docx",
+      "docx_is_publisher_original": false,
       "title": "Working Group List",
       "jurisdiction": "US",
       "category": "corporate",
@@ -2135,6 +2135,8 @@
     },
     {
       "path": "templates/us/corporate/shareholders-and-operating/operating-agreement--us-de--single-member.md",
+      "docx": "templates/us/corporate/shareholders-and-operating/operating-agreement--us-de--single-member.docx",
+      "docx_is_publisher_original": true,
       "title": "Operating Agreement",
       "jurisdiction": "US-DE",
       "category": "corporate",
@@ -2163,11 +2165,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
-        "file": "sources/us/corporate/shareholders-and-operating/operating-agreement--us-de--single-member.docx"
+        "file": "templates/us/corporate/shareholders-and-operating/operating-agreement--us-de--single-member.docx"
       }
     },
     {
       "path": "templates/us/dispute-resolution/demand-letters/cease-and-desist-letter.md",
+      "docx": "templates/us/dispute-resolution/demand-letters/cease-and-desist-letter.docx",
+      "docx_is_publisher_original": false,
       "title": "Cease and Desist Letter",
       "jurisdiction": "US",
       "category": "dispute-resolution",
@@ -2200,6 +2204,8 @@
     },
     {
       "path": "templates/us/dispute-resolution/demand-letters/demand-letter.md",
+      "docx": "templates/us/dispute-resolution/demand-letters/demand-letter.docx",
+      "docx_is_publisher_original": false,
       "title": "Demand Letter",
       "jurisdiction": "US",
       "category": "dispute-resolution",
@@ -2232,6 +2238,8 @@
     },
     {
       "path": "templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.md",
+      "docx": "templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.docx",
+      "docx_is_publisher_original": true,
       "title": "Model COBRA Continuation Coverage Election Notice",
       "jurisdiction": "US",
       "category": "employment",
@@ -2260,11 +2268,13 @@
       "source": {
         "name": "U.S. Department of Labor",
         "url": "https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/laws/cobra/model-election-notice.docx",
-        "file": "sources/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.docx"
+        "file": "templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.docx"
       }
     },
     {
       "path": "templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-general-notice.md",
+      "docx": "templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-general-notice.docx",
+      "docx_is_publisher_original": true,
       "title": "Model COBRA Continuation Coverage General Notice",
       "jurisdiction": "US",
       "category": "employment",
@@ -2293,11 +2303,13 @@
       "source": {
         "name": "U.S. Department of Labor",
         "url": "https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/laws/cobra/model-general-notice.docx",
-        "file": "sources/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-general-notice.docx"
+        "file": "templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-general-notice.docx"
       }
     },
     {
       "path": "templates/us/employment/confidentiality-and-ip/balanced-employee-intellectual-property-agreement.md",
+      "docx": "templates/us/employment/confidentiality-and-ip/balanced-employee-intellectual-property-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Balanced Employee Intellectual Property Agreement",
       "jurisdiction": "US",
       "category": "employment",
@@ -2332,6 +2344,8 @@
     },
     {
       "path": "templates/us/employment/confidentiality-and-ip/confidential-information-and-invention-assignment-agreement--us-nv.md",
+      "docx": "templates/us/employment/confidentiality-and-ip/confidential-information-and-invention-assignment-agreement--us-nv.docx",
+      "docx_is_publisher_original": false,
       "title": "Confidential Information and Invention Assignment Agreement",
       "jurisdiction": "US-NV",
       "category": "employment",
@@ -2366,6 +2380,8 @@
     },
     {
       "path": "templates/us/employment/confidentiality-and-ip/confidential-information-and-invention-assignment-agreement.md",
+      "docx": "templates/us/employment/confidentiality-and-ip/confidential-information-and-invention-assignment-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Confidential Information and Invention Assignment Agreement",
       "jurisdiction": "US",
       "category": "employment",
@@ -2399,6 +2415,8 @@
     },
     {
       "path": "templates/us/employment/confidentiality-and-ip/employee-confidentiality-and-non-disclosure-agreement.md",
+      "docx": "templates/us/employment/confidentiality-and-ip/employee-confidentiality-and-non-disclosure-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Confidentiality and Non-Disclosure Agreement",
       "jurisdiction": "US",
       "category": "employment",
@@ -2431,6 +2449,8 @@
     },
     {
       "path": "templates/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.md",
+      "docx": "templates/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.docx",
+      "docx_is_publisher_original": true,
       "title": "Model Employee IP and Open Source Contribution Policy",
       "jurisdiction": "US",
       "category": "employment",
@@ -2459,11 +2479,13 @@
       "source": {
         "name": "Van Lindberg (Process Mechanics)",
         "url": "https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/",
-        "file": "sources/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.docx"
+        "file": "templates/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.docx"
       }
     },
     {
       "path": "templates/us/employment/employment-agreements/employment-agreement.md",
+      "docx": "templates/us/employment/employment-agreements/employment-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Employment Agreement",
       "jurisdiction": "US",
       "category": "employment",
@@ -2498,6 +2520,8 @@
     },
     {
       "path": "templates/us/employment/offer-letters/employee-offer-letter--us-ca--exempt.md",
+      "docx": "templates/us/employment/offer-letters/employee-offer-letter--us-ca--exempt.docx",
+      "docx_is_publisher_original": true,
       "title": "Employee Offer Letter",
       "jurisdiction": "US-CA",
       "category": "employment",
@@ -2526,11 +2550,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/employee-offer-letter",
-        "file": "sources/us/employment/offer-letters/employee-offer-letter--us-ca--exempt.docx"
+        "file": "templates/us/employment/offer-letters/employee-offer-letter--us-ca--exempt.docx"
       }
     },
     {
       "path": "templates/us/employment/offer-letters/employment-offer-letter--us-ca.md",
+      "docx": "templates/us/employment/offer-letters/employment-offer-letter--us-ca.docx",
+      "docx_is_publisher_original": false,
       "title": "Employment Offer Letter",
       "jurisdiction": "US-CA",
       "category": "employment",
@@ -2564,6 +2590,8 @@
     },
     {
       "path": "templates/us/employment/offer-letters/employment-offer-letter--us-fl.md",
+      "docx": "templates/us/employment/offer-letters/employment-offer-letter--us-fl.docx",
+      "docx_is_publisher_original": false,
       "title": "Employment Offer Letter",
       "jurisdiction": "US-FL",
       "category": "employment",
@@ -2597,6 +2625,8 @@
     },
     {
       "path": "templates/us/employment/offer-letters/employment-offer-letter--us-il.md",
+      "docx": "templates/us/employment/offer-letters/employment-offer-letter--us-il.docx",
+      "docx_is_publisher_original": false,
       "title": "Employment Offer Letter",
       "jurisdiction": "US-IL",
       "category": "employment",
@@ -2630,6 +2660,8 @@
     },
     {
       "path": "templates/us/employment/offer-letters/employment-offer-letter--us-ma.md",
+      "docx": "templates/us/employment/offer-letters/employment-offer-letter--us-ma.docx",
+      "docx_is_publisher_original": false,
       "title": "Employment Offer Letter",
       "jurisdiction": "US-MA",
       "category": "employment",
@@ -2663,6 +2695,8 @@
     },
     {
       "path": "templates/us/employment/offer-letters/employment-offer-letter--us-ny.md",
+      "docx": "templates/us/employment/offer-letters/employment-offer-letter--us-ny.docx",
+      "docx_is_publisher_original": false,
       "title": "Employment Offer Letter",
       "jurisdiction": "US-NY",
       "category": "employment",
@@ -2696,6 +2730,8 @@
     },
     {
       "path": "templates/us/employment/offer-letters/employment-offer-letter--us-pa.md",
+      "docx": "templates/us/employment/offer-letters/employment-offer-letter--us-pa.docx",
+      "docx_is_publisher_original": false,
       "title": "Employment Offer Letter",
       "jurisdiction": "US-PA",
       "category": "employment",
@@ -2729,6 +2765,8 @@
     },
     {
       "path": "templates/us/employment/offer-letters/employment-offer-letter--us-tx.md",
+      "docx": "templates/us/employment/offer-letters/employment-offer-letter--us-tx.docx",
+      "docx_is_publisher_original": false,
       "title": "Employment Offer Letter",
       "jurisdiction": "US-TX",
       "category": "employment",
@@ -2762,6 +2800,8 @@
     },
     {
       "path": "templates/us/employment/offer-letters/employment-offer-letter.md",
+      "docx": "templates/us/employment/offer-letters/employment-offer-letter.docx",
+      "docx_is_publisher_original": false,
       "title": "Employment Offer Letter",
       "jurisdiction": "US",
       "category": "employment",
@@ -2794,6 +2834,8 @@
     },
     {
       "path": "templates/us/employment/policies-and-handbooks/anti-bribery-statement.md",
+      "docx": "templates/us/employment/policies-and-handbooks/anti-bribery-statement.docx",
+      "docx_is_publisher_original": false,
       "title": "Anti-Bribery Statement",
       "jurisdiction": "US",
       "category": "employment",
@@ -2827,6 +2869,8 @@
     },
     {
       "path": "templates/us/employment/policies-and-handbooks/gifts-and-entertainment-policy.md",
+      "docx": "templates/us/employment/policies-and-handbooks/gifts-and-entertainment-policy.docx",
+      "docx_is_publisher_original": false,
       "title": "Gifts and Entertainment Policy",
       "jurisdiction": "US",
       "category": "employment",
@@ -2860,6 +2904,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ak.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ak.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-AK",
       "category": "employment",
@@ -2894,6 +2940,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-al.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-al.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-AL",
       "category": "employment",
@@ -2928,6 +2976,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ar.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ar.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-AR",
       "category": "employment",
@@ -2962,6 +3012,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-az.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-az.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-AZ",
       "category": "employment",
@@ -2996,6 +3048,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ca.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ca.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-CA",
       "category": "employment",
@@ -3030,6 +3084,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-co.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-co.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-CO",
       "category": "employment",
@@ -3064,6 +3120,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ct.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ct.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-CT",
       "category": "employment",
@@ -3098,6 +3156,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-dc.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-dc.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-DC",
       "category": "employment",
@@ -3132,6 +3192,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-de.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-DE",
       "category": "employment",
@@ -3166,6 +3228,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-fl.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-fl.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-FL",
       "category": "employment",
@@ -3200,6 +3264,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ga.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ga.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-GA",
       "category": "employment",
@@ -3234,6 +3300,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-hi.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-hi.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-HI",
       "category": "employment",
@@ -3268,6 +3336,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ia.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ia.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-IA",
       "category": "employment",
@@ -3302,6 +3372,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-id.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-id.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-ID",
       "category": "employment",
@@ -3336,6 +3408,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-il.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-il.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-IL",
       "category": "employment",
@@ -3370,6 +3444,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-in.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-in.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-IN",
       "category": "employment",
@@ -3404,6 +3480,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ks.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ks.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-KS",
       "category": "employment",
@@ -3438,6 +3516,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ky.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ky.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-KY",
       "category": "employment",
@@ -3472,6 +3552,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-la.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-la.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-LA",
       "category": "employment",
@@ -3506,6 +3588,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ma.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ma.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-MA",
       "category": "employment",
@@ -3540,6 +3624,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-md.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-md.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-MD",
       "category": "employment",
@@ -3574,6 +3660,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-me.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-me.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-ME",
       "category": "employment",
@@ -3608,6 +3696,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-mi.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-mi.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-MI",
       "category": "employment",
@@ -3642,6 +3732,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-mn.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-mn.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-MN",
       "category": "employment",
@@ -3676,6 +3768,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-mo.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-mo.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-MO",
       "category": "employment",
@@ -3710,6 +3804,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ms.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ms.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-MS",
       "category": "employment",
@@ -3744,6 +3840,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-mt.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-mt.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-MT",
       "category": "employment",
@@ -3778,6 +3876,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-nc.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-nc.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-NC",
       "category": "employment",
@@ -3812,6 +3912,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-nd.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-nd.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-ND",
       "category": "employment",
@@ -3846,6 +3948,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ne.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ne.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-NE",
       "category": "employment",
@@ -3880,6 +3984,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-nh.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-nh.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-NH",
       "category": "employment",
@@ -3914,6 +4020,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-nj.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-nj.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-NJ",
       "category": "employment",
@@ -3948,6 +4056,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-nm.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-nm.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-NM",
       "category": "employment",
@@ -3982,6 +4092,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-nv.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-nv.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-NV",
       "category": "employment",
@@ -4016,6 +4128,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ny.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ny.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-NY",
       "category": "employment",
@@ -4050,6 +4164,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-oh.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-oh.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-OH",
       "category": "employment",
@@ -4084,6 +4200,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ok.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ok.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-OK",
       "category": "employment",
@@ -4118,6 +4236,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-or.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-or.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-OR",
       "category": "employment",
@@ -4152,6 +4272,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-pa.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-pa.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-PA",
       "category": "employment",
@@ -4186,6 +4308,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-pr.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-pr.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-PR",
       "category": "employment",
@@ -4220,6 +4344,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ri.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ri.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-RI",
       "category": "employment",
@@ -4254,6 +4380,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-sc.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-sc.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-SC",
       "category": "employment",
@@ -4288,6 +4416,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-sd.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-sd.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-SD",
       "category": "employment",
@@ -4322,6 +4452,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-tn.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-tn.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-TN",
       "category": "employment",
@@ -4356,6 +4488,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-tx.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-tx.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-TX",
       "category": "employment",
@@ -4390,6 +4524,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ut.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-ut.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-UT",
       "category": "employment",
@@ -4424,6 +4560,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-va.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-va.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-VA",
       "category": "employment",
@@ -4458,6 +4596,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-vt.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-vt.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-VT",
       "category": "employment",
@@ -4492,6 +4632,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-wa.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-wa.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-WA",
       "category": "employment",
@@ -4526,6 +4668,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-wi.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-wi.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-WI",
       "category": "employment",
@@ -4560,6 +4704,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-wv.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-wv.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-WV",
       "category": "employment",
@@ -4594,6 +4740,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-wy.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-wy.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Agreement",
       "jurisdiction": "US-WY",
       "category": "employment",
@@ -4628,6 +4776,8 @@
     },
     {
       "path": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-notice--us-co.md",
+      "docx": "templates/us/employment/restrictive-covenants/employee-restrictive-covenant-notice--us-co.docx",
+      "docx_is_publisher_original": false,
       "title": "Employee Restrictive Covenant Notice",
       "jurisdiction": "US-CO",
       "category": "employment",
@@ -4662,6 +4812,8 @@
     },
     {
       "path": "templates/us/employment/workplace-notices-and-forms/wage-notice-for-exempt-employees--us-ny.md",
+      "docx": "templates/us/employment/workplace-notices-and-forms/wage-notice-for-exempt-employees--us-ny.docx",
+      "docx_is_publisher_original": false,
       "title": "Wage Notice for Exempt Employees",
       "jurisdiction": "US-NY",
       "category": "employment",
@@ -4695,6 +4847,8 @@
     },
     {
       "path": "templates/us/financing/investor-agreements/bloomberg-beta-series-seed-stock-investment-agreement--us-de.md",
+      "docx": "templates/us/financing/investor-agreements/bloomberg-beta-series-seed-stock-investment-agreement--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Bloomberg Beta Series Seed Stock Investment Agreement",
       "jurisdiction": "US-DE",
       "category": "financing",
@@ -4729,6 +4883,8 @@
     },
     {
       "path": "templates/us/financing/investor-agreements/bloomberg-beta-series-seed-term-sheet--us-de.md",
+      "docx": "templates/us/financing/investor-agreements/bloomberg-beta-series-seed-term-sheet--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Bloomberg Beta Series Seed Term Sheet",
       "jurisdiction": "US-DE",
       "category": "financing",
@@ -4762,6 +4918,8 @@
     },
     {
       "path": "templates/us/financing/investor-agreements/hedge-fund-investor-questionnaire.md",
+      "docx": "templates/us/financing/investor-agreements/hedge-fund-investor-questionnaire.docx",
+      "docx_is_publisher_original": false,
       "title": "Hedge Fund Investor Questionnaire",
       "jurisdiction": "US",
       "category": "financing",
@@ -4795,6 +4953,8 @@
     },
     {
       "path": "templates/us/financing/investor-agreements/hedge-fund-private-placement-memorandum.md",
+      "docx": "templates/us/financing/investor-agreements/hedge-fund-private-placement-memorandum.docx",
+      "docx_is_publisher_original": false,
       "title": "Hedge Fund Private Placement Memorandum",
       "jurisdiction": "US",
       "category": "financing",
@@ -4828,6 +4988,8 @@
     },
     {
       "path": "templates/us/financing/investor-agreements/hedge-fund-subscription-agreement.md",
+      "docx": "templates/us/financing/investor-agreements/hedge-fund-subscription-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Hedge Fund Subscription Agreement",
       "jurisdiction": "US",
       "category": "financing",
@@ -4860,6 +5022,8 @@
     },
     {
       "path": "templates/us/financing/investor-agreements/series-seed-investor-questionnaire--us-de.md",
+      "docx": "templates/us/financing/investor-agreements/series-seed-investor-questionnaire--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Series Seed Investor Questionnaire",
       "jurisdiction": "US-DE",
       "category": "financing",
@@ -4892,6 +5056,8 @@
     },
     {
       "path": "templates/us/financing/investor-agreements/series-seed-notes-investor-questionnaire--us-de.md",
+      "docx": "templates/us/financing/investor-agreements/series-seed-notes-investor-questionnaire--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Series Seed Notes Investor Questionnaire",
       "jurisdiction": "US-DE",
       "category": "financing",
@@ -4924,6 +5090,8 @@
     },
     {
       "path": "templates/us/financing/investor-agreements/series-seed-preferred-stock-investment-agreement--us-de.md",
+      "docx": "templates/us/financing/investor-agreements/series-seed-preferred-stock-investment-agreement--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Series Seed Preferred Stock Investment Agreement",
       "jurisdiction": "US-DE",
       "category": "financing",
@@ -4958,6 +5126,8 @@
     },
     {
       "path": "templates/us/financing/investor-agreements/series-seed-term-sheet--us-de.md",
+      "docx": "templates/us/financing/investor-agreements/series-seed-term-sheet--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Series Seed Term Sheet",
       "jurisdiction": "US-DE",
       "category": "financing",
@@ -4991,6 +5161,8 @@
     },
     {
       "path": "templates/us/financing/investor-agreements/venture-financing-due-diligence-request-list.md",
+      "docx": "templates/us/financing/investor-agreements/venture-financing-due-diligence-request-list.docx",
+      "docx_is_publisher_original": false,
       "title": "Venture Financing Due Diligence Request List",
       "jurisdiction": "US",
       "category": "financing",
@@ -5024,6 +5196,8 @@
     },
     {
       "path": "templates/us/intellectual-property/copyright-and-content/copyright-infringement-notification-policy.md",
+      "docx": "templates/us/intellectual-property/copyright-and-content/copyright-infringement-notification-policy.docx",
+      "docx_is_publisher_original": false,
       "title": "Copyright Infringement Notification Policy",
       "jurisdiction": "US",
       "category": "intellectual-property",
@@ -5057,6 +5231,8 @@
     },
     {
       "path": "templates/us/intellectual-property/copyright-and-content/dmca-notice-and-takedown-procedure.md",
+      "docx": "templates/us/intellectual-property/copyright-and-content/dmca-notice-and-takedown-procedure.docx",
+      "docx_is_publisher_original": false,
       "title": "DMCA Notice and Takedown Procedure",
       "jurisdiction": "US",
       "category": "intellectual-property",
@@ -5090,6 +5266,8 @@
     },
     {
       "path": "templates/us/intellectual-property/copyright-and-content/dmca-takedown-policy.md",
+      "docx": "templates/us/intellectual-property/copyright-and-content/dmca-takedown-policy.docx",
+      "docx_is_publisher_original": false,
       "title": "DMCA Takedown Policy",
       "jurisdiction": "US",
       "category": "intellectual-property",
@@ -5123,6 +5301,8 @@
     },
     {
       "path": "templates/us/intellectual-property/copyright-and-content/guide-to-submitting-a-dmca-counter-notice.md",
+      "docx": "templates/us/intellectual-property/copyright-and-content/guide-to-submitting-a-dmca-counter-notice.docx",
+      "docx_is_publisher_original": false,
       "title": "Guide to Submitting a DMCA Counter Notice",
       "jurisdiction": "US",
       "category": "intellectual-property",
@@ -5155,6 +5335,8 @@
     },
     {
       "path": "templates/us/intellectual-property/copyright-and-content/guide-to-submitting-a-dmca-takedown-notice.md",
+      "docx": "templates/us/intellectual-property/copyright-and-content/guide-to-submitting-a-dmca-takedown-notice.docx",
+      "docx_is_publisher_original": false,
       "title": "Guide to Submitting a DMCA Takedown Notice",
       "jurisdiction": "US",
       "category": "intellectual-property",
@@ -5187,6 +5369,8 @@
     },
     {
       "path": "templates/us/intellectual-property/trademark/github-logo-policy.md",
+      "docx": "templates/us/intellectual-property/trademark/github-logo-policy.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Logo Policy",
       "jurisdiction": "US",
       "category": "intellectual-property",
@@ -5218,6 +5402,8 @@
     },
     {
       "path": "templates/us/intellectual-property/trademark/github-trademark-policy.md",
+      "docx": "templates/us/intellectual-property/trademark/github-trademark-policy.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Trademark Policy",
       "jurisdiction": "US",
       "category": "intellectual-property",
@@ -5250,6 +5436,8 @@
     },
     {
       "path": "templates/us/marketing-and-media/events/github-event-code-of-conduct.md",
+      "docx": "templates/us/marketing-and-media/events/github-event-code-of-conduct.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Event Code of Conduct",
       "jurisdiction": "US",
       "category": "marketing-and-media",
@@ -5281,6 +5469,8 @@
     },
     {
       "path": "templates/us/marketing-and-media/events/github-event-terms.md",
+      "docx": "templates/us/marketing-and-media/events/github-event-terms.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Event Terms",
       "jurisdiction": "US",
       "category": "marketing-and-media",
@@ -5313,6 +5503,8 @@
     },
     {
       "path": "templates/us/partnerships/collaboration-and-mou/common-paper-letter-of-intent.md",
+      "docx": "templates/us/partnerships/collaboration-and-mou/common-paper-letter-of-intent.docx",
+      "docx_is_publisher_original": true,
       "title": "Common Paper Letter of Intent",
       "jurisdiction": "US",
       "category": "partnerships",
@@ -5340,11 +5532,13 @@
       "source": {
         "name": "Common Paper",
         "url": "https://commonpaper.com/documents/letter-of-intent/",
-        "file": "sources/us/partnerships/collaboration-and-mou/common-paper-letter-of-intent.docx"
+        "file": "templates/us/partnerships/collaboration-and-mou/common-paper-letter-of-intent.docx"
       }
     },
     {
       "path": "templates/us/partnerships/collaboration-and-mou/common-paper-partnership-agreement.md",
+      "docx": "templates/us/partnerships/collaboration-and-mou/common-paper-partnership-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Common Paper Partnership Agreement",
       "jurisdiction": "US",
       "category": "partnerships",
@@ -5379,6 +5573,8 @@
     },
     {
       "path": "templates/us/partnerships/collaboration-and-mou/common-paper-term-sheet.md",
+      "docx": "templates/us/partnerships/collaboration-and-mou/common-paper-term-sheet.docx",
+      "docx_is_publisher_original": true,
       "title": "Common Paper Term Sheet",
       "jurisdiction": "US",
       "category": "partnerships",
@@ -5406,11 +5602,13 @@
       "source": {
         "name": "Common Paper",
         "url": "https://commonpaper.com/documents/term-sheet/",
-        "file": "sources/us/partnerships/collaboration-and-mou/common-paper-term-sheet.docx"
+        "file": "templates/us/partnerships/collaboration-and-mou/common-paper-term-sheet.docx"
       }
     },
     {
       "path": "templates/us/partnerships/general-partnership/hedge-fund-limited-partnership-agreement--us-de.md",
+      "docx": "templates/us/partnerships/general-partnership/hedge-fund-limited-partnership-agreement--us-de.docx",
+      "docx_is_publisher_original": false,
       "title": "Hedge Fund Limited Partnership Agreement",
       "jurisdiction": "US-DE",
       "category": "partnerships",
@@ -5444,6 +5642,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/acceptable-use/bonterms-acceptable-use-policy.md",
+      "docx": "templates/us/privacy-and-data/acceptable-use/bonterms-acceptable-use-policy.docx",
+      "docx_is_publisher_original": true,
       "title": "Bonterms Acceptable Use Policy",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5470,11 +5670,13 @@
       "source": {
         "name": "Bonterms",
         "url": "https://bonterms.com/resources/acceptable-use-policy-version-1-0",
-        "file": "sources/us/privacy-and-data/acceptable-use/bonterms-acceptable-use-policy.docx"
+        "file": "templates/us/privacy-and-data/acceptable-use/bonterms-acceptable-use-policy.docx"
       }
     },
     {
       "path": "templates/us/privacy-and-data/acceptable-use/github-acceptable-use-policies.md",
+      "docx": "templates/us/privacy-and-data/acceptable-use/github-acceptable-use-policies.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Acceptable Use Policies",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5506,6 +5708,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/acceptable-use/github-community-code-of-conduct.md",
+      "docx": "templates/us/privacy-and-data/acceptable-use/github-community-code-of-conduct.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Community Code of Conduct",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5537,6 +5741,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/acceptable-use/github-community-guidelines.md",
+      "docx": "templates/us/privacy-and-data/acceptable-use/github-community-guidelines.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Community Guidelines",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5568,6 +5774,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/acceptable-use/use-restrictions-policy.md",
+      "docx": "templates/us/privacy-and-data/acceptable-use/use-restrictions-policy.docx",
+      "docx_is_publisher_original": false,
       "title": "Use Restrictions Policy",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5600,6 +5808,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/cookie-policy/cookie-notice.md",
+      "docx": "templates/us/privacy-and-data/cookie-policy/cookie-notice.docx",
+      "docx_is_publisher_original": true,
       "title": "Cookie Notice",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5627,11 +5837,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/cookie-notice",
-        "file": "sources/us/privacy-and-data/cookie-policy/cookie-notice.docx"
+        "file": "templates/us/privacy-and-data/cookie-policy/cookie-notice.docx"
       }
     },
     {
       "path": "templates/us/privacy-and-data/cookie-policy/github-cookies-policy.md",
+      "docx": "templates/us/privacy-and-data/cookie-policy/github-cookies-policy.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Cookies Policy",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5663,38 +5875,9 @@
       }
     },
     {
-      "path": "templates/us/privacy-and-data/data-processing/bonterms-baa-cover-page.md",
-      "title": "Bonterms BAA Cover Page",
-      "jurisdiction": "US",
-      "category": "privacy-and-data",
-      "subcategory": "data-processing",
-      "type": "form",
-      "variant": null,
-      "parties": [
-        "covered-entity",
-        "business-associate"
-      ],
-      "tags": [
-        "cover-page",
-        "baa",
-        "hipaa",
-        "bonterms"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC0-1.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "Example cover page for the Bonterms Business Associate Agreement.",
-      "source": {
-        "name": "Bonterms",
-        "url": "https://bonterms.com/resources/baa-cover-page-example",
-        "file": "sources/us/privacy-and-data/data-processing/bonterms-baa-cover-page.docx"
-      }
-    },
-    {
       "path": "templates/us/privacy-and-data/data-processing/bonterms-business-associate-agreement.md",
+      "docx": "templates/us/privacy-and-data/data-processing/bonterms-business-associate-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Bonterms Business Associate Agreement",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5728,6 +5911,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/data-processing/bonterms-data-protection-addendum.md",
+      "docx": "templates/us/privacy-and-data/data-processing/bonterms-data-protection-addendum.docx",
+      "docx_is_publisher_original": false,
       "title": "Bonterms Data Protection Addendum",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5762,39 +5947,9 @@
       }
     },
     {
-      "path": "templates/us/privacy-and-data/data-processing/bonterms-dpa-cover-page.md",
-      "title": "Bonterms DPA Cover Page",
-      "jurisdiction": "US",
-      "category": "privacy-and-data",
-      "subcategory": "data-processing",
-      "type": "form",
-      "variant": null,
-      "parties": [
-        "provider",
-        "customer"
-      ],
-      "tags": [
-        "cover-page",
-        "dpa",
-        "gdpr",
-        "processing-details",
-        "bonterms"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC0-1.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "Example cover page for the Bonterms Data Protection Addendum (Version 2.0): key terms, processing details and additional terms.",
-      "source": {
-        "name": "Bonterms",
-        "url": "https://bonterms.com/resources/example-dpa-cover-page-v2",
-        "file": "sources/us/privacy-and-data/data-processing/bonterms-dpa-cover-page.docx"
-      }
-    },
-    {
       "path": "templates/us/privacy-and-data/data-processing/business-associate-agreement.md",
+      "docx": "templates/us/privacy-and-data/data-processing/business-associate-agreement.docx",
+      "docx_is_publisher_original": true,
       "title": "Business Associate Agreement",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5821,11 +5976,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/business-associate-agreement-baa",
-        "file": "sources/us/privacy-and-data/data-processing/business-associate-agreement.docx"
+        "file": "templates/us/privacy-and-data/data-processing/business-associate-agreement.docx"
       }
     },
     {
       "path": "templates/us/privacy-and-data/data-processing/common-paper-business-associate-agreement.md",
+      "docx": "templates/us/privacy-and-data/data-processing/common-paper-business-associate-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Common Paper Business Associate Agreement",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5859,6 +6016,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/data-processing/common-paper-data-processing-agreement.md",
+      "docx": "templates/us/privacy-and-data/data-processing/common-paper-data-processing-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Common Paper Data Processing Agreement",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5893,6 +6052,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/data-processing/data-processing-addendum--global.md",
+      "docx": "templates/us/privacy-and-data/data-processing/data-processing-addendum--global.docx",
+      "docx_is_publisher_original": true,
       "title": "Data Processing Addendum",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5922,11 +6083,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/data-processing-addendum-dpa-u-s-and-european-personal-data",
-        "file": "sources/us/privacy-and-data/data-processing/data-processing-addendum--global.docx"
+        "file": "templates/us/privacy-and-data/data-processing/data-processing-addendum--global.docx"
       }
     },
     {
       "path": "templates/us/privacy-and-data/data-processing/data-processing-addendum--us-only.md",
+      "docx": "templates/us/privacy-and-data/data-processing/data-processing-addendum--us-only.docx",
+      "docx_is_publisher_original": true,
       "title": "Data Processing Addendum",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5954,11 +6117,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/data-processing-addendum-dpa",
-        "file": "sources/us/privacy-and-data/data-processing/data-processing-addendum--us-only.docx"
+        "file": "templates/us/privacy-and-data/data-processing/data-processing-addendum--us-only.docx"
       }
     },
     {
       "path": "templates/us/privacy-and-data/privacy-policy/creative-commons-privacy-policy.md",
+      "docx": "templates/us/privacy-and-data/privacy-policy/creative-commons-privacy-policy.docx",
+      "docx_is_publisher_original": false,
       "title": "Creative Commons Privacy Policy",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -5991,6 +6156,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/privacy-policy/github-general-privacy-statement.md",
+      "docx": "templates/us/privacy-and-data/privacy-policy/github-general-privacy-statement.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub General Privacy Statement",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -6023,6 +6190,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/privacy-policy/global-data-privacy-notice-for-candidates.md",
+      "docx": "templates/us/privacy-and-data/privacy-policy/global-data-privacy-notice-for-candidates.docx",
+      "docx_is_publisher_original": false,
       "title": "Global Data Privacy Notice for Candidates",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -6056,6 +6225,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/privacy-policy/privacy-policy--gdpr-enhanced.md",
+      "docx": "templates/us/privacy-and-data/privacy-policy/privacy-policy--gdpr-enhanced.docx",
+      "docx_is_publisher_original": true,
       "title": "Privacy Policy",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -6084,11 +6255,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/privacy-policy-gdpr-enhanced",
-        "file": "sources/us/privacy-and-data/privacy-policy/privacy-policy--gdpr-enhanced.docx"
+        "file": "templates/us/privacy-and-data/privacy-policy/privacy-policy--gdpr-enhanced.docx"
       }
     },
     {
       "path": "templates/us/privacy-and-data/privacy-policy/privacy-policy--short-form.md",
+      "docx": "templates/us/privacy-and-data/privacy-policy/privacy-policy--short-form.docx",
+      "docx_is_publisher_original": false,
       "title": "Privacy Policy",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -6122,6 +6295,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/privacy-policy/privacy-policy--us-only.md",
+      "docx": "templates/us/privacy-and-data/privacy-policy/privacy-policy--us-only.docx",
+      "docx_is_publisher_original": true,
       "title": "Privacy Policy",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -6149,11 +6324,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/privacy-policy-u-s-only",
-        "file": "sources/us/privacy-and-data/privacy-policy/privacy-policy--us-only.docx"
+        "file": "templates/us/privacy-and-data/privacy-policy/privacy-policy--us-only.docx"
       }
     },
     {
       "path": "templates/us/privacy-and-data/privacy-policy/privacy-policy.md",
+      "docx": "templates/us/privacy-and-data/privacy-policy/privacy-policy.docx",
+      "docx_is_publisher_original": false,
       "title": "Privacy Policy",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -6187,6 +6364,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/website-terms/creative-commons-master-terms-of-use.md",
+      "docx": "templates/us/privacy-and-data/website-terms/creative-commons-master-terms-of-use.docx",
+      "docx_is_publisher_original": false,
       "title": "Creative Commons Master Terms of Use",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -6219,6 +6398,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/website-terms/github-corporate-terms-of-service.md",
+      "docx": "templates/us/privacy-and-data/website-terms/github-corporate-terms-of-service.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Corporate Terms of Service",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -6251,6 +6432,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/website-terms/github-terms-of-service.md",
+      "docx": "templates/us/privacy-and-data/website-terms/github-terms-of-service.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Terms of Service",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -6283,6 +6466,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/website-terms/terms-of-service.md",
+      "docx": "templates/us/privacy-and-data/website-terms/terms-of-service.docx",
+      "docx_is_publisher_original": false,
       "title": "Terms of Service",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -6314,6 +6499,8 @@
     },
     {
       "path": "templates/us/privacy-and-data/website-terms/terms-of-use.md",
+      "docx": "templates/us/privacy-and-data/website-terms/terms-of-use.docx",
+      "docx_is_publisher_original": true,
       "title": "Terms of Use",
       "jurisdiction": "US",
       "category": "privacy-and-data",
@@ -6341,11 +6528,13 @@
       "source": {
         "name": "General Legal",
         "url": "https://general.legal/library/terms-of-use",
-        "file": "sources/us/privacy-and-data/website-terms/terms-of-use.docx"
+        "file": "templates/us/privacy-and-data/website-terms/terms-of-use.docx"
       }
     },
     {
       "path": "templates/us/real-estate/residential-lease/lease-termination-notice.md",
+      "docx": "templates/us/real-estate/residential-lease/lease-termination-notice.docx",
+      "docx_is_publisher_original": false,
       "title": "Lease Termination Notice",
       "jurisdiction": "US",
       "category": "real-estate",
@@ -6378,6 +6567,8 @@
     },
     {
       "path": "templates/us/real-estate/residential-lease/security-deposit-return-demand.md",
+      "docx": "templates/us/real-estate/residential-lease/security-deposit-return-demand.docx",
+      "docx_is_publisher_original": false,
       "title": "Security Deposit Return Demand",
       "jurisdiction": "US",
       "category": "real-estate",
@@ -6410,6 +6601,8 @@
     },
     {
       "path": "templates/us/technology/api-terms/github-marketplace-developer-agreement.md",
+      "docx": "templates/us/technology/api-terms/github-marketplace-developer-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Marketplace Developer Agreement",
       "jurisdiction": "US",
       "category": "technology",
@@ -6443,6 +6636,8 @@
     },
     {
       "path": "templates/us/technology/eula/github-open-source-applications-terms-and-conditions.md",
+      "docx": "templates/us/technology/eula/github-open-source-applications-terms-and-conditions.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Open Source Applications Terms and Conditions",
       "jurisdiction": "US",
       "category": "technology",
@@ -6475,6 +6670,8 @@
     },
     {
       "path": "templates/us/technology/hosting-and-cloud/bonterms-service-level-agreement.md",
+      "docx": "templates/us/technology/hosting-and-cloud/bonterms-service-level-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Bonterms Service Level Agreement",
       "jurisdiction": "US",
       "category": "technology",
@@ -6508,6 +6705,8 @@
     },
     {
       "path": "templates/us/technology/hosting-and-cloud/common-paper-service-level-agreement.md",
+      "docx": "templates/us/technology/hosting-and-cloud/common-paper-service-level-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Common Paper Service Level Agreement",
       "jurisdiction": "US",
       "category": "technology",
@@ -6541,6 +6740,8 @@
     },
     {
       "path": "templates/us/technology/hosting-and-cloud/service-level-agreement.md",
+      "docx": "templates/us/technology/hosting-and-cloud/service-level-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Service Level Agreement",
       "jurisdiction": "US",
       "category": "technology",
@@ -6573,38 +6774,9 @@
       }
     },
     {
-      "path": "templates/us/technology/saas/bonterms-ai-addendum-cover-page.md",
-      "title": "Bonterms AI Addendum Cover Page",
-      "jurisdiction": "US",
-      "category": "technology",
-      "subcategory": "saas",
-      "type": "form",
-      "variant": null,
-      "parties": [
-        "provider",
-        "customer"
-      ],
-      "tags": [
-        "cover-page",
-        "ai",
-        "addendum",
-        "bonterms"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC0-1.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "Example cover page for the Bonterms AI Addendum.",
-      "source": {
-        "name": "Bonterms",
-        "url": "https://bonterms.com/resources/ai-addendum-cover-page-example",
-        "file": "sources/us/technology/saas/bonterms-ai-addendum-cover-page.docx"
-      }
-    },
-    {
       "path": "templates/us/technology/saas/bonterms-ai-addendum.md",
+      "docx": "templates/us/technology/saas/bonterms-ai-addendum.docx",
+      "docx_is_publisher_original": false,
       "title": "Bonterms AI Addendum",
       "jurisdiction": "US",
       "category": "technology",
@@ -6638,39 +6810,9 @@
       }
     },
     {
-      "path": "templates/us/technology/saas/bonterms-cloud-terms-cover-page.md",
-      "title": "Bonterms Cloud Terms Cover Page",
-      "jurisdiction": "US",
-      "category": "technology",
-      "subcategory": "saas",
-      "type": "form",
-      "variant": null,
-      "parties": [
-        "provider",
-        "customer"
-      ],
-      "tags": [
-        "cover-page",
-        "saas",
-        "cloud",
-        "key-terms",
-        "bonterms"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC0-1.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "Example cover page for an agreement on the Bonterms Cloud Terms: key terms, attachments and additional terms.",
-      "source": {
-        "name": "Bonterms",
-        "url": "https://bonterms.com/resources/cloud-terms-cover-page-example",
-        "file": "sources/us/technology/saas/bonterms-cloud-terms-cover-page.docx"
-      }
-    },
-    {
       "path": "templates/us/technology/saas/bonterms-cloud-terms-order-form.md",
+      "docx": "templates/us/technology/saas/bonterms-cloud-terms-order-form.docx",
+      "docx_is_publisher_original": true,
       "title": "Bonterms Cloud Terms Order Form",
       "jurisdiction": "US",
       "category": "technology",
@@ -6698,11 +6840,13 @@
       "source": {
         "name": "Bonterms",
         "url": "https://bonterms.com/resources/order-form-example",
-        "file": "sources/us/technology/saas/bonterms-cloud-terms-order-form.docx"
+        "file": "templates/us/technology/saas/bonterms-cloud-terms-order-form.docx"
       }
     },
     {
       "path": "templates/us/technology/saas/bonterms-cloud-terms.md",
+      "docx": "templates/us/technology/saas/bonterms-cloud-terms.docx",
+      "docx_is_publisher_original": false,
       "title": "Bonterms Cloud Terms",
       "jurisdiction": "US",
       "category": "technology",
@@ -6736,6 +6880,8 @@
     },
     {
       "path": "templates/us/technology/saas/common-paper-ai-addendum.md",
+      "docx": "templates/us/technology/saas/common-paper-ai-addendum.docx",
+      "docx_is_publisher_original": false,
       "title": "Common Paper AI Addendum",
       "jurisdiction": "US",
       "category": "technology",
@@ -6770,6 +6916,8 @@
     },
     {
       "path": "templates/us/technology/saas/common-paper-cloud-service-agreement.md",
+      "docx": "templates/us/technology/saas/common-paper-cloud-service-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Common Paper Cloud Service Agreement",
       "jurisdiction": "US",
       "category": "technology",
@@ -6803,6 +6951,8 @@
     },
     {
       "path": "templates/us/technology/saas/common-paper-design-partner-agreement.md",
+      "docx": "templates/us/technology/saas/common-paper-design-partner-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Common Paper Design Partner Agreement",
       "jurisdiction": "US",
       "category": "technology",
@@ -6837,6 +6987,8 @@
     },
     {
       "path": "templates/us/technology/saas/common-paper-order-form--with-sla.md",
+      "docx": "templates/us/technology/saas/common-paper-order-form--with-sla.docx",
+      "docx_is_publisher_original": true,
       "title": "Common Paper Order Form",
       "jurisdiction": "US",
       "category": "technology",
@@ -6865,11 +7017,13 @@
       "source": {
         "name": "Common Paper",
         "url": "https://commonpaper.com/documents/order-form/",
-        "file": "sources/us/technology/saas/common-paper-order-form--with-sla.docx"
+        "file": "templates/us/technology/saas/common-paper-order-form--with-sla.docx"
       }
     },
     {
       "path": "templates/us/technology/saas/common-paper-order-form.md",
+      "docx": "templates/us/technology/saas/common-paper-order-form.docx",
+      "docx_is_publisher_original": true,
       "title": "Common Paper Order Form",
       "jurisdiction": "US",
       "category": "technology",
@@ -6897,11 +7051,13 @@
       "source": {
         "name": "Common Paper",
         "url": "https://commonpaper.com/documents/order-form/",
-        "file": "sources/us/technology/saas/common-paper-order-form.docx"
+        "file": "templates/us/technology/saas/common-paper-order-form.docx"
       }
     },
     {
       "path": "templates/us/technology/saas/common-paper-pilot-agreement.md",
+      "docx": "templates/us/technology/saas/common-paper-pilot-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Common Paper Pilot Agreement",
       "jurisdiction": "US",
       "category": "technology",
@@ -6935,6 +7091,8 @@
     },
     {
       "path": "templates/us/technology/saas/github-educational-use-agreement.md",
+      "docx": "templates/us/technology/saas/github-educational-use-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Educational Use Agreement",
       "jurisdiction": "US",
       "category": "technology",
@@ -6967,6 +7125,8 @@
     },
     {
       "path": "templates/us/technology/saas/slipstream-software-service-terms.md",
+      "docx": "templates/us/technology/saas/slipstream-software-service-terms.docx",
+      "docx_is_publisher_original": false,
       "title": "Slipstream Software Service Terms",
       "jurisdiction": "US",
       "category": "technology",
@@ -7000,6 +7160,8 @@
     },
     {
       "path": "templates/us/technology/security-and-disclosure/bug-bounty-program-legal-safe-harbor.md",
+      "docx": "templates/us/technology/security-and-disclosure/bug-bounty-program-legal-safe-harbor.docx",
+      "docx_is_publisher_original": false,
       "title": "Bug Bounty Program Legal Safe Harbor",
       "jurisdiction": "US",
       "category": "technology",
@@ -7032,6 +7194,8 @@
     },
     {
       "path": "templates/us/technology/security-and-disclosure/coordinated-disclosure-of-security-vulnerabilities.md",
+      "docx": "templates/us/technology/security-and-disclosure/coordinated-disclosure-of-security-vulnerabilities.docx",
+      "docx_is_publisher_original": false,
       "title": "Coordinated Disclosure of Security Vulnerabilities",
       "jurisdiction": "US",
       "category": "technology",
@@ -7062,38 +7226,9 @@
       }
     },
     {
-      "path": "templates/us/technology/software-license/bonterms-software-license-terms-cover-page.md",
-      "title": "Bonterms Software License Terms Cover Page",
-      "jurisdiction": "US",
-      "category": "technology",
-      "subcategory": "software-license",
-      "type": "form",
-      "variant": null,
-      "parties": [
-        "licensor",
-        "customer"
-      ],
-      "tags": [
-        "cover-page",
-        "software-license",
-        "key-terms",
-        "bonterms"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC0-1.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "Example cover page for an agreement on the Bonterms Software License Terms.",
-      "source": {
-        "name": "Bonterms",
-        "url": "https://bonterms.com/resources/software-license-terms-cover-page-example",
-        "file": "sources/us/technology/software-license/bonterms-software-license-terms-cover-page.docx"
-      }
-    },
-    {
       "path": "templates/us/technology/software-license/bonterms-software-license-terms.md",
+      "docx": "templates/us/technology/software-license/bonterms-software-license-terms.docx",
+      "docx_is_publisher_original": false,
       "title": "Bonterms Software License Terms",
       "jurisdiction": "US",
       "category": "technology",
@@ -7126,6 +7261,8 @@
     },
     {
       "path": "templates/us/technology/software-license/common-paper-software-license-agreement.md",
+      "docx": "templates/us/technology/software-license/common-paper-software-license-agreement.docx",
+      "docx_is_publisher_original": false,
       "title": "Common Paper Software License Agreement",
       "jurisdiction": "US",
       "category": "technology",
@@ -7159,6 +7296,8 @@
     },
     {
       "path": "templates/us/technology/software-license/github-pre-release-license-terms.md",
+      "docx": "templates/us/technology/software-license/github-pre-release-license-terms.docx",
+      "docx_is_publisher_original": false,
       "title": "GitHub Pre-release License Terms",
       "jurisdiction": "US",
       "category": "technology",
@@ -7191,6 +7330,8 @@
     },
     {
       "path": "templates/us/technology/support-and-maintenance/bonterms-support-policy.md",
+      "docx": "templates/us/technology/support-and-maintenance/bonterms-support-policy.docx",
+      "docx_is_publisher_original": true,
       "title": "Bonterms Support Policy",
       "jurisdiction": "US",
       "category": "technology",
@@ -7218,7 +7359,7 @@
       "source": {
         "name": "Bonterms",
         "url": "https://bonterms.com/resources/support-policy-version-1-0",
-        "file": "sources/us/technology/support-and-maintenance/bonterms-support-policy.docx"
+        "file": "templates/us/technology/support-and-maintenance/bonterms-support-policy.docx"
       }
     }
   ]

@@ -6,12 +6,15 @@
   "license": "MIT",
   "scripts": {
     "validate": "node scripts/catalog.js validate",
-    "build": "node scripts/catalog.js build",
-    "check": "node scripts/catalog.js validate && node scripts/catalog.js build --check",
+    "build": "node scripts/build-docx.js && node scripts/catalog.js build",
+    "build:docx": "node scripts/build-docx.js --force",
+    "check": "node scripts/build-docx.js --check && node scripts/catalog.js validate && node scripts/catalog.js build --check",
     "new": "node scripts/catalog.js new"
   },
   "dependencies": {
-    "js-yaml": "^4.1.0"
+    "docx": "^9.15.4",
+    "js-yaml": "^4.1.0",
+    "marked": "^15.0.12"
   },
   "engines": {
     "node": ">=18"

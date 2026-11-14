@@ -19,7 +19,7 @@ language: en
 source:
   name: General Legal
   url: https://general.legal/library/employee-offer-letter
-  file: sources/us/employment/offer-letters/employee-offer-letter--us-ca--exempt.docx
+  file: templates/us/employment/offer-letters/employee-offer-letter--us-ca--exempt.docx
   retrieved: "2026-11-14"
   notes: >-
     From General Legal's template library (general.legal/library states "Our templates are released under a CC0 1.0

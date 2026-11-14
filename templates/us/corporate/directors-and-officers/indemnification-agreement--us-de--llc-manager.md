@@ -17,7 +17,7 @@ language: en
 source:
   name: General Legal
   url: https://general.legal/library/agent-operated-company-formation-package
-  file: sources/us/corporate/directors-and-officers/indemnification-agreement--us-de--llc-manager.docx
+  file: templates/us/corporate/directors-and-officers/indemnification-agreement--us-de--llc-manager.docx
   retrieved: "2026-11-14"
   notes: >-
     From General Legal's "Agent-Operated Company Formation Package" (general.legal/library states all templates are

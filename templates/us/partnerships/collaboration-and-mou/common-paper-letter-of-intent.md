@@ -17,7 +17,7 @@ language: en
 source:
   name: Common Paper
   url: https://commonpaper.com/documents/letter-of-intent/
-  file: sources/us/partnerships/collaboration-and-mou/common-paper-letter-of-intent.docx
+  file: templates/us/partnerships/collaboration-and-mou/common-paper-letter-of-intent.docx
   retrieved: "2026-11-14"
   notes: >-
     The document page at https://commonpaper.com/documents/letter-of-intent/ states "This document is free to use or

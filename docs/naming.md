@@ -29,9 +29,11 @@ Rules the validator enforces:
 4. If `variant` is set, the last segment must equal it; if the last segment is not a jurisdiction code, `variant` must be set to it.
 5. `README.md` is the only non-template Markdown file allowed under `templates/`.
 
-Original source files (docx, pdf) use the same name under `sources/` with their own extension:
+Every template has a Word file of the same name beside it:
 
 ```
 templates/us/employment/executive/executive-employment-agreement--us-ca.md
-sources/us/employment/executive/executive-employment-agreement--us-ca.docx
+templates/us/employment/executive/executive-employment-agreement--us-ca.docx
 ```
+
+The `.docx` is the publisher's original when `source.file` points at it; otherwise `npm run build` generates it from the Markdown. No other file types belong under `templates/`.

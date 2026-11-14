@@ -20,7 +20,7 @@ language: en
 source:
   name: General Legal
   url: https://general.legal/library/data-processing-addendum-dpa-u-s-and-european-personal-data
-  file: sources/us/privacy-and-data/data-processing/data-processing-addendum--global.docx
+  file: templates/us/privacy-and-data/data-processing/data-processing-addendum--global.docx
   retrieved: "2026-11-14"
   notes: >-
     From General Legal's template library (general.legal/library states "Our templates are released under a CC0 1.0

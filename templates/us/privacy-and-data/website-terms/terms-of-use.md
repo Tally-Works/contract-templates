@@ -17,7 +17,7 @@ language: en
 source:
   name: General Legal
   url: https://general.legal/library/terms-of-use
-  file: sources/us/privacy-and-data/website-terms/terms-of-use.docx
+  file: templates/us/privacy-and-data/website-terms/terms-of-use.docx
   retrieved: "2026-11-14"
   notes: >-
     From General Legal's template library (general.legal/library states "Our templates are released under a CC0 1.0

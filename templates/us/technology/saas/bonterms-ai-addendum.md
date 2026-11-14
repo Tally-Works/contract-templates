@@ -25,6 +25,8 @@ source:
     unchanged; the copyright and "Free to use under CC BY 4.0" footer is kept. Bonterms states at
     bonterms.com/download-center that its Standard Agreements are released under CC BY 4.0 unless otherwise noted; this
     one carries the CC BY 4.0 footer.
+    The example cover page published by Bonterms under CC0 at https://bonterms.com/resources/ai-addendum-cover-page-example is merged in above the standard terms so the
+    template is complete on its own.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -39,6 +41,43 @@ summary: >-
 # Bonterms AI Addendum
 *AI Addendum v2.0*
 *(Cover Page Version)*
+
+> **Drafting note:** This file is complete on its own. Fill in and sign the cover page below; it incorporates the standard terms that follow it. Bonterms publishes the cover page as a CC0 example and the standard terms under CC BY 4.0.
+
+## Cover Page
+
+**Cover Page
+for Bonterms Standard AI Addendum**
+
+**By executing this Cover Page, Customer and Provider enter into the Bonterms Standard AI Addendum Version 2.0 (Cover Page Version) (available at [https://bonterms.com/standard/ai-addendum-v2-cover-page-version](https://bonterms.com/standard/ai-addendum-v2-cover-page-version)) by this reference. A reference copy may be attached. The AI Addendum also includes the contents of this Cover Page, including the Key Terms and any Additional Terms. Capitalized terms not defined in this Cover Page have the meanings given in the AI Addendum.**
+
+**Key Terms**
+
+**Main Agreement**
+This AI Addendum is incorporated into the agreement between Customer and Provider identified below:
+***[Name/date of Main Agreement]***
+
+**AI Addendum Effective Date**
+***[Fill in]***
+
+**Additional Terms**
+
+**The following additions to or modifications of the AI Addendum are agreed by the parties and control in the event of any conflicts:**
+
+**Signatures**
+
+**Agreed to as of the AI Addendum Effective Date by each party’s authorized representative:**
+
+**
+Customer:Signature: Name and Title:Company: Date:**
+**
+Provider**:
+Signature:
+Name and Title:
+Company:
+Date:
+
+## Standard Terms
 
 #
 

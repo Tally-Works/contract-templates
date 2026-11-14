@@ -19,7 +19,7 @@ language: en
 source:
   name: Common Paper
   url: https://commonpaper.com/documents/order-form/
-  file: sources/us/technology/saas/common-paper-order-form--with-sla.docx
+  file: templates/us/technology/saas/common-paper-order-form--with-sla.docx
   retrieved: "2026-11-14"
   notes: >-
     The document page at https://commonpaper.com/documents/order-form/ states "This document is free to use or modify
@@ -37,6 +37,8 @@ summary: >-
 ---
 
 # Common Paper Order Form
+
+> **Drafting note:** This order form incorporates the Common Paper Cloud Service Agreement and Service Level Agreement standard terms, both of which are in this library: templates/us/technology/saas/common-paper-cloud-service-agreement.md and templates/us/technology/hosting-and-cloud/common-paper-service-level-agreement.md.
 
 **Order Form**
 

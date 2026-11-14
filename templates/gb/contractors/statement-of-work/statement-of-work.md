@@ -17,7 +17,7 @@ language: en
 source:
   name: Documize
   url: https://github.com/documize/document-templates
-  file: sources/gb/contractors/statement-of-work/statement-of-work.docx
+  file: templates/gb/contractors/statement-of-work/statement-of-work.docx
   retrieved: "2026-11-14"
   notes: >-
     Converted from the docx in github.com/documize/document-templates (LICENSE: MIT, 2015; the repository's own Markdown

@@ -17,7 +17,7 @@ language: en
 source:
   name: Common Paper
   url: https://commonpaper.com/documents/term-sheet/
-  file: sources/us/partnerships/collaboration-and-mou/common-paper-term-sheet.docx
+  file: templates/us/partnerships/collaboration-and-mou/common-paper-term-sheet.docx
   retrieved: "2026-11-14"
   notes: >-
     The document page at https://commonpaper.com/documents/term-sheet/ states "This document is free to use or modify

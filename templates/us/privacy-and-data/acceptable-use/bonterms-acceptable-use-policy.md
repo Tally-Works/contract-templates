@@ -16,7 +16,7 @@ language: en
 source:
   name: Bonterms
   url: https://bonterms.com/resources/acceptable-use-policy-version-1-0
-  file: sources/us/privacy-and-data/acceptable-use/bonterms-acceptable-use-policy.docx
+  file: templates/us/privacy-and-data/acceptable-use/bonterms-acceptable-use-policy.docx
   retrieved: "2026-11-14"
   notes: >-
     The Bonterms page https://bonterms.com/resources/acceptable-use-policy-version-1-0 loads its download link with a
@@ -33,6 +33,8 @@ summary: Example acceptable use policy attachment for the Bonterms Cloud Terms.
 ---
 
 # Bonterms Acceptable Use Policy
+
+> **Drafting note:** This acceptable use policy attaches to the Bonterms Cloud Terms, which are in this library at templates/us/technology/saas/bonterms-cloud-terms.md.
 
 > **Drafting note (from Bonterms):** Example. Create your own version and remove this note and the footer before using.
 

@@ -16,7 +16,7 @@ language: en
 source:
   name: Common Paper
   url: https://commonpaper.com/documents/amendment/
-  file: sources/us/commercial/amendments-and-extensions/common-paper-amendment.docx
+  file: templates/us/commercial/amendments-and-extensions/common-paper-amendment.docx
   retrieved: "2026-11-14"
   notes: >-
     The document page at https://commonpaper.com/documents/amendment/ states "This document is free to use or modify
