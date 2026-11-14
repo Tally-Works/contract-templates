@@ -1,0 +1,34 @@
+name: Template request
+description: Ask for a template the library does not have yet
+title: "request: "
+labels: [template-request]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Template
+      placeholder: e.g. Fractional CFO consulting agreement
+    validations:
+      required: true
+  - type: input
+    id: jurisdiction
+    attributes:
+      label: Jurisdiction
+      placeholder: US, US-NY, CA-ON, GB, INTL ...
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Suggested category / subcategory
+      placeholder: contractors / consulting
+  - type: textarea
+    id: why
+    attributes:
+      label: What should it cover?
+      description: Parties, key terms, anything specific to the jurisdiction.
+  - type: input
+    id: source
+    attributes:
+      label: Known open-licence source (optional)
+      placeholder: URL and licence, if you have found one

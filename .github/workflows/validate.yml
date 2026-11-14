@@ -1,0 +1,21 @@
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Validate every template against taxonomy.yaml
+        run: npm run validate
+      - name: Check CATALOG.md, catalog.json and docs/taxonomy.md are up to date
+        run: node scripts/catalog.js build --check

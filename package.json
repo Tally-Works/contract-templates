@@ -1,0 +1,19 @@
+{
+  "name": "@tally-works/contract-templates",
+  "version": "0.1.0",
+  "private": true,
+  "description": "goHeather's open library of contract templates, organised by jurisdiction, category and subcategory, with machine-checked metadata.",
+  "license": "CC-BY-4.0",
+  "scripts": {
+    "validate": "node scripts/catalog.js validate",
+    "build": "node scripts/catalog.js build",
+    "check": "node scripts/catalog.js validate && node scripts/catalog.js build --check",
+    "new": "node scripts/catalog.js new"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

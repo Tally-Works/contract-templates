@@ -1,0 +1,31 @@
+name: Problem with a template
+description: Report an error, outdated clause, licensing concern or misfiling
+title: "problem: "
+labels: [template-problem]
+body:
+  - type: input
+    id: path
+    attributes:
+      label: Template path
+      placeholder: templates/us/employment/executive/executive-employment-agreement.md
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of problem
+      options:
+        - Legal error or outdated clause
+        - Wrong jurisdiction, category or subcategory
+        - Licensing or attribution concern
+        - Typo or formatting
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Details
+      description: Quote the clause and say what is wrong and, if you can, what it should say and why.
+    validations:
+      required: true

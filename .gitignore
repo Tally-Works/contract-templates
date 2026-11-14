@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# intake is a local working area; only its README is tracked
+_intake/*
+!_intake/README.md
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+.vscode/
+.idea/

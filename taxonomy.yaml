@@ -1,0 +1,219 @@
+# -----------------------------------------------------------------------------
+# Taxonomy for the goHeather contract template library.
+#
+# This file is the single source of truth for WHERE a template lives and WHAT
+# values its metadata may take. scripts/catalog.js validates every template
+# against it and generates docs/taxonomy.md from it.
+#
+# Folder formula:
+#   templates/<jurisdiction-country>/<category>/<subcategory>/<slug>.md
+#
+# To add a category or subcategory: edit this file, run `npm run build`, and
+# commit the regenerated docs/taxonomy.md with it.
+# -----------------------------------------------------------------------------
+
+jurisdictions:
+  us:
+    name: United States
+    note: Federal / state-neutral templates. State-specific templates use US-XX (ISO 3166-2), e.g. US-CA, US-NY, US-TX.
+  ca:
+    name: Canada
+    note: Federal / province-neutral templates. Province-specific templates use CA-XX, e.g. CA-ON, CA-BC, CA-QC.
+  gb:
+    name: United Kingdom
+    note: GB-ENG, GB-SCT, GB-WLS, GB-NIR for nation-specific templates.
+  ie:
+    name: Ireland
+  au:
+    name: Australia
+    note: AU-NSW, AU-VIC etc. for state-specific templates.
+  nz:
+    name: New Zealand
+  eu:
+    name: European Union
+    note: EU-wide instruments only (e.g. GDPR DPAs, SCCs). Member-state templates go under their own country.
+  in:
+    name: India
+  sg:
+    name: Singapore
+  intl:
+    name: International / jurisdiction-neutral
+    note: Templates drafted to work anywhere, or cross-border instruments with no single governing jurisdiction.
+
+types:
+  agreement: A bilateral or multilateral contract signed by all parties.
+  letter: A letter-form instrument (offer letter, termination letter, demand letter).
+  policy: A unilateral company policy or handbook section.
+  notice: A formal notice served by one party on another.
+  form: A fill-in form, application or questionnaire.
+  clause: A standalone clause or short block of clauses for insertion into another document.
+  checklist: A drafting, review or closing checklist (not itself a contract).
+  schedule: A schedule, exhibit, annex or statement of work that attaches to a parent agreement.
+
+statuses:
+  draft: Added to the library but not yet reviewed by a lawyer or senior reviewer.
+  reviewed: Reviewed for structure, completeness and obvious legal issues in its jurisdiction.
+  approved: Reviewed and signed off as safe to recommend as a starting point.
+  deprecated: Kept for reference only. Superseded or no longer reliable; do not recommend.
+
+# SPDX identifiers where one exists. Only add templates whose licence permits
+# redistribution and modification. If you cannot establish the licence, do not add it.
+licenses:
+  CC0-1.0: Creative Commons Zero (public-domain dedication)
+  CC-BY-4.0: Creative Commons Attribution 4.0
+  CC-BY-SA-4.0: Creative Commons Attribution-ShareAlike 4.0
+  MIT: MIT License
+  Apache-2.0: Apache License 2.0
+  Public-Domain: Government or otherwise public-domain work with no licence
+  Permission-Granted: Author granted goHeather written permission to redistribute (link the permission in source.notes)
+
+categories:
+  employment:
+    name: Employment
+    description: Contracts and documents governing the relationship between an employer and an employee (not contractors).
+    subcategories:
+      offer-letters: Offer letters and letters of employment that form or precede an employment contract.
+      employment-agreements: General employment agreements for full-time, part-time, hourly and salaried staff.
+      executive: Agreements for C-suite, senior executives and key-person roles (change-of-control, golden parachute, board service).
+      fixed-term-and-temporary: Fixed-term, seasonal, casual, zero-hours and temporary engagements.
+      internships-and-apprenticeships: Internship, co-op, apprenticeship and training agreements.
+      remote-and-hybrid-work: Remote work agreements, hybrid policies and home-office arrangements.
+      restrictive-covenants: Standalone non-compete, non-solicitation, no-hire and garden-leave agreements.
+      confidentiality-and-ip: Employee confidentiality, invention assignment and proprietary information agreements.
+      compensation-and-benefits: Bonus plans, commission plans, equity grant letters, retention and sign-on agreements.
+      separation-and-termination: Severance, separation, termination letters, releases, resignation and retirement documents.
+      policies-and-handbooks: Employee handbooks and standalone workplace policies (leave, conduct, anti-harassment, expenses).
+      workplace-notices-and-forms: Warning letters, performance improvement plans, accommodation requests, HR forms.
+      collective-and-union: Collective agreements, union recognition and related instruments.
+
+  contractors:
+    name: Contractors & Consultants
+    description: Engagements with independent contractors, consultants, freelancers and agencies, where no employment relationship is intended.
+    subcategories:
+      independent-contractor: General independent contractor agreements.
+      consulting: Consulting and advisory agreements, including fractional executives and advisors.
+      statement-of-work: Statements of work and work orders that attach to a master agreement.
+      freelance-and-creative: Freelance, creative services, design, writing and photography engagements.
+      staffing-and-recruitment: Staffing agency, recruitment and placement agreements.
+
+  confidentiality:
+    name: Confidentiality
+    description: Standalone non-disclosure and confidentiality instruments between businesses or individuals.
+    subcategories:
+      mutual-nda: Mutual / bilateral non-disclosure agreements.
+      unilateral-nda: One-way non-disclosure agreements.
+      due-diligence-and-data-room: Confidentiality agreements for transactions, investor diligence and data rooms.
+
+  commercial:
+    name: Commercial
+    description: Business-to-business agreements for buying and selling goods and services.
+    subcategories:
+      master-services: Master services agreements and general services agreements.
+      sale-of-goods: Sale, supply and purchase of goods.
+      supply-and-procurement: Supply chain, procurement and vendor agreements.
+      distribution-and-reseller: Distribution, reseller, dealer and channel partner agreements.
+      agency-and-referral: Sales agency, referral and finder's fee agreements.
+      franchise: Franchise and master franchise agreements.
+      terms-and-conditions: Standard terms of sale, terms of purchase and purchase-order terms.
+      subscription-and-membership: Subscription, membership and recurring-service agreements.
+
+  technology:
+    name: Technology
+    description: Software, SaaS, IT services and online platform agreements.
+    subcategories:
+      saas: Software-as-a-service subscription agreements and order forms.
+      software-license: On-premise and perpetual software licence agreements.
+      eula: End-user licence agreements for apps and downloadable software.
+      development-services: Software, web and app development agreements.
+      hosting-and-cloud: Hosting, cloud infrastructure and service-level agreements.
+      api-terms: API and developer terms.
+      support-and-maintenance: Support, maintenance and managed-services agreements.
+      open-source: Contributor licence agreements and open-source project governance documents.
+
+  intellectual-property:
+    name: Intellectual Property
+    description: Creation, transfer and licensing of IP rights outside the employment context.
+    subcategories:
+      assignment: IP assignment and transfer agreements.
+      licensing: General IP licence agreements (in-bound and out-bound).
+      trademark: Trademark licence, coexistence and consent agreements.
+      copyright-and-content: Copyright licences, content licences and publishing agreements.
+      patent: Patent licence, assignment and cross-licence agreements.
+
+  privacy-and-data:
+    name: Privacy & Data
+    description: Privacy notices and data-handling agreements.
+    subcategories:
+      privacy-policy: Website, app and customer privacy policies and notices.
+      data-processing: Data processing agreements, standard contractual clauses and sub-processor terms.
+      cookie-policy: Cookie and tracking policies.
+      website-terms: Website and app terms of use / terms of service.
+      acceptable-use: Acceptable-use and community guidelines.
+
+  corporate:
+    name: Corporate
+    description: Formation, governance and equity documents for companies.
+    subcategories:
+      formation: Articles, certificates of incorporation and formation documents.
+      shareholders-and-operating: Shareholder agreements, operating agreements and unanimous shareholder agreements.
+      bylaws-and-resolutions: Bylaws, board and shareholder resolutions, consents and minutes.
+      founders: Founder, co-founder and vesting agreements.
+      equity-and-stock: Stock purchase, option plans, grant agreements and restricted stock.
+      convertible-and-safe: SAFEs, convertible notes and KISS-style instruments.
+      mergers-and-acquisitions: Term sheets, letters of intent, asset and share purchase agreements.
+
+  financing:
+    name: Financing
+    description: Debt and investment instruments.
+    subcategories:
+      loans: Loan and credit agreements.
+      promissory-notes: Promissory notes and IOUs.
+      security-and-guarantees: Security agreements, guarantees and indemnities.
+      investor-agreements: Subscription agreements, investor rights and side letters.
+
+  real-estate:
+    name: Real Estate
+    description: Leasing and transfer of real property.
+    subcategories:
+      residential-lease: Residential tenancy and lease agreements.
+      commercial-lease: Office, retail and industrial leases.
+      sublease-and-assignment: Subleases, assignments of lease and licences to occupy.
+      purchase-and-sale: Agreements of purchase and sale, offers and deposits.
+      property-management: Property management and co-ownership agreements.
+
+  partnerships:
+    name: Partnerships & Joint Ventures
+    description: Agreements between parties pooling resources for a shared venture.
+    subcategories:
+      general-partnership: Partnership and limited partnership agreements.
+      joint-venture: Joint venture and consortium agreements.
+      collaboration-and-mou: Memoranda of understanding, letters of intent and collaboration agreements.
+
+  marketing-and-media:
+    name: Marketing & Media
+    description: Advertising, sponsorship, talent and content production.
+    subcategories:
+      influencer-and-sponsorship: Influencer, brand ambassador and sponsorship agreements.
+      advertising: Advertising, media buying and affiliate agreements.
+      talent-and-model-release: Talent, model, appearance and likeness releases.
+      photography-and-video: Photography, videography and production agreements.
+      events: Event, venue, speaker and exhibitor agreements.
+
+  dispute-resolution:
+    name: Dispute Resolution
+    description: Documents that settle, release or manage disputes.
+    subcategories:
+      settlement: Settlement agreements.
+      release-and-waiver: General releases, waivers and liability waivers.
+      arbitration-and-mediation: Arbitration and mediation agreements and submission agreements.
+      tolling-and-standstill: Tolling, standstill and forbearance agreements.
+
+  clauses:
+    name: Clause Library
+    description: Standalone clauses to insert into other documents. Files here are type "clause".
+    subcategories:
+      boilerplate: Entire agreement, notices, assignment, counterparts, severability, governing law.
+      risk-allocation: Indemnity, limitation of liability, insurance, warranties, force majeure.
+      payment: Payment terms, late fees, taxes, expenses, set-off.
+      termination: Term, renewal, termination for cause/convenience, survival.
+      definitions: Reusable definition blocks.
