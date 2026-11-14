@@ -1,6 +1,6 @@
 {
   "generated_from": "taxonomy.yaml + templates/**",
-  "count": 194,
+  "count": 220,
   "templates": [
     {
       "path": "templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.md",
@@ -97,6 +97,37 @@
       }
     },
     {
+      "path": "templates/us/commercial/master-services/bonterms-climate-addendum-cover-page.md",
+      "title": "Bonterms Climate Addendum Cover Page",
+      "jurisdiction": "US",
+      "category": "commercial",
+      "subcategory": "master-services",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "cover-page",
+        "climate",
+        "addendum",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for the Bonterms Climate Addendum (Version 1.0).",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/climate-addendum-version-1-0-cover-page-example",
+        "file": "sources/us/commercial/master-services/bonterms-climate-addendum-cover-page.docx"
+      }
+    },
+    {
       "path": "templates/us/commercial/master-services/bonterms-climate-addendum.md",
       "title": "Bonterms Climate Addendum",
       "jurisdiction": "US",
@@ -161,6 +192,37 @@
         "name": "Bonterms",
         "url": "https://bonterms.com/standard/professional-services-agreement-v1.2",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/commercial/master-services/bonterms-psa-cover-page.md",
+      "title": "Bonterms PSA Cover Page",
+      "jurisdiction": "US",
+      "category": "commercial",
+      "subcategory": "master-services",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "cover-page",
+        "professional-services",
+        "psa",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for the Bonterms Professional Services Agreement.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/psa-cover-page-example",
+        "file": "sources/us/commercial/master-services/bonterms-psa-cover-page.docx"
       }
     },
     {
@@ -393,6 +455,37 @@
       }
     },
     {
+      "path": "templates/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page.md",
+      "title": "Bonterms Mutual NDA Cover Page",
+      "jurisdiction": "US",
+      "category": "confidentiality",
+      "subcategory": "mutual-nda",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "discloser",
+        "recipient"
+      ],
+      "tags": [
+        "cover-page",
+        "nda",
+        "mutual",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page that, when signed, creates a Mutual NDA on the Bonterms Mutual NDA standard terms: purpose, effective date, term, confidentiality period, governing law and courts.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/mutual-nda-cover-page-example",
+        "file": "sources/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page.docx"
+      }
+    },
+    {
       "path": "templates/us/confidentiality/mutual-nda/bonterms-mutual-nda.md",
       "title": "Bonterms Mutual NDA",
       "jurisdiction": "US",
@@ -551,6 +644,37 @@
         "name": "General Legal",
         "url": "https://general.legal/library/mutual-non-disclosure-agreement-nda",
         "file": "sources/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/us/confidentiality/unilateral-nda/bonterms-one-way-nda-cover-page.md",
+      "title": "Bonterms One-Way NDA Cover Page",
+      "jurisdiction": "US",
+      "category": "confidentiality",
+      "subcategory": "unilateral-nda",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "discloser",
+        "recipient"
+      ],
+      "tags": [
+        "cover-page",
+        "nda",
+        "one-way",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for the Bonterms One-Way NDA standard terms.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/one-way-nda-version-1-0-cover-page-example",
+        "file": "sources/us/confidentiality/unilateral-nda/bonterms-one-way-nda-cover-page.docx"
       }
     },
     {
@@ -747,6 +871,37 @@
       }
     },
     {
+      "path": "templates/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.md",
+      "title": "Bonterms PSA Example Statement of Work",
+      "jurisdiction": "US",
+      "category": "contractors",
+      "subcategory": "statement-of-work",
+      "type": "schedule",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "statement-of-work",
+        "sow",
+        "professional-services",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example statement of work under the Bonterms Professional Services Agreement.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/psa-example-sow",
+        "file": "sources/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.docx"
+      }
+    },
+    {
       "path": "templates/us/contractors/statement-of-work/common-paper-statement-of-work.md",
       "title": "Common Paper Statement of Work",
       "jurisdiction": "US",
@@ -871,6 +1026,72 @@
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
         "file": "sources/us/corporate/bylaws-and-resolutions/ai-governance-policy--us-de--llc.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/bylaws-and-resolutions/board-consent-approving-safe-financing.md",
+      "title": "Board Consent Approving SAFE Financing",
+      "jurisdiction": "US",
+      "category": "corporate",
+      "subcategory": "bylaws-and-resolutions",
+      "type": "resolution",
+      "variant": null,
+      "parties": [
+        "company",
+        "directors"
+      ],
+      "tags": [
+        "safe",
+        "board-consent",
+        "written-consent",
+        "financing",
+        "startup",
+        "openagreements"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Action by unanimous written consent of the board of directors of a Delaware corporation approving the issuance of one or more Simple Agreements for Future Equity (SAFEs). (OpenAgreements version 1.3, marked experimental by its authors.)",
+      "source": {
+        "name": "OpenAgreements",
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-consent-safe",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/corporate/bylaws-and-resolutions/board-ratifying-consent.md",
+      "title": "Board Ratifying Consent",
+      "jurisdiction": "US",
+      "category": "corporate",
+      "subcategory": "bylaws-and-resolutions",
+      "type": "resolution",
+      "variant": null,
+      "parties": [
+        "company",
+        "directors"
+      ],
+      "tags": [
+        "ratification",
+        "board-consent",
+        "written-consent",
+        "corporate-cleanup",
+        "startup",
+        "openagreements"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Action by unanimous written consent of the board of directors of a Delaware corporation ratifying one or more defective corporate acts under Section 204 of the Delaware General Corporation Law — reciting each act, its date, any putative stock, and the nature of the failure of authorization, and directing the stockholder submission, certificate of validation, and notice the statute requires. (OpenAgreements version 0.1.0, marked experimental by its authors.)",
+      "source": {
+        "name": "OpenAgreements",
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-ratifying-consent",
+        "file": null
       }
     },
     {
@@ -1067,6 +1288,72 @@
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
         "file": "sources/us/corporate/bylaws-and-resolutions/stockholder-consent--us-de.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/bylaws-and-resolutions/stockholder-consent-approving-safe-financing.md",
+      "title": "Stockholder Consent Approving SAFE Financing",
+      "jurisdiction": "US",
+      "category": "corporate",
+      "subcategory": "bylaws-and-resolutions",
+      "type": "resolution",
+      "variant": null,
+      "parties": [
+        "company",
+        "stockholders"
+      ],
+      "tags": [
+        "safe",
+        "stockholder-consent",
+        "written-consent",
+        "financing",
+        "startup",
+        "openagreements"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Action by written consent of the stockholders of a Delaware corporation approving the issuance of one or more Simple Agreements for Future Equity (SAFEs). (OpenAgreements version 1.2, marked experimental by its authors.)",
+      "source": {
+        "name": "OpenAgreements",
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-consent-safe",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/corporate/bylaws-and-resolutions/stockholder-ratifying-consent.md",
+      "title": "Stockholder Ratifying Consent",
+      "jurisdiction": "US",
+      "category": "corporate",
+      "subcategory": "bylaws-and-resolutions",
+      "type": "resolution",
+      "variant": null,
+      "parties": [
+        "company",
+        "stockholders"
+      ],
+      "tags": [
+        "ratification",
+        "stockholder-consent",
+        "written-consent",
+        "corporate-cleanup",
+        "startup",
+        "openagreements"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Action by written consent of the stockholders of a Delaware corporation approving the board's ratification of a defective corporate act under Section 204 of the Delaware General Corporation Law — approving the specifically identified act, and approving any related charter amendment or certificate of validation the cure requires. (OpenAgreements version 0.1.0, marked experimental by its authors.)",
+      "source": {
+        "name": "OpenAgreements",
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-ratifying-consent",
+        "file": null
       }
     },
     {
@@ -1746,6 +2033,103 @@
       "source": {
         "name": "OpenAgreements",
         "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-stock-repurchase-agreement",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/corporate/mergers-and-acquisitions/closing-checklist.md",
+      "title": "Closing Checklist",
+      "jurisdiction": "US",
+      "category": "corporate",
+      "subcategory": "mergers-and-acquisitions",
+      "type": "checklist",
+      "variant": null,
+      "parties": [
+        "company",
+        "counsel"
+      ],
+      "tags": [
+        "closing-checklist",
+        "financing",
+        "transaction",
+        "startup",
+        "openagreements"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "A stage-first, document-first closing checklist that tracks canonical documents, action items, and open issues for a transaction, and renders a formatted document for distribution to the working group. (OpenAgreements version 2.1, marked experimental by its authors.)",
+      "source": {
+        "name": "OpenAgreements",
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-closing-checklist",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/corporate/mergers-and-acquisitions/legal-due-diligence-request-list.md",
+      "title": "Legal Due Diligence Request List",
+      "jurisdiction": "US",
+      "category": "corporate",
+      "subcategory": "mergers-and-acquisitions",
+      "type": "checklist",
+      "variant": null,
+      "parties": [
+        "buyer",
+        "company"
+      ],
+      "tags": [
+        "due-diligence",
+        "request-list",
+        "checklist",
+        "m-and-a",
+        "startup",
+        "openagreements"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Modular legal due diligence request list (DDRL) for corporate transactions. Ships a base form covering organization, capitalization, contracts, IP, employment, litigation, compliance, tax, insurance, debt, property, and privacy/cybersecurity. Four optional industry riders gate via boolean toggles: tech / SaaS, life sciences, healthcare provider, and cross-border / trade compliance. Drafted clean-room from public-source consensus across 15 Am Law firm, bar association, and legal publisher DDRLs; no public source language is reused. (OpenAgreements version 1.0, marked experimental by its authors.)",
+      "source": {
+        "name": "OpenAgreements",
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-due-diligence-request-list",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/corporate/mergers-and-acquisitions/working-group-list.md",
+      "title": "Working Group List",
+      "jurisdiction": "US",
+      "category": "corporate",
+      "subcategory": "mergers-and-acquisitions",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "company",
+        "counsel"
+      ],
+      "tags": [
+        "working-group-list",
+        "transaction",
+        "contacts",
+        "startup",
+        "openagreements"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Standalone working group roster for a transaction. Tracks staffed deal team members and their contact details outside the closing checklist document. (OpenAgreements version 1.0, marked experimental by its authors.)",
+      "source": {
+        "name": "OpenAgreements",
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-working-group-list",
         "file": null
       }
     },
@@ -4277,6 +4661,39 @@
       }
     },
     {
+      "path": "templates/us/employment/workplace-notices-and-forms/wage-notice-for-exempt-employees--us-ny.md",
+      "title": "Wage Notice for Exempt Employees",
+      "jurisdiction": "US-NY",
+      "category": "employment",
+      "subcategory": "workplace-notices-and-forms",
+      "type": "notice",
+      "variant": null,
+      "parties": [
+        "employee",
+        "employer"
+      ],
+      "tags": [
+        "wage-notice",
+        "pay-notice",
+        "exempt",
+        "new-york",
+        "labor-law-195",
+        "openagreements"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "New York wage notice companion for employees who qualify as overtime-exempt. Based on NYDOL LS59. English-only: use for English-primary employees or a primary language for which NYDOL has no form. Use the official bilingual notice when NYDOL provides the employee’s language. Salary alone does not establish exemption. (OpenAgreements version 0.1.0, marked experimental by its authors.)",
+      "source": {
+        "name": "OpenAgreements",
+        "url": "https://dol.ny.gov/LS59-doc",
+        "file": null
+      }
+    },
+    {
       "path": "templates/us/financing/investor-agreements/bloomberg-beta-series-seed-stock-investment-agreement--us-de.md",
       "title": "Bloomberg Beta Series Seed Stock Investment Agreement",
       "jurisdiction": "US-DE",
@@ -4340,6 +4757,104 @@
       "source": {
         "name": "Bloomberg Beta",
         "url": "https://github.com/Bloomberg-Beta/Investment-Documents",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/financing/investor-agreements/hedge-fund-investor-questionnaire.md",
+      "title": "Hedge Fund Investor Questionnaire",
+      "jurisdiction": "US",
+      "category": "financing",
+      "subcategory": "investor-agreements",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "fund",
+        "investor"
+      ],
+      "tags": [
+        "hedge-fund",
+        "investor-questionnaire",
+        "accredited-investor",
+        "qualified-purchaser",
+        "investment-fund",
+        "openagreements"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Investor questionnaire for a hedge fund, meaning an open-end private investment fund organized as a Delaware limited partnership, that collects the facts the general partner needs to decide whether a subscriber may be admitted: accredited-investor and qualified-client status, the Investment Company Act beneficial-owner count, benefit plan status, tax and anti-money-laundering information, bad-actor facts, and FINRA new-issue eligibility. It is completed with the Hedge Fund Subscription Agreement. (OpenAgreements version 0.1.0, marked experimental by its authors.)",
+      "source": {
+        "name": "OpenAgreements",
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-investor-questionnaire",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/financing/investor-agreements/hedge-fund-private-placement-memorandum.md",
+      "title": "Hedge Fund Private Placement Memorandum",
+      "jurisdiction": "US",
+      "category": "financing",
+      "subcategory": "investor-agreements",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "fund",
+        "investor"
+      ],
+      "tags": [
+        "hedge-fund",
+        "private-placement",
+        "ppm",
+        "securities",
+        "investment-fund",
+        "openagreements"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Private placement memorandum skeleton for a hedge fund, meaning an open-end private investment fund organized as a Delaware limited partnership and relying on Section 3(c)(1) of the Investment Company Act, offering its interests under Rule 506 of Regulation D. (OpenAgreements version 0.1.0, marked experimental by its authors.)",
+      "source": {
+        "name": "OpenAgreements",
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-private-placement-memorandum",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/financing/investor-agreements/hedge-fund-subscription-agreement.md",
+      "title": "Hedge Fund Subscription Agreement",
+      "jurisdiction": "US",
+      "category": "financing",
+      "subcategory": "investor-agreements",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "fund",
+        "investor"
+      ],
+      "tags": [
+        "hedge-fund",
+        "subscription-agreement",
+        "securities",
+        "investment-fund",
+        "openagreements"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Subscription agreement for a hedge fund, meaning an open-end private investment fund organized as a Delaware limited partnership, through which an investor applies to buy a limited partnership interest on a subscription date and becomes bound by the fund's limited partnership agreement. It is drafted for the manager's side and works with the Hedge Fund Investor Questionnaire, which collects the facts the investor representations rely on. (OpenAgreements version 0.1.0, marked experimental by its authors.)",
+      "source": {
+        "name": "OpenAgreements",
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-subscription-agreement",
         "file": null
       }
     },
@@ -4471,6 +4986,39 @@
       "source": {
         "name": "Series Seed",
         "url": "https://github.com/seriesseed/equity",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/financing/investor-agreements/venture-financing-due-diligence-request-list.md",
+      "title": "Venture Financing Due Diligence Request List",
+      "jurisdiction": "US",
+      "category": "financing",
+      "subcategory": "investor-agreements",
+      "type": "checklist",
+      "variant": null,
+      "parties": [
+        "company",
+        "investor"
+      ],
+      "tags": [
+        "due-diligence",
+        "request-list",
+        "checklist",
+        "venture",
+        "financing",
+        "openagreements"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "A starting request list for a priced preferred stock financing, structured on the common venture diligence categories. (OpenAgreements version 1.0, marked experimental by its authors.)",
+      "source": {
+        "name": "OpenAgreements",
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-venture-financing-due-diligence-request-list",
         "file": null
       }
     },
@@ -4862,6 +5410,70 @@
       }
     },
     {
+      "path": "templates/us/partnerships/general-partnership/hedge-fund-limited-partnership-agreement--us-de.md",
+      "title": "Hedge Fund Limited Partnership Agreement",
+      "jurisdiction": "US-DE",
+      "category": "partnerships",
+      "subcategory": "general-partnership",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "general-partner",
+        "limited-partners"
+      ],
+      "tags": [
+        "hedge-fund",
+        "limited-partnership",
+        "fund-formation",
+        "delaware",
+        "investment-fund",
+        "openagreements"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Limited partnership agreement for a hedge fund, meaning an open-end private investment fund organized as a Delaware limited partnership and relying on Section 3(c)(1) of the Investment Company Act. Investors subscribe and withdraw on stated dates rather than committing capital to be drawn down, so it suits a fully funded trading fund and not a closed-end fund. (OpenAgreements version 0.1.0, marked experimental by its authors.)",
+      "source": {
+        "name": "OpenAgreements",
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-limited-partnership-agreement",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/acceptable-use/bonterms-acceptable-use-policy.md",
+      "title": "Bonterms Acceptable Use Policy",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "acceptable-use",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "acceptable-use",
+        "aup",
+        "saas",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example acceptable use policy attachment for the Bonterms Cloud Terms.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/acceptable-use-policy-version-1-0",
+        "file": "sources/us/privacy-and-data/acceptable-use/bonterms-acceptable-use-policy.docx"
+      }
+    },
+    {
       "path": "templates/us/privacy-and-data/acceptable-use/github-acceptable-use-policies.md",
       "title": "GitHub Acceptable Use Policies",
       "jurisdiction": "US",
@@ -5051,6 +5663,37 @@
       }
     },
     {
+      "path": "templates/us/privacy-and-data/data-processing/bonterms-baa-cover-page.md",
+      "title": "Bonterms BAA Cover Page",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "data-processing",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "covered-entity",
+        "business-associate"
+      ],
+      "tags": [
+        "cover-page",
+        "baa",
+        "hipaa",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for the Bonterms Business Associate Agreement.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/baa-cover-page-example",
+        "file": "sources/us/privacy-and-data/data-processing/bonterms-baa-cover-page.docx"
+      }
+    },
+    {
       "path": "templates/us/privacy-and-data/data-processing/bonterms-business-associate-agreement.md",
       "title": "Bonterms Business Associate Agreement",
       "jurisdiction": "US",
@@ -5116,6 +5759,38 @@
         "name": "Bonterms",
         "url": "https://bonterms.com/standard/dpa-v2-cover-page-version",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/data-processing/bonterms-dpa-cover-page.md",
+      "title": "Bonterms DPA Cover Page",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "data-processing",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "cover-page",
+        "dpa",
+        "gdpr",
+        "processing-details",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for the Bonterms Data Protection Addendum (Version 2.0): key terms, processing details and additional terms.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/example-dpa-cover-page-v2",
+        "file": "sources/us/privacy-and-data/data-processing/bonterms-dpa-cover-page.docx"
       }
     },
     {
@@ -5898,6 +6573,37 @@
       }
     },
     {
+      "path": "templates/us/technology/saas/bonterms-ai-addendum-cover-page.md",
+      "title": "Bonterms AI Addendum Cover Page",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "saas",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "cover-page",
+        "ai",
+        "addendum",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for the Bonterms AI Addendum.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/ai-addendum-cover-page-example",
+        "file": "sources/us/technology/saas/bonterms-ai-addendum-cover-page.docx"
+      }
+    },
+    {
       "path": "templates/us/technology/saas/bonterms-ai-addendum.md",
       "title": "Bonterms AI Addendum",
       "jurisdiction": "US",
@@ -5929,6 +6635,70 @@
         "name": "Bonterms",
         "url": "https://bonterms.com/standard/ai-addendum-v2-cover-page-version",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/technology/saas/bonterms-cloud-terms-cover-page.md",
+      "title": "Bonterms Cloud Terms Cover Page",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "saas",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "cover-page",
+        "saas",
+        "cloud",
+        "key-terms",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for an agreement on the Bonterms Cloud Terms: key terms, attachments and additional terms.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/cloud-terms-cover-page-example",
+        "file": "sources/us/technology/saas/bonterms-cloud-terms-cover-page.docx"
+      }
+    },
+    {
+      "path": "templates/us/technology/saas/bonterms-cloud-terms-order-form.md",
+      "title": "Bonterms Cloud Terms Order Form",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "saas",
+      "type": "schedule",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "order-form",
+        "saas",
+        "subscription",
+        "fees",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example order under a Bonterms Cloud Terms agreement: cloud service, subscription term, users, fees, professional services and payment terms.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/order-form-example",
+        "file": "sources/us/technology/saas/bonterms-cloud-terms-order-form.docx"
       }
     },
     {
@@ -6292,6 +7062,37 @@
       }
     },
     {
+      "path": "templates/us/technology/software-license/bonterms-software-license-terms-cover-page.md",
+      "title": "Bonterms Software License Terms Cover Page",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "software-license",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "licensor",
+        "customer"
+      ],
+      "tags": [
+        "cover-page",
+        "software-license",
+        "key-terms",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example cover page for an agreement on the Bonterms Software License Terms.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/software-license-terms-cover-page-example",
+        "file": "sources/us/technology/software-license/bonterms-software-license-terms-cover-page.docx"
+      }
+    },
+    {
       "path": "templates/us/technology/software-license/bonterms-software-license-terms.md",
       "title": "Bonterms Software License Terms",
       "jurisdiction": "US",
@@ -6386,6 +7187,38 @@
         "name": "GitHub",
         "url": "https://github.com/github/site-policy/blob/main/Policies/github-terms/github-pre-release-license-terms.md",
         "file": null
+      }
+    },
+    {
+      "path": "templates/us/technology/support-and-maintenance/bonterms-support-policy.md",
+      "title": "Bonterms Support Policy",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "support-and-maintenance",
+      "type": "schedule",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "support-policy",
+        "sla",
+        "incidents",
+        "saas",
+        "bonterms"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Example support policy attachment for the Bonterms Cloud Terms: support hours, incident submission, severity levels and response targets.",
+      "source": {
+        "name": "Bonterms",
+        "url": "https://bonterms.com/resources/support-policy-version-1-0",
+        "file": "sources/us/technology/support-and-maintenance/bonterms-support-policy.docx"
       }
     }
   ]

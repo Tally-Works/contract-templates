@@ -45,19 +45,32 @@ Where a template has been changed from the original, the change is described in 
 | [Bloomberg Beta Series Seed Stock Investment Agreement (US-DE)](templates/us/financing/investor-agreements/bloomberg-beta-series-seed-stock-investment-agreement--us-de.md) | CC-BY-3.0 | [link](https://github.com/Bloomberg-Beta/Investment-Documents) | 2026-11-14 |
 | [Bloomberg Beta Series Seed Term Sheet (US-DE)](templates/us/financing/investor-agreements/bloomberg-beta-series-seed-term-sheet--us-de.md) | CC-BY-3.0 | [link](https://github.com/Bloomberg-Beta/Investment-Documents) | 2026-11-14 |
 
-## [Bonterms](https://bonterms.com/standard/)
+## [Bonterms](https://bonterms.com/)
 
 | Template | Licence | Original | Retrieved |
 | --- | --- | --- | --- |
+| [Bonterms Climate Addendum Cover Page (US)](templates/us/commercial/master-services/bonterms-climate-addendum-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/climate-addendum-version-1-0-cover-page-example) | 2026-11-14 |
 | [Bonterms Climate Addendum (US)](templates/us/commercial/master-services/bonterms-climate-addendum.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/climate-addendum-cover-page-version) | 2026-11-14 |
 | [Bonterms Professional Services Agreement (US)](templates/us/commercial/master-services/bonterms-professional-services-agreement.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/professional-services-agreement-v1.2) | 2026-11-14 |
+| [Bonterms PSA Cover Page (US)](templates/us/commercial/master-services/bonterms-psa-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/psa-cover-page-example) | 2026-11-14 |
+| [Bonterms Mutual NDA Cover Page (US)](templates/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/mutual-nda-cover-page-example) | 2026-11-14 |
 | [Bonterms Mutual NDA (US)](templates/us/confidentiality/mutual-nda/bonterms-mutual-nda.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/bonterms-mutual-nda-v1) | 2026-11-14 |
+| [Bonterms One-Way NDA Cover Page (US)](templates/us/confidentiality/unilateral-nda/bonterms-one-way-nda-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/one-way-nda-version-1-0-cover-page-example) | 2026-11-14 |
+| [Bonterms PSA Example Statement of Work (US)](templates/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.md) | CC0-1.0 | [link](https://bonterms.com/resources/psa-example-sow) | 2026-11-14 |
+| [Bonterms Acceptable Use Policy (US)](templates/us/privacy-and-data/acceptable-use/bonterms-acceptable-use-policy.md) | CC0-1.0 | [link](https://bonterms.com/resources/acceptable-use-policy-version-1-0) | 2026-11-14 |
+| [Bonterms BAA Cover Page (US)](templates/us/privacy-and-data/data-processing/bonterms-baa-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/baa-cover-page-example) | 2026-11-14 |
 | [Bonterms Business Associate Agreement (US)](templates/us/privacy-and-data/data-processing/bonterms-business-associate-agreement.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/business-associate-agreement-v1) | 2026-11-14 |
 | [Bonterms Data Protection Addendum (US)](templates/us/privacy-and-data/data-processing/bonterms-data-protection-addendum.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/dpa-v2-cover-page-version) | 2026-11-14 |
+| [Bonterms DPA Cover Page (US)](templates/us/privacy-and-data/data-processing/bonterms-dpa-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/example-dpa-cover-page-v2) | 2026-11-14 |
 | [Bonterms Service Level Agreement (US)](templates/us/technology/hosting-and-cloud/bonterms-service-level-agreement.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/service-level-agreement-version-1-0) | 2026-11-14 |
+| [Bonterms AI Addendum Cover Page (US)](templates/us/technology/saas/bonterms-ai-addendum-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/ai-addendum-cover-page-example) | 2026-11-14 |
 | [Bonterms AI Addendum (US)](templates/us/technology/saas/bonterms-ai-addendum.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/ai-addendum-v2-cover-page-version) | 2026-11-14 |
+| [Bonterms Cloud Terms Cover Page (US)](templates/us/technology/saas/bonterms-cloud-terms-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/cloud-terms-cover-page-example) | 2026-11-14 |
+| [Bonterms Cloud Terms Order Form (US)](templates/us/technology/saas/bonterms-cloud-terms-order-form.md) | CC0-1.0 | [link](https://bonterms.com/resources/order-form-example) | 2026-11-14 |
 | [Bonterms Cloud Terms (US)](templates/us/technology/saas/bonterms-cloud-terms.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/bonterms-cloud-terms-v1) | 2026-11-14 |
+| [Bonterms Software License Terms Cover Page (US)](templates/us/technology/software-license/bonterms-software-license-terms-cover-page.md) | CC0-1.0 | [link](https://bonterms.com/resources/software-license-terms-cover-page-example) | 2026-11-14 |
 | [Bonterms Software License Terms (US)](templates/us/technology/software-license/bonterms-software-license-terms.md) | CC-BY-4.0 | [link](https://bonterms.com/standard/software-license-terms-v1) | 2026-11-14 |
+| [Bonterms Support Policy (US)](templates/us/technology/support-and-maintenance/bonterms-support-policy.md) | CC0-1.0 | [link](https://bonterms.com/resources/support-policy-version-1-0) | 2026-11-14 |
 
 ## [Common Paper](https://commonpaper.com/)
 
@@ -177,10 +190,14 @@ Where a template has been changed from the original, the change is described in 
 | [Switchmode Developer Agreement (US)](templates/us/contractors/independent-contractor/switchmode-developer-agreement.md) | Mitchell-Law-Form-1.1 | [link](https://github.com/kemitchell/switchmode) | 2026-11-14 |
 | [Slipstream Software Service Terms (US)](templates/us/technology/saas/slipstream-software-service-terms.md) | Mitchell-Law-Form-1.1 | [link](https://github.com/kemitchell/slipstream) | 2026-11-14 |
 
-## [OpenAgreements](https://github.com/open-agreements/open-agreements/tree/main/templates/)
+## [OpenAgreements](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-consent-safe)
 
 | Template | Licence | Original | Retrieved |
 | --- | --- | --- | --- |
+| [Board Consent Approving SAFE Financing (US)](templates/us/corporate/bylaws-and-resolutions/board-consent-approving-safe-financing.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-consent-safe) | 2026-11-14 |
+| [Board Ratifying Consent (US)](templates/us/corporate/bylaws-and-resolutions/board-ratifying-consent.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-board-ratifying-consent) | 2026-11-14 |
+| [Stockholder Consent Approving SAFE Financing (US)](templates/us/corporate/bylaws-and-resolutions/stockholder-consent-approving-safe-financing.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-consent-safe) | 2026-11-14 |
+| [Stockholder Ratifying Consent (US)](templates/us/corporate/bylaws-and-resolutions/stockholder-ratifying-consent.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-ratifying-consent) | 2026-11-14 |
 | [Stock Assignment Separate from Certificate (US)](templates/us/corporate/equity-and-stock/stock-assignment-separate-from-certificate.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-stock-assignment-separate) | 2026-11-14 |
 | [Founder IP and Confidentiality Confirmation (US)](templates/us/corporate/founders/founder-ip-and-confidentiality-confirmation.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-ip-confidentiality-confirmation) | 2026-11-14 |
 | [Founder Resignation Letter (US)](templates/us/corporate/founders/founder-resignation-letter.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-resignation-letter) | 2026-11-14 |
@@ -190,6 +207,9 @@ Where a template has been changed from the original, the change is described in 
 | [Founder Separation Stockholder Consent (US)](templates/us/corporate/founders/founder-separation-stockholder-consent.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-separation-stockholder-consent) | 2026-11-14 |
 | [Founder Share Repurchase Notice (US)](templates/us/corporate/founders/founder-share-repurchase-notice.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-share-repurchase-notice) | 2026-11-14 |
 | [Founder Stock Repurchase Agreement (US)](templates/us/corporate/founders/founder-stock-repurchase-agreement.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-stock-repurchase-agreement) | 2026-11-14 |
+| [Closing Checklist (US)](templates/us/corporate/mergers-and-acquisitions/closing-checklist.md) | CC0-1.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-closing-checklist) | 2026-11-14 |
+| [Legal Due Diligence Request List (US)](templates/us/corporate/mergers-and-acquisitions/legal-due-diligence-request-list.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-due-diligence-request-list) | 2026-11-14 |
+| [Working Group List (US)](templates/us/corporate/mergers-and-acquisitions/working-group-list.md) | CC0-1.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-working-group-list) | 2026-11-14 |
 | [Confidential Information and Invention Assignment Agreement (US-NV)](templates/us/employment/confidentiality-and-ip/confidential-information-and-invention-assignment-agreement--us-nv.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-confidentiality-invention-assignment-agreement-nevada) | 2026-11-14 |
 | [Confidential Information and Invention Assignment Agreement (US)](templates/us/employment/confidentiality-and-ip/confidential-information-and-invention-assignment-agreement.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-confidentiality-invention-assignment-agreement) | 2026-11-14 |
 | [Employment Offer Letter (US-CA)](templates/us/employment/offer-letters/employment-offer-letter--us-ca.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-employment-offer-letter-california) | 2026-11-14 |
@@ -253,6 +273,12 @@ Where a template has been changed from the original, the change is described in 
 | [Employee Restrictive Covenant Agreement (US-WV)](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-wv.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-west-virginia) | 2026-11-14 |
 | [Employee Restrictive Covenant Agreement (US-WY)](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-agreement--us-wy.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-wyoming) | 2026-11-14 |
 | [Employee Restrictive Covenant Notice (US-CO)](templates/us/employment/restrictive-covenants/employee-restrictive-covenant-notice--us-co.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-restrictive-covenant-notice-colorado) | 2026-11-14 |
+| [Wage Notice for Exempt Employees (US-NY)](templates/us/employment/workplace-notices-and-forms/wage-notice-for-exempt-employees--us-ny.md) | CC-BY-4.0 | [link](https://dol.ny.gov/LS59-doc) | 2026-11-14 |
+| [Hedge Fund Investor Questionnaire (US)](templates/us/financing/investor-agreements/hedge-fund-investor-questionnaire.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-investor-questionnaire) | 2026-11-14 |
+| [Hedge Fund Private Placement Memorandum (US)](templates/us/financing/investor-agreements/hedge-fund-private-placement-memorandum.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-private-placement-memorandum) | 2026-11-14 |
+| [Hedge Fund Subscription Agreement (US)](templates/us/financing/investor-agreements/hedge-fund-subscription-agreement.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-subscription-agreement) | 2026-11-14 |
+| [Venture Financing Due Diligence Request List (US)](templates/us/financing/investor-agreements/venture-financing-due-diligence-request-list.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-venture-financing-due-diligence-request-list) | 2026-11-14 |
+| [Hedge Fund Limited Partnership Agreement (US-DE)](templates/us/partnerships/general-partnership/hedge-fund-limited-partnership-agreement--us-de.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-hedge-fund-limited-partnership-agreement) | 2026-11-14 |
 | [Privacy Policy (short-form, US)](templates/us/privacy-and-data/privacy-policy/privacy-policy--short-form.md) | CC-BY-4.0 | [link](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-privacy-policy) | 2026-11-14 |
 
 ## [Papertrail](https://github.com/papertrail/legal-docs/blob/master/)

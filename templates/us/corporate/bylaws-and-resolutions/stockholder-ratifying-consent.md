@@ -1,0 +1,87 @@
+---
+title: Stockholder Ratifying Consent
+jurisdiction: US
+category: corporate
+subcategory: bylaws-and-resolutions
+type: resolution
+parties:
+  - company
+  - stockholders
+tags:
+  - ratification
+  - stockholder-consent
+  - written-consent
+  - corporate-cleanup
+  - startup
+  - openagreements
+language: en
+source:
+  name: OpenAgreements
+  url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-ratifying-consent
+  retrieved: "2026-11-14"
+  notes: >-
+    Authored by OpenAgreements contributors. Drafting structure informed by publicly available Delaware Section 204
+    ratification practice. Licensed under CC BY 4.0. Taken from template.md in the OpenAgreements repository
+    (metadata.yaml: license CC-BY-4.0, allow_derivatives true). Changes by goHeather: {field} placeholders rendered as
+    [BRACKETED] placeholders and [[defined terms]] rendered bold; wording unchanged.
+license: CC-BY-4.0
+status: draft
+version: 1.0.0
+last_reviewed: "2026-11-14"
+reviewed_by: ""
+summary: >-
+  Action by written consent of the stockholders of a Delaware corporation approving the board's ratification of a
+  defective corporate act under Section 204 of the Delaware General Corporation Law — approving the specifically
+  identified act, and approving any related charter amendment or certificate of validation the cure requires.
+  (OpenAgreements version 0.1.0, marked experimental by its authors.)
+---
+
+# Stockholder Ratifying Consent
+
+The undersigned, being the holders of [APPROVING PERCENTAGE] of the outstanding shares of capital stock of [COMPANY NAME], a Delaware corporation (the "Company"), entitled to vote on the ratification described below (computed without regard to the putative shares being ratified), pursuant to Section 228 of the Delaware General Corporation Law (the "DGCL"), hereby adopt the following resolutions by written consent:
+
+**Company:** [COMPANY NAME]
+
+**Board ratifying consent approved:** [BOARD CONSENT REFERENCE]
+
+**Defective corporate act:** [DEFECTIVE ACTS]
+
+**Approving stockholders:** [APPROVING PERCENTAGE]
+
+**Consent date:** [CONSENT DATE]
+
+## Resolutions
+
+### Approval of the Ratification
+
+**WHEREAS**, the Board of Directors of the Company adopted resolutions ratifying a defective corporate act pursuant to Section 204 of the DGCL, namely [DEFECTIVE ACTS], as set forth in [BOARD CONSENT REFERENCE] (the "Board Ratification");
+
+**RESOLVED**, that the stockholders hereby approve the ratification of the defective corporate act described in the Board Ratification, in accordance with Sections 204(c) and 204(d) of the DGCL;
+
+### Related Charter Amendment and Certificate of Validation
+
+**RESOLVED FURTHER**, that to the extent the ratification requires an amendment to the Company's certificate of incorporation or the filing of a certificate of validation under Section 204(e) of the DGCL, such amendment and certificate of validation be, and each hereby is, approved and adopted, and the officers of the Company be, and each of them hereby is, authorized and directed to make the filings required under Sections 204(e), 242 and 103 of the DGCL;
+
+### Notice
+
+**RESOLVED FURTHER**, that the officers of the Company be, and each of them hereby is, authorized and directed to give the notices required by Sections 204(d), 204(g) and 228(e) of the DGCL to the holders of valid stock and putative stock entitled to receive them;
+
+### General Authorizing Resolution
+
+**RESOLVED FURTHER**, that the officers of the Company be, and each of them hereby is, authorized and directed, for and on behalf of the Company, to take such further actions and execute such documents as may be necessary or appropriate in order to implement the foregoing resolutions.
+
+## Signatures
+
+This Action by Written Consent shall be filed with the minutes of the proceedings of the stockholders of the Company.
+
+The undersigned have executed this Action by Written Consent as of the date set forth under his or her name below. Any copy, facsimile, .PDF or other reliable reproduction of this Action by Written Consent may be substituted or used in lieu of the original writing for any and all purposes for which the original writing could be used, provided that such copy, facsimile, .PDF or other reproduction be a complete reproduction of the entire original writing.
+
+Signature: _______________
+
+Print Name: [NAME]
+
+Date: [CONSENT DATE]
+
+---
+
+Authored by OpenAgreements contributors. Drafting structure informed by publicly available Delaware Section 204 ratification practice. Licensed under CC BY 4.0. Source: [https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-ratifying-consent](https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-stockholder-ratifying-consent) (version 0.1.0, experimental). Changes by goHeather: template fields rendered as `[BRACKETED]` placeholders and defined terms rendered in bold; wording unchanged.
