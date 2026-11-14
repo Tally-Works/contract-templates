@@ -222,10 +222,10 @@ Standalone clauses to insert into other documents. Files here are type "clause".
 
 | `status` | Meaning |
 | --- | --- |
-| `draft` | Added to the library but not yet reviewed by a lawyer or senior reviewer. |
-| `reviewed` | Reviewed for structure, completeness and obvious legal issues in its jurisdiction. |
-| `approved` | Reviewed and signed off as safe to recommend as a starting point. |
-| `deprecated` | Kept for reference only. Superseded or no longer reliable; do not recommend. |
+| `draft` | Filed, not reviewed by anyone. Every template starts here. |
+| `reviewed` | Checked by the person named in reviewed_by. |
+| `approved` | Approved by the person named in reviewed_by. |
+| `deprecated` | Kept for reference only; superseded or no longer reliable. |
 
 ## Accepted licences
 

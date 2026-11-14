@@ -63,7 +63,7 @@ The validator refuses any file whose metadata disagrees with its folder or filen
 ## Using a template
 
 1. Find it in the [Catalog](CATALOG.md) (or search `catalog.json` programmatically).
-2. Check its `status`. `approved` and `reviewed` templates have been looked over; `draft` templates have not.
+2. Check its `status` and `reviewed_by`. Everything is `draft` unless a named person has reviewed it.
 3. Check its `jurisdiction`. A `US` template is state-neutral; `US-CA` is written for California.
 4. Replace every `[BRACKETED]` placeholder and delete the drafting notes.
 5. Have a lawyer in your jurisdiction review it before you sign it. See the disclaimer below.
@@ -81,7 +81,7 @@ npm run build
 
 `npm run new` creates the file in the correct folder with a complete front-matter block. To file a document you dropped into `_intake/`, add `--from _intake/the-file.md`. The full intake workflow, licensing rules and review checklist are in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## How we source and review
+## What is accepted
 
 The library only accepts templates their authors have clearly allowed everyone to redistribute and adapt:
 
@@ -89,9 +89,9 @@ The library only accepts templates their authors have clearly allowed everyone t
 - **Public domain**, such as US federal government forms.
 - **Written permission** from the author, quoted or linked in the template's metadata.
 
-That excludes ShareAlike, NonCommercial and NoDerivatives licences, and every "free template" published under a website's terms of use rather than an open licence, however good it looks. The validator refuses a third-party template that has no source URL and retrieval date, and `ATTRIBUTION.md` is regenerated from that metadata on every build so credit is never out of date.
+That excludes ShareAlike, NonCommercial and NoDerivatives licences, and every "free template" published under a website's terms of use rather than an open licence. The validator refuses a template that has no source URL and retrieval date, and `ATTRIBUTION.md` is regenerated from that metadata on every build.
 
-Review status is recorded honestly. A template is `draft` until a reviewer has checked it, and `approved` only when a lawyer qualified in that jurisdiction has signed off, with their name in the file. We do not describe a draft as lawyer-reviewed. When we find an error in a source template, we report it upstream as well as fixing it here.
+Every template is filed with `status: draft`. Nothing in this library has been reviewed by a lawyer unless a template's `reviewed_by` field names one.
 
 ## Repository layout
 

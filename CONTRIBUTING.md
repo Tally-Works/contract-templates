@@ -96,14 +96,14 @@ Work top-down. Each answer narrows the path.
 
 ## 5. Review and status
 
-| Status | Who sets it | What it means |
-| --- | --- | --- |
-| `draft` | whoever files it | In the library, unreviewed. The default. |
-| `reviewed` | a reviewer, with `reviewed_by` set | Structure, completeness and obvious legal issues checked for the stated jurisdiction. |
-| `approved` | a lawyer qualified in the jurisdiction, with `reviewed_by` set | Safe to recommend as a starting point. |
-| `deprecated` | a maintainer | Reference only. Set `supersedes` on the replacement. |
+| Status | What it means |
+| --- | --- |
+| `draft` | Filed, not reviewed by anyone. Every template starts here. |
+| `reviewed` | Checked by the person named in `reviewed_by`. |
+| `approved` | Approved by the person named in `reviewed_by`. |
+| `deprecated` | Kept for reference only. Set `supersedes` on the replacement. |
 
-Moving a template up a status is its own pull request: bump `version`, set `last_reviewed` and `reviewed_by`, and describe what was checked.
+Changing a status requires `reviewed_by` and `last_reviewed` to be set in the same change.
 
 ## 6. Changing the taxonomy
 
