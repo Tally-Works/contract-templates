@@ -552,6 +552,12 @@ Where a template has been changed from the original, the change is described in 
 | [PyCon US Code of Conduct (US)](templates/us/marketing-and-media/events/pycon-us-code-of-conduct.md) | CC-BY-3.0 | [link](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md) | 2026-11-14 |
 | [PyCon US Staff Procedure for Incident Handling (US)](templates/us/marketing-and-media/events/pycon-us-staff-procedure-for-incident-handling.md) | CC-BY-3.0 | [link](https://github.com/python/pycon-code-of-conduct/blob/master/Staff%20Procedure%20for%20incident%20handling.md) | 2026-11-14 |
 
+## [Scottish Government](https://www.gov.scot/publications/private-residential-tenancy-model-agreement/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Scottish Government Model Private Residential Tenancy Agreement (GB-SCT)](templates/gb/real-estate/residential-lease/scottish-government-model-private-residential-tenancy-agreement--gb-sct.md) | OGL-UK-3.0 | [link](https://www.gov.scot/publications/private-residential-tenancy-model-agreement/) | 2026-11-14 |
+
 ## [Series Seed](https://github.com/seriesseed/)
 
 | Template | Licence | Original | Retrieved |
@@ -676,11 +682,20 @@ Where a template has been changed from the original, the change is described in 
 | --- | --- | --- | --- |
 | [SBA Model Debenture SBIC Limited Partnership Agreement (US)](templates/us/partnerships/general-partnership/sba-model-debenture-sbic-limited-partnership-agreement.md) | Public-Domain | [link](https://legacy.sba.gov/document/support--model-debenture-sbic-lp-model-partnership-agreement-version-30) | 2026-11-14 |
 
-## [UK Cabinet Office and Government Legal Department](https://www.gov.uk/government/publications/the-mid-tier-contract-core-terms)
+## [UK Cabinet Office and Government Legal Department](https://www.gov.uk/government/publications/)
 
 | Template | Licence | Original | Retrieved |
 | --- | --- | --- | --- |
+| [Model Services Contract Combined Schedules (england-and-wales, GB)](templates/gb/commercial/master-services/model-services-contract-combined-schedules--england-and-wales.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/the-model-services-contract-schedules-england-wales) | 2026-11-14 |
+| [Model Services Contract Combined Schedules (GB-SCT)](templates/gb/commercial/master-services/model-services-contract-combined-schedules--gb-sct.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/the-model-services-contract-scotland) | 2026-11-14 |
+| [Model Services Contract Core Terms (england-and-wales, GB)](templates/gb/commercial/master-services/model-services-contract-core-terms--england-and-wales.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/the-model-services-contract-core-terms-england-wales) | 2026-11-14 |
+| [Model Services Contract Core Terms (GB-SCT)](templates/gb/commercial/master-services/model-services-contract-core-terms--gb-sct.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/the-model-services-contract-scotland) | 2026-11-14 |
+| [Model Services Contract Front Sheet (england-and-wales, GB)](templates/gb/commercial/master-services/model-services-contract-front-sheet--england-and-wales.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/the-model-services-contract-front-sheet-england-wales) | 2026-11-14 |
+| [Model Services Contract Front Sheet (GB-SCT)](templates/gb/commercial/master-services/model-services-contract-front-sheet--gb-sct.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/the-model-services-contract-scotland) | 2026-11-14 |
 | [Mid-Tier Contract Core Terms (GB)](templates/gb/commercial/supply-and-procurement/mid-tier-contract-core-terms.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/the-mid-tier-contract-core-terms) | 2026-11-14 |
+| [Short Form Contract Annex for Northern Ireland Buyers (GB-NIR)](templates/gb/commercial/supply-and-procurement/short-form-contract-annex-for-northern-ireland-buyers--gb-nir.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/terms-for-specific-buyers) | 2026-11-14 |
+| [Short Form Contract Special Terms for NHS England Buyers (nhs-england, GB)](templates/gb/commercial/supply-and-procurement/short-form-contract-special-terms-for-nhs-england-buyers--nhs-england.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/terms-for-specific-buyers) | 2026-11-14 |
+| [Short Form Contract (GB)](templates/gb/commercial/supply-and-procurement/short-form-contract.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/the-short-form-contract) | 2026-11-14 |
 
 ## [UK Intellectual Property Office](https://www.gov.uk/government/publications/)
 
@@ -689,10 +704,32 @@ Where a template has been changed from the original, the change is described in 
 | [Example Mutual Non-Disclosure Agreement (UK IPO) (GB)](templates/gb/confidentiality/mutual-nda/example-mutual-non-disclosure-agreement-uk-ipo.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/non-disclosure-agreements) | 2026-11-14 |
 | [Example One-Way Non-Disclosure Agreement (UK IPO) (GB)](templates/gb/confidentiality/unilateral-nda/example-one-way-non-disclosure-agreement-uk-ipo.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/non-disclosure-agreements) | 2026-11-14 |
 
-## [UK Intellectual Property Office (Lambert Toolkit)](https://www.gov.uk/guidance/lambert-toolkit)
+## [UK Intellectual Property Office (Lambert Toolkit)](https://www.gov.uk/)
 
 | Template | Licence | Original | Retrieved |
 | --- | --- | --- | --- |
+| [Lambert Variation Agreement for the Collaboration Agreement (GB)](templates/gb/commercial/amendments-and-extensions/lambert-variation-agreement-for-the-collaboration-agreement.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-variation-agreements) | 2026-11-14 |
+| [Lambert Variation Agreement for the Consortium Agreement (GB)](templates/gb/commercial/amendments-and-extensions/lambert-variation-agreement-for-the-consortium-agreement.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-variation-agreements) | 2026-11-14 |
+| [Lambert Sample Non-Disclosure Agreement (GB)](templates/gb/confidentiality/mutual-nda/lambert-sample-non-disclosure-agreement.md) | OGL-UK-3.0 | [link](https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit) | 2026-11-14 |
+| [Lambert Sample Confidentiality Notice (GB)](templates/gb/confidentiality/unilateral-nda/lambert-sample-confidentiality-notice.md) | OGL-UK-3.0 | [link](https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit) | 2026-11-14 |
+| [Lambert Sample Consultancy Agreement (GB)](templates/gb/contractors/consulting/lambert-sample-consultancy-agreement.md) | OGL-UK-3.0 | [link](https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit) | 2026-11-14 |
+| [Lambert Sample Patent Assignment (GB)](templates/gb/intellectual-property/assignment/lambert-sample-patent-assignment.md) | OGL-UK-3.0 | [link](https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit) | 2026-11-14 |
+| [Lambert Sample Materials Transfer Agreement (GB)](templates/gb/intellectual-property/licensing/lambert-sample-materials-transfer-agreement.md) | OGL-UK-3.0 | [link](https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit) | 2026-11-14 |
+| [Lambert Sample Patent and Know-How Licence (GB)](templates/gb/intellectual-property/licensing/lambert-sample-patent-and-know-how-licence.md) | OGL-UK-3.0 | [link](https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit) | 2026-11-14 |
+| [Lambert Heads of Terms for Collaboration Agreements (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-heads-of-terms-for-collaboration-agreements.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-heads-of-terms-agreements) | 2026-11-14 |
+| [Lambert Heads of Terms for Consortium Agreements (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-heads-of-terms-for-consortium-agreements.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-heads-of-terms-agreements) | 2026-11-14 |
+| [Lambert Model Collaboration Agreement 1 (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-1.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements) | 2026-11-14 |
+| [Lambert Model Collaboration Agreement 2 (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-2.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements) | 2026-11-14 |
+| [Lambert Model Collaboration Agreement 3 (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-3.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements) | 2026-11-14 |
+| [Lambert Model Collaboration Agreement 4 (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-4.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements) | 2026-11-14 |
+| [Lambert Model Collaboration Agreement 4A (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-4a.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements) | 2026-11-14 |
+| [Lambert Model Collaboration Agreement 5 (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-5.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements) | 2026-11-14 |
+| [Lambert Model Collaboration Agreement 6 (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-6.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements) | 2026-11-14 |
+| [Lambert Model Consortium Agreement A (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-a.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-consortium-agreements) | 2026-11-14 |
+| [Lambert Model Consortium Agreement B (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-b.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-consortium-agreements) | 2026-11-14 |
+| [Lambert Model Consortium Agreement C (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-c.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-consortium-agreements) | 2026-11-14 |
+| [Lambert Model Consortium Agreement D (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-d.md) | OGL-UK-3.0 | [link](https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-consortium-agreements) | 2026-11-14 |
+| [Lambert Sample Equipment Loan Agreement (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-sample-equipment-loan-agreement.md) | OGL-UK-3.0 | [link](https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit) | 2026-11-14 |
 | [Lambert Toolkit Fast Track Model Agreement (GB)](templates/gb/partnerships/collaboration-and-mou/lambert-toolkit-fast-track-model-agreement.md) | OGL-UK-3.0 | [link](https://www.gov.uk/guidance/lambert-toolkit) | 2026-11-14 |
 
 ## [USDA Agricultural Research Service (Office of Technology Transfer)](https://www.ars.usda.gov/ott/)
@@ -715,6 +752,14 @@ Where a template has been changed from the original, the change is described in 
 | Template | Licence | Original | Retrieved |
 | --- | --- | --- | --- |
 | [Model Employee IP and Open Source Contribution Policy (US)](templates/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.md) | CC-BY-4.0 | [link](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) | 2026-11-14 |
+
+## [Welsh Government](https://www.gov.wales/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Model Written Statement for a Fixed Term Standard Occupation Contract (GB-WLS)](templates/gb/real-estate/residential-lease/model-written-statement-for-a-fixed-term-standard-occupation-contract--gb-wls.md) | OGL-UK-3.0 | [link](https://www.gov.wales/model-written-statement-fixed-term-standard-contracts) | 2026-11-14 |
+| [Model Written Statement for a Periodic Standard Occupation Contract (GB-WLS)](templates/gb/real-estate/residential-lease/model-written-statement-for-a-periodic-standard-occupation-contract--gb-wls.md) | OGL-UK-3.0 | [link](https://www.gov.wales/model-written-statement-periodic-standard-contracts) | 2026-11-14 |
+| [Model Written Statement for a Secure Occupation Contract (GB-WLS)](templates/gb/real-estate/residential-lease/model-written-statement-for-a-secure-occupation-contract--gb-wls.md) | OGL-UK-3.0 | [link](https://www.gov.wales/model-written-statement-secure-contracts) | 2026-11-14 |
 
 ## Licence texts
 

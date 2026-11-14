@@ -4,7 +4,7 @@
 
 Every template is a Markdown file with a Word (.docx) file of the same name beside it. "original" marks the publisher's own file; the others are generated from the Markdown.
 
-460 template(s). Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.
+495 template(s). Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.
 
 ## By jurisdiction
 
@@ -12,7 +12,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | --- | ---: |
 | United States (`us`) | 394 |
 | Canada (`ca`) | 23 |
-| United Kingdom (`gb`) | 9 |
+| United Kingdom (`gb`) | 44 |
 | Ireland (`ie`) | 0 |
 | Australia (`au`) | 2 |
 | New Zealand (`nz`) | 0 |
@@ -27,16 +27,16 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | Category | Templates |
 | --- | ---: |
 | Employment (`employment`) | 127 |
-| Contractors & Consultants (`contractors`) | 7 |
-| Confidentiality (`confidentiality`) | 27 |
-| Commercial (`commercial`) | 20 |
+| Contractors & Consultants (`contractors`) | 8 |
+| Confidentiality (`confidentiality`) | 29 |
+| Commercial (`commercial`) | 31 |
 | Technology (`technology`) | 62 |
-| Intellectual Property (`intellectual-property`) | 33 |
+| Intellectual Property (`intellectual-property`) | 36 |
 | Privacy & Data (`privacy-and-data`) | 48 |
 | Corporate (`corporate`) | 54 |
 | Financing (`financing`) | 13 |
-| Real Estate (`real-estate`) | 17 |
-| Partnerships & Joint Ventures (`partnerships`) | 19 |
+| Real Estate (`real-estate`) | 21 |
+| Partnerships & Joint Ventures (`partnerships`) | 33 |
 | Marketing & Media (`marketing-and-media`) | 9 |
 | Dispute Resolution (`dispute-resolution`) | 3 |
 | Clause Library (`clauses`) | 21 |
@@ -816,6 +816,12 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 #### Contractors & Consultants
 
+**consulting** — Consulting and advisory agreements, including fractional executives and advisors.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Lambert Sample Consultancy Agreement](templates/gb/contractors/consulting/lambert-sample-consultancy-agreement.md) | [docx](templates/gb/contractors/consulting/lambert-sample-consultancy-agreement.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, consultancy, university-industry, ipo, crown-copyright |
+
 **statement-of-work** — Statements of work and work orders that attach to a master agreement.
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
@@ -829,6 +835,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Example Mutual Non-Disclosure Agreement (UK IPO)](templates/gb/confidentiality/mutual-nda/example-mutual-non-disclosure-agreement-uk-ipo.md) | [docx](templates/gb/confidentiality/mutual-nda/example-mutual-non-disclosure-agreement-uk-ipo.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | nda, mutual, ipo, crown-copyright |
+| [Lambert Sample Non-Disclosure Agreement](templates/gb/confidentiality/mutual-nda/lambert-sample-non-disclosure-agreement.md) | [docx](templates/gb/confidentiality/mutual-nda/lambert-sample-non-disclosure-agreement.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, nda, mutual, university-industry, ipo, crown-copyright |
 
 **unilateral-nda** — One-way non-disclosure agreements.
 
@@ -836,14 +843,51 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | --- | --- | --- | --- | --- | --- | --- |
 | [Basic Non-Disclosure Agreement](templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.md) | [docx](templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.docx) (original) | GB | agreement | draft | MIT | nda, one-way, confidentiality, documize |
 | [Example One-Way Non-Disclosure Agreement (UK IPO)](templates/gb/confidentiality/unilateral-nda/example-one-way-non-disclosure-agreement-uk-ipo.md) | [docx](templates/gb/confidentiality/unilateral-nda/example-one-way-non-disclosure-agreement-uk-ipo.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | nda, one-way, ipo, crown-copyright |
+| [Lambert Sample Confidentiality Notice](templates/gb/confidentiality/unilateral-nda/lambert-sample-confidentiality-notice.md) | [docx](templates/gb/confidentiality/unilateral-nda/lambert-sample-confidentiality-notice.docx) (original) | GB | notice | draft | OGL-UK-3.0 | lambert, confidentiality-notice, ipo, crown-copyright |
 
 #### Commercial
+
+**master-services** — Master services agreements and general services agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Model Services Contract Combined Schedules (england-and-wales)](templates/gb/commercial/master-services/model-services-contract-combined-schedules--england-and-wales.md) | [docx](templates/gb/commercial/master-services/model-services-contract-combined-schedules--england-and-wales.docx) (original) | GB | schedule | draft | OGL-UK-3.0 | public-procurement, model-services-contract, schedules, cabinet-office, crown-copyright |
+| [Model Services Contract Combined Schedules](templates/gb/commercial/master-services/model-services-contract-combined-schedules--gb-sct.md) | [docx](templates/gb/commercial/master-services/model-services-contract-combined-schedules--gb-sct.docx) (original) | GB-SCT | schedule | draft | OGL-UK-3.0 | public-procurement, model-services-contract, schedules, scotland, cabinet-office, crown-copyright |
+| [Model Services Contract Core Terms (england-and-wales)](templates/gb/commercial/master-services/model-services-contract-core-terms--england-and-wales.md) | [docx](templates/gb/commercial/master-services/model-services-contract-core-terms--england-and-wales.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | public-procurement, model-services-contract, core-terms, cabinet-office, crown-copyright |
+| [Model Services Contract Core Terms](templates/gb/commercial/master-services/model-services-contract-core-terms--gb-sct.md) | [docx](templates/gb/commercial/master-services/model-services-contract-core-terms--gb-sct.docx) (original) | GB-SCT | agreement | draft | OGL-UK-3.0 | public-procurement, model-services-contract, core-terms, scotland, cabinet-office, crown-copyright |
+| [Model Services Contract Front Sheet (england-and-wales)](templates/gb/commercial/master-services/model-services-contract-front-sheet--england-and-wales.md) | [docx](templates/gb/commercial/master-services/model-services-contract-front-sheet--england-and-wales.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | public-procurement, model-services-contract, front-sheet, cabinet-office, crown-copyright |
+| [Model Services Contract Front Sheet](templates/gb/commercial/master-services/model-services-contract-front-sheet--gb-sct.md) | [docx](templates/gb/commercial/master-services/model-services-contract-front-sheet--gb-sct.docx) (original) | GB-SCT | agreement | draft | OGL-UK-3.0 | public-procurement, model-services-contract, front-sheet, scotland, cabinet-office, crown-copyright |
 
 **supply-and-procurement** — Supply chain, procurement and vendor agreements.
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Mid-Tier Contract Core Terms](templates/gb/commercial/supply-and-procurement/mid-tier-contract-core-terms.md) | [docx](templates/gb/commercial/supply-and-procurement/mid-tier-contract-core-terms.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | public-procurement, mid-tier-contract, core-terms, cabinet-office, crown-copyright |
+| [Short Form Contract Annex for Northern Ireland Buyers](templates/gb/commercial/supply-and-procurement/short-form-contract-annex-for-northern-ireland-buyers--gb-nir.md) | [docx](templates/gb/commercial/supply-and-procurement/short-form-contract-annex-for-northern-ireland-buyers--gb-nir.docx) (original) | GB-NIR | schedule | draft | OGL-UK-3.0 | public-procurement, short-form-contract, northern-ireland, annex, cabinet-office, crown-copyright |
+| [Short Form Contract Special Terms for NHS England Buyers (nhs-england)](templates/gb/commercial/supply-and-procurement/short-form-contract-special-terms-for-nhs-england-buyers--nhs-england.md) | [docx](templates/gb/commercial/supply-and-procurement/short-form-contract-special-terms-for-nhs-england-buyers--nhs-england.docx) (original) | GB | schedule | draft | OGL-UK-3.0 | public-procurement, short-form-contract, nhs, special-terms, cabinet-office, crown-copyright |
+| [Short Form Contract](templates/gb/commercial/supply-and-procurement/short-form-contract.md) | [docx](templates/gb/commercial/supply-and-procurement/short-form-contract.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | public-procurement, short-form-contract, cabinet-office, crown-copyright |
+
+**amendments-and-extensions** — Amendments, extensions, renewals and change orders to existing agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Lambert Variation Agreement for the Collaboration Agreement](templates/gb/commercial/amendments-and-extensions/lambert-variation-agreement-for-the-collaboration-agreement.md) | [docx](templates/gb/commercial/amendments-and-extensions/lambert-variation-agreement-for-the-collaboration-agreement.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, variation, amendment, research-collaboration, ipo, crown-copyright |
+| [Lambert Variation Agreement for the Consortium Agreement](templates/gb/commercial/amendments-and-extensions/lambert-variation-agreement-for-the-consortium-agreement.md) | [docx](templates/gb/commercial/amendments-and-extensions/lambert-variation-agreement-for-the-consortium-agreement.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, variation, amendment, consortium, ipo, crown-copyright |
+
+#### Intellectual Property
+
+**assignment** — IP assignment and transfer agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Lambert Sample Patent Assignment](templates/gb/intellectual-property/assignment/lambert-sample-patent-assignment.md) | [docx](templates/gb/intellectual-property/assignment/lambert-sample-patent-assignment.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, patent-assignment, university-industry, ipo, crown-copyright |
+
+**licensing** — General IP licence agreements (in-bound and out-bound).
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Lambert Sample Materials Transfer Agreement](templates/gb/intellectual-property/licensing/lambert-sample-materials-transfer-agreement.md) | [docx](templates/gb/intellectual-property/licensing/lambert-sample-materials-transfer-agreement.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, materials-transfer, research, university-industry, ipo, crown-copyright |
+| [Lambert Sample Patent and Know-How Licence](templates/gb/intellectual-property/licensing/lambert-sample-patent-and-know-how-licence.md) | [docx](templates/gb/intellectual-property/licensing/lambert-sample-patent-and-know-how-licence.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, patent-licence, know-how, university-industry, ipo, crown-copyright |
 
 #### Corporate
 
@@ -855,12 +899,37 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | [Model Articles for Private Companies Limited by Shares](templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-shares.md) | [docx](templates/gb/corporate/formation/model-articles-for-private-companies-limited-by-shares.docx) (original) | GB | charter | draft | OGL-UK-3.0 | model-articles, articles-of-association, private-company, companies-house, crown-copyright |
 | [Model Articles for Public Companies](templates/gb/corporate/formation/model-articles-for-public-companies.md) | [docx](templates/gb/corporate/formation/model-articles-for-public-companies.docx) (original) | GB | charter | draft | OGL-UK-3.0 | model-articles, articles-of-association, public-company, companies-house, crown-copyright |
 
+#### Real Estate
+
+**residential-lease** — Residential tenancy and lease agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Model Written Statement for a Fixed Term Standard Occupation Contract](templates/gb/real-estate/residential-lease/model-written-statement-for-a-fixed-term-standard-occupation-contract--gb-wls.md) | [docx](templates/gb/real-estate/residential-lease/model-written-statement-for-a-fixed-term-standard-occupation-contract--gb-wls.docx) (original) | GB-WLS | agreement | draft | OGL-UK-3.0 | lease, residential, occupation-contract, fixed-term, wales, crown-copyright |
+| [Model Written Statement for a Periodic Standard Occupation Contract](templates/gb/real-estate/residential-lease/model-written-statement-for-a-periodic-standard-occupation-contract--gb-wls.md) | [docx](templates/gb/real-estate/residential-lease/model-written-statement-for-a-periodic-standard-occupation-contract--gb-wls.docx) (original) | GB-WLS | agreement | draft | OGL-UK-3.0 | lease, residential, occupation-contract, periodic, wales, crown-copyright |
+| [Model Written Statement for a Secure Occupation Contract](templates/gb/real-estate/residential-lease/model-written-statement-for-a-secure-occupation-contract--gb-wls.md) | [docx](templates/gb/real-estate/residential-lease/model-written-statement-for-a-secure-occupation-contract--gb-wls.docx) (original) | GB-WLS | agreement | draft | OGL-UK-3.0 | lease, residential, occupation-contract, secure, wales, crown-copyright |
+| [Scottish Government Model Private Residential Tenancy Agreement](templates/gb/real-estate/residential-lease/scottish-government-model-private-residential-tenancy-agreement--gb-sct.md) | [docx](templates/gb/real-estate/residential-lease/scottish-government-model-private-residential-tenancy-agreement--gb-sct.docx) (original) | GB-SCT | agreement | draft | OGL-UK-3.0 | lease, residential, private-residential-tenancy, scotland, crown-copyright |
+
 #### Partnerships & Joint Ventures
 
 **collaboration-and-mou** — Memoranda of understanding, letters of intent and collaboration agreements.
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Lambert Heads of Terms for Collaboration Agreements](templates/gb/partnerships/collaboration-and-mou/lambert-heads-of-terms-for-collaboration-agreements.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-heads-of-terms-for-collaboration-agreements.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, heads-of-terms, research-collaboration, university-industry, ipo, crown-copyright |
+| [Lambert Heads of Terms for Consortium Agreements](templates/gb/partnerships/collaboration-and-mou/lambert-heads-of-terms-for-consortium-agreements.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-heads-of-terms-for-consortium-agreements.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, heads-of-terms, consortium, research-collaboration, ipo, crown-copyright |
+| [Lambert Model Collaboration Agreement 1](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-1.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-1.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, research-collaboration, university-industry, ipo, crown-copyright |
+| [Lambert Model Collaboration Agreement 2](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-2.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-2.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, research-collaboration, university-industry, ipo, crown-copyright |
+| [Lambert Model Collaboration Agreement 3](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-3.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-3.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, research-collaboration, university-industry, ipo, crown-copyright |
+| [Lambert Model Collaboration Agreement 4](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-4.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-4.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, research-collaboration, university-industry, ipo, crown-copyright |
+| [Lambert Model Collaboration Agreement 4A](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-4a.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-4a.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, research-collaboration, university-industry, ipo, crown-copyright |
+| [Lambert Model Collaboration Agreement 5](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-5.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-5.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, research-collaboration, university-industry, ipo, crown-copyright |
+| [Lambert Model Collaboration Agreement 6](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-6.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-6.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, research-collaboration, university-industry, studentship, ipo, crown-copyright |
+| [Lambert Model Consortium Agreement A](templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-a.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-a.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, consortium, research-collaboration, university-industry, ipo, crown-copyright |
+| [Lambert Model Consortium Agreement B](templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-b.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-b.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, consortium, research-collaboration, university-industry, ipo, crown-copyright |
+| [Lambert Model Consortium Agreement C](templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-c.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-c.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, consortium, research-collaboration, university-industry, ipo, crown-copyright |
+| [Lambert Model Consortium Agreement D](templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-d.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-d.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, consortium, research-collaboration, university-industry, ipo, crown-copyright |
+| [Lambert Sample Equipment Loan Agreement](templates/gb/partnerships/collaboration-and-mou/lambert-sample-equipment-loan-agreement.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-sample-equipment-loan-agreement.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, equipment-loan, research, university-industry, ipo, crown-copyright |
 | [Lambert Toolkit Fast Track Model Agreement](templates/gb/partnerships/collaboration-and-mou/lambert-toolkit-fast-track-model-agreement.md) | [docx](templates/gb/partnerships/collaboration-and-mou/lambert-toolkit-fast-track-model-agreement.docx) (original) | GB | agreement | draft | OGL-UK-3.0 | lambert, research-collaboration, university-industry, ipo, crown-copyright |
 
 ### Australia (`au`)

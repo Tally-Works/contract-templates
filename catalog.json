@@ -1,6 +1,6 @@
 {
   "generated_from": "taxonomy.yaml + templates/**",
-  "count": 460,
+  "count": 495,
   "templates": [
     {
       "path": "templates/au/real-estate/residential-lease/residential-rental-agreement-for-a-fixed-term-of-more-than-five-years-form-2--au-vic.md",
@@ -989,6 +989,282 @@
       }
     },
     {
+      "path": "templates/gb/commercial/amendments-and-extensions/lambert-variation-agreement-for-the-collaboration-agreement.md",
+      "docx": "templates/gb/commercial/amendments-and-extensions/lambert-variation-agreement-for-the-collaboration-agreement.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Variation Agreement for the Collaboration Agreement",
+      "jurisdiction": "GB",
+      "category": "commercial",
+      "subcategory": "amendments-and-extensions",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "institution",
+        "collaborator"
+      ],
+      "tags": [
+        "lambert",
+        "variation",
+        "amendment",
+        "research-collaboration",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit variation agreement for amending a model collaboration agreement.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-variation-agreements",
+        "file": "templates/gb/commercial/amendments-and-extensions/lambert-variation-agreement-for-the-collaboration-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/gb/commercial/amendments-and-extensions/lambert-variation-agreement-for-the-consortium-agreement.md",
+      "docx": "templates/gb/commercial/amendments-and-extensions/lambert-variation-agreement-for-the-consortium-agreement.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Variation Agreement for the Consortium Agreement",
+      "jurisdiction": "GB",
+      "category": "commercial",
+      "subcategory": "amendments-and-extensions",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "consortium-members"
+      ],
+      "tags": [
+        "lambert",
+        "variation",
+        "amendment",
+        "consortium",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit variation agreement for amending a model consortium agreement.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-variation-agreements",
+        "file": "templates/gb/commercial/amendments-and-extensions/lambert-variation-agreement-for-the-consortium-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/gb/commercial/master-services/model-services-contract-combined-schedules--england-and-wales.md",
+      "docx": "templates/gb/commercial/master-services/model-services-contract-combined-schedules--england-and-wales.docx",
+      "docx_is_publisher_original": true,
+      "title": "Model Services Contract Combined Schedules",
+      "jurisdiction": "GB",
+      "category": "commercial",
+      "subcategory": "master-services",
+      "type": "schedule",
+      "variant": "england-and-wales",
+      "parties": [
+        "authority",
+        "supplier"
+      ],
+      "tags": [
+        "public-procurement",
+        "model-services-contract",
+        "schedules",
+        "cabinet-office",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "All schedules of the UK Cabinet Office Model Services Contract (v2.2A, 2025) for England and Wales in one document.",
+      "source": {
+        "name": "UK Cabinet Office and Government Legal Department",
+        "url": "https://www.gov.uk/government/publications/the-model-services-contract-schedules-england-wales",
+        "file": "templates/gb/commercial/master-services/model-services-contract-combined-schedules--england-and-wales.docx"
+      }
+    },
+    {
+      "path": "templates/gb/commercial/master-services/model-services-contract-combined-schedules--gb-sct.md",
+      "docx": "templates/gb/commercial/master-services/model-services-contract-combined-schedules--gb-sct.docx",
+      "docx_is_publisher_original": true,
+      "title": "Model Services Contract Combined Schedules",
+      "jurisdiction": "GB-SCT",
+      "category": "commercial",
+      "subcategory": "master-services",
+      "type": "schedule",
+      "variant": null,
+      "parties": [
+        "authority",
+        "supplier"
+      ],
+      "tags": [
+        "public-procurement",
+        "model-services-contract",
+        "schedules",
+        "scotland",
+        "cabinet-office",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "All schedules of the UK Cabinet Office Model Services Contract (v2.2A, 2025) adapted for Scots law, in one document.",
+      "source": {
+        "name": "UK Cabinet Office and Government Legal Department",
+        "url": "https://www.gov.uk/government/publications/the-model-services-contract-scotland",
+        "file": "templates/gb/commercial/master-services/model-services-contract-combined-schedules--gb-sct.docx"
+      }
+    },
+    {
+      "path": "templates/gb/commercial/master-services/model-services-contract-core-terms--england-and-wales.md",
+      "docx": "templates/gb/commercial/master-services/model-services-contract-core-terms--england-and-wales.docx",
+      "docx_is_publisher_original": true,
+      "title": "Model Services Contract Core Terms",
+      "jurisdiction": "GB",
+      "category": "commercial",
+      "subcategory": "master-services",
+      "type": "agreement",
+      "variant": "england-and-wales",
+      "parties": [
+        "authority",
+        "supplier"
+      ],
+      "tags": [
+        "public-procurement",
+        "model-services-contract",
+        "core-terms",
+        "cabinet-office",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The UK Cabinet Office Model Services Contract core terms (v2.2A, 2025) for England and Wales, used for complex, high-value public-sector services contracts.",
+      "source": {
+        "name": "UK Cabinet Office and Government Legal Department",
+        "url": "https://www.gov.uk/government/publications/the-model-services-contract-core-terms-england-wales",
+        "file": "templates/gb/commercial/master-services/model-services-contract-core-terms--england-and-wales.docx"
+      }
+    },
+    {
+      "path": "templates/gb/commercial/master-services/model-services-contract-core-terms--gb-sct.md",
+      "docx": "templates/gb/commercial/master-services/model-services-contract-core-terms--gb-sct.docx",
+      "docx_is_publisher_original": true,
+      "title": "Model Services Contract Core Terms",
+      "jurisdiction": "GB-SCT",
+      "category": "commercial",
+      "subcategory": "master-services",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "authority",
+        "supplier"
+      ],
+      "tags": [
+        "public-procurement",
+        "model-services-contract",
+        "core-terms",
+        "scotland",
+        "cabinet-office",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The UK Cabinet Office Model Services Contract core terms (v2.2A, 2025) adapted for Scots law.",
+      "source": {
+        "name": "UK Cabinet Office and Government Legal Department",
+        "url": "https://www.gov.uk/government/publications/the-model-services-contract-scotland",
+        "file": "templates/gb/commercial/master-services/model-services-contract-core-terms--gb-sct.docx"
+      }
+    },
+    {
+      "path": "templates/gb/commercial/master-services/model-services-contract-front-sheet--england-and-wales.md",
+      "docx": "templates/gb/commercial/master-services/model-services-contract-front-sheet--england-and-wales.docx",
+      "docx_is_publisher_original": true,
+      "title": "Model Services Contract Front Sheet",
+      "jurisdiction": "GB",
+      "category": "commercial",
+      "subcategory": "master-services",
+      "type": "agreement",
+      "variant": "england-and-wales",
+      "parties": [
+        "authority",
+        "supplier"
+      ],
+      "tags": [
+        "public-procurement",
+        "model-services-contract",
+        "front-sheet",
+        "cabinet-office",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The UK Cabinet Office Model Services Contract front sheet (v2.2, 2025) for England and Wales: the signature document that brings the core terms and schedules together for complex services contracts.",
+      "source": {
+        "name": "UK Cabinet Office and Government Legal Department",
+        "url": "https://www.gov.uk/government/publications/the-model-services-contract-front-sheet-england-wales",
+        "file": "templates/gb/commercial/master-services/model-services-contract-front-sheet--england-and-wales.docx"
+      }
+    },
+    {
+      "path": "templates/gb/commercial/master-services/model-services-contract-front-sheet--gb-sct.md",
+      "docx": "templates/gb/commercial/master-services/model-services-contract-front-sheet--gb-sct.docx",
+      "docx_is_publisher_original": true,
+      "title": "Model Services Contract Front Sheet",
+      "jurisdiction": "GB-SCT",
+      "category": "commercial",
+      "subcategory": "master-services",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "authority",
+        "supplier"
+      ],
+      "tags": [
+        "public-procurement",
+        "model-services-contract",
+        "front-sheet",
+        "scotland",
+        "cabinet-office",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The UK Cabinet Office Model Services Contract front sheet (v2.2, 2025) adapted for Scots law.",
+      "source": {
+        "name": "UK Cabinet Office and Government Legal Department",
+        "url": "https://www.gov.uk/government/publications/the-model-services-contract-scotland",
+        "file": "templates/gb/commercial/master-services/model-services-contract-front-sheet--gb-sct.docx"
+      }
+    },
+    {
       "path": "templates/gb/commercial/supply-and-procurement/mid-tier-contract-core-terms.md",
       "docx": "templates/gb/commercial/supply-and-procurement/mid-tier-contract-core-terms.docx",
       "docx_is_publisher_original": true,
@@ -1023,6 +1299,109 @@
       }
     },
     {
+      "path": "templates/gb/commercial/supply-and-procurement/short-form-contract-annex-for-northern-ireland-buyers--gb-nir.md",
+      "docx": "templates/gb/commercial/supply-and-procurement/short-form-contract-annex-for-northern-ireland-buyers--gb-nir.docx",
+      "docx_is_publisher_original": true,
+      "title": "Short Form Contract Annex for Northern Ireland Buyers",
+      "jurisdiction": "GB-NIR",
+      "category": "commercial",
+      "subcategory": "supply-and-procurement",
+      "type": "schedule",
+      "variant": null,
+      "parties": [
+        "buyer",
+        "supplier"
+      ],
+      "tags": [
+        "public-procurement",
+        "short-form-contract",
+        "northern-ireland",
+        "annex",
+        "cabinet-office",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Annex 7 to the UK Cabinet Office Short Form Contract, adapting the terms to Northern Ireland law and procurement policy.",
+      "source": {
+        "name": "UK Cabinet Office and Government Legal Department",
+        "url": "https://www.gov.uk/government/publications/terms-for-specific-buyers",
+        "file": "templates/gb/commercial/supply-and-procurement/short-form-contract-annex-for-northern-ireland-buyers--gb-nir.docx"
+      }
+    },
+    {
+      "path": "templates/gb/commercial/supply-and-procurement/short-form-contract-special-terms-for-nhs-england-buyers--nhs-england.md",
+      "docx": "templates/gb/commercial/supply-and-procurement/short-form-contract-special-terms-for-nhs-england-buyers--nhs-england.docx",
+      "docx_is_publisher_original": true,
+      "title": "Short Form Contract Special Terms for NHS England Buyers",
+      "jurisdiction": "GB",
+      "category": "commercial",
+      "subcategory": "supply-and-procurement",
+      "type": "schedule",
+      "variant": "nhs-england",
+      "parties": [
+        "buyer",
+        "supplier"
+      ],
+      "tags": [
+        "public-procurement",
+        "short-form-contract",
+        "nhs",
+        "special-terms",
+        "cabinet-office",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Special terms issued with the UK Cabinet Office Short Form Contract for use by NHS England buyers.",
+      "source": {
+        "name": "UK Cabinet Office and Government Legal Department",
+        "url": "https://www.gov.uk/government/publications/terms-for-specific-buyers",
+        "file": "templates/gb/commercial/supply-and-procurement/short-form-contract-special-terms-for-nhs-england-buyers--nhs-england.docx"
+      }
+    },
+    {
+      "path": "templates/gb/commercial/supply-and-procurement/short-form-contract.md",
+      "docx": "templates/gb/commercial/supply-and-procurement/short-form-contract.docx",
+      "docx_is_publisher_original": true,
+      "title": "Short Form Contract",
+      "jurisdiction": "GB",
+      "category": "commercial",
+      "subcategory": "supply-and-procurement",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "buyer",
+        "supplier"
+      ],
+      "tags": [
+        "public-procurement",
+        "short-form-contract",
+        "cabinet-office",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The UK Cabinet Office Short Form Contract (v1.5A, 2025): order form, terms and annexes for low-value, low-risk public-sector purchases of goods and services.",
+      "source": {
+        "name": "UK Cabinet Office and Government Legal Department",
+        "url": "https://www.gov.uk/government/publications/the-short-form-contract",
+        "file": "templates/gb/commercial/supply-and-procurement/short-form-contract.docx"
+      }
+    },
+    {
       "path": "templates/gb/confidentiality/mutual-nda/example-mutual-non-disclosure-agreement-uk-ipo.md",
       "docx": "templates/gb/confidentiality/mutual-nda/example-mutual-non-disclosure-agreement-uk-ipo.docx",
       "docx_is_publisher_original": true,
@@ -1053,6 +1432,41 @@
         "name": "UK Intellectual Property Office",
         "url": "https://www.gov.uk/government/publications/non-disclosure-agreements",
         "file": "templates/gb/confidentiality/mutual-nda/example-mutual-non-disclosure-agreement-uk-ipo.docx"
+      }
+    },
+    {
+      "path": "templates/gb/confidentiality/mutual-nda/lambert-sample-non-disclosure-agreement.md",
+      "docx": "templates/gb/confidentiality/mutual-nda/lambert-sample-non-disclosure-agreement.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Sample Non-Disclosure Agreement",
+      "jurisdiction": "GB",
+      "category": "confidentiality",
+      "subcategory": "mutual-nda",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "party-a",
+        "party-b"
+      ],
+      "tags": [
+        "lambert",
+        "nda",
+        "mutual",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit sample mutual non-disclosure agreement for discussions ahead of a research collaboration.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit",
+        "file": "templates/gb/confidentiality/mutual-nda/lambert-sample-non-disclosure-agreement.docx"
       }
     },
     {
@@ -1119,6 +1533,72 @@
         "name": "UK Intellectual Property Office",
         "url": "https://www.gov.uk/government/publications/non-disclosure-agreements",
         "file": "templates/gb/confidentiality/unilateral-nda/example-one-way-non-disclosure-agreement-uk-ipo.docx"
+      }
+    },
+    {
+      "path": "templates/gb/confidentiality/unilateral-nda/lambert-sample-confidentiality-notice.md",
+      "docx": "templates/gb/confidentiality/unilateral-nda/lambert-sample-confidentiality-notice.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Sample Confidentiality Notice",
+      "jurisdiction": "GB",
+      "category": "confidentiality",
+      "subcategory": "unilateral-nda",
+      "type": "notice",
+      "variant": null,
+      "parties": [
+        "discloser"
+      ],
+      "tags": [
+        "lambert",
+        "confidentiality-notice",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit sample confidentiality notice for the front page of a confidential document.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit",
+        "file": "templates/gb/confidentiality/unilateral-nda/lambert-sample-confidentiality-notice.docx"
+      }
+    },
+    {
+      "path": "templates/gb/contractors/consulting/lambert-sample-consultancy-agreement.md",
+      "docx": "templates/gb/contractors/consulting/lambert-sample-consultancy-agreement.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Sample Consultancy Agreement",
+      "jurisdiction": "GB",
+      "category": "contractors",
+      "subcategory": "consulting",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "client",
+        "consultant"
+      ],
+      "tags": [
+        "lambert",
+        "consultancy",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit sample consultancy agreement between a university and a company.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit",
+        "file": "templates/gb/contractors/consulting/lambert-sample-consultancy-agreement.docx"
       }
     },
     {
@@ -1258,6 +1738,590 @@
       }
     },
     {
+      "path": "templates/gb/intellectual-property/assignment/lambert-sample-patent-assignment.md",
+      "docx": "templates/gb/intellectual-property/assignment/lambert-sample-patent-assignment.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Sample Patent Assignment",
+      "jurisdiction": "GB",
+      "category": "intellectual-property",
+      "subcategory": "assignment",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "assignor",
+        "assignee"
+      ],
+      "tags": [
+        "lambert",
+        "patent-assignment",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit sample assignment of patents and patent applications.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit",
+        "file": "templates/gb/intellectual-property/assignment/lambert-sample-patent-assignment.docx"
+      }
+    },
+    {
+      "path": "templates/gb/intellectual-property/licensing/lambert-sample-materials-transfer-agreement.md",
+      "docx": "templates/gb/intellectual-property/licensing/lambert-sample-materials-transfer-agreement.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Sample Materials Transfer Agreement",
+      "jurisdiction": "GB",
+      "category": "intellectual-property",
+      "subcategory": "licensing",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "university",
+        "company"
+      ],
+      "tags": [
+        "lambert",
+        "materials-transfer",
+        "research",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit sample agreement for a company providing materials to a university for a research project.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit",
+        "file": "templates/gb/intellectual-property/licensing/lambert-sample-materials-transfer-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/gb/intellectual-property/licensing/lambert-sample-patent-and-know-how-licence.md",
+      "docx": "templates/gb/intellectual-property/licensing/lambert-sample-patent-and-know-how-licence.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Sample Patent and Know-How Licence",
+      "jurisdiction": "GB",
+      "category": "intellectual-property",
+      "subcategory": "licensing",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "licensor",
+        "licensee"
+      ],
+      "tags": [
+        "lambert",
+        "patent-licence",
+        "know-how",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit sample licence of patents and know-how from a university to a company.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit",
+        "file": "templates/gb/intellectual-property/licensing/lambert-sample-patent-and-know-how-licence.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-heads-of-terms-for-collaboration-agreements.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-heads-of-terms-for-collaboration-agreements.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Heads of Terms for Collaboration Agreements",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "institution",
+        "collaborator"
+      ],
+      "tags": [
+        "lambert",
+        "heads-of-terms",
+        "research-collaboration",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit heads of terms for a proposed two-party research collaboration agreement.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-heads-of-terms-agreements",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-heads-of-terms-for-collaboration-agreements.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-heads-of-terms-for-consortium-agreements.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-heads-of-terms-for-consortium-agreements.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Heads of Terms for Consortium Agreements",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "consortium-members"
+      ],
+      "tags": [
+        "lambert",
+        "heads-of-terms",
+        "consortium",
+        "research-collaboration",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit heads of terms for a proposed multi-party consortium agreement.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-heads-of-terms-agreements",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-heads-of-terms-for-consortium-agreements.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-1.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-1.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Model Collaboration Agreement 1",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "institution",
+        "collaborator"
+      ],
+      "tags": [
+        "lambert",
+        "research-collaboration",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit model research collaboration agreement 1 (May 2018): the institution owns the results and grants the collaborator a non-exclusive licence to use them.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-1.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-2.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-2.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Model Collaboration Agreement 2",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "institution",
+        "collaborator"
+      ],
+      "tags": [
+        "lambert",
+        "research-collaboration",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit model research collaboration agreement 2 (May 2018): the institution owns the results, the collaborator has a non-exclusive licence and the right to negotiate an exclusive licence.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-2.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-3.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-3.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Model Collaboration Agreement 3",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "institution",
+        "collaborator"
+      ],
+      "tags": [
+        "lambert",
+        "research-collaboration",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit model research collaboration agreement 3 (May 2018): the institution owns the results, the collaborator has a non-exclusive licence and the right to negotiate an assignment.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-3.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-4.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-4.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Model Collaboration Agreement 4",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "institution",
+        "collaborator"
+      ],
+      "tags": [
+        "lambert",
+        "research-collaboration",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit model research collaboration agreement 4 (October 2018): the collaborator owns the results; the institution may use them for academic and research purposes and academic publication is permitted.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-4.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-4a.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-4a.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Model Collaboration Agreement 4A",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "institution",
+        "collaborator"
+      ],
+      "tags": [
+        "lambert",
+        "research-collaboration",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit model research collaboration agreement 4A (May 2018): each party takes an assignment of, and may exploit, the results it has the right to exploit.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-4a.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-5.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-5.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Model Collaboration Agreement 5",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "institution",
+        "collaborator"
+      ],
+      "tags": [
+        "lambert",
+        "research-collaboration",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit model research collaboration agreement 5 (November 2018): the collaborator owns the results; the institution has no right to use them for academic and research purposes and academic publication is not permitted.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-5.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-6.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-6.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Model Collaboration Agreement 6",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "institution",
+        "company",
+        "student"
+      ],
+      "tags": [
+        "lambert",
+        "research-collaboration",
+        "university-industry",
+        "studentship",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit model research collaboration agreement 6 (May 2018): a graduate student carries out the project and the company owns the results; the institution may use them for academic and research purposes.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-research-collaboration-agreements",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-model-collaboration-agreement-6.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-a.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-a.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Model Consortium Agreement A",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "consortium-members"
+      ],
+      "tags": [
+        "lambert",
+        "consortium",
+        "research-collaboration",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit model consortium agreement A (May 2018) for multi-party research collaborations.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-consortium-agreements",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-a.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-b.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-b.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Model Consortium Agreement B",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "consortium-members"
+      ],
+      "tags": [
+        "lambert",
+        "consortium",
+        "research-collaboration",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit model consortium agreement B (May 2018): one party, the lead exploitation party, commercialises the results.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-consortium-agreements",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-b.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-c.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-c.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Model Consortium Agreement C",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "consortium-members"
+      ],
+      "tags": [
+        "lambert",
+        "consortium",
+        "research-collaboration",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit model consortium agreement C (May 2018): two of the parties commercialise different results.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-consortium-agreements",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-c.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-d.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-d.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Model Consortium Agreement D",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "consortium-members"
+      ],
+      "tags": [
+        "lambert",
+        "consortium",
+        "research-collaboration",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit model consortium agreement D (May 2018): each party owns the IP in the results it creates and licenses the others non-exclusively for the project.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/government/publications/university-and-business-collaboration-agreements-model-consortium-agreements",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-model-consortium-agreement-d.docx"
+      }
+    },
+    {
+      "path": "templates/gb/partnerships/collaboration-and-mou/lambert-sample-equipment-loan-agreement.md",
+      "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-sample-equipment-loan-agreement.docx",
+      "docx_is_publisher_original": true,
+      "title": "Lambert Sample Equipment Loan Agreement",
+      "jurisdiction": "GB",
+      "category": "partnerships",
+      "subcategory": "collaboration-and-mou",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "university",
+        "company"
+      ],
+      "tags": [
+        "lambert",
+        "equipment-loan",
+        "research",
+        "university-industry",
+        "ipo",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Lambert Toolkit sample agreement for a company lending equipment to a university for a research project.",
+      "source": {
+        "name": "UK Intellectual Property Office (Lambert Toolkit)",
+        "url": "https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit",
+        "file": "templates/gb/partnerships/collaboration-and-mou/lambert-sample-equipment-loan-agreement.docx"
+      }
+    },
+    {
       "path": "templates/gb/partnerships/collaboration-and-mou/lambert-toolkit-fast-track-model-agreement.md",
       "docx": "templates/gb/partnerships/collaboration-and-mou/lambert-toolkit-fast-track-model-agreement.docx",
       "docx_is_publisher_original": true,
@@ -1289,6 +2353,145 @@
         "name": "UK Intellectual Property Office (Lambert Toolkit)",
         "url": "https://www.gov.uk/guidance/lambert-toolkit",
         "file": "templates/gb/partnerships/collaboration-and-mou/lambert-toolkit-fast-track-model-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/gb/real-estate/residential-lease/model-written-statement-for-a-fixed-term-standard-occupation-contract--gb-wls.md",
+      "docx": "templates/gb/real-estate/residential-lease/model-written-statement-for-a-fixed-term-standard-occupation-contract--gb-wls.docx",
+      "docx_is_publisher_original": true,
+      "title": "Model Written Statement for a Fixed Term Standard Occupation Contract",
+      "jurisdiction": "GB-WLS",
+      "category": "real-estate",
+      "subcategory": "residential-lease",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "landlord",
+        "contract-holder"
+      ],
+      "tags": [
+        "lease",
+        "residential",
+        "occupation-contract",
+        "fixed-term",
+        "wales",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The Welsh Government model written statement for a fixed term standard occupation contract under the Renting Homes (Wales) Act 2016.",
+      "source": {
+        "name": "Welsh Government",
+        "url": "https://www.gov.wales/model-written-statement-fixed-term-standard-contracts",
+        "file": "templates/gb/real-estate/residential-lease/model-written-statement-for-a-fixed-term-standard-occupation-contract--gb-wls.docx"
+      }
+    },
+    {
+      "path": "templates/gb/real-estate/residential-lease/model-written-statement-for-a-periodic-standard-occupation-contract--gb-wls.md",
+      "docx": "templates/gb/real-estate/residential-lease/model-written-statement-for-a-periodic-standard-occupation-contract--gb-wls.docx",
+      "docx_is_publisher_original": true,
+      "title": "Model Written Statement for a Periodic Standard Occupation Contract",
+      "jurisdiction": "GB-WLS",
+      "category": "real-estate",
+      "subcategory": "residential-lease",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "landlord",
+        "contract-holder"
+      ],
+      "tags": [
+        "lease",
+        "residential",
+        "occupation-contract",
+        "periodic",
+        "wales",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The Welsh Government model written statement for a periodic standard occupation contract under the Renting Homes (Wales) Act 2016.",
+      "source": {
+        "name": "Welsh Government",
+        "url": "https://www.gov.wales/model-written-statement-periodic-standard-contracts",
+        "file": "templates/gb/real-estate/residential-lease/model-written-statement-for-a-periodic-standard-occupation-contract--gb-wls.docx"
+      }
+    },
+    {
+      "path": "templates/gb/real-estate/residential-lease/model-written-statement-for-a-secure-occupation-contract--gb-wls.md",
+      "docx": "templates/gb/real-estate/residential-lease/model-written-statement-for-a-secure-occupation-contract--gb-wls.docx",
+      "docx_is_publisher_original": true,
+      "title": "Model Written Statement for a Secure Occupation Contract",
+      "jurisdiction": "GB-WLS",
+      "category": "real-estate",
+      "subcategory": "residential-lease",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "landlord",
+        "contract-holder"
+      ],
+      "tags": [
+        "lease",
+        "residential",
+        "occupation-contract",
+        "secure",
+        "wales",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The Welsh Government model written statement for a secure occupation contract under the Renting Homes (Wales) Act 2016.",
+      "source": {
+        "name": "Welsh Government",
+        "url": "https://www.gov.wales/model-written-statement-secure-contracts",
+        "file": "templates/gb/real-estate/residential-lease/model-written-statement-for-a-secure-occupation-contract--gb-wls.docx"
+      }
+    },
+    {
+      "path": "templates/gb/real-estate/residential-lease/scottish-government-model-private-residential-tenancy-agreement--gb-sct.md",
+      "docx": "templates/gb/real-estate/residential-lease/scottish-government-model-private-residential-tenancy-agreement--gb-sct.docx",
+      "docx_is_publisher_original": true,
+      "title": "Scottish Government Model Private Residential Tenancy Agreement",
+      "jurisdiction": "GB-SCT",
+      "category": "real-estate",
+      "subcategory": "residential-lease",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "landlord",
+        "tenant"
+      ],
+      "tags": [
+        "lease",
+        "residential",
+        "private-residential-tenancy",
+        "scotland",
+        "crown-copyright"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "OGL-UK-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The Scottish Government model private residential tenancy agreement (October 2026) with its statutory and discretionary terms.",
+      "source": {
+        "name": "Scottish Government",
+        "url": "https://www.gov.scot/publications/private-residential-tenancy-model-agreement/",
+        "file": "templates/gb/real-estate/residential-lease/scottish-government-model-private-residential-tenancy-agreement--gb-sct.docx"
       }
     },
     {
