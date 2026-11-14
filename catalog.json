@@ -1,7 +1,70 @@
 {
   "generated_from": "taxonomy.yaml + templates/**",
-  "count": 141,
+  "count": 194,
   "templates": [
+    {
+      "path": "templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.md",
+      "title": "Basic Non-Disclosure Agreement",
+      "jurisdiction": "GB",
+      "category": "confidentiality",
+      "subcategory": "unilateral-nda",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "disclosing-entity",
+        "recipient"
+      ],
+      "tags": [
+        "nda",
+        "one-way",
+        "confidentiality",
+        "documize"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "MIT",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Short one-way confidentiality undertaking by a recipient, drafted in English-law style with a blank governing-law clause.",
+      "source": {
+        "name": "Documize",
+        "url": "https://github.com/documize/document-templates",
+        "file": "sources/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/gb/contractors/statement-of-work/statement-of-work.md",
+      "title": "Statement of Work",
+      "jurisdiction": "GB",
+      "category": "contractors",
+      "subcategory": "statement-of-work",
+      "type": "schedule",
+      "variant": null,
+      "parties": [
+        "client",
+        "provider"
+      ],
+      "tags": [
+        "statement-of-work",
+        "sow",
+        "project",
+        "deliverables",
+        "documize"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "MIT",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Project-style statement of work: background, scope, deliverables, schedule, assumptions, acceptance and change control.",
+      "source": {
+        "name": "Documize",
+        "url": "https://github.com/documize/document-templates",
+        "file": "sources/gb/contractors/statement-of-work/statement-of-work.docx"
+      }
+    },
     {
       "path": "templates/us/commercial/amendments-and-extensions/common-paper-amendment.md",
       "title": "Common Paper Amendment",
@@ -231,6 +294,105 @@
       }
     },
     {
+      "path": "templates/us/commercial/supply-and-procurement/performance-work-statement-for-agile-software-development.md",
+      "title": "Performance Work Statement for Agile Software Development",
+      "jurisdiction": "US",
+      "category": "commercial",
+      "subcategory": "supply-and-procurement",
+      "type": "schedule",
+      "variant": null,
+      "parties": [
+        "agency",
+        "contractor"
+      ],
+      "tags": [
+        "government",
+        "procurement",
+        "performance-work-statement",
+        "agile",
+        "federal",
+        "18f"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "Public-Domain",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Federal performance work statement for buying agile software development services: objectives, scope, performance\n  standards and deliverables.",
+      "source": {
+        "name": "18F (U.S. General Services Administration)",
+        "url": "https://github.com/18F/acq-templates/blob/master/agile_bpa/pws.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/commercial/supply-and-procurement/quality-assurance-surveillance-plan.md",
+      "title": "Quality Assurance Surveillance Plan",
+      "jurisdiction": "US",
+      "category": "commercial",
+      "subcategory": "supply-and-procurement",
+      "type": "schedule",
+      "variant": null,
+      "parties": [
+        "agency",
+        "contractor"
+      ],
+      "tags": [
+        "government",
+        "procurement",
+        "qasp",
+        "performance-monitoring",
+        "federal",
+        "18f"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "Public-Domain",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Quality assurance surveillance plan setting how the buyer measures a contractor's performance against a performance\n  work statement.",
+      "source": {
+        "name": "18F (U.S. General Services Administration)",
+        "url": "https://github.com/18F/acq-templates/blob/master/agile_bpa/qasp.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/commercial/supply-and-procurement/request-for-quotation-for-agile-development-services.md",
+      "title": "Request for Quotation for Agile Development Services",
+      "jurisdiction": "US",
+      "category": "commercial",
+      "subcategory": "supply-and-procurement",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "agency",
+        "contractor"
+      ],
+      "tags": [
+        "government",
+        "procurement",
+        "rfq",
+        "solicitation",
+        "federal",
+        "18f"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "Public-Domain",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Request for quotation used by a federal agency to solicit vendors for agile development services under a blanket\n  purchase agreement.",
+      "source": {
+        "name": "18F (U.S. General Services Administration)",
+        "url": "https://github.com/18F/acq-templates/blob/master/agile_bpa/rfq.md",
+        "file": null
+      }
+    },
+    {
       "path": "templates/us/confidentiality/mutual-nda/bonterms-mutual-nda.md",
       "title": "Bonterms Mutual NDA",
       "jurisdiction": "US",
@@ -325,6 +487,38 @@
       "source": {
         "name": "Papertrail",
         "url": "https://github.com/papertrail/legal-docs/blob/master/nda-short-individual-or-corporate.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement--plain-english.md",
+      "title": "Mutual Non-Disclosure Agreement",
+      "jurisdiction": "US",
+      "category": "confidentiality",
+      "subcategory": "mutual-nda",
+      "type": "agreement",
+      "variant": "plain-english",
+      "parties": [
+        "party-a",
+        "party-b"
+      ],
+      "tags": [
+        "nda",
+        "mutual",
+        "confidentiality",
+        "plain-english",
+        "advottic"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "A mutual NDA protects confidential information shared between two parties. Use this version for business conversations where both sides will share sensitive info (a sales pitch, an investor diligence, a vendor evaluation). Lawyer-reviewed per the publisher (last reviewed 2026-06-08).",
+      "source": {
+        "name": "Advottic (Techno Optics LLC)",
+        "url": "https://advottic.com/templates/nda",
         "file": null
       }
     },
@@ -517,6 +711,39 @@
         "name": "Common Paper",
         "url": "https://commonpaper.com/documents/independent-contractor-agreement/",
         "file": "sources/us/contractors/independent-contractor/common-paper-independent-contractor-agreement.docx"
+      }
+    },
+    {
+      "path": "templates/us/contractors/independent-contractor/switchmode-developer-agreement.md",
+      "title": "Switchmode Developer Agreement",
+      "jurisdiction": "US",
+      "category": "contractors",
+      "subcategory": "independent-contractor",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "developer"
+      ],
+      "tags": [
+        "software-developer",
+        "open-source",
+        "contractor",
+        "ip",
+        "project-summary",
+        "hourly"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "Mitchell-Law-Form-1.1",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Framework agreement between a company and an independent software developer who also works on open-source projects, with fees, billing, delivery, and IP and confidentiality terms that differ for open and closed projects. By open-source lawyer Kyle Mitchell, 2017.",
+      "source": {
+        "name": "Kyle E. Mitchell",
+        "url": "https://github.com/kemitchell/switchmode",
+        "file": null
       }
     },
     {
@@ -713,6 +940,104 @@
       }
     },
     {
+      "path": "templates/us/corporate/bylaws-and-resolutions/series-seed-board-consent--us-de.md",
+      "title": "Series Seed Board Consent",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "bylaws-and-resolutions",
+      "type": "resolution",
+      "variant": null,
+      "parties": [
+        "directors",
+        "company"
+      ],
+      "tags": [
+        "board-consent",
+        "written-consent",
+        "seed",
+        "preferred-stock",
+        "series-seed",
+        "delaware"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Unanimous written consent of the board approving a Series Seed preferred stock financing: charter amendment, stock issuance, agreements and related matters.",
+      "source": {
+        "name": "Cooley LLP (Series Seed fork)",
+        "url": "https://github.com/CooleyLLP/seriesseed",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/corporate/bylaws-and-resolutions/series-seed-notes-board-consent--us-de.md",
+      "title": "Series Seed Notes Board Consent",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "bylaws-and-resolutions",
+      "type": "resolution",
+      "variant": null,
+      "parties": [
+        "directors",
+        "company"
+      ],
+      "tags": [
+        "board-consent",
+        "written-consent",
+        "convertible-note",
+        "series-seed-notes",
+        "delaware"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Board consent approving the issuance of convertible promissory notes in a seed financing.",
+      "source": {
+        "name": "Cooley LLP (Series Seed fork)",
+        "url": "https://github.com/CooleyLLP/seriesseed",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/corporate/bylaws-and-resolutions/series-seed-stockholder-consent--us-de.md",
+      "title": "Series Seed Stockholder Consent",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "bylaws-and-resolutions",
+      "type": "resolution",
+      "variant": null,
+      "parties": [
+        "stockholders",
+        "company"
+      ],
+      "tags": [
+        "stockholder-consent",
+        "written-consent",
+        "seed",
+        "preferred-stock",
+        "series-seed",
+        "delaware"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Written consent of the stockholders approving a Series Seed financing and the restated certificate of incorporation.",
+      "source": {
+        "name": "Cooley LLP (Series Seed fork)",
+        "url": "https://github.com/CooleyLLP/seriesseed",
+        "file": null
+      }
+    },
+    {
       "path": "templates/us/corporate/bylaws-and-resolutions/stockholder-consent--us-de.md",
       "title": "Stockholder Consent",
       "jurisdiction": "US-DE",
@@ -742,6 +1067,106 @@
         "name": "General Legal",
         "url": "https://general.legal/library/agent-operated-company-formation-package",
         "file": "sources/us/corporate/bylaws-and-resolutions/stockholder-consent--us-de.docx"
+      }
+    },
+    {
+      "path": "templates/us/corporate/convertible-and-safe/bloomberg-beta-safe-side-letter--us-de.md",
+      "title": "Bloomberg Beta SAFE Side Letter",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "convertible-and-safe",
+      "type": "letter",
+      "variant": null,
+      "parties": [
+        "company",
+        "investor"
+      ],
+      "tags": [
+        "safe",
+        "side-letter",
+        "pro-rata",
+        "information-rights",
+        "mfn",
+        "delaware",
+        "bloomberg-beta"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Investor side letter accompanying a SAFE: pro rata, information, most-favoured-nation and related rights.",
+      "source": {
+        "name": "Bloomberg Beta",
+        "url": "https://github.com/Bloomberg-Beta/Investment-Documents",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/corporate/convertible-and-safe/series-seed-convertible-promissory-note--us-de.md",
+      "title": "Series Seed Convertible Promissory Note",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "convertible-and-safe",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "investor"
+      ],
+      "tags": [
+        "convertible-note",
+        "promissory-note",
+        "seed",
+        "valuation-cap",
+        "discount",
+        "series-seed-notes",
+        "delaware"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Convertible promissory note for a seed financing: interest, maturity, conversion on a qualified financing, change of control and maturity conversion.",
+      "source": {
+        "name": "Cooley LLP (Series Seed fork)",
+        "url": "https://github.com/CooleyLLP/seriesseed",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/corporate/convertible-and-safe/series-seed-notes-term-sheet--us-de.md",
+      "title": "Series Seed Notes Term Sheet",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "convertible-and-safe",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "investors"
+      ],
+      "tags": [
+        "term-sheet",
+        "convertible-note",
+        "seed",
+        "series-seed-notes",
+        "delaware"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Term sheet for a seed round financed with convertible promissory notes, including an optional diversity rider.",
+      "source": {
+        "name": "Cooley LLP (Series Seed fork)",
+        "url": "https://github.com/CooleyLLP/seriesseed",
+        "file": null
       }
     },
     {
@@ -902,6 +1327,38 @@
       "source": {
         "name": "OpenAgreements",
         "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-founder-stock-assignment-separate",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/corporate/formation/bloomberg-beta-series-seed-restated-certificate-of-incorporation--us-de.md",
+      "title": "Bloomberg Beta Series Seed Restated Certificate of Incorporation",
+      "jurisdiction": "US-DE",
+      "category": "corporate",
+      "subcategory": "formation",
+      "type": "charter",
+      "variant": null,
+      "parties": [
+        "company"
+      ],
+      "tags": [
+        "certificate-of-incorporation",
+        "charter",
+        "preferred-stock",
+        "series-seed",
+        "delaware",
+        "bloomberg-beta"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Bloomberg Beta's variant of the Series Seed restated certificate of incorporation for a Delaware corporation.",
+      "source": {
+        "name": "Bloomberg Beta",
+        "url": "https://github.com/Bloomberg-Beta/Investment-Documents",
         "file": null
       }
     },
@@ -1326,6 +1783,136 @@
       }
     },
     {
+      "path": "templates/us/dispute-resolution/demand-letters/cease-and-desist-letter.md",
+      "title": "Cease and Desist Letter",
+      "jurisdiction": "US",
+      "category": "dispute-resolution",
+      "subcategory": "demand-letters",
+      "type": "letter",
+      "variant": null,
+      "parties": [
+        "sender",
+        "recipient"
+      ],
+      "tags": [
+        "cease-and-desist",
+        "pre-litigation",
+        "harassment",
+        "infringement",
+        "advottic"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "A cease and desist letter formally tells someone to stop a specific harmful action and warns of legal consequences if they continue. Common uses: trademark infringement, harassment, defamation, copyright infringement. Lawyer-reviewed per the publisher (last reviewed 2026-06-08).",
+      "source": {
+        "name": "Advottic (Techno Optics LLC)",
+        "url": "https://advottic.com/templates/cease-and-desist",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/dispute-resolution/demand-letters/demand-letter.md",
+      "title": "Demand Letter",
+      "jurisdiction": "US",
+      "category": "dispute-resolution",
+      "subcategory": "demand-letters",
+      "type": "letter",
+      "variant": null,
+      "parties": [
+        "claimant",
+        "recipient"
+      ],
+      "tags": [
+        "demand-letter",
+        "pre-litigation",
+        "consumer",
+        "small-claims",
+        "advottic"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "A demand letter formally asks someone to fix a problem (pay back money, return property, stop doing something) before you sue. Most courts expect to see one. Sending one resolves about 60% of disputes without litigation. Lawyer-reviewed per the publisher (last reviewed 2026-06-08).",
+      "source": {
+        "name": "Advottic (Techno Optics LLC)",
+        "url": "https://advottic.com/templates/demand-letter",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.md",
+      "title": "Model COBRA Continuation Coverage Election Notice",
+      "jurisdiction": "US",
+      "category": "employment",
+      "subcategory": "compensation-and-benefits",
+      "type": "notice",
+      "variant": null,
+      "parties": [
+        "plan-administrator",
+        "employee"
+      ],
+      "tags": [
+        "cobra",
+        "election-notice",
+        "group-health-plan",
+        "benefits",
+        "dol",
+        "model-notice"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "Public-Domain",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The Department of Labor's model election notice sent after a qualifying event, with the election form, explaining how to elect COBRA continuation coverage, deadlines, premiums and alternatives.",
+      "source": {
+        "name": "U.S. Department of Labor",
+        "url": "https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/laws/cobra/model-election-notice.docx",
+        "file": "sources/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.docx"
+      }
+    },
+    {
+      "path": "templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-general-notice.md",
+      "title": "Model COBRA Continuation Coverage General Notice",
+      "jurisdiction": "US",
+      "category": "employment",
+      "subcategory": "compensation-and-benefits",
+      "type": "notice",
+      "variant": null,
+      "parties": [
+        "plan-administrator",
+        "employee"
+      ],
+      "tags": [
+        "cobra",
+        "general-notice",
+        "group-health-plan",
+        "benefits",
+        "dol",
+        "model-notice"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "Public-Domain",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "The Department of Labor's model general notice that a group health plan gives covered employees and spouses explaining COBRA continuation coverage rights. Use is voluntary and treated as good-faith compliance; the plan administrator fills in the blanks.",
+      "source": {
+        "name": "U.S. Department of Labor",
+        "url": "https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/laws/cobra/model-general-notice.docx",
+        "file": "sources/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-general-notice.docx"
+      }
+    },
+    {
       "path": "templates/us/employment/confidentiality-and-ip/balanced-employee-intellectual-property-agreement.md",
       "title": "Balanced Employee Intellectual Property Agreement",
       "jurisdiction": "US",
@@ -1455,6 +2042,73 @@
       "source": {
         "name": "Papertrail",
         "url": "https://github.com/papertrail/legal-docs/blob/master/employee-nda.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.md",
+      "title": "Model Employee IP and Open Source Contribution Policy",
+      "jurisdiction": "US",
+      "category": "employment",
+      "subcategory": "confidentiality-and-ip",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "employer",
+        "employee"
+      ],
+      "tags": [
+        "ip-assignment",
+        "invention-assignment",
+        "open-source",
+        "side-projects",
+        "employee",
+        "state-notices"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Employee IP assignment agreement that defines \"Company Resources\" by time, direction and intent rather than equipment, lets employees keep prior IP and personal open-source work, and includes the state-law invention-assignment notices. Written by Van Lindberg from the Rackspace policy, 2015.",
+      "source": {
+        "name": "Van Lindberg (Process Mechanics)",
+        "url": "https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/",
+        "file": "sources/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.docx"
+      }
+    },
+    {
+      "path": "templates/us/employment/employment-agreements/employment-agreement.md",
+      "title": "Employment Agreement",
+      "jurisdiction": "US",
+      "category": "employment",
+      "subcategory": "employment-agreements",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "employer",
+        "employee"
+      ],
+      "tags": [
+        "employment-agreement",
+        "at-will",
+        "startup",
+        "equity",
+        "bonus",
+        "confidentiality",
+        "skala"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Startup employment agreement with key-terms cover block (position, salary, bonus, equity), at-will employment, confidentiality and IP terms, and a governing-law selector. Version 1.0, September 2025. Skala's notice box about its own terms of use is kept as published.",
+      "source": {
+        "name": "Skala",
+        "url": "https://github.com/skala-io/employment-agreement",
         "file": null
       }
     },
@@ -1751,6 +2405,72 @@
       "source": {
         "name": "OpenAgreements",
         "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-employment-offer-letter",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/employment/policies-and-handbooks/anti-bribery-statement.md",
+      "title": "Anti-Bribery Statement",
+      "jurisdiction": "US",
+      "category": "employment",
+      "subcategory": "policies-and-handbooks",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "employee"
+      ],
+      "tags": [
+        "anti-bribery",
+        "anti-corruption",
+        "fcpa",
+        "compliance",
+        "company-policy",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Company anti-bribery and anti-corruption statement covering employees, contractors and partners, with reporting and consequences.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-anti-bribery-statement.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/employment/policies-and-handbooks/gifts-and-entertainment-policy.md",
+      "title": "Gifts and Entertainment Policy",
+      "jurisdiction": "US",
+      "category": "employment",
+      "subcategory": "policies-and-handbooks",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "employee"
+      ],
+      "tags": [
+        "gifts",
+        "entertainment",
+        "anti-corruption",
+        "compliance",
+        "company-policy",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Company policy on giving and receiving gifts, meals and entertainment, with thresholds, approvals and government-official rules.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-gifts-and-entertainment-policy.md",
         "file": null
       }
     },
@@ -3557,6 +4277,137 @@
       }
     },
     {
+      "path": "templates/us/financing/investor-agreements/bloomberg-beta-series-seed-stock-investment-agreement--us-de.md",
+      "title": "Bloomberg Beta Series Seed Stock Investment Agreement",
+      "jurisdiction": "US-DE",
+      "category": "financing",
+      "subcategory": "investor-agreements",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "investors"
+      ],
+      "tags": [
+        "stock-purchase",
+        "seed",
+        "preferred-stock",
+        "series-seed",
+        "investor-rights",
+        "delaware",
+        "bloomberg-beta"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Bloomberg Beta's variant of the Series Seed preferred stock investment agreement.",
+      "source": {
+        "name": "Bloomberg Beta",
+        "url": "https://github.com/Bloomberg-Beta/Investment-Documents",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/financing/investor-agreements/bloomberg-beta-series-seed-term-sheet--us-de.md",
+      "title": "Bloomberg Beta Series Seed Term Sheet",
+      "jurisdiction": "US-DE",
+      "category": "financing",
+      "subcategory": "investor-agreements",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "investors"
+      ],
+      "tags": [
+        "term-sheet",
+        "seed",
+        "preferred-stock",
+        "series-seed",
+        "delaware",
+        "bloomberg-beta"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-3.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Bloomberg Beta's variant of the Series Seed term sheet, with the terms it actually uses as an investor.",
+      "source": {
+        "name": "Bloomberg Beta",
+        "url": "https://github.com/Bloomberg-Beta/Investment-Documents",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/financing/investor-agreements/series-seed-investor-questionnaire--us-de.md",
+      "title": "Series Seed Investor Questionnaire",
+      "jurisdiction": "US-DE",
+      "category": "financing",
+      "subcategory": "investor-agreements",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "investor",
+        "company"
+      ],
+      "tags": [
+        "investor-questionnaire",
+        "accredited-investor",
+        "seed",
+        "series-seed",
+        "securities"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Accredited-investor questionnaire for purchasers in a Series Seed financing.",
+      "source": {
+        "name": "Cooley LLP (Series Seed fork)",
+        "url": "https://github.com/CooleyLLP/seriesseed",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/financing/investor-agreements/series-seed-notes-investor-questionnaire--us-de.md",
+      "title": "Series Seed Notes Investor Questionnaire",
+      "jurisdiction": "US-DE",
+      "category": "financing",
+      "subcategory": "investor-agreements",
+      "type": "form",
+      "variant": null,
+      "parties": [
+        "investor",
+        "company"
+      ],
+      "tags": [
+        "investor-questionnaire",
+        "accredited-investor",
+        "convertible-note",
+        "series-seed-notes",
+        "securities"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Accredited-investor questionnaire for purchasers of convertible notes in a seed financing.",
+      "source": {
+        "name": "Cooley LLP (Series Seed fork)",
+        "url": "https://github.com/CooleyLLP/seriesseed",
+        "file": null
+      }
+    },
+    {
       "path": "templates/us/financing/investor-agreements/series-seed-preferred-stock-investment-agreement--us-de.md",
       "title": "Series Seed Preferred Stock Investment Agreement",
       "jurisdiction": "US-DE",
@@ -3653,6 +4504,262 @@
       "source": {
         "name": "Basecamp (37signals)",
         "url": "https://github.com/basecamp/policies/blob/master/copyright/index.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/intellectual-property/copyright-and-content/dmca-notice-and-takedown-procedure.md",
+      "title": "DMCA Notice and Takedown Procedure",
+      "jurisdiction": "US",
+      "category": "intellectual-property",
+      "subcategory": "copyright-and-content",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "organisation",
+        "rights-holder"
+      ],
+      "tags": [
+        "dmca",
+        "copyright",
+        "takedown",
+        "counter-notice",
+        "designated-agent",
+        "creative-commons"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Short DMCA notice-and-takedown procedure: what a copyright notice must contain, where to send it, and how counter-notices are handled.",
+      "source": {
+        "name": "Creative Commons",
+        "url": "https://creativecommons.org/dmca/",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/intellectual-property/copyright-and-content/dmca-takedown-policy.md",
+      "title": "DMCA Takedown Policy",
+      "jurisdiction": "US",
+      "category": "intellectual-property",
+      "subcategory": "copyright-and-content",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "rights-holder"
+      ],
+      "tags": [
+        "dmca",
+        "copyright",
+        "takedown",
+        "counter-notice",
+        "platform",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Plain-English DMCA takedown policy for a platform hosting user content, including how notices and counter-notices are processed and the repeat-infringer policy.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/dmca-takedown-policy.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/intellectual-property/copyright-and-content/guide-to-submitting-a-dmca-counter-notice.md",
+      "title": "Guide to Submitting a DMCA Counter Notice",
+      "jurisdiction": "US",
+      "category": "intellectual-property",
+      "subcategory": "copyright-and-content",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "user",
+        "company"
+      ],
+      "tags": [
+        "dmca",
+        "counter-notice",
+        "copyright",
+        "guide",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Step-by-step guide and required contents for a DMCA counter notice.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/guide-to-submitting-a-dmca-counter-notice.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/intellectual-property/copyright-and-content/guide-to-submitting-a-dmca-takedown-notice.md",
+      "title": "Guide to Submitting a DMCA Takedown Notice",
+      "jurisdiction": "US",
+      "category": "intellectual-property",
+      "subcategory": "copyright-and-content",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "rights-holder",
+        "company"
+      ],
+      "tags": [
+        "dmca",
+        "takedown-notice",
+        "copyright",
+        "guide",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Step-by-step guide and required contents for a DMCA takedown notice sent to a hosting platform.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/intellectual-property/trademark/github-logo-policy.md",
+      "title": "GitHub Logo Policy",
+      "jurisdiction": "US",
+      "category": "intellectual-property",
+      "subcategory": "trademark",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "user"
+      ],
+      "tags": [
+        "logo",
+        "trademark",
+        "brand-use",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Short policy on when and how third parties may use a company's logos.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/other-site-policies/github-logo-policy.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/intellectual-property/trademark/github-trademark-policy.md",
+      "title": "GitHub Trademark Policy",
+      "jurisdiction": "US",
+      "category": "intellectual-property",
+      "subcategory": "trademark",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "rights-holder"
+      ],
+      "tags": [
+        "trademark",
+        "impersonation",
+        "username",
+        "platform",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Policy on trademark complaints about usernames and content on a platform, and how to report them.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/github-trademark-policy.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/marketing-and-media/events/github-event-code-of-conduct.md",
+      "title": "GitHub Event Code of Conduct",
+      "jurisdiction": "US",
+      "category": "marketing-and-media",
+      "subcategory": "events",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "organiser",
+        "attendee"
+      ],
+      "tags": [
+        "code-of-conduct",
+        "events",
+        "anti-harassment",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Anti-harassment code of conduct for in-person and online events, with reporting and enforcement.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/github-terms/github-event-code-of-conduct.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/marketing-and-media/events/github-event-terms.md",
+      "title": "GitHub Event Terms",
+      "jurisdiction": "US",
+      "category": "marketing-and-media",
+      "subcategory": "events",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "organiser",
+        "attendee"
+      ],
+      "tags": [
+        "event-terms",
+        "attendee",
+        "registration",
+        "photo-release",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Terms for attending a company-run event: registration, cancellation, conduct, photo and recording release, liability.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/github-terms/github-event-terms.md",
         "file": null
       }
     },
@@ -3755,6 +4862,99 @@
       }
     },
     {
+      "path": "templates/us/privacy-and-data/acceptable-use/github-acceptable-use-policies.md",
+      "title": "GitHub Acceptable Use Policies",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "acceptable-use",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "user"
+      ],
+      "tags": [
+        "acceptable-use",
+        "content-policy",
+        "platform",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Acceptable use policy for a platform hosting user content: prohibited content and conduct, spam, security, API and resource limits, and enforcement.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/acceptable-use-policies/github-acceptable-use-policies.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/acceptable-use/github-community-code-of-conduct.md",
+      "title": "GitHub Community Code of Conduct",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "acceptable-use",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "user"
+      ],
+      "tags": [
+        "code-of-conduct",
+        "community",
+        "moderation",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Code of conduct for an online community run by a company, with standards, enforcement and reporting.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/github-terms/github-community-code-of-conduct.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/acceptable-use/github-community-guidelines.md",
+      "title": "GitHub Community Guidelines",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "acceptable-use",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "user"
+      ],
+      "tags": [
+        "community-guidelines",
+        "moderation",
+        "content-policy",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Community guidelines for a platform: expected behaviour, what is not allowed, and how reports and moderation work.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/github-terms/github-community-guidelines.md",
+        "file": null
+      }
+    },
+    {
       "path": "templates/us/privacy-and-data/acceptable-use/use-restrictions-policy.md",
       "title": "Use Restrictions Policy",
       "jurisdiction": "US",
@@ -3816,6 +5016,38 @@
         "name": "General Legal",
         "url": "https://general.legal/library/cookie-notice",
         "file": "sources/us/privacy-and-data/cookie-policy/cookie-notice.docx"
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/cookie-policy/github-cookies-policy.md",
+      "title": "GitHub Cookies Policy",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "cookie-policy",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "user"
+      ],
+      "tags": [
+        "cookies",
+        "tracking",
+        "analytics",
+        "consent",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Cookie policy listing the cookies a platform sets, their purposes and durations, and how users can control them.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-cookies.md",
+        "file": null
       }
     },
     {
@@ -4051,6 +5283,103 @@
       }
     },
     {
+      "path": "templates/us/privacy-and-data/privacy-policy/creative-commons-privacy-policy.md",
+      "title": "Creative Commons Privacy Policy",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "privacy-policy",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "organisation",
+        "user"
+      ],
+      "tags": [
+        "privacy-policy",
+        "gdpr",
+        "non-profit",
+        "website",
+        "creative-commons"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Privacy policy of a global non-profit: principles, data collected, uses, disclosures, legal bases under GDPR, analytics, retention, security, international transfers and user rights.",
+      "source": {
+        "name": "Creative Commons",
+        "url": "https://creativecommons.org/privacy/",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/privacy-policy/github-general-privacy-statement.md",
+      "title": "GitHub General Privacy Statement",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "privacy-policy",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "user"
+      ],
+      "tags": [
+        "privacy-policy",
+        "gdpr",
+        "ccpa",
+        "platform",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Privacy statement of a global developer platform: data collected, purposes, sharing, retention, international transfers, user rights and region-specific disclosures.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-general-privacy-statement.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/privacy-policy/global-data-privacy-notice-for-candidates.md",
+      "title": "Global Data Privacy Notice for Candidates",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "privacy-policy",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "employer",
+        "candidate"
+      ],
+      "tags": [
+        "privacy-notice",
+        "recruiting",
+        "candidates",
+        "hr",
+        "gdpr",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Privacy notice for job applicants explaining what candidate data an employer collects during recruiting, why, how long it is kept and candidates' rights.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-candidate-privacy-policy.md",
+        "file": null
+      }
+    },
+    {
       "path": "templates/us/privacy-and-data/privacy-policy/privacy-policy--gdpr-enhanced.md",
       "title": "Privacy Policy",
       "jurisdiction": "US",
@@ -4182,6 +5511,102 @@
       }
     },
     {
+      "path": "templates/us/privacy-and-data/website-terms/creative-commons-master-terms-of-use.md",
+      "title": "Creative Commons Master Terms of Use",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "website-terms",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "organisation",
+        "user"
+      ],
+      "tags": [
+        "terms-of-use",
+        "website",
+        "non-profit",
+        "plain-english",
+        "creative-commons"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Website terms of use of a non-profit, covering use of the site and services, user content, prohibited conduct, disclaimers, limitation of liability and dispute terms. Effective 26 August 2020.",
+      "source": {
+        "name": "Creative Commons",
+        "url": "https://creativecommons.org/terms/",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/website-terms/github-corporate-terms-of-service.md",
+      "title": "GitHub Corporate Terms of Service",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "website-terms",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "customer"
+      ],
+      "tags": [
+        "terms-of-service",
+        "enterprise",
+        "corporate",
+        "saas",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Terms of service for business and enterprise customers of a developer platform, with organisation accounts, data protection and support terms.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/github-terms/github-corporate-terms-of-service.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/privacy-and-data/website-terms/github-terms-of-service.md",
+      "title": "GitHub Terms of Service",
+      "jurisdiction": "US",
+      "category": "privacy-and-data",
+      "subcategory": "website-terms",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "user"
+      ],
+      "tags": [
+        "terms-of-service",
+        "saas",
+        "platform",
+        "user-content",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Full terms of service for a developer platform: account terms, acceptable use, user-generated content and licences, payment, cancellation, disclaimers, liability and changes, with a non-binding summary of each section.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/github-terms/github-terms-of-service.md",
+        "file": null
+      }
+    },
+    {
       "path": "templates/us/privacy-and-data/website-terms/terms-of-service.md",
       "title": "Terms of Service",
       "jurisdiction": "US",
@@ -4242,6 +5667,135 @@
         "name": "General Legal",
         "url": "https://general.legal/library/terms-of-use",
         "file": "sources/us/privacy-and-data/website-terms/terms-of-use.docx"
+      }
+    },
+    {
+      "path": "templates/us/real-estate/residential-lease/lease-termination-notice.md",
+      "title": "Lease Termination Notice",
+      "jurisdiction": "US",
+      "category": "real-estate",
+      "subcategory": "residential-lease",
+      "type": "notice",
+      "variant": null,
+      "parties": [
+        "tenant",
+        "landlord"
+      ],
+      "tags": [
+        "lease-termination",
+        "notice-to-vacate",
+        "tenant",
+        "residential",
+        "advottic"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Formal written notice that you (the tenant or landlord) intend to end a rental agreement. Most states require written notice with specific lead time (usually 30, 60, or 90 days). Lawyer-reviewed per the publisher (last reviewed 2026-06-08).",
+      "source": {
+        "name": "Advottic (Techno Optics LLC)",
+        "url": "https://advottic.com/templates/lease-termination-notice",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/real-estate/residential-lease/security-deposit-return-demand.md",
+      "title": "Security Deposit Return Demand",
+      "jurisdiction": "US",
+      "category": "real-estate",
+      "subcategory": "residential-lease",
+      "type": "letter",
+      "variant": null,
+      "parties": [
+        "tenant",
+        "landlord"
+      ],
+      "tags": [
+        "security-deposit",
+        "demand-letter",
+        "tenant",
+        "residential",
+        "advottic"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Formal demand letter for the return of a security deposit that was not refunded within your state's statutory deadline. Most states impose 2x-3x damages on landlords who improperly withhold. Lawyer-reviewed per the publisher (last reviewed 2026-06-08).",
+      "source": {
+        "name": "Advottic (Techno Optics LLC)",
+        "url": "https://advottic.com/templates/security-deposit-demand",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/technology/api-terms/github-marketplace-developer-agreement.md",
+      "title": "GitHub Marketplace Developer Agreement",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "api-terms",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "developer"
+      ],
+      "tags": [
+        "marketplace",
+        "developer-agreement",
+        "api",
+        "app-store",
+        "revenue-share",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Agreement between a platform and developers who list paid apps in its marketplace: listing requirements, fees and payouts, data, support, and termination.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/github-terms/github-marketplace-developer-agreement.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/technology/eula/github-open-source-applications-terms-and-conditions.md",
+      "title": "GitHub Open Source Applications Terms and Conditions",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "eula",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "user"
+      ],
+      "tags": [
+        "eula",
+        "open-source",
+        "desktop-app",
+        "software-terms",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "End-user terms for a company's open-source desktop applications, covering the licence, updates, data, disclaimers and liability.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/github-terms/github-open-source-applications-terms-and-conditions.md",
+        "file": null
       }
     },
     {
@@ -4610,6 +6164,134 @@
       }
     },
     {
+      "path": "templates/us/technology/saas/github-educational-use-agreement.md",
+      "title": "GitHub Educational Use Agreement",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "saas",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "educational-institution"
+      ],
+      "tags": [
+        "education",
+        "schools",
+        "student-data",
+        "saas",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Agreement for schools and universities using a platform with students, covering eligibility, student data and privacy laws.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/github-terms/github-educational-use-agreement.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/technology/saas/slipstream-software-service-terms.md",
+      "title": "Slipstream Software Service Terms",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "saas",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "provider",
+        "customer"
+      ],
+      "tags": [
+        "saas",
+        "software-service-terms",
+        "hosted-software",
+        "licensed-software",
+        "order",
+        "support"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "Mitchell-Law-Form-1.1",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Open form of terms for public hosted and licensed software services: orders and product packages, use allowances, fees and billing, support, service levels, data, IP, warranties, liability and termination. By open-source lawyer Kyle Mitchell; marked by him as a development draft.",
+      "source": {
+        "name": "Kyle E. Mitchell",
+        "url": "https://github.com/kemitchell/slipstream",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/technology/security-and-disclosure/bug-bounty-program-legal-safe-harbor.md",
+      "title": "Bug Bounty Program Legal Safe Harbor",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "security-and-disclosure",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "researcher"
+      ],
+      "tags": [
+        "bug-bounty",
+        "safe-harbor",
+        "security-research",
+        "vulnerability-disclosure",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Legal safe-harbour terms for security researchers participating in a bug bounty programme: authorised testing, no legal action for good-faith research, and limits.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/security-policies/github-bug-bounty-program-legal-safe-harbor.md",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/technology/security-and-disclosure/coordinated-disclosure-of-security-vulnerabilities.md",
+      "title": "Coordinated Disclosure of Security Vulnerabilities",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "security-and-disclosure",
+      "type": "policy",
+      "variant": null,
+      "parties": [
+        "company",
+        "researcher"
+      ],
+      "tags": [
+        "vulnerability-disclosure",
+        "coordinated-disclosure",
+        "security",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Short statement of how a company handles vulnerabilities it finds in other products and how it expects to be told about its own.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/security-policies/coordinated-disclosure-of-security-vulnerabilities.md",
+        "file": null
+      }
+    },
+    {
       "path": "templates/us/technology/software-license/bonterms-software-license-terms.md",
       "title": "Bonterms Software License Terms",
       "jurisdiction": "US",
@@ -4671,6 +6353,38 @@
       "source": {
         "name": "Common Paper",
         "url": "https://commonpaper.com/standards/software-license-agreement/",
+        "file": null
+      }
+    },
+    {
+      "path": "templates/us/technology/software-license/github-pre-release-license-terms.md",
+      "title": "GitHub Pre-release License Terms",
+      "jurisdiction": "US",
+      "category": "technology",
+      "subcategory": "software-license",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "user"
+      ],
+      "tags": [
+        "beta",
+        "pre-release",
+        "preview",
+        "software-terms",
+        "github"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC0-1.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-14",
+      "summary": "Licence terms for beta and preview features: confidentiality, feedback, no warranties, and how previews can change or end.",
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/github/site-policy/blob/main/Policies/github-terms/github-pre-release-license-terms.md",
         "file": null
       }
     }

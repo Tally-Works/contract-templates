@@ -30,7 +30,8 @@ last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
   Federal performance work statement for buying agile software development services: objectives, scope, performance
-###   standards and deliverables.
+    standards and deliverables.
+---
 
 # Performance Work Statement for Agile Software Development
 

@@ -30,7 +30,8 @@ last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
   Quality assurance surveillance plan setting how the buyer measures a contractor's performance against a performance
-###   work statement.
+    work statement.
+---
 
 # Quality Assurance Surveillance Plan
 

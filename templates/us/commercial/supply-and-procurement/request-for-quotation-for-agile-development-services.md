@@ -30,7 +30,8 @@ last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
   Request for quotation used by a federal agency to solicit vendors for agile development services under a blanket
-###   purchase agreement.
+    purchase agreement.
+---
 
 # Request for Quotation for Agile Development Services
 

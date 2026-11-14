@@ -6,6 +6,24 @@ goHeather did not write any of the templates in this library. Every one was publ
 
 Where a template has been changed from the original, the change is described in the template's `source.notes` field.
 
+## [18F (U.S. General Services Administration)](https://github.com/18F/acq-templates/blob/master/agile_bpa/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Performance Work Statement for Agile Software Development (US)](templates/us/commercial/supply-and-procurement/performance-work-statement-for-agile-software-development.md) | Public-Domain | [link](https://github.com/18F/acq-templates/blob/master/agile_bpa/pws.md) | 2026-11-14 |
+| [Quality Assurance Surveillance Plan (US)](templates/us/commercial/supply-and-procurement/quality-assurance-surveillance-plan.md) | Public-Domain | [link](https://github.com/18F/acq-templates/blob/master/agile_bpa/qasp.md) | 2026-11-14 |
+| [Request for Quotation for Agile Development Services (US)](templates/us/commercial/supply-and-procurement/request-for-quotation-for-agile-development-services.md) | Public-Domain | [link](https://github.com/18F/acq-templates/blob/master/agile_bpa/rfq.md) | 2026-11-14 |
+
+## [Advottic (Techno Optics LLC)](https://advottic.com/templates/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Mutual Non-Disclosure Agreement (plain-english, US)](templates/us/confidentiality/mutual-nda/mutual-non-disclosure-agreement--plain-english.md) | CC-BY-4.0 | [link](https://advottic.com/templates/nda) | 2026-11-14 |
+| [Cease and Desist Letter (US)](templates/us/dispute-resolution/demand-letters/cease-and-desist-letter.md) | CC-BY-4.0 | [link](https://advottic.com/templates/cease-and-desist) | 2026-11-14 |
+| [Demand Letter (US)](templates/us/dispute-resolution/demand-letters/demand-letter.md) | CC-BY-4.0 | [link](https://advottic.com/templates/demand-letter) | 2026-11-14 |
+| [Lease Termination Notice (US)](templates/us/real-estate/residential-lease/lease-termination-notice.md) | CC-BY-4.0 | [link](https://advottic.com/templates/lease-termination-notice) | 2026-11-14 |
+| [Security Deposit Return Demand (US)](templates/us/real-estate/residential-lease/security-deposit-return-demand.md) | CC-BY-4.0 | [link](https://advottic.com/templates/security-deposit-demand) | 2026-11-14 |
+
 ## [Basecamp (37signals)](https://github.com/basecamp/policies/blob/master/)
 
 | Template | Licence | Original | Retrieved |
@@ -17,6 +35,15 @@ Where a template has been changed from the original, the change is described in 
 | [Privacy Policy (US)](templates/us/privacy-and-data/privacy-policy/privacy-policy.md) | CC-BY-4.0 | [link](https://github.com/basecamp/policies/blob/master/privacy/index.md) | 2026-11-14 |
 | [Terms of Service (US)](templates/us/privacy-and-data/website-terms/terms-of-service.md) | CC-BY-4.0 | [link](https://github.com/basecamp/policies/blob/master/terms/index.md) | 2026-11-14 |
 | [Service Level Agreement (US)](templates/us/technology/hosting-and-cloud/service-level-agreement.md) | CC-BY-4.0 | [link](https://github.com/basecamp/policies/blob/master/sla/index.md) | 2026-11-14 |
+
+## [Bloomberg Beta](https://github.com/Bloomberg-Beta/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Bloomberg Beta SAFE Side Letter (US-DE)](templates/us/corporate/convertible-and-safe/bloomberg-beta-safe-side-letter--us-de.md) | CC-BY-3.0 | [link](https://github.com/Bloomberg-Beta/Investment-Documents) | 2026-11-14 |
+| [Bloomberg Beta Series Seed Restated Certificate of Incorporation (US-DE)](templates/us/corporate/formation/bloomberg-beta-series-seed-restated-certificate-of-incorporation--us-de.md) | CC-BY-3.0 | [link](https://github.com/Bloomberg-Beta/Investment-Documents) | 2026-11-14 |
+| [Bloomberg Beta Series Seed Stock Investment Agreement (US-DE)](templates/us/financing/investor-agreements/bloomberg-beta-series-seed-stock-investment-agreement--us-de.md) | CC-BY-3.0 | [link](https://github.com/Bloomberg-Beta/Investment-Documents) | 2026-11-14 |
+| [Bloomberg Beta Series Seed Term Sheet (US-DE)](templates/us/financing/investor-agreements/bloomberg-beta-series-seed-term-sheet--us-de.md) | CC-BY-3.0 | [link](https://github.com/Bloomberg-Beta/Investment-Documents) | 2026-11-14 |
 
 ## [Bonterms](https://bonterms.com/standard/)
 
@@ -56,6 +83,33 @@ Where a template has been changed from the original, the change is described in 
 | [Common Paper Pilot Agreement (US)](templates/us/technology/saas/common-paper-pilot-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/pilot-agreement/) | 2026-11-14 |
 | [Common Paper Software License Agreement (US)](templates/us/technology/software-license/common-paper-software-license-agreement.md) | CC-BY-4.0 | [link](https://commonpaper.com/standards/software-license-agreement/) | 2026-11-14 |
 
+## [Cooley LLP (Series Seed fork)](https://github.com/CooleyLLP/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Series Seed Board Consent (US-DE)](templates/us/corporate/bylaws-and-resolutions/series-seed-board-consent--us-de.md) | CC0-1.0 | [link](https://github.com/CooleyLLP/seriesseed) | 2026-11-14 |
+| [Series Seed Notes Board Consent (US-DE)](templates/us/corporate/bylaws-and-resolutions/series-seed-notes-board-consent--us-de.md) | CC0-1.0 | [link](https://github.com/CooleyLLP/seriesseed) | 2026-11-14 |
+| [Series Seed Stockholder Consent (US-DE)](templates/us/corporate/bylaws-and-resolutions/series-seed-stockholder-consent--us-de.md) | CC0-1.0 | [link](https://github.com/CooleyLLP/seriesseed) | 2026-11-14 |
+| [Series Seed Convertible Promissory Note (US-DE)](templates/us/corporate/convertible-and-safe/series-seed-convertible-promissory-note--us-de.md) | CC0-1.0 | [link](https://github.com/CooleyLLP/seriesseed) | 2026-11-14 |
+| [Series Seed Notes Term Sheet (US-DE)](templates/us/corporate/convertible-and-safe/series-seed-notes-term-sheet--us-de.md) | CC0-1.0 | [link](https://github.com/CooleyLLP/seriesseed) | 2026-11-14 |
+| [Series Seed Investor Questionnaire (US-DE)](templates/us/financing/investor-agreements/series-seed-investor-questionnaire--us-de.md) | CC0-1.0 | [link](https://github.com/CooleyLLP/seriesseed) | 2026-11-14 |
+| [Series Seed Notes Investor Questionnaire (US-DE)](templates/us/financing/investor-agreements/series-seed-notes-investor-questionnaire--us-de.md) | CC0-1.0 | [link](https://github.com/CooleyLLP/seriesseed) | 2026-11-14 |
+
+## [Creative Commons](https://creativecommons.org/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [DMCA Notice and Takedown Procedure (US)](templates/us/intellectual-property/copyright-and-content/dmca-notice-and-takedown-procedure.md) | CC-BY-4.0 | [link](https://creativecommons.org/dmca/) | 2026-11-14 |
+| [Creative Commons Privacy Policy (US)](templates/us/privacy-and-data/privacy-policy/creative-commons-privacy-policy.md) | CC-BY-4.0 | [link](https://creativecommons.org/privacy/) | 2026-11-14 |
+| [Creative Commons Master Terms of Use (US)](templates/us/privacy-and-data/website-terms/creative-commons-master-terms-of-use.md) | CC0-1.0 | [link](https://creativecommons.org/terms/) | 2026-11-14 |
+
+## [Documize](https://github.com/documize/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Basic Non-Disclosure Agreement (GB)](templates/gb/confidentiality/unilateral-nda/basic-non-disclosure-agreement.md) | MIT | [link](https://github.com/documize/document-templates) | 2026-11-14 |
+| [Statement of Work (GB)](templates/gb/contractors/statement-of-work/statement-of-work.md) | MIT | [link](https://github.com/documize/document-templates) | 2026-11-14 |
+
 ## [General Legal](https://general.legal/library/)
 
 | Template | Licence | Original | Retrieved |
@@ -87,11 +141,41 @@ Where a template has been changed from the original, the change is described in 
 | [Privacy Policy (us-only, US)](templates/us/privacy-and-data/privacy-policy/privacy-policy--us-only.md) | CC0-1.0 | [link](https://general.legal/library/privacy-policy-u-s-only) | 2026-11-14 |
 | [Terms of Use (US)](templates/us/privacy-and-data/website-terms/terms-of-use.md) | CC0-1.0 | [link](https://general.legal/library/terms-of-use) | 2026-11-14 |
 
-## [GitHub](https://github.com/github/balanced-employee-ip-agreement)
+## [GitHub](https://github.com/github/)
 
 | Template | Licence | Original | Retrieved |
 | --- | --- | --- | --- |
 | [Balanced Employee Intellectual Property Agreement (US)](templates/us/employment/confidentiality-and-ip/balanced-employee-intellectual-property-agreement.md) | CC0-1.0 | [link](https://github.com/github/balanced-employee-ip-agreement) | 2026-11-14 |
+| [Anti-Bribery Statement (US)](templates/us/employment/policies-and-handbooks/anti-bribery-statement.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-anti-bribery-statement.md) | 2026-11-14 |
+| [Gifts and Entertainment Policy (US)](templates/us/employment/policies-and-handbooks/gifts-and-entertainment-policy.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-gifts-and-entertainment-policy.md) | 2026-11-14 |
+| [DMCA Takedown Policy (US)](templates/us/intellectual-property/copyright-and-content/dmca-takedown-policy.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/dmca-takedown-policy.md) | 2026-11-14 |
+| [Guide to Submitting a DMCA Counter Notice (US)](templates/us/intellectual-property/copyright-and-content/guide-to-submitting-a-dmca-counter-notice.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/guide-to-submitting-a-dmca-counter-notice.md) | 2026-11-14 |
+| [Guide to Submitting a DMCA Takedown Notice (US)](templates/us/intellectual-property/copyright-and-content/guide-to-submitting-a-dmca-takedown-notice.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice.md) | 2026-11-14 |
+| [GitHub Logo Policy (US)](templates/us/intellectual-property/trademark/github-logo-policy.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/other-site-policies/github-logo-policy.md) | 2026-11-14 |
+| [GitHub Trademark Policy (US)](templates/us/intellectual-property/trademark/github-trademark-policy.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/github-trademark-policy.md) | 2026-11-14 |
+| [GitHub Event Code of Conduct (US)](templates/us/marketing-and-media/events/github-event-code-of-conduct.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-event-code-of-conduct.md) | 2026-11-14 |
+| [GitHub Event Terms (US)](templates/us/marketing-and-media/events/github-event-terms.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-event-terms.md) | 2026-11-14 |
+| [GitHub Acceptable Use Policies (US)](templates/us/privacy-and-data/acceptable-use/github-acceptable-use-policies.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/acceptable-use-policies/github-acceptable-use-policies.md) | 2026-11-14 |
+| [GitHub Community Code of Conduct (US)](templates/us/privacy-and-data/acceptable-use/github-community-code-of-conduct.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-community-code-of-conduct.md) | 2026-11-14 |
+| [GitHub Community Guidelines (US)](templates/us/privacy-and-data/acceptable-use/github-community-guidelines.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-community-guidelines.md) | 2026-11-14 |
+| [GitHub Cookies Policy (US)](templates/us/privacy-and-data/cookie-policy/github-cookies-policy.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-cookies.md) | 2026-11-14 |
+| [GitHub General Privacy Statement (US)](templates/us/privacy-and-data/privacy-policy/github-general-privacy-statement.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-general-privacy-statement.md) | 2026-11-14 |
+| [Global Data Privacy Notice for Candidates (US)](templates/us/privacy-and-data/privacy-policy/global-data-privacy-notice-for-candidates.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-candidate-privacy-policy.md) | 2026-11-14 |
+| [GitHub Corporate Terms of Service (US)](templates/us/privacy-and-data/website-terms/github-corporate-terms-of-service.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-corporate-terms-of-service.md) | 2026-11-14 |
+| [GitHub Terms of Service (US)](templates/us/privacy-and-data/website-terms/github-terms-of-service.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-terms-of-service.md) | 2026-11-14 |
+| [GitHub Marketplace Developer Agreement (US)](templates/us/technology/api-terms/github-marketplace-developer-agreement.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-marketplace-developer-agreement.md) | 2026-11-14 |
+| [GitHub Open Source Applications Terms and Conditions (US)](templates/us/technology/eula/github-open-source-applications-terms-and-conditions.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-open-source-applications-terms-and-conditions.md) | 2026-11-14 |
+| [GitHub Educational Use Agreement (US)](templates/us/technology/saas/github-educational-use-agreement.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-educational-use-agreement.md) | 2026-11-14 |
+| [Bug Bounty Program Legal Safe Harbor (US)](templates/us/technology/security-and-disclosure/bug-bounty-program-legal-safe-harbor.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/security-policies/github-bug-bounty-program-legal-safe-harbor.md) | 2026-11-14 |
+| [Coordinated Disclosure of Security Vulnerabilities (US)](templates/us/technology/security-and-disclosure/coordinated-disclosure-of-security-vulnerabilities.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/security-policies/coordinated-disclosure-of-security-vulnerabilities.md) | 2026-11-14 |
+| [GitHub Pre-release License Terms (US)](templates/us/technology/software-license/github-pre-release-license-terms.md) | CC0-1.0 | [link](https://github.com/github/site-policy/blob/main/Policies/github-terms/github-pre-release-license-terms.md) | 2026-11-14 |
+
+## [Kyle E. Mitchell](https://github.com/kemitchell/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Switchmode Developer Agreement (US)](templates/us/contractors/independent-contractor/switchmode-developer-agreement.md) | Mitchell-Law-Form-1.1 | [link](https://github.com/kemitchell/switchmode) | 2026-11-14 |
+| [Slipstream Software Service Terms (US)](templates/us/technology/saas/slipstream-software-service-terms.md) | Mitchell-Law-Form-1.1 | [link](https://github.com/kemitchell/slipstream) | 2026-11-14 |
 
 ## [OpenAgreements](https://github.com/open-agreements/open-agreements/tree/main/templates/)
 
@@ -186,6 +270,25 @@ Where a template has been changed from the original, the change is described in 
 | [Series Seed Restated Certificate of Incorporation (US-DE)](templates/us/corporate/formation/series-seed-restated-certificate-of-incorporation--us-de.md) | CC0-1.0 | [link](https://github.com/seriesseed/equity) | 2026-11-14 |
 | [Series Seed Preferred Stock Investment Agreement (US-DE)](templates/us/financing/investor-agreements/series-seed-preferred-stock-investment-agreement--us-de.md) | CC0-1.0 | [link](https://github.com/seriesseed/equity) | 2026-11-14 |
 | [Series Seed Term Sheet (US-DE)](templates/us/financing/investor-agreements/series-seed-term-sheet--us-de.md) | CC0-1.0 | [link](https://github.com/seriesseed/equity) | 2026-11-14 |
+
+## [Skala](https://github.com/skala-io/employment-agreement)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Employment Agreement (US)](templates/us/employment/employment-agreements/employment-agreement.md) | CC-BY-4.0 | [link](https://github.com/skala-io/employment-agreement) | 2026-11-14 |
+
+## [U.S. Department of Labor](https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/laws/cobra/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Model COBRA Continuation Coverage Election Notice (US)](templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.md) | Public-Domain | [link](https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/laws/cobra/model-election-notice.docx) | 2026-11-14 |
+| [Model COBRA Continuation Coverage General Notice (US)](templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-general-notice.md) | Public-Domain | [link](https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/laws/cobra/model-general-notice.docx) | 2026-11-14 |
+
+## [Van Lindberg (Process Mechanics)](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+
+| Template | Licence | Original | Retrieved |
+| --- | --- | --- | --- |
+| [Model Employee IP and Open Source Contribution Policy (US)](templates/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.md) | CC-BY-4.0 | [link](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) | 2026-11-14 |
 
 ## Licence texts
 
