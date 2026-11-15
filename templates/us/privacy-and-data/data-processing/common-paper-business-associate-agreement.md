@@ -13,7 +13,6 @@ tags:
   - phi
   - healthcare
   - standard-terms
-  - common-paper
 language: en
 source:
   name: Common Paper

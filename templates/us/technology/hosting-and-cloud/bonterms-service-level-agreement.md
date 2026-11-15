@@ -13,7 +13,6 @@ tags:
   - service-credits
   - saas
   - standard-terms
-  - bonterms
 language: en
 source:
   name: Bonterms

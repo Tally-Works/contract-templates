@@ -12,8 +12,6 @@ tags:
   - residential
   - occupation-contract
   - secure
-  - wales
-  - crown-copyright
 language: en
 source:
   name: Welsh Government

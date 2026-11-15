@@ -10,11 +10,9 @@ parties:
 tags:
   - ip-assignment
   - invention-assignment
-  - employee
   - open-source
   - side-projects
   - beipa
-  - github
 language: en
 source:
   name: GitHub

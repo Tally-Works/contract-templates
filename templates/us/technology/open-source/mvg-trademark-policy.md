@@ -6,13 +6,11 @@ subcategory: open-source
 type: policy
 parties:
   - organisation
-  - contributors
+  - contributor
 tags:
   - trademark
   - governance
-  - open-source
   - mvg
-  - github
 language: en
 source:
   name: GitHub
@@ -26,7 +24,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Trademark policy under Minimum Viable Governance.
+summary: >-
+  Trademark policy for an open-source organisation and its projects, from GitHub's Minimum Viable Governance org-docs
+  and based on the Model Trademark Guidelines. Covers which names, logos and marks it applies to, the rule that use
+  must not mislead about the source of software, no registering the marks or confusingly similar ones, when marks may
+  stay on unmodified or lightly modified redistributions, and how to truthfully describe related software.
 ---
 
 ## Introduction

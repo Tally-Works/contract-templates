@@ -8,11 +8,9 @@ parties:
   - company
   - user
 tags:
-  - privacy-policy
   - gdpr
   - ccpa
   - platform
-  - github
 language: en
 source:
   name: GitHub

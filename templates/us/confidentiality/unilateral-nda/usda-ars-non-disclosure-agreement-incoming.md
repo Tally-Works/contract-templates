@@ -5,12 +5,11 @@ category: confidentiality
 subcategory: unilateral-nda
 type: agreement
 parties:
-  - discloser
-  - ars
+  - disclosing-party
+  - agency
 tags:
   - nda
-  - one-way
-  - usda
+  - unilateral
   - federal
 language: en
 source:

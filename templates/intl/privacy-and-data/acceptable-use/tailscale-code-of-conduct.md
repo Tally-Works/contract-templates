@@ -9,8 +9,11 @@ parties:
   - community
 tags:
   - code-of-conduct
-  - community
-  - tailscale
+  - harassment
+  - events
+  - conference
+  - contributor-covenant
+  - incidents
 language: en
 source:
   name: Tailscale
@@ -26,7 +29,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Tailscale's community code of conduct.
+summary: >-
+  Tailscale's events code of conduct for participants at its in-person and
+  virtual events, accepted by registering or attending. Covers a
+  harassment-free pledge, expected professional behaviour, what counts as
+  harassment, consequences from a warning to expulsion without refund and bans
+  from future events, how to report to conference staff or the events team, and
+  incident response support. Adapted from the Contributor Covenant and the
+  Linux Foundation event code.
 ---
 
 ## Our Pledge

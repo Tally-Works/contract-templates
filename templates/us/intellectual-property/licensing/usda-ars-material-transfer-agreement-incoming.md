@@ -6,11 +6,10 @@ subcategory: licensing
 type: agreement
 parties:
   - provider
-  - ars
+  - agency
 tags:
   - mta
   - materials
-  - usda
   - federal
 language: en
 source:

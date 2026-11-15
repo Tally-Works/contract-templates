@@ -5,14 +5,13 @@ category: corporate
 subcategory: bylaws-and-resolutions
 type: resolution
 parties:
-  - directors
+  - director
   - company
 tags:
   - board-consent
   - written-consent
   - convertible-note
   - series-seed-notes
-  - delaware
 language: en
 source:
   name: Cooley LLP (Series Seed fork)

@@ -12,7 +12,6 @@ tags:
   - oer
   - open-access
   - higher-education
-  - cc-by
 language: en
 source:
   name: Open Education Network

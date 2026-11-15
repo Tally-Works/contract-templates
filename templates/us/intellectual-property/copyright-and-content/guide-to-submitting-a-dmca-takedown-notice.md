@@ -12,7 +12,6 @@ tags:
   - takedown-notice
   - copyright
   - guide
-  - github
 language: en
 source:
   name: GitHub

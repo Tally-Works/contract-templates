@@ -9,8 +9,10 @@ parties:
   - contributor
 tags:
   - cla
-  - open-source
-  - commonhaus
+  - contributor-license
+  - contributor-agreement
+  - copyright
+  - patent-license
 language: en
 source:
   name: Commonhaus Foundation

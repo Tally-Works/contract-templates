@@ -11,7 +11,6 @@ tags:
   - crada
   - research-collaboration
   - phs
-  - nih
   - federal
 language: en
 source:
@@ -28,7 +27,15 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Public Health Service model CRADA (2009, rev. 2012).
+summary: >-
+  Public Health Service model Cooperative Research and Development Agreement between an
+  NIH, CDC or FDA Institute or Center and a collaborator under the Federal Technology
+  Transfer Act. Covers the research plan, reports, staffing and funding contributions,
+  ownership and patenting of CRADA subject inventions, the collaborator's exclusive option
+  to a commercialization licence and reserved government licences, data access,
+  confidentiality and 30-day publication review, warranties, termination, disputes,
+  liability and export controls, with signature, contacts and summary pages and appendices
+  for the research plan and contributions.
 ---
 
 **PUBLIC HEALTH SERVICE**

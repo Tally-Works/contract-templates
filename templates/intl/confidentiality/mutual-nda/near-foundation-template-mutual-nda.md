@@ -10,7 +10,8 @@ parties:
 tags:
   - nda
   - mutual
-  - near-foundation
+  - trade-secrets
+  - injunctive-relief
 language: en
 source:
   name: NEAR Foundation

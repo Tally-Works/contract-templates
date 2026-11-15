@@ -9,11 +9,10 @@ parties:
   - licensee
 tags:
   - lambert
-  - patent-licence
+  - patent-license
   - know-how
   - university-industry
   - ipo
-  - crown-copyright
 language: en
 source:
   name: UK Intellectual Property Office (Lambert Toolkit)

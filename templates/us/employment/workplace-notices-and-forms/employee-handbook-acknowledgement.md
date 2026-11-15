@@ -10,7 +10,8 @@ parties:
 tags:
   - acknowledgment
   - handbook
-  - osio-labs
+  - receipt
+  - onboarding
 language: en
 source:
   name: Osio Labs
@@ -24,7 +25,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Employee acknowledgement of the handbook.
+summary: >-
+  Short signature form in which an employee acknowledges receiving, reading and
+  understanding the Osio Labs Employee Handbook, accepts that it replaces all prior verbal
+  and written communications about working conditions, policies and benefits, agrees to
+  follow it as a condition of employment and to consult the CEO with questions. Includes
+  printed name, signature and date lines.
 ---
 
 # Acknowledgment

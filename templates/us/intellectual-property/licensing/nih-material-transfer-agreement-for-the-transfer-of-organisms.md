@@ -11,7 +11,6 @@ tags:
   - mta
   - materials
   - research
-  - nih
   - federal
 language: en
 source:
@@ -29,7 +28,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: NIH's model material transfer agreement for organisms.
+summary: >-
+  NIH fill-in letter agreement (MTA-TO) for transferring a genetically distinct organism and
+  its unmodified progeny from a provider to an academic or not-for-profit recipient. Limits
+  use to teaching or non-profit research and not human subjects, bars further distribution
+  without consent, requires acknowledgement in publications, disclaims warranties, keeps
+  the provider's IP rights, and includes signature blocks and an Animal Transfer Addendum
+  for use when NIH is the provider.
 ---
 
 **Material Transfer Agreement for the Transfer of Organisms (MTA-TO)**

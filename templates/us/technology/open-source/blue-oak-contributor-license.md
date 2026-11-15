@@ -10,7 +10,6 @@ parties:
 tags:
   - cla
   - contributor-license
-  - open-source
   - blue-oak
 language: en
 source:

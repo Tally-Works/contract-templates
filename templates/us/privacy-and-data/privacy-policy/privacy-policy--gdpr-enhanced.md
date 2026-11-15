@@ -9,7 +9,6 @@ parties:
   - company
   - user
 tags:
-  - privacy-policy
   - gdpr
   - uk-gdpr
   - ccpa

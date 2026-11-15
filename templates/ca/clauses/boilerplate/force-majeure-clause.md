@@ -8,10 +8,10 @@ parties:
   - party-a
   - party-b
 tags:
-  - boilerplate
-  - clause
   - force-majeure
-  - dot-legal
+  - acts-of-god
+  - excused-performance
+  - delay
 language: en
 source:
   name: Dot Legal

@@ -9,9 +9,12 @@ parties:
   - customer
 tags:
   - msa
-  - saas
   - enterprise
-  - tailscale
+  - order-form
+  - subscription
+  - dpa
+  - indemnification
+  - limitation-of-liability
 language: en
 source:
   name: Tailscale

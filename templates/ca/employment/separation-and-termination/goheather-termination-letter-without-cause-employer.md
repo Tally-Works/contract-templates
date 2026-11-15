@@ -13,7 +13,6 @@ tags:
   - severance
   - notice-period
   - release
-  - canada
   - build-notes
 language: en
 source:

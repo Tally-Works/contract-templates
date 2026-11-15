@@ -11,9 +11,7 @@ tags:
   - stock-power
   - stock-assignment
   - repurchase
-  - founder
   - startup
-  - openagreements
 language: en
 source:
   name: OpenAgreements

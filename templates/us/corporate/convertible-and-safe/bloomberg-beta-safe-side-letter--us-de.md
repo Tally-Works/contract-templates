@@ -13,8 +13,6 @@ tags:
   - pro-rata
   - information-rights
   - mfn
-  - delaware
-  - bloomberg-beta
 language: en
 source:
   name: Bloomberg Beta

@@ -9,9 +9,7 @@ parties:
 tags:
   - founder-separation
   - records
-  - checklist
   - startup
-  - openagreements
 language: en
 source:
   name: OpenAgreements

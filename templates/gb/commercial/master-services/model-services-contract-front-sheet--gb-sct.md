@@ -11,9 +11,6 @@ tags:
   - public-procurement
   - model-services-contract
   - front-sheet
-  - scotland
-  - cabinet-office
-  - crown-copyright
 language: en
 source:
   name: UK Cabinet Office and Government Legal Department

@@ -9,8 +9,12 @@ parties:
   - employee
 tags:
   - code-of-conduct
-  - policy
-  - sparksuite
+  - handbook
+  - harassment
+  - conflict-of-interest
+  - confidentiality
+  - retaliation
+  - social-media
 language: en
 source:
   name: Sparksuite
@@ -25,7 +29,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's employee code of conduct.
+summary: >-
+  Sparksuite's employee code of conduct, applying to employees, board members, contractors and consultants in
+  the office, when representing the company and on social media. Sections cover communication, integrity,
+  preserving confidentiality (alongside the PIIAA), conflicts of interest, inclusiveness, harassment and
+  retaliation, with concerns reported to the employee's manager or the next in rank.
 ---
 
 ## Code of conduct

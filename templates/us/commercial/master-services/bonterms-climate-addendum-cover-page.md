@@ -11,7 +11,6 @@ tags:
   - cover-page
   - climate
   - addendum
-  - bonterms
 language: en
 source:
   name: Bonterms

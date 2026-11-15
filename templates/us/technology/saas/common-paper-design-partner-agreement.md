@@ -8,13 +8,10 @@ parties:
   - provider
   - design-partner
 tags:
-  - design-partner
   - early-access
   - beta
   - feedback
-  - saas
   - standard-terms
-  - common-paper
 language: en
 source:
   name: Common Paper

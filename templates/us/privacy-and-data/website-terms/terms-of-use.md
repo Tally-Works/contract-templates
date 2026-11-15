@@ -8,7 +8,7 @@ parties:
   - company
   - user
 tags:
-  - terms-of-use
+  - terms-of-service
   - website
   - intellectual-property
   - limitation-of-liability

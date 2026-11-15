@@ -10,7 +10,11 @@ parties:
 tags:
   - terms-of-service
   - saas
-  - tailscale
+  - subscription
+  - arbitration
+  - hosted-software
+  - limitation-of-liability
+  - new-york
 language: en
 source:
   name: Tailscale
@@ -26,7 +30,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Tailscale's online terms of service.
+summary: >-
+  Tailscale's online terms of service between Tailscale and self-serve and
+  free customers who use its Services without an Order Form. Covers licence and
+  restrictions, payment and renewals, term and termination, the DPA, no AI
+  training on customer data, warranties, New York law (Quebec for consumers),
+  indemnities, liability cap, a Schedule A naming the Tailscale entity and a
+  Schedule B JAMS arbitration and class action waiver for free and personal-use
+  customers.
 ---
 
 Last updated: August 25, 2026

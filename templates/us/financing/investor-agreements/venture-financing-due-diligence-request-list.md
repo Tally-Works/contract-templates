@@ -10,10 +10,7 @@ parties:
 tags:
   - due-diligence
   - request-list
-  - checklist
   - venture
-  - financing
-  - openagreements
 language: en
 source:
   name: OpenAgreements

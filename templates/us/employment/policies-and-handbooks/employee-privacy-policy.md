@@ -8,10 +8,12 @@ parties:
   - employer
   - employee
 tags:
-  - employee-privacy
+  - privacy
   - monitoring
-  - policy
-  - clef
+  - handbook
+  - email
+  - internet-use
+  - workplace-search
 language: en
 source:
   name: Clef
@@ -25,7 +27,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Clef's employee privacy policy.
+summary: >-
+  Clef's employee privacy policy, stating that company property such as desks and laptops may be searched at
+  any time and that lock keys or combinations must be shared with a founder. Covers email and internet
+  monitoring, company ownership of email, limited personal use of the email system, conduct rules and
+  professional tone for email and social accounts, email security and passwords, and non-private internet use.
 ---
 
 # Employee Privacy

@@ -9,9 +9,10 @@ parties:
   - employee
 tags:
   - information-security
-  - infosec
-  - policy
-  - sourcegraph
+  - security
+  - compliance
+  - company-policy
+  - handbook
 language: en
 source:
   name: Sourcegraph
@@ -26,7 +27,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sourcegraph's information security policy.
+summary: >-
+  Sourcegraph's top-level internal information security policy, a short umbrella document that incorporates the
+  company's other handbook security policies by reference. Covers purpose, scope (all company information in any
+  form, all employees and contractors), a mission statement treating information and systems as company assets to be
+  protected and used for business purposes, compliance measurement through audits, and violations and enforcement.
 ---
 
 # Information Security Policy

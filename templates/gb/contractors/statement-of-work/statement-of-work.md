@@ -8,11 +8,13 @@ parties:
   - client
   - provider
 tags:
-  - statement-of-work
-  - sow
   - project
   - deliverables
-  - documize
+  - milestones
+  - scope
+  - acceptance
+  - change-control
+  - pricing
 language: en
 source:
   name: Documize

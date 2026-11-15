@@ -12,7 +12,6 @@ tags:
   - counter-notice
   - copyright
   - guide
-  - github
 language: en
 source:
   name: GitHub

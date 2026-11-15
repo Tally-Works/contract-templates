@@ -5,7 +5,7 @@ category: corporate
 subcategory: bylaws-and-resolutions
 type: resolution
 parties:
-  - stockholders
+  - stockholder
   - company
 tags:
   - stockholder-consent
@@ -13,7 +13,6 @@ tags:
   - seed
   - preferred-stock
   - series-seed
-  - delaware
 language: en
 source:
   name: Cooley LLP (Series Seed fork)

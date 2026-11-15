@@ -9,9 +9,13 @@ parties:
   - employee
 tags:
   - cloud-security
-  - infosec
-  - policy
-  - sourcegraph
+  - information-security
+  - cloud
+  - soc-2
+  - iam
+  - encryption
+  - infrastructure-as-code
+  - company-policy
 language: en
 source:
   name: Sourcegraph
@@ -25,7 +29,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sourcegraph's cloud security policy.
+summary: >-
+  Sourcegraph's internal cloud security policy for all assets it owns or manages at any cloud service provider,
+  aligned to CIS, Cloud Security Alliance and SOC 2 controls. Short sections on asset ownership, annually tested
+  disaster recovery plans, least-privilege IAM with MFA, infrastructure-as-code and approved changes, secure
+  baselines, encryption at rest and in transit, logging and incident response, exceptions via the risk register.
 ---
 
 # Cloud Security Policy

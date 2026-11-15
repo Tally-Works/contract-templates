@@ -8,10 +8,10 @@ parties:
   - party-a
   - party-b
 tags:
-  - boilerplate
-  - clause
   - entire-agreement
-  - dot-legal
+  - integration
+  - merger-clause
+  - prior-agreements
 language: en
 source:
   name: Dot Legal

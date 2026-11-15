@@ -5,15 +5,13 @@ category: corporate
 subcategory: founders
 type: resolution
 parties:
-  - stockholders
+  - stockholder
   - company
 tags:
   - founder-separation
   - written-consent
-  - resolution
   - repurchase
   - startup
-  - openagreements
 language: en
 source:
   name: OpenAgreements

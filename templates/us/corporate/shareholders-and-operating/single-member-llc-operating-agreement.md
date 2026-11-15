@@ -1,6 +1,6 @@
 ---
 title: Single Member LLC Operating Agreement
-jurisdiction: US-DE
+jurisdiction: US
 category: corporate
 subcategory: shareholders-and-operating
 type: agreement
@@ -11,7 +11,6 @@ tags:
   - operating-agreement
   - single-member
   - llc
-  - delaware
 language: en
 source:
   name: Erich Dylus
@@ -27,7 +26,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Operating agreement for a single-member Delaware LLC.
+summary: >-
+  Operating agreement between a single-member, member-managed LLC and its individual member; the state of
+  organization is a fill-in blank. Covers formation, purpose, term, capital contributions, distributions, books
+  and sole-proprietorship tax treatment, bank accounts and blockchain addresses, member management, admission
+  of new members, dissolution on the member's death, indemnification and governing law.
 ---
 
 // _simple operating agreement for a single member, member-managed LLC_

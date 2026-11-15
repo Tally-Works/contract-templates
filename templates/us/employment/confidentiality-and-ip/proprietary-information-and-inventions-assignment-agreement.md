@@ -11,7 +11,6 @@ tags:
   - piiaa
   - invention-assignment
   - confidentiality
-  - sparksuite
 language: en
 source:
   name: Sparksuite

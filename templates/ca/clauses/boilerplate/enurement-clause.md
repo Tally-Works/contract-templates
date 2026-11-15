@@ -8,10 +8,9 @@ parties:
   - party-a
   - party-b
 tags:
-  - boilerplate
-  - clause
   - enurement
-  - dot-legal
+  - successors-and-assigns
+  - binding-effect
 language: en
 source:
   name: Dot Legal

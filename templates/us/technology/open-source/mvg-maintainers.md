@@ -6,13 +6,11 @@ subcategory: open-source
 type: policy
 parties:
   - organisation
-  - contributors
+  - contributor
 tags:
   - maintainers
   - governance
-  - open-source
   - mvg
-  - github
 language: en
 source:
   name: GitHub
@@ -26,7 +24,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Maintainers document under Minimum Viable Governance.
+summary: >-
+  MAINTAINERS.md file for an open-source project under GitHub's Minimum Viable Governance (MVG-0.1-beta). A short
+  preamble and a name/organisation table: by adding their name, each maintainer agrees to the project governance
+  documents and the organisation's code of conduct, trademark policy and antitrust policy, and represents authority
+  to bind any affiliated organisation. New maintainers are added by approval of existing ones per the governance doc.
 ---
 
 # Maintainers

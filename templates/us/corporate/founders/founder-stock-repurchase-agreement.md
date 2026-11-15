@@ -12,7 +12,6 @@ tags:
   - repurchase
   - unvested-shares
   - startup
-  - openagreements
 language: en
 source:
   name: OpenAgreements

@@ -8,9 +8,14 @@ parties:
   - provider
   - customer
 tags:
-  - acceptable-use
   - saas
-  - tailscale
+  - aup
+  - abuse
+  - prohibited-uses
+  - spam
+  - malware
+  - enforcement
+  - community
 language: en
 source:
   name: Tailscale
@@ -26,7 +31,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Tailscale's acceptable use policy.
+summary: >-
+  Tailscale's acceptable use policy for customers and users of its Services,
+  part of the Documentation under its Terms of Service and MSA. Lists prohibited
+  uses (phishing, spam, malware, infringing or illegal content, unauthorised
+  access, service disruption, abuse material, fraud, weapons, terrorism), safety
+  guidelines for community channels, and enforcement: no monitoring duty, abuse
+  reporting, and suspension, termination or content removal.
 ---
 
 Last updated: June 30, 2025

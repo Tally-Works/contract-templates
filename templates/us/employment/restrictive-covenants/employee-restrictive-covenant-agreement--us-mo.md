@@ -12,9 +12,6 @@ tags:
   - non-solicitation
   - restrictive-covenant
   - confidentiality
-  - employee
-  - missouri
-  - openagreements
 language: en
 source:
   name: OpenAgreements

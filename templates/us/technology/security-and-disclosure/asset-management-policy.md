@@ -9,9 +9,12 @@ parties:
   - employee
 tags:
   - asset-management
-  - infosec
-  - policy
-  - sourcegraph
+  - information-security
+  - asset-inventory
+  - equipment
+  - endpoint-management
+  - company-policy
+  - handbook
 language: en
 source:
   name: Sourcegraph
@@ -26,7 +29,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sourcegraph's asset management policy.
+summary: >-
+  Sourcegraph's short internal asset management policy for company-owned or managed information systems, owned by Tech
+  Ops. Covers an asset inventory kept in the Jamf endpoint management system, assignment of assets to individuals or
+  groups, acceptable use by reference to the information security policy, return of equipment on termination, due
+  care in handling and transporting equipment, listed exceptions such as new hires awaiting devices, and enforcement.
 ---
 
 # **Asset Management Policy**

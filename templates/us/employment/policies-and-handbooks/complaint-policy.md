@@ -10,8 +10,10 @@ parties:
 tags:
   - complaints
   - harassment
-  - policy
-  - clef
+  - handbook
+  - open-door
+  - retaliation
+  - investigation
 language: en
 source:
   name: Clef
@@ -25,7 +27,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Clef's complaint and anti-harassment policy.
+summary: >-
+  Clef's complaint policy for employees, covering an open-door approach to work-related concerns, reporting of
+  harassment, discrimination, safety violations or violence to a founder, how the founders decide and
+  investigate complaints (with an outside investigator where a founder is the subject or in serious cases),
+  confidentiality, and a prohibition on retaliation against good-faith complainants.
 ---
 
 # Complaint Policy

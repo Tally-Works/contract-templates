@@ -5,12 +5,11 @@ category: intellectual-property
 subcategory: licensing
 type: agreement
 parties:
-  - ars
+  - agency
   - recipient
 tags:
   - mta
   - materials
-  - usda
   - federal
 language: en
 source:

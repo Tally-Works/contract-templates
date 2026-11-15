@@ -5,13 +5,17 @@ category: corporate
 subcategory: formation
 type: charter
 parties:
-  - members
+  - member
 tags:
   - unincorporated-association
   - nonprofit
-  - charter
-  - district-of-columbia
+  - dao
+  - web3
+  - governance
+  - membership
+  - smart-contract
 language: en
+governing_law: District of Columbia
 source:
   name: Erich Dylus
   url: >-

@@ -13,7 +13,6 @@ tags:
   - performance-work-statement
   - agile
   - federal
-  - 18f
 language: en
 source:
   name: 18F (U.S. General Services Administration)

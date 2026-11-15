@@ -9,8 +9,10 @@ parties:
   - employee
 tags:
   - conduct
-  - policy
-  - osio-labs
+  - handbook
+  - misconduct
+  - discipline
+  - harassment
 language: en
 source:
   name: Osio Labs
@@ -24,7 +26,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' standards of conduct.
+summary: >-
+  Osio Labs' employee-handbook standards of conduct: a non-exhaustive list of unacceptable
+  behaviour online or in person (harassment, theft, violence, gossip, property damage,
+  insubordination, excessive absenteeism, unauthorized disclosure of confidential
+  information), with a warning that violations may lead to discipline up to termination.
 ---
 
 # Standards of Conduct

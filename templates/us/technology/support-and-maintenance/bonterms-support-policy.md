@@ -12,7 +12,6 @@ tags:
   - sla
   - incidents
   - saas
-  - bonterms
 language: en
 source:
   name: Bonterms

@@ -8,10 +8,9 @@ parties:
   - party-a
   - party-b
 tags:
-  - boilerplate
-  - clause
   - counterparts
-  - dot-legal
+  - execution
+  - signatures
 language: en
 source:
   name: Dot Legal

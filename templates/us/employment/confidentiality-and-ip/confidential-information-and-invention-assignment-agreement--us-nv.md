@@ -11,10 +11,7 @@ tags:
   - ciiaa
   - invention-assignment
   - confidentiality
-  - employee
-  - ip
-  - openagreements
-  - nevada
+  - intellectual-property
 language: en
 source:
   name: OpenAgreements

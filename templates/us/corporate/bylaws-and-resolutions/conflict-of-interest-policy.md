@@ -6,12 +6,16 @@ subcategory: bylaws-and-resolutions
 type: policy
 parties:
   - foundation
-  - directors
+  - director
 tags:
   - conflict-of-interest
-  - policy
   - nonprofit
-  - commonhaus
+  - governance
+  - board
+  - disclosure
+  - compensation
+  - open-source
+  - florida
 language: en
 source:
   name: Commonhaus Foundation
@@ -26,7 +30,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Commonhaus Foundation's conflict of interest policy.
+summary: >-
+  Commonhaus Foundation's conflict of interest policy for its councillors,
+  Extended Governance Committee members, officers and key employees, citing
+  Florida Statute 617.0832. Covers definitions of interest, conflict and
+  transaction with examples, compensation-setting procedure, duty to disclose
+  material facts to the Council, the Council's determination and vote in the
+  interested person's absence, required minute records, annual affirmation of
+  compliance and periodic review.
 ---
 
 # Conflict of Interest Policy

@@ -9,7 +9,13 @@ parties:
   - user
 tags:
   - cookies
-  - near-foundation
+  - gdpr
+  - uk-gdpr
+  - ccpa
+  - consent
+  - tracking
+  - website
+  - legitimate-interest
 language: en
 source:
   name: NEAR Foundation
@@ -23,7 +29,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Cookie policy template published by the NEAR Foundation.
+summary: >-
+  Cookie policy for a company-operated website with users in the EU, UK,
+  Switzerland or California, addressed to site visitors, with bracketed fill-ins
+  and boxed drafting notes. Covers strictly necessary, functional, performance
+  and targeting/advertising cookies, session versus persistent cookies, consent
+  via a cookie banner and browser settings with per-browser links, third-party
+  cookies, legal basis and legitimate interest, storage duration and changes.
 ---
 
 | DISCLAIMER: For Informational Purposes Only This Cookie Policy template is provided for general informational purposes only and does not constitute legal advice. This template is intended to serve as a starting point for drafting legal documents; however, it may not address your specific circumstances or comply with the laws applicable to your jurisdiction. You should not use this template without first consulting a qualified legal advisor who can tailor it to your unique needs and ensure compliance with relevant laws and regulations. The use of this template does not create an attorney-client relationship between you and the provider of this document. We disclaim all liability for any actions taken or not taken based on the content of this document. Use of this template is at your own risk, and you are solely responsible for ensuring its accuracy, legality, and appropriateness for your purposes. |

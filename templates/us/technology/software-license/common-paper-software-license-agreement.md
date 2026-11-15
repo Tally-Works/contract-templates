@@ -8,12 +8,10 @@ parties:
   - licensor
   - customer
 tags:
-  - software-license
   - on-premise
   - perpetual
   - subscription
   - standard-terms
-  - common-paper
 language: en
 source:
   name: Common Paper

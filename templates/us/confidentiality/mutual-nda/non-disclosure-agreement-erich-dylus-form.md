@@ -9,8 +9,13 @@ parties:
   - party-b
 tags:
   - nda
-  - confidentiality
+  - mutual
+  - dao
+  - web3
+  - arbitration
+  - contractor
 language: en
+governing_law: New York
 source:
   name: Erich Dylus
   url: https://github.com/ErichDylus/Open-Source-Legal-Engineering/blob/main/forms/legal/NDA.md
@@ -24,7 +29,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Non-disclosure agreement form by attorney Erich Dylus.
+summary: >-
+  Mutual non-disclosure and confidentiality agreement between a DAO's legal
+  wrapper entity and a prospective contributor or contractor, drafted from the
+  DAO's side with bracketed blanks and drafting notes. Covers Confidential
+  Information and its exclusions, protection and return duties, secrecy of the
+  relationship itself, liability for Representatives, remedies and fee
+  shifting, and New York law with disputes at the New York International
+  Arbitration Center.
 ---
 
 // drafted from the perspective of a DAO’s legal wrapper engaging a new or potential contributor/grantee who will encounter confidential information (internal or third party)

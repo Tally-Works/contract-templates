@@ -6,11 +6,13 @@ subcategory: open-source
 type: policy
 parties:
   - project
-  - contributors
+  - contributor
 tags:
   - code-of-conduct
-  - open-source
-  - cncf
+  - community
+  - incidents
+  - reporting
+  - cloud-native
 language: en
 source:
   name: CNCF
@@ -24,7 +26,10 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: CNCF's code of conduct template for projects.
+summary: >-
+  Two-paragraph CODE_OF_CONDUCT.md stub for a CNCF project that adopts the CNCF Code of Conduct by reference rather
+  than restating it. Gives a placeholder project email address and the CNCF Code of Conduct Committee address for
+  reporting violations, with an HTML comment telling maintainers how to fill in or remove the project contact.
 ---
 
 # Code of Conduct

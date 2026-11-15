@@ -9,9 +9,7 @@ parties:
 tags:
   - founder-separation
   - cap-table
-  - checklist
   - startup
-  - openagreements
 language: en
 source:
   name: OpenAgreements

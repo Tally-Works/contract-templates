@@ -12,7 +12,6 @@ tags:
   - loi
   - non-binding
   - confidentiality
-  - common-paper
 language: en
 source:
   name: Common Paper

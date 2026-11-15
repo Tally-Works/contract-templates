@@ -8,7 +8,6 @@ parties:
   - landlord
   - tenant
 tags:
-  - hud
   - model-lease
   - subsidized-housing
   - section-8

@@ -11,7 +11,6 @@ tags:
   - data-license
   - computational-use
   - c-uda
-  - microsoft
 language: en
 source:
   name: Microsoft

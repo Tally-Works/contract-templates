@@ -9,10 +9,8 @@ parties:
   - attendee
 tags:
   - event-terms
-  - attendee
   - registration
   - photo-release
-  - github
 language: en
 source:
   name: GitHub

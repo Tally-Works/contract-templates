@@ -13,7 +13,6 @@ tags:
   - statement-of-work
   - consulting
   - standard-terms
-  - bonterms
 language: en
 source:
   name: Bonterms

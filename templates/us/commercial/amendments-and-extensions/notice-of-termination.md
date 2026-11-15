@@ -8,8 +8,10 @@ parties:
   - party-a
   - party-b
 tags:
-  - termination-notice
+  - termination
   - contract
+  - notice-period
+  - survival
 language: en
 source:
   name: Erich Dylus
@@ -24,7 +26,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Notice terminating an agreement.
+summary: >-
+  One-page letter form by which an entity gives a counterparty written notice
+  of termination of a named agreement under a specified section, with bracketed
+  blanks for date, addressee, agreement title and notice period. States the
+  Termination Date, that obligations are discharged except those that expressly
+  survive, and that named sections of the agreement apply to the notice mutatis
+  mutandis, followed by a signature block.
 ---
 
 ### NOTICE OF TERMINATION

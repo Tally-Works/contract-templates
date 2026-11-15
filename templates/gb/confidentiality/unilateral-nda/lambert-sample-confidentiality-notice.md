@@ -5,12 +5,13 @@ category: confidentiality
 subcategory: unilateral-nda
 type: notice
 parties:
-  - discloser
+  - disclosing-party
 tags:
   - lambert
-  - confidentiality-notice
   - ipo
-  - crown-copyright
+  - university-industry
+  - research-collaboration
+  - cover-page
 language: en
 source:
   name: UK Intellectual Property Office (Lambert Toolkit)

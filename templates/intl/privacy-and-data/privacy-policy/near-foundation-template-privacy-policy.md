@@ -8,9 +8,14 @@ parties:
   - company
   - user
 tags:
-  - privacy-policy
   - gdpr
-  - near-foundation
+  - ccpa
+  - cpra
+  - uk-gdpr
+  - privacy
+  - cookies
+  - web3
+  - tracking
 language: en
 source:
   name: NEAR Foundation
@@ -24,7 +29,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Privacy policy template published by the NEAR Foundation.
+summary: >-
+  Privacy policy for a company operating a website, apps and downloadable tools
+  (including web3 wallets and dapps) with users in the EU, UK, Switzerland or
+  California, with bracketed fill-ins and drafting notes. Covers under-18s,
+  data collected and tracking, uses, disclosures, security and contact, then a
+  California addendum (CCPA/CPRA tables, rights, opt-out, authorised agents)
+  and a European addendum (controllers, lawful-basis table, transfers, GDPR
+  rights).
 ---
 
 | DISCLAIMER: For Informational Purposes Only The Privacy Policy template provided is for general informational purposes only and does not constitute legal advice. This template is intended to serve as a starting point for drafting legal documents; however, it may not address your specific circumstances or comply with the laws applicable to your jurisdiction. You should not use this template without first consulting a qualified legal advisor who can tailor it to your unique needs and ensure compliance with relevant laws and regulations. The use of this template does not create an attorney-client relationship between you and the provider of this document. We disclaim all liability for any actions taken or not taken based on the content of this document. Use of this template is at your own risk, and you are solely responsible for ensuring its accuracy, legality, and appropriateness for your purposes. |

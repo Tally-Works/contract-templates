@@ -8,11 +8,9 @@ parties:
   - company
   - rights-holder
 tags:
-  - trademark
   - impersonation
   - username
   - platform
-  - github
 language: en
 source:
   name: GitHub

@@ -9,11 +9,8 @@ parties:
   - supplier
 tags:
   - public-procurement
-  - short-form-contract
-  - northern-ireland
+  - short-form
   - annex
-  - cabinet-office
-  - crown-copyright
 language: en
 source:
   name: UK Cabinet Office and Government Legal Department

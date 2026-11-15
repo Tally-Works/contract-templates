@@ -6,13 +6,13 @@ subcategory: unilateral-nda
 type: agreement
 parties:
   - company
-  - recipient
+  - receiving-party
 tags:
   - nda
-  - one-way
-  - confidentiality
+  - unilateral
   - startup
 language: en
+governing_law: Delaware
 source:
   name: General Legal
   url: https://general.legal/library/one-way-non-disclosure-agreement-nda

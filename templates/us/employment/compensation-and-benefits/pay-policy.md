@@ -10,8 +10,11 @@ parties:
 tags:
   - pay
   - payroll
-  - policy
-  - osio-labs
+  - handbook
+  - salary
+  - compensation
+  - working-hours
+  - payroll-deductions
 language: en
 source:
   name: Osio Labs
@@ -25,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' pay and payroll policy.
+summary: >-
+  Osio Labs' pay and hours policy for employees, covering salary set at hiring, a 32-hour, four-day default
+  work week, annual salary increases at the CEO's discretion tied to the US SSA cost-of-living adjustment,
+  semi-monthly paydays for US employees and monthly for Danish employees, direct deposit, and lawful payroll
+  deductions with a process for reporting improper deductions.
 ---
 
 # Pay and Hours

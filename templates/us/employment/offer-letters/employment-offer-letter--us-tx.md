@@ -12,8 +12,6 @@ tags:
   - at-will
   - startup
   - equity
-  - openagreements
-  - texas
 language: en
 source:
   name: OpenAgreements

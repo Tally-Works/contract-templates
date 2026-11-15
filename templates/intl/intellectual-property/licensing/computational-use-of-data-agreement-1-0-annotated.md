@@ -12,7 +12,6 @@ tags:
   - computational-use
   - c-uda
   - annotated
-  - microsoft
 language: en
 source:
   name: Microsoft

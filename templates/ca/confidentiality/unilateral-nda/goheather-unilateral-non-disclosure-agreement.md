@@ -6,12 +6,13 @@ subcategory: unilateral-nda
 type: agreement
 parties:
   - company
-  - recipient
+  - receiving-party
 tags:
   - nda
-  - one-way
-  - confidentiality
-  - canada
+  - unilateral
+  - return-of-information
+  - equitable-relief
+  - no-license
 language: en
 source:
   name: goHeather

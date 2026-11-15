@@ -9,9 +9,7 @@ parties:
   - company
 tags:
   - certificate-of-incorporation
-  - charter
   - single-class
-  - delaware
   - c-corp
   - filing
 language: en

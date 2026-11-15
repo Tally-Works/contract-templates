@@ -5,12 +5,11 @@ category: partnerships
 subcategory: collaboration-and-mou
 type: letter
 parties:
-  - epa
+  - agency
   - collaborator
 tags:
   - letter-of-intent
   - crada
-  - epa
   - federal
 language: en
 source:

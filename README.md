@@ -1,10 +1,10 @@
 # Contract Templates
 
-A free, curated collection of openly licensed contract templates from publishers such as Common Paper, Bonterms, OpenAgreements and General Legal, gathered and organised by [goHeather](https://goheather.io) (Tally Works Inc.). Every template is a Markdown file with structured metadata, filed by **jurisdiction → category → subcategory**, and checked by CI so the collection stays neat as it grows to hundreds of documents.
+A library of openly licensed contract templates, filed by **jurisdiction → category → subcategory**, with the same structured metadata on every file. Each template is a Markdown file with a Word file beside it. The library is maintained by [goHeather](https://goheather.io) (Tally Works Inc.).
 
-**Almost none of these documents were written by goHeather.** This is a collection: each template was published openly by its author (Common Paper, Bonterms, OpenAgreements, General Legal and others), is reproduced here under that author's licence, and is credited in [ATTRIBUTION.md](ATTRIBUTION.md). The exception is a small number of documents goHeather wrote itself; they are marked `source.name: goHeather` and published under CC BY 4.0, so anyone may use, adapt and share them with credit. What goHeather adds is the organisation: one place, one taxonomy, consistent metadata, and a validator that keeps it that way. The text here is free to use, copy and adapt under each template's own licence, always. goHeather is building editable Word versions and an assistant connector for Claude and ChatGPT on top of this library; those will ask for a free goHeather account. This repository never will.
+The templates come from publishers who released them under open licences: Common Paper, Bonterms, OpenAgreements, the UK Government, US federal agencies and others, each credited in [ATTRIBUTION.md](ATTRIBUTION.md) and each reproduced under its own licence. A handful were written by goHeather and are published under CC BY 4.0. What goHeather adds across all of them is the filing system: one taxonomy, one metadata format, a catalog, and a validator that keeps every file where it belongs.
 
-This repository exists for two reasons. goHeather's own product uses these templates as starting points when its users build a contract. And anyone else can use them too, straight from this repository or through the assistant connector goHeather is building on top of it, because every template's licence already allows that. Apart from its own few documents, goHeather owns none of them; it helps people find and use them.
+The library is built to be read by software as well as by people. goHeather's own product builds contracts from it, and any AI assistant or agent can fetch the catalog and the files directly; see [For AI assistants and agents](#for-ai-assistants-and-agents). It will always be free to use from this repository.
 
 Browse the **[Catalog](CATALOG.md)** or jump straight into the tree:
 
@@ -33,7 +33,7 @@ The full list of jurisdictions, categories and subcategories is in [docs/taxonom
 
 ## How a template is marked
 
-Each file opens with a YAML front-matter block that says exactly what it is, where it came from, and whether it has been reviewed:
+Each file opens with a YAML front-matter block that says what it is, where it came from, and whether it has been reviewed:
 
 ```yaml
 ---
@@ -58,18 +58,28 @@ summary: Two-way NDA in cover-page-plus-standard-terms form.
 ---
 ```
 
-The validator refuses any file whose metadata disagrees with its folder or filename, so a template can only be in one place and that place is always right. Field-by-field reference: [docs/metadata.md](docs/metadata.md). Filename rules: [docs/naming.md](docs/naming.md).
+The validator refuses any file whose metadata disagrees with its folder or filename, so a template can only be in one place. Field-by-field reference: [docs/metadata.md](docs/metadata.md). Filename rules: [docs/naming.md](docs/naming.md). Machine-readable schema: [schema/template.schema.json](schema/template.schema.json).
 
 ## Using a template
 
-1. Find it in the [Catalog](CATALOG.md) (or search `catalog.json` programmatically).
+1. Find it in the [Catalog](CATALOG.md), or search [`catalog.json`](catalog.json).
 2. Download the Word file beside it. Every template has one, in this repository, with no account and no other website involved.
 3. Check its `status` and `reviewed_by`. Everything is `draft` unless a named person has reviewed it.
 4. Check its `jurisdiction`. A `US` template is state-neutral; `US-CA` is written for California.
 5. Replace every `[BRACKETED]` placeholder and delete the drafting notes.
 6. Have a lawyer in your jurisdiction review it before you sign it. See the disclaimer below.
 
-Every document is reproduced exactly as its publisher released it: nothing added, nothing removed, every notice and credit kept. Where a document is designed to incorporate another set of terms (an order form, a cover page, a statement of work), those terms are in this library too and are listed in the template's `related` metadata.
+Every document is reproduced as its publisher released it, notices and credits included. Where a document is designed to incorporate another set of terms (an order form, a cover page, a statement of work), those terms are in this library too and are listed in the template's `related` metadata.
+
+## For AI assistants and agents
+
+Start with [`llms.txt`](llms.txt). The short version:
+
+- [`catalog.json`](catalog.json) has one entry per template: a stable `id`, the Markdown and Word paths and their raw URLs, title, jurisdiction, category, subcategory, type, parties, tags, governing law, summary, the document's heading outline, its bracketed placeholders, the licence with its URL, and the source.
+- Any file can be fetched raw at `https://raw.githubusercontent.com/Tally-Works/contract-templates/main/<path>`.
+- Narrow by `jurisdiction`, then `category` and `subcategory`, then `parties` and `tags`. `INTL` templates are written to be used in any jurisdiction. [`docs/tags.md`](docs/tags.md) lists every tag with its count.
+- The body of each Markdown file is the template text, publisher's notices included. Keep those notices when you build a document from it; the `license` field says what the publisher requires.
+- The front-matter follows [`schema/template.schema.json`](schema/template.schema.json), and the allowed values are in [`taxonomy.yaml`](taxonomy.yaml).
 
 ## Adding templates
 
@@ -82,42 +92,43 @@ npm run validate
 npm run build
 ```
 
-`npm run new` creates the file in the correct folder with a complete front-matter block. To file a document you dropped into `_intake/`, add `--from _intake/the-file.md`. `npm run build` then writes the Word file beside it and regenerates the catalog. The full intake workflow and licensing rules are in [CONTRIBUTING.md](CONTRIBUTING.md).
+`npm run new` creates the file in the correct folder with a complete front-matter block. To file a document you dropped into `_intake/`, add `--from _intake/the-file.md`. `npm run build` then writes the Word file beside it and regenerates the catalog. The intake workflow and licensing rules are in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## What is accepted
 
-The library only accepts templates their authors have clearly allowed everyone to redistribute and adapt:
+The library takes templates whose authors have allowed everyone to redistribute and adapt them:
 
-- **Published under an open licence** that permits commercial use and modified redistribution: CC0, CC BY, MIT, Apache 2.0, or an equivalent permissive form licence.
+- **Published under an open licence** that permits commercial use and modified redistribution: CC0, CC BY, MIT, Apache 2.0, the Open Government Licence, or an equivalent permissive form licence.
 - **Public domain**, such as US federal government forms.
 - **Written permission** from the author, quoted or linked in the template's metadata.
 
-That excludes ShareAlike, NonCommercial and NoDerivatives licences, and every "free template" published under a website's terms of use rather than an open licence. The validator refuses a template that has no source URL and retrieval date, and `ATTRIBUTION.md` is regenerated from that metadata on every build.
+ShareAlike, NonCommercial and NoDerivatives licences are out, and so are "free templates" published under a website's terms of use rather than an open licence. The validator requires a source URL and retrieval date on every file, and `ATTRIBUTION.md` is regenerated from that metadata on every build.
 
-Every template is filed with `status: draft`. Nothing in this library has been reviewed by a lawyer unless a template's `reviewed_by` field names one.
+Every template is filed with `status: draft`. A template has been reviewed by a lawyer only if its `reviewed_by` field names one.
 
 ## Repository layout
 
 | Path | What it is |
 | --- | --- |
 | `templates/` | The library. For every template, a Markdown file and a Word file of the same name, filed by jurisdiction / category / subcategory. The Word file is the publisher's original where one exists, otherwise generated from the Markdown. |
-| `_intake/` | Local drop zone for documents not yet filed. Git-ignored. |
+| `catalog.json` | Generated machine-readable index of every template. Do not edit by hand. |
+| `CATALOG.md` | The same index for reading. Generated. |
+| `ATTRIBUTION.md` | Generated credit to every source author and licence. |
+| `llms.txt` | Generated guide for AI assistants and agents. |
 | `taxonomy.yaml` | The allowed jurisdictions, categories, subcategories, types, statuses and licences. |
-| `CATALOG.md`, `catalog.json` | Generated index of every template. Do not edit by hand. |
-| `ATTRIBUTION.md` | Generated credit to every source author and licence. Do not edit by hand. |
-| `docs/` | Taxonomy (generated), metadata schema, naming rules. |
+| `schema/` | JSON Schema for the front-matter, generated from the taxonomy. |
+| `docs/` | Taxonomy and tag list (generated), metadata reference, naming rules. |
 | `scripts/catalog.js` | The librarian: `validate`, `build`, `new`. |
 | `scripts/build-docx.js` | Writes the Word file for every template that has no publisher original. |
+| `_intake/` | Local drop zone for documents not yet filed. Git-ignored. |
 | `.github/` | CI that runs the validator on every pull request. |
 
 ## Licence
 
-goHeather did not write most of these templates and does not own them. Each of those was written by someone else and is reproduced here under the open licence its author published it under: that licence is recorded in the file's `license` field, the author is named in its `source` field, and every author is credited in [ATTRIBUTION.md](ATTRIBUTION.md). The library only accepts third-party sources whose licence permits commercial use and modified redistribution.
+Each template belongs to its publisher and is reproduced here under the licence that publisher chose. That licence is recorded in the file's `license` field, the publisher is named in its `source` field, and every publisher is credited in [ATTRIBUTION.md](ATTRIBUTION.md). The documents goHeather wrote are marked `source.name: goHeather` and published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-The documents goHeather wrote itself are marked `source.name: goHeather` and published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): anyone may use, adapt and share them, including commercially, as long as they credit goHeather.
-
-What goHeather made is the filing system around the documents: the taxonomy, the metadata, the catalog and the scripts. Those are released under the [MIT License](LICENSE). That licence does not cover the templates.
+The filing system around the documents, meaning the taxonomy, the metadata, the catalog and the scripts, is released under the [MIT License](LICENSE).
 
 ## Disclaimer
 
-These templates are general forms, not legal advice, and no lawyer-client relationship is created by using them. Laws differ by jurisdiction and change over time. Have a qualified lawyer review any document before you rely on it.
+These templates are general forms, not legal advice, and using them creates no lawyer-client relationship. Laws differ by jurisdiction and change over time. Have a qualified lawyer review any document before you rely on it.

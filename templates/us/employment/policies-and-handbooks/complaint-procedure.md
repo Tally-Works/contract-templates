@@ -9,8 +9,10 @@ parties:
   - employee
 tags:
   - complaints
-  - policy
-  - osio-labs
+  - harassment
+  - discrimination
+  - retaliation
+  - handbook
 language: en
 source:
   name: Osio Labs
@@ -24,7 +26,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' complaint procedure.
+summary: >-
+  Osio Labs' complaint procedure for employees, encouraging reports of discrimination, harassment, retaliation
+  and other work-related concerns to the CEO (or directly to the Board where the CEO is involved), describing
+  the investigation meeting, confidentiality and prompt impartial investigation, and prohibiting retaliation,
+  with discipline up to termination.
 ---
 
 # Complaint Procedure

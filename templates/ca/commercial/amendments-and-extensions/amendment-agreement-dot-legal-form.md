@@ -9,7 +9,10 @@ parties:
   - party-b
 tags:
   - amendment
-  - dot-legal
+  - modification
+  - variation
+  - entire-agreement
+  - counterparts
 language: en
 source:
   name: Dot Legal
@@ -23,7 +26,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Amendment form from the Dot Legal reference library.
+summary: >-
+  Short fill-in amendment form by which the original parties change an existing
+  agreement: a definitions block (Original Document, its date and parties,
+  amendment number and effective date), signature blocks, then Additions,
+  Deletions and Replacements of numbered clauses with example text. General
+  terms keep the original in force and give the amendment priority on conflict;
+  entire-agreement and counterparts clauses are incorporated from
+  reference.legal.
 ---
 
 # Amendment

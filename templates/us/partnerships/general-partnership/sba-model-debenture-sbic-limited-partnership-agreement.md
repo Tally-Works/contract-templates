@@ -6,7 +6,7 @@ subcategory: general-partnership
 type: agreement
 parties:
   - general-partner
-  - limited-partners
+  - limited-partner
 tags:
   - limited-partnership
   - sbic

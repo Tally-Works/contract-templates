@@ -5,12 +5,11 @@ category: intellectual-property
 subcategory: patent
 type: agreement
 parties:
-  - nih
+  - agency
   - licensee
 tags:
   - patent-license
   - non-exclusive
-  - nih
   - federal
 language: en
 source:

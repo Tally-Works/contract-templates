@@ -11,7 +11,6 @@ tags:
   - sponsorship
   - nonprofit
   - open-source
-  - commonhaus
 language: en
 source:
   name: Commonhaus Foundation
@@ -26,7 +25,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Agreement between the foundation and a corporate sponsor.
+summary: >-
+  Fill-in corporate sponsorship form and agreement between the Commonhaus Foundation (a
+  Florida 501(c)(6) nonprofit) and a sponsor contributing money or infrastructure and
+  services. Covers sponsor and billing contacts, tier benefits for a one-year term,
+  non-refundable payments via Open Collective or invoice, optional allocation to specific
+  projects, Advisory Board seats for Gold and Silver tiers, logo and description
+  submission, and the sponsor's authorization to display its name and logo.
 ---
 
 # Corporate Sponsorship Agreement

@@ -9,8 +9,9 @@ parties:
   - employee
 tags:
   - breaks
-  - policy
-  - sparksuite
+  - handbook
+  - lunch
+  - working-hours
 language: en
 source:
   name: Sparksuite
@@ -25,7 +26,10 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's lunch break policy.
+summary: >-
+  Sparksuite's short employee-handbook policy on lunch breaks, stating that breaks do not
+  count toward the weekly hours in an offer letter and asking employees to eat in the
+  kitchen, preferably with teammates, or at local restaurants.
 ---
 
 ## Lunch breaks

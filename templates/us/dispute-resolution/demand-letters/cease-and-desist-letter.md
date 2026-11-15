@@ -12,7 +12,6 @@ tags:
   - pre-litigation
   - harassment
   - infringement
-  - advottic
 language: en
 source:
   name: Advottic (Techno Optics LLC)

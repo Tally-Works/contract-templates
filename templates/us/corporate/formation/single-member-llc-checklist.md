@@ -7,9 +7,13 @@ type: checklist
 parties:
   - company
 tags:
-  - checklist
   - llc
-  - formation
+  - single-member
+  - ein
+  - registered-agent
+  - operating-agreement
+  - taxes
+  - compliance
 language: en
 source:
   name: Erich Dylus
@@ -24,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Checklist for forming and maintaining a single-member LLC.
+summary: >-
+  Checklist for forming and running a single-member LLC in the US, by attorney Erich Dylus. Covers name and
+  trademark searches, state licensing and formation filings, registered agent and operating agreement, bank
+  accounts, insurance, domains and crypto accounts, EIN, EFTPS and FinCEN BOI filings, estimated taxes,
+  payroll, retirement accounts and when to consult a CPA or lawyer. State-specific items are flagged.
 ---
 
 # LLC Formation Checklist

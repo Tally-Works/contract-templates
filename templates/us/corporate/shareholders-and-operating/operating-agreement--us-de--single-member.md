@@ -14,8 +14,8 @@ tags:
   - manager-managed
   - ai-governance
   - llc
-  - delaware
 language: en
+governing_law: Delaware
 source:
   name: General Legal
   url: https://general.legal/library/agent-operated-company-formation-package

@@ -10,8 +10,12 @@ parties:
 tags:
   - respectful-workplace
   - harassment
-  - policy
-  - sourcegraph
+  - discrimination
+  - bullying
+  - sexual-harassment
+  - retaliation
+  - complaints
+  - investigations
 language: en
 source:
   name: Sourcegraph
@@ -25,7 +29,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sourcegraph's respectful workplace policy.
+summary: >-
+  Sourcegraph's global respectful workplace and harassment, discrimination and bullying
+  prevention policy for all teammates and contractors of a remote-first company, dated July
+  2022. Defines harassment (including quid pro quo and hostile-environment sexual
+  harassment), discrimination, bullying and retaliation with examples, and covers manager
+  duties, reporting channels including anonymous reporting, investigations, no-retaliation,
+  confidentiality, training and discipline.
 ---
 
 # Global Respectful Workplace and Harassment, Discrimination and Bullying Prevention Policy

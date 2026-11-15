@@ -12,9 +12,8 @@ tags:
   - public-procurement
   - model-services-contract
   - schedules
-  - cabinet-office
-  - crown-copyright
 language: en
+governing_law: England and Wales
 source:
   name: UK Cabinet Office and Government Legal Department
   url: https://www.gov.uk/government/publications/the-model-services-contract-schedules-england-wales

@@ -8,9 +8,12 @@ parties:
   - organisation
   - user
 tags:
-  - privacy-policy
-  - non-profit
-  - eff
+  - nonprofit
+  - cookies
+  - gdpr
+  - analytics
+  - tracking
+  - website
 language: en
 source:
   name: Electronic Frontier Foundation
@@ -25,7 +28,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: The Electronic Frontier Foundation's privacy policy.
+summary: >-
+  Electronic Frontier Foundation's privacy policy for visitors to its websites and for its members, donors and
+  mailing-list subscribers. Covers seven-day server logging and analytics using a single byte of the IP address,
+  cookies, donation and submitted data, email tracking opt-in, third-party service providers, disclosure only with
+  consent or legal compulsion with prior notice, GDPR deletion requests, retention periods, security and a history
+  of policy updates.
 ---
 
 # Privacy Policy

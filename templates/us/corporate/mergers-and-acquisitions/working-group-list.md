@@ -12,7 +12,6 @@ tags:
   - transaction
   - contacts
   - startup
-  - openagreements
 language: en
 source:
   name: OpenAgreements

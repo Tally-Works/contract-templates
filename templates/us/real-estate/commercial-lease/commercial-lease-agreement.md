@@ -10,7 +10,11 @@ parties:
 tags:
   - lease
   - commercial
-  - pandadoc
+  - security-deposit
+  - triple-net
+  - office
+  - retail
+  - sublease
 language: en
 source:
   name: PandaDoc
@@ -25,7 +29,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Commercial lease agreement.
+summary: >-
+  Short commercial lease between a landlord and a business tenant for office, retail or industrial premises, laid out
+  as eleven bracketed fill-in clauses: permitted use, term and renewal options, base rent and escalations, lease type
+  (gross, net or NNN), security deposit, tenant improvements, maintenance, insurance and indemnity, assignment and
+  sublease, default and remedies, and governing state law. Skeleton outline with blanks rather than drafted terms.
 ---
 
 # Commercial Lease Agreement (template)

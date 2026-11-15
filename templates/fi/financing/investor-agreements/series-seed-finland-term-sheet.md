@@ -6,13 +6,16 @@ subcategory: investor-agreements
 type: agreement
 parties:
   - company
-  - investors
+  - investor
 tags:
   - term-sheet
   - seed
-  - series-seed-finland
-  - finland
+  - series-seed
+  - startup
+  - non-binding
+  - preferred-stock
 language: en
+governing_law: Finland
 source:
   name: Startup Foundation (Series Seed Finland)
   url: https://www.startup-saatio.fi/seriesseed

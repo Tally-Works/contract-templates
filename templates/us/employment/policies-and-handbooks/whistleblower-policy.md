@@ -9,8 +9,10 @@ parties:
   - employee
 tags:
   - whistleblower
-  - policy
-  - osio-labs
+  - handbook
+  - retaliation
+  - compliance
+  - ethics
 language: en
 source:
   name: Osio Labs
@@ -24,7 +26,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' whistleblower policy.
+summary: >-
+  Osio Labs' short employee-handbook whistleblower protection policy stating that the
+  company will not tolerate harassment, retaliation or discrimination against an employee
+  who makes a good-faith complaint about violations of law or about accounting, internal
+  controls or auditing matters, assists an investigation, or testifies in a proceeding;
+  violators face discipline up to termination.
 ---
 
 # Whistleblower Protection

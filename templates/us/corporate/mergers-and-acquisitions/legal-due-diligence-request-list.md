@@ -10,10 +10,8 @@ parties:
 tags:
   - due-diligence
   - request-list
-  - checklist
   - m-and-a
   - startup
-  - openagreements
 language: en
 source:
   name: OpenAgreements

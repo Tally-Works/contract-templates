@@ -11,7 +11,6 @@ tags:
   - nda
   - mutual
   - ipo
-  - crown-copyright
 language: en
 source:
   name: UK Intellectual Property Office

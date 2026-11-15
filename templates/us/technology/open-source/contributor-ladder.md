@@ -6,12 +6,14 @@ subcategory: open-source
 type: policy
 parties:
   - project
-  - contributors
+  - contributor
 tags:
   - contributor-ladder
   - governance
-  - open-source
-  - cncf
+  - maintainers
+  - community
+  - roles
+  - cloud-native
 language: en
 source:
   name: CNCF

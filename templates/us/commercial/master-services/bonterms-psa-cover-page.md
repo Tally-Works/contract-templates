@@ -11,7 +11,6 @@ tags:
   - cover-page
   - professional-services
   - psa
-  - bonterms
 language: en
 source:
   name: Bonterms

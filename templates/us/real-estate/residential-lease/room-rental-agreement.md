@@ -11,7 +11,6 @@ tags:
   - lease
   - room-rental
   - shared-housing
-  - pandadoc
 language: en
 source:
   name: PandaDoc
@@ -26,7 +25,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Agreement for renting a room in a shared home.
+summary: >-
+  Short room rental agreement between a primary tenant or owner ("Provider") and a renter of a single room in a
+  shared home, laid out as seven bracketed fill-in clauses: the room and shared areas, fixed or month-to-month term,
+  monthly rent and what it includes, deposit, house rules (quiet hours, guests, cleaning, smoking, pets, shared
+  expenses), termination on a fill-in number of days' notice, and governing state law.
 ---
 
 # Room Rental Agreement (template)

@@ -8,8 +8,12 @@ parties:
   - owner
   - property-manager
 tags:
-  - property-management
-  - pandadoc
+  - leasing
+  - rent-collection
+  - fees
+  - trust-account
+  - maintenance
+  - indemnification
 language: en
 source:
   name: PandaDoc
@@ -24,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Agreement between a property owner and a property manager.
+summary: >-
+  Short property management agreement between a property owner and a manager or management company for a single
+  property, laid out as nine bracketed fill-in clauses: appointment, term, manager duties (leasing, screening, rent
+  collection, maintenance, accounting), management and leasing fees, owner responsibilities, a repair spending limit
+  without approval, a trust account for rents and deposits, insurance and indemnity, and governing state law.
 ---
 
 # Property Management Agreement (template)

@@ -11,8 +11,6 @@ tags:
   - education
   - schools
   - student-data
-  - saas
-  - github
 language: en
 source:
   name: GitHub

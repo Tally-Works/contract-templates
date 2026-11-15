@@ -9,8 +9,10 @@ parties:
   - employee
 tags:
   - eeo
-  - policy
-  - sparksuite
+  - handbook
+  - discrimination
+  - disability
+  - reasonable-accommodation
 language: en
 source:
   name: Sparksuite
@@ -25,7 +27,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's equal opportunity policy.
+summary: >-
+  Sparksuite's equal opportunity policy, a single paragraph stating that the company does not discriminate
+  against qualified employees or applicants on listed characteristics protected by law, and will reasonably
+  accommodate employees and applicants with disabilities who can otherwise safely perform the essential
+  functions of the position.
 ---
 
 ## Equal opportunity

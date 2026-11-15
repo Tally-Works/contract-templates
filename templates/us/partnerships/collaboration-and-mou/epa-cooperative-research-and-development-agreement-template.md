@@ -5,12 +5,11 @@ category: partnerships
 subcategory: collaboration-and-mou
 type: agreement
 parties:
-  - epa
+  - agency
   - collaborator
 tags:
   - crada
   - research-collaboration
-  - epa
   - federal
 language: en
 source:
@@ -28,7 +27,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: EPA's CRADA template (April 2025).
+summary: >-
+  Cooperative Research and Development Agreement between a US EPA Center or Office and a
+  corporate cooperator under the Federal Technology Transfer Act (15 U.S.C. 3710a), with
+  drafting notes and blanks. Covers the statement of work and project managers, reports,
+  the cooperator's cash payment and personnel, subject inventions and patent filing, a
+  first option to an exclusive licence, software and copyright, proprietary information
+  and publication review, warranties, termination, disputes, liability and indemnity,
+  force majeure and duration.
 ---
 
 EPA-Cooperator Name CRADA # Last Saved: 9/13/2024

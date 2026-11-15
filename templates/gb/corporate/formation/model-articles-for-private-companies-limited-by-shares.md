@@ -6,13 +6,11 @@ subcategory: formation
 type: charter
 parties:
   - company
-  - shareholders
+  - shareholder
 tags:
   - model-articles
   - articles-of-association
   - private-company
-  - companies-house
-  - crown-copyright
 language: en
 source:
   name: Companies House

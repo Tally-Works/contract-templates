@@ -6,14 +6,13 @@ subcategory: investor-agreements
 type: agreement
 parties:
   - company
-  - investors
+  - investor
 tags:
   - stock-purchase
   - seed
   - preferred-stock
   - venture
   - series-seed
-  - delaware
   - investor-rights
 language: en
 source:

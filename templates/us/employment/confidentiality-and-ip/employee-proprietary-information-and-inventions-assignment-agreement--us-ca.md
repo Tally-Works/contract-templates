@@ -11,10 +11,9 @@ tags:
   - piiaa
   - invention-assignment
   - confidentiality
-  - california
   - labor-code-2870
-  - clef
 language: en
+governing_law: California
 source:
   name: Clef
   url: >-

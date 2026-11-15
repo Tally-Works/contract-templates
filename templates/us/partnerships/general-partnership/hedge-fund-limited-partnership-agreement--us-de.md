@@ -6,15 +6,14 @@ subcategory: general-partnership
 type: agreement
 parties:
   - general-partner
-  - limited-partners
+  - limited-partner
 tags:
   - hedge-fund
   - limited-partnership
   - fund-formation
-  - delaware
   - investment-fund
-  - openagreements
 language: en
+governing_law: Delaware
 source:
   name: OpenAgreements
   url: >-

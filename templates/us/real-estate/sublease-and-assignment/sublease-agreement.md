@@ -10,7 +10,10 @@ parties:
 tags:
   - sublease
   - residential
-  - pandadoc
+  - lease
+  - master-lease
+  - landlord-consent
+  - security-deposit
 language: en
 source:
   name: PandaDoc
@@ -25,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Residential sublease agreement.
+summary: >-
+  Short sublease agreement between an original tenant (Sublessor) and a subtenant (Sublessee), laid out as six
+  bracketed fill-in clauses: the master lease and landlord consent, a term that cannot exceed the master lease, rent
+  paid to the sublessor, deposit, the sublessee's obligation to follow the attached master lease while the sublessor
+  stays liable to the landlord, and governing state law, with an optional landlord consent signature line.
 ---
 
 # Sublease Agreement (template)

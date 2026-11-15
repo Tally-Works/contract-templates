@@ -13,7 +13,6 @@ tags:
   - candidates
   - hr
   - gdpr
-  - github
 language: en
 source:
   name: GitHub

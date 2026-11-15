@@ -5,12 +5,16 @@ category: corporate
 subcategory: shareholders-and-operating
 type: agreement
 parties:
-  - members
+  - member
   - series
 tags:
   - operating-agreement
   - series-llc
-  - delaware
+  - llc
+  - web3
+  - arbitration
+  - manager-managed
+  - membership-interest
 language: en
 source:
   name: Erich Dylus

@@ -10,8 +10,11 @@ parties:
 tags:
   - pto
   - benefits
-  - policy
-  - sparksuite
+  - handbook
+  - vacation
+  - accrual
+  - rollover
+  - sick-leave
 language: en
 source:
   name: Sparksuite
@@ -26,7 +29,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's paid time off policy.
+summary: >-
+  Sparksuite's paid time off policy for employees, covering PTO accrual by work anniversary (3 weeks before two
+  years, 3.5 weeks after two years, 4 weeks after four years), conversion to hours per pay period, rollover
+  with a 4-week cap, three days of PTO for new hires, how to request time off, and payout of unused PTO with
+  the final paycheck.
 ---
 
 ## Paid time off

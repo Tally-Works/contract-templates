@@ -19,5 +19,5 @@ jobs:
         run: node scripts/build-docx.js --check
       - name: Validate every template against taxonomy.yaml
         run: npm run validate
-      - name: Check CATALOG.md, catalog.json, ATTRIBUTION.md and docs/taxonomy.md are up to date
+      - name: Check the generated files (catalog, attribution, llms.txt, tags, schema) are up to date
         run: node scripts/catalog.js build --check

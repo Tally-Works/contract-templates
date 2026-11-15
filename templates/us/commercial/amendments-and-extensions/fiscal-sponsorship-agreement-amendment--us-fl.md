@@ -10,7 +10,10 @@ parties:
 tags:
   - amendment
   - fiscal-sponsorship
-  - commonhaus
+  - open-source
+  - nonprofit
+  - signatory
+  - resignation
 language: en
 source:
   name: Commonhaus Foundation
@@ -25,7 +28,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Amendment form for the fiscal sponsorship agreement.
+summary: >-
+  Fill-in amendment form to a Fiscal Sponsorship Agreement between a project
+  and Commonhaus Foundation, Inc. as Sponsor, under the Foundation's
+  incorporated Terms and Conditions. Two operative sections: adding a new
+  Project Signatory who agrees to be bound, and recording a Signatory's
+  resignation, with a checkbox for a sole remaining Signatory confirming
+  handover of processes, access and tooling. Ends with confirmation that other
+  terms remain and signature blocks.
 ---
 
 # Amendment to Fiscal Sponsorship Agreement

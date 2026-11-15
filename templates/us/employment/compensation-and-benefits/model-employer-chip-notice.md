@@ -12,7 +12,6 @@ tags:
   - premium-assistance
   - health-plan
   - model-notice
-  - dol
   - federal
 language: en
 source:

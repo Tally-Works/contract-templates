@@ -8,11 +8,9 @@ parties:
   - licensor
   - customer
 tags:
-  - software-license
   - on-premise
   - standard-terms
   - cover-page
-  - bonterms
 language: en
 source:
   name: Bonterms

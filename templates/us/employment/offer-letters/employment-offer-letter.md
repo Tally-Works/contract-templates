@@ -12,7 +12,6 @@ tags:
   - at-will
   - startup
   - equity
-  - openagreements
 language: en
 source:
   name: OpenAgreements

@@ -11,7 +11,6 @@ tags:
   - cover-page
   - ai
   - addendum
-  - bonterms
 language: en
 source:
   name: Bonterms
@@ -27,7 +26,11 @@ last_reviewed: "2026-11-14"
 reviewed_by: ""
 related:
   - templates/us/technology/saas/bonterms-ai-addendum.md
-summary: Example cover page for the Bonterms AI Addendum.
+summary: >-
+  Example cover page by which a customer and provider enter into the Bonterms Standard AI Addendum Version 2.0 (Cover
+  Page Version) by reference, incorporating it into a named main agreement between them. One-page fill-in form with
+  key terms (main agreement, AI Addendum effective date), a space for additional terms that control over the standard
+  addendum, and signature blocks for both parties; the addendum text itself is a separate document.
 ---
 
 [Example: Create your own version and remove this note and the footer before using]

@@ -7,14 +7,13 @@ type: agreement
 variant: commented
 parties:
   - company
-  - investors
+  - investor
 tags:
   - investment-agreement
   - seed
   - annotated
-  - series-seed-finland
-  - finland
 language: en
+governing_law: Finland
 source:
   name: Startup Foundation (Series Seed Finland)
   url: https://www.startup-saatio.fi/seriesseed

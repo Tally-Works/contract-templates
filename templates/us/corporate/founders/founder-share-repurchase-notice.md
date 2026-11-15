@@ -11,9 +11,7 @@ tags:
   - founder-separation
   - repurchase
   - unvested-shares
-  - notice
   - startup
-  - openagreements
 language: en
 source:
   name: OpenAgreements

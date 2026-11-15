@@ -11,9 +11,7 @@ tags:
   - ciiaa
   - invention-assignment
   - confidentiality
-  - employee
-  - ip
-  - openagreements
+  - intellectual-property
 language: en
 source:
   name: OpenAgreements

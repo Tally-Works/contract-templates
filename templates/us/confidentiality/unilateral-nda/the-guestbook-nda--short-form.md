@@ -6,11 +6,11 @@ subcategory: unilateral-nda
 type: agreement
 variant: short-form
 parties:
-  - discloser
-  - recipient
+  - disclosing-party
+  - receiving-party
 tags:
   - nda
-  - one-way
+  - unilateral
   - plain-english
   - short-form
   - guestbook
@@ -30,7 +30,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: The Guestbook NDA 1.0.0, short form.
+summary: >-
+  Short-form signature cover page for a one-way NDA between a Disclosing Party
+  and a Receiving Party that incorporates the standard terms of The Guestbook
+  NDA Version 1.0.0 published at guestbooknda.com rather than restating them.
+  Blanks with instructions for Purpose, Governing Law, optional Forum for
+  Disputes and optional Term, then signature pages for each party (legal name,
+  legal type, signature, name, title, date, e-mail).
 ---
 
 **Guestbook Nondisclosure Agreement Version 1.0.0**

@@ -5,14 +5,16 @@ category: intellectual-property
 subcategory: patent
 type: agreement
 parties:
-  - nih
-  - start-up
+  - agency
+  - startup
 tags:
   - patent-license
-  - start-up
-  - nci
-  - nih
   - federal
+  - exclusive
+  - phs
+  - royalties
+  - sublicense
+  - technology-transfer
 language: en
 source:
   name: National Institutes of Health (Office of Technology Transfer)
@@ -28,7 +30,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: National Cancer Institute model start-up licence 3.0.
+summary: >-
+  Public Health Service model exclusive patent licence between an NIH Institute or Center
+  and a start-up company (under seven years old, under $15 million raised, majority owned by
+  individuals). Two-year initial term extendable by a Term Extension Amendment with a
+  commercial development and access plan; covers grant and sublicensing, reserved
+  government rights, US manufacturing, royalties and patent-cost reimbursement, benchmarks
+  and reporting, infringement, indemnity and termination, with appendices for fields of
+  use, royalties and payment options.
 ---
 
 **PUBLIC HEALTH SERVICE**

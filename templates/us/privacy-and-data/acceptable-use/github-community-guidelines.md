@@ -11,7 +11,6 @@ tags:
   - community-guidelines
   - moderation
   - content-policy
-  - github
 language: en
 source:
   name: GitHub

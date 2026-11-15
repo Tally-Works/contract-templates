@@ -11,7 +11,6 @@ tags:
   - crada
   - clinical-research
   - phs
-  - nih
   - federal
 language: en
 source:
@@ -28,7 +27,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: PHS model CRADA for extramural clinical trials (rev. 2018).
+summary: >-
+  Public Health Service model Cooperative Research and Development Agreement between an
+  NIH, CDC or FDA Institute or Center and a company collaborator for clinical research run
+  through the IC's extramural contractors or grantees. Adds to the standard PHS CRADA terms
+  provisions on IND sponsorship, protocols and IRB approval, supply of clinical-grade test
+  article and placebo, monitoring, FDA communications, safety and annual reports,
+  Certificate of Confidentiality obligations, access to clinical data, and the IC's right
+  to continue development if the collaborator abandons the test article.
 ---
 
 **PUBLIC HEALTH SERVICE**

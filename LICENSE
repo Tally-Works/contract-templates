@@ -2,18 +2,14 @@ MIT License
 
 Copyright (c) 2026 Tally Works Inc. (goHeather)
 
-This licence covers the organisation of this repository only: the taxonomy
-(taxonomy.yaml), the scripts, the generated catalog and attribution files,
-the documentation, and the metadata front-matter added to each template.
+This licence covers the filing system of this repository: the taxonomy
+(taxonomy.yaml), the scripts, the generated catalog, attribution and schema
+files, the documentation, and the metadata front-matter on each template.
 
-IT DOES NOT COVER THE TEMPLATES THEMSELVES. Apart from the few documents
-marked "source.name: goHeather", goHeather did not write the templates in
-the templates/ directory and claims no copyright in them. Each of those was
-published by its original author under an open licence, which is recorded in
-the template's "license" and "source" fields and credited in ATTRIBUTION.md.
-Use each template under its own licence. The documents goHeather wrote are
-published under CC BY 4.0, recorded in their "license" field, not under
-this licence.
+The templates themselves are not covered by it. Each template is reproduced
+under the licence its publisher chose, recorded in the template's "license"
+and "source" fields and credited in ATTRIBUTION.md. The documents goHeather
+wrote, marked "source.name: goHeather", are published under CC BY 4.0.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of the covered materials (the "Software"), to deal in the Software without

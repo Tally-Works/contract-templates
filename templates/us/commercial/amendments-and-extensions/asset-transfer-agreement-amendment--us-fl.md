@@ -10,7 +10,10 @@ parties:
 tags:
   - amendment
   - asset-transfer
-  - commonhaus
+  - open-source
+  - trademark
+  - copyright
+  - schedules
 language: en
 source:
   name: Commonhaus Foundation
@@ -25,7 +28,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Amendment form for the asset transfer agreement.
+summary: >-
+  Fill-in amendment form to an Asset Transfer Agreement between a project's
+  Assignor(s) and Commonhaus Foundation, Inc. as Sponsor: blanks for project
+  name and dates, optional updates to the Assignor's contact details, a
+  checklist to add or update Schedules A to F (source code repositories, domain
+  names, hosting accounts, social media and email accounts, trademarks,
+  copyrights) with blank schedule tables, confirmation that other terms stand,
+  and signature blocks.
 ---
 
 # Amendment to Asset Transfer Agreement

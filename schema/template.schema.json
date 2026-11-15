@@ -1,0 +1,642 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/Tally-Works/contract-templates/main/schema/template.schema.json",
+  "title": "Contract template front-matter",
+  "description": "The YAML front-matter at the top of every template Markdown file in the contract-templates library. Generated from taxonomy.yaml; see docs/metadata.md.",
+  "type": "object",
+  "required": [
+    "title",
+    "jurisdiction",
+    "category",
+    "subcategory",
+    "type",
+    "parties",
+    "tags",
+    "language",
+    "source",
+    "license",
+    "status",
+    "version",
+    "last_reviewed"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "What a lawyer would call the document. No jurisdiction in the title."
+    },
+    "jurisdiction": {
+      "type": "string",
+      "pattern": "^(us|ca|gb|ie|au|nz|eu|in|sg|fi|intl)(-[A-Z0-9]{1,3})?$",
+      "description": "Country code from taxonomy.yaml, optionally followed by an ISO 3166-2 subdivision, e.g. US, US-CA, CA-ON, GB-SCT. INTL is jurisdiction-neutral."
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "employment",
+        "contractors",
+        "confidentiality",
+        "commercial",
+        "technology",
+        "intellectual-property",
+        "privacy-and-data",
+        "corporate",
+        "financing",
+        "real-estate",
+        "partnerships",
+        "marketing-and-media",
+        "dispute-resolution",
+        "clauses"
+      ],
+      "description": "Must match the folder."
+    },
+    "subcategory": {
+      "type": "string",
+      "enum": [
+        "offer-letters",
+        "employment-agreements",
+        "executive",
+        "fixed-term-and-temporary",
+        "internships-and-apprenticeships",
+        "remote-and-hybrid-work",
+        "restrictive-covenants",
+        "confidentiality-and-ip",
+        "compensation-and-benefits",
+        "separation-and-termination",
+        "policies-and-handbooks",
+        "workplace-notices-and-forms",
+        "collective-and-union",
+        "independent-contractor",
+        "consulting",
+        "statement-of-work",
+        "freelance-and-creative",
+        "staffing-and-recruitment",
+        "mutual-nda",
+        "unilateral-nda",
+        "due-diligence-and-data-room",
+        "master-services",
+        "sale-of-goods",
+        "supply-and-procurement",
+        "distribution-and-reseller",
+        "agency-and-referral",
+        "franchise",
+        "terms-and-conditions",
+        "subscription-and-membership",
+        "amendments-and-extensions",
+        "saas",
+        "software-license",
+        "eula",
+        "development-services",
+        "hosting-and-cloud",
+        "api-terms",
+        "support-and-maintenance",
+        "open-source",
+        "security-and-disclosure",
+        "assignment",
+        "licensing",
+        "trademark",
+        "copyright-and-content",
+        "patent",
+        "privacy-policy",
+        "data-processing",
+        "cookie-policy",
+        "website-terms",
+        "acceptable-use",
+        "formation",
+        "shareholders-and-operating",
+        "bylaws-and-resolutions",
+        "directors-and-officers",
+        "founders",
+        "equity-and-stock",
+        "convertible-and-safe",
+        "mergers-and-acquisitions",
+        "loans",
+        "promissory-notes",
+        "security-and-guarantees",
+        "investor-agreements",
+        "residential-lease",
+        "commercial-lease",
+        "sublease-and-assignment",
+        "purchase-and-sale",
+        "property-management",
+        "general-partnership",
+        "joint-venture",
+        "collaboration-and-mou",
+        "influencer-and-sponsorship",
+        "advertising",
+        "talent-and-model-release",
+        "photography-and-video",
+        "events",
+        "demand-letters",
+        "settlement",
+        "release-and-waiver",
+        "arbitration-and-mediation",
+        "tolling-and-standstill",
+        "boilerplate",
+        "risk-allocation",
+        "payment",
+        "termination",
+        "definitions"
+      ],
+      "description": "A subcategory of the chosen category; must match the folder."
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "agreement",
+        "letter",
+        "policy",
+        "notice",
+        "form",
+        "clause",
+        "checklist",
+        "schedule",
+        "resolution",
+        "charter",
+        "clause-library"
+      ],
+      "description": "agreement: A bilateral or multilateral contract signed by all parties. letter: A letter-form instrument (offer letter, termination letter, demand letter). policy: A unilateral company policy or handbook section. notice: A formal notice served by one party on another. form: A fill-in form, application or questionnaire. clause: A standalone clause or short block of clauses for insertion into another document. checklist: A drafting, review or closing checklist (not itself a contract). schedule: A schedule, exhibit, annex, addendum or statement of work that attaches to a parent agreement. resolution: A board or shareholder resolution, written consent or minutes. charter: A constitutional document of an entity, such as a certificate or articles of incorporation or formation, or bylaws. clause-library: A set of clauses with the user questions, options, exact text and fallback defaults needed to assemble a complete document; written for software or an assistant to build from, not to be signed as it stands."
+    },
+    "variant": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Distinguishes two templates of the same kind in the same folder; must appear in the filename."
+    },
+    "parties": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      },
+      "description": "Roles, not names: employer, employee, disclosing-party, licensee, landlord, tenant, company, investor."
+    },
+    "tags": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      },
+      "description": "Search keywords; the current vocabulary is listed in docs/tags.md."
+    },
+    "language": {
+      "type": "string",
+      "pattern": "^[a-z]{2}(-[A-Z]{2})?$"
+    },
+    "governing_law": {
+      "type": "string",
+      "description": "Set only when the document itself fixes a governing law."
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "name",
+        "url",
+        "retrieved"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "The publisher of the original. goHeather only for documents goHeather wrote."
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "file": {
+          "type": "string",
+          "description": "Set when the .docx beside the template is the publisher's original file; it is that path."
+        },
+        "retrieved": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        },
+        "notes": {
+          "type": "string",
+          "description": "Licence evidence and anything changed from the original."
+        }
+      }
+    },
+    "license": {
+      "type": "string",
+      "enum": [
+        "CC0-1.0",
+        "CC-BY-4.0",
+        "CC-BY-3.0",
+        "Mitchell-Law-Form-1.1",
+        "Waypoint-NDA-License",
+        "Guestbook-NDA-License",
+        "Blue-Oak-Form-License",
+        "OGL-UK-3.0",
+        "MIT",
+        "Apache-2.0",
+        "Public-Domain",
+        "Permission-Granted"
+      ],
+      "description": "CC0-1.0: Creative Commons Zero (public-domain dedication) CC-BY-4.0: Creative Commons Attribution 4.0 (attribution required) CC-BY-3.0: Creative Commons Attribution 3.0 Unported (attribution required; older works) Mitchell-Law-Form-1.1: Mitchell's Law Form License 1.1.0 (permissive; if the text is changed, drop or flag the form's distinctive title; no endorsement by contributors) Waypoint-NDA-License: The Waypoint NDA licence (permission to do everything with the form; if changed other than filling blanks, remove the Waypoint name) Guestbook-NDA-License: The Guestbook NDA licence (permission to do everything with the form; if changed other than filling blanks, remove the Guestbook name) Blue-Oak-Form-License: Blue Oak Council contributor-form grant (licence to do everything with the form; a changed version must not be called Blue Oak) OGL-UK-3.0: UK Open Government Licence v3.0 (Crown copyright; attribution \"Contains public sector information licensed under the Open Government Licence v3.0\") MIT: MIT License Apache-2.0: Apache License 2.0 Public-Domain: US federal government work or other work in the public domain with no licence Permission-Granted: Author gave goHeather written permission to redistribute and adapt (source.url and source.notes must link to or quote the permission)"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "reviewed",
+        "approved",
+        "deprecated"
+      ]
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "last_reviewed": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "reviewed_by": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string",
+      "description": "Plain-English description of what the document does and who it is between."
+    },
+    "supersedes": {
+      "type": "string"
+    },
+    "related": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Repo paths of templates used together with this one."
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "employment"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "offer-letters",
+              "employment-agreements",
+              "executive",
+              "fixed-term-and-temporary",
+              "internships-and-apprenticeships",
+              "remote-and-hybrid-work",
+              "restrictive-covenants",
+              "confidentiality-and-ip",
+              "compensation-and-benefits",
+              "separation-and-termination",
+              "policies-and-handbooks",
+              "workplace-notices-and-forms",
+              "collective-and-union"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "contractors"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "independent-contractor",
+              "consulting",
+              "statement-of-work",
+              "freelance-and-creative",
+              "staffing-and-recruitment"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "confidentiality"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "mutual-nda",
+              "unilateral-nda",
+              "due-diligence-and-data-room"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "commercial"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "master-services",
+              "sale-of-goods",
+              "supply-and-procurement",
+              "distribution-and-reseller",
+              "agency-and-referral",
+              "franchise",
+              "terms-and-conditions",
+              "subscription-and-membership",
+              "amendments-and-extensions"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "technology"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "saas",
+              "software-license",
+              "eula",
+              "development-services",
+              "hosting-and-cloud",
+              "api-terms",
+              "support-and-maintenance",
+              "open-source",
+              "security-and-disclosure"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "intellectual-property"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "assignment",
+              "licensing",
+              "trademark",
+              "copyright-and-content",
+              "patent"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "privacy-and-data"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "privacy-policy",
+              "data-processing",
+              "cookie-policy",
+              "website-terms",
+              "acceptable-use"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "corporate"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "formation",
+              "shareholders-and-operating",
+              "bylaws-and-resolutions",
+              "directors-and-officers",
+              "founders",
+              "equity-and-stock",
+              "convertible-and-safe",
+              "mergers-and-acquisitions"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "financing"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "loans",
+              "promissory-notes",
+              "security-and-guarantees",
+              "investor-agreements"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "real-estate"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "residential-lease",
+              "commercial-lease",
+              "sublease-and-assignment",
+              "purchase-and-sale",
+              "property-management"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "partnerships"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "general-partnership",
+              "joint-venture",
+              "collaboration-and-mou"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "marketing-and-media"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "influencer-and-sponsorship",
+              "advertising",
+              "talent-and-model-release",
+              "photography-and-video",
+              "events"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "dispute-resolution"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "demand-letters",
+              "settlement",
+              "release-and-waiver",
+              "arbitration-and-mediation",
+              "tolling-and-standstill"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "category": {
+            "const": "clauses"
+          }
+        },
+        "required": [
+          "category"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subcategory": {
+            "enum": [
+              "boilerplate",
+              "risk-allocation",
+              "payment",
+              "termination",
+              "definitions"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -5,12 +5,11 @@ category: partnerships
 subcategory: collaboration-and-mou
 type: agreement
 parties:
-  - nih
+  - agency
   - institution
 tags:
-  - patent-costs
+  - patent
   - cost-sharing
-  - nih
   - federal
 language: en
 source:
@@ -27,7 +26,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: NIH model patent cost sharing agreement (rev. 2023).
+summary: >-
+  Patent cost-sharing agreement between an NIH, CDC or FDA Institute or Center and an institution that co-owns
+  patent rights with it, on the Public Health Service model. Covers definitions of Patent Rights and Expenses, the
+  IC's duty to file, prosecute and maintain the patents, the institution's reimbursement of a fill-in percentage of
+  expenses, joint licensing, termination on 60 days' notice, US federal law, and a signature page.
 ---
 
 **PUBLIC HEALTH SERVICE**

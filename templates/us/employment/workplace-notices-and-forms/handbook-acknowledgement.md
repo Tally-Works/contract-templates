@@ -10,7 +10,9 @@ parties:
 tags:
   - acknowledgment
   - handbook
-  - sparksuite
+  - at-will
+  - receipt
+  - onboarding
 language: en
 source:
   name: Sparksuite
@@ -25,7 +27,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's handbook acknowledgement.
+summary: >-
+  Short signature form in which an employee acknowledges having access to and having read
+  the Sparksuite Employee Handbook, agrees to ask their manager about any questions, and
+  confirms that the handbook creates no contractual obligations and may be revised at any
+  time except the at-will employment policy. Includes date, signature and printed name
+  lines.
 ---
 
 ## Handbook acknowledgement

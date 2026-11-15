@@ -8,7 +8,6 @@ parties:
   - provider
   - customer
 tags:
-  - saas
   - software-service-terms
   - hosted-software
   - licensed-software

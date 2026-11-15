@@ -9,8 +9,10 @@ parties:
   - employee
 tags:
   - flexible-hours
-  - policy
-  - sparksuite
+  - handbook
+  - working-hours
+  - breaks
+  - flextime
 language: en
 source:
   name: Sparksuite
@@ -25,7 +27,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's flexible working hours policy.
+summary: >-
+  Sparksuite's flexible working hours policy, letting full-time team members start between 7am and 10am and
+  finish between 4pm and 7pm after eight hours of work, changeable day to day without notice. Covers breaks
+  (significant breaks avoided between 10am and 4pm, longer breaks cleared with a manager), different windows
+  for part-time staff, and limiting work outside the 7-to-7 window to emergencies.
 ---
 
 ## Flexible working hours

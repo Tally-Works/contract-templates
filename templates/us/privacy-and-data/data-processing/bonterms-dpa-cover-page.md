@@ -12,7 +12,6 @@ tags:
   - dpa
   - gdpr
   - processing-details
-  - bonterms
 language: en
 source:
   name: Bonterms

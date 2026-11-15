@@ -12,7 +12,6 @@ tags:
   - pre-release
   - preview
   - software-terms
-  - github
 language: en
 source:
   name: GitHub

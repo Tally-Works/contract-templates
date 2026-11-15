@@ -8,9 +8,12 @@ parties:
   - employer
   - employee
 tags:
-  - employee-privacy
-  - policy
-  - sparksuite
+  - privacy
+  - monitoring
+  - handbook
+  - email
+  - internet-use
+  - workplace-search
 language: en
 source:
   name: Sparksuite
@@ -25,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's employee privacy policy.
+summary: >-
+  Sparksuite's employee privacy policy, stating that employees have no right to privacy in the workplace,
+  including offices, company-owned property such as desks and laptops and company-provided accounts such as
+  email, code repositories and file sharing, all of which may be searched without warning. Covers company
+  ownership of email, the right to access and monitor email, and monitoring of internet use.
 ---
 
 ## Employee privacy

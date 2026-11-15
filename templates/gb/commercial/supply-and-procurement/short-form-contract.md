@@ -9,9 +9,11 @@ parties:
   - supplier
 tags:
   - public-procurement
-  - short-form-contract
-  - cabinet-office
-  - crown-copyright
+  - short-form
+  - government
+  - order-form
+  - goods-and-services
+  - low-value
 language: en
 source:
   name: UK Cabinet Office and Government Legal Department

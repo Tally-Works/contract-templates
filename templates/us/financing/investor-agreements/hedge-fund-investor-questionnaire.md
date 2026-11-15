@@ -13,7 +13,6 @@ tags:
   - accredited-investor
   - qualified-purchaser
   - investment-fund
-  - openagreements
 language: en
 source:
   name: OpenAgreements

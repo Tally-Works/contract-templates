@@ -10,10 +10,14 @@ parties:
   - manager
 tags:
   - indemnification
-  - manager
   - llc
-  - delaware
+  - d-and-o
+  - advancement-of-expenses
+  - manager-managed
+  - ai-agent
+  - ai-governance
 language: en
+governing_law: Delaware
 source:
   name: General Legal
   url: https://general.legal/library/agent-operated-company-formation-package

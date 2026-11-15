@@ -9,9 +9,12 @@ parties:
   - employee
 tags:
   - risk-management
-  - infosec
-  - policy
-  - sourcegraph
+  - information-security
+  - risk-register
+  - risk-assessment
+  - compliance
+  - company-policy
+  - handbook
 language: en
 source:
   name: Sourcegraph
@@ -26,7 +29,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sourcegraph's information security risk management policy.
+summary: >-
+  Sourcegraph's internal information security risk management policy, distinct from technical vulnerability
+  handling. Covers roles (risk committee, compliance manager, security team, risk owners), risk register fields,
+  estimation on 1-5 likelihood and impact scales multiplied into a 1-25 score with high, medium and low bands, annual
+  risk identification, mandatory treatment of high and medium risks, risk committee exceptions, and annual review.
 ---
 
 # **Information Security Risk Management Policy**

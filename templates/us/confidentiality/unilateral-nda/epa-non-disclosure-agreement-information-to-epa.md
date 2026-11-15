@@ -5,12 +5,11 @@ category: confidentiality
 subcategory: unilateral-nda
 type: agreement
 parties:
-  - discloser
-  - epa
+  - disclosing-party
+  - agency
 tags:
   - nda
-  - one-way
-  - epa
+  - unilateral
   - federal
 language: en
 source:

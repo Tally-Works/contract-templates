@@ -8,10 +8,12 @@ parties:
   - tenant
   - landlord
 tags:
-  - notice
-  - tenant
   - move-out
-  - pandadoc
+  - month-to-month
+  - notice-to-vacate
+  - lease-termination
+  - security-deposit
+  - residential
 language: en
 source:
   name: PandaDoc
@@ -26,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Tenant's 30-day notice to the landlord of intent to vacate.
+summary: >-
+  Tenant's written 30-day notice to a landlord or property manager ending a month-to-month tenancy, in letter form
+  with bracketed blanks. States the move-out date, gives a forwarding address for the security-deposit refund, says
+  where keys will be returned and asks for a move-out inspection. Notes that the required notice period varies by
+  state and lease.
 ---
 
 # 30-Day Notice to Landlord (template)

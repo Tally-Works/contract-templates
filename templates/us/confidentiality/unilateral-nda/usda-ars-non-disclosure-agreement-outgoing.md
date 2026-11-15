@@ -5,12 +5,11 @@ category: confidentiality
 subcategory: unilateral-nda
 type: agreement
 parties:
-  - ars
-  - recipient
+  - agency
+  - receiving-party
 tags:
   - nda
-  - one-way
-  - usda
+  - unilateral
   - federal
 language: en
 source:
@@ -29,7 +28,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: USDA ARS NDA for information going out from ARS.
+summary: >-
+  One-way non-disclosure agreement under which a named USDA Agricultural
+  Research Service scientist discloses Confidential Information to a company or
+  university Recipient to assess interest in a patent licence or cooperative
+  research agreement. Five numbered conditions: no disclosure or other use,
+  care, exclusions, compelled disclosure with notice to ARS, and a federal
+  whistleblower savings clause; one-year term with confidentiality lasting five
+  years after expiry.
 ---
 
 **U.S. Department of Agriculture**

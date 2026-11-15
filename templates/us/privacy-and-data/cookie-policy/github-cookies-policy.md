@@ -12,7 +12,6 @@ tags:
   - tracking
   - analytics
   - consent
-  - github
 language: en
 source:
   name: GitHub

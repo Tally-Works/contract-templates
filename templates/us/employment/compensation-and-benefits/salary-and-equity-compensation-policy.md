@@ -11,8 +11,6 @@ tags:
   - salary
   - equity
   - compensation
-  - policy
-  - clef
 language: en
 source:
   name: Clef
@@ -26,7 +24,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Clef's salary and equity compensation policy.
+summary: >-
+  Clef's salary and equity compensation policy for its first 10 employees, setting salaries by a fixed rubric
+  of technical or non-technical role and more or less than five years' experience ($70k to $120k), a standard
+  grant of 41,963 stock options (about 0.9%) vesting over six years with a one-year cliff, an option to trade
+  $5k of salary for about 0.1% more equity, and annual rubric adjustment to market.
 ---
 
 #Salary and Equity Compensation

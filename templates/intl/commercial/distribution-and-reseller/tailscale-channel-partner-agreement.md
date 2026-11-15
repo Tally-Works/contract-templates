@@ -11,7 +11,6 @@ tags:
   - channel-partner
   - reseller
   - saas
-  - tailscale
 language: en
 source:
   name: Tailscale
@@ -27,7 +26,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Tailscale's agreement with resellers and channel partners.
+summary: >-
+  Tailscale's channel partner agreement between Tailscale US Inc. and a
+  reseller, distributor or MSP that resells or provides managed services for the
+  Tailscale Solution. Covers the resale licence, required customer terms,
+  support tiers, deal registration, pricing, payment, taxes and renewals,
+  confidentiality, data protection and DPA, term and termination, warranties,
+  liability cap, indemnities and a Schedule A setting governing law and courts
+  by partner region.
 ---
 
 Last Updated: January 31, 2025

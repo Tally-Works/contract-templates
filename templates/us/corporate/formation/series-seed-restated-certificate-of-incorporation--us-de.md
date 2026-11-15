@@ -8,11 +8,9 @@ parties:
   - company
 tags:
   - certificate-of-incorporation
-  - charter
   - preferred-stock
   - seed
   - series-seed
-  - delaware
 language: en
 source:
   name: Series Seed

@@ -12,7 +12,6 @@ tags:
   - open-data
   - o-uda
   - annotated
-  - microsoft
 language: en
 source:
   name: Microsoft
@@ -26,7 +25,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Annotated version of the Open Use of Data Agreement.
+summary: >-
+  Open Use of Data Agreement v1.0 (O-UDA) between a Data Provider and a data
+  user, with Microsoft's drafting comments after each clause. Permits
+  unrestricted use, modification and redistribution of the Data with a covenant
+  not to sue, places no restriction on Results (including AI models trained on
+  the Data), requires redistributors to keep attribution and pass on the
+  warranty disclaimer and liability limit, and is not meant for personal or
+  third-party-owned data.
 ---
 
 # Open Use of Data Agreement v1.0, Annotated

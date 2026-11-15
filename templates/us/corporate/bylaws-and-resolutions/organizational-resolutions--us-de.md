@@ -5,14 +5,13 @@ category: corporate
 subcategory: bylaws-and-resolutions
 type: resolution
 parties:
-  - directors
+  - director
   - company
 tags:
   - organizational-resolutions
   - board-consent
   - formation
   - stock-issuance
-  - delaware
   - c-corp
 language: en
 source:

@@ -9,9 +9,12 @@ parties:
   - employee
 tags:
   - acceptable-use
-  - infosec
-  - policy
-  - sourcegraph
+  - information-security
+  - aup
+  - it-resources
+  - personal-use
+  - company-policy
+  - handbook
 language: en
 source:
   name: Sourcegraph

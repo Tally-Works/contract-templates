@@ -9,10 +9,8 @@ parties:
   - customer
 tags:
   - cover-page
-  - saas
   - cloud
   - key-terms
-  - bonterms
 language: en
 source:
   name: Bonterms

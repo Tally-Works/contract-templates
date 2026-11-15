@@ -8,11 +8,12 @@ parties:
   - provider
   - customer
 tags:
-  - statement-of-work
-  - sow
   - professional-services
   - cover-page
-  - common-paper
+  - psa
+  - deliverables
+  - acceptance
+  - fees
 language: en
 source:
   name: Common Paper

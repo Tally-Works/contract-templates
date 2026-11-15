@@ -5,13 +5,12 @@ category: confidentiality
 subcategory: unilateral-nda
 type: agreement
 parties:
-  - discloser
-  - recipient
+  - disclosing-party
+  - receiving-party
 tags:
   - nda
-  - one-way
+  - unilateral
   - ipo
-  - crown-copyright
 language: en
 source:
   name: UK Intellectual Property Office

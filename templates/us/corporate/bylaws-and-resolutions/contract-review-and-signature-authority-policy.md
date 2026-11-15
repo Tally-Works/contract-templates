@@ -10,8 +10,11 @@ parties:
 tags:
   - signature-authority
   - contract-review
-  - policy
-  - sourcegraph
+  - handbook
+  - vendor-management
+  - procurement
+  - nda
+  - msa
 language: en
 source:
   name: Sourcegraph
@@ -26,7 +29,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sourcegraph's policy on who reviews and signs contracts.
+summary: >-
+  Sourcegraph's internal policy on who reviews, approves and signs contracts. Covers NDAs, customer
+  order forms and MSAs, vendor contracts (including contractors and DPAs), partner contracts (reseller,
+  referral, technology, co-sell) and teammate offers, with review routing, legal review SLAs, signing
+  authorities by role, written delegation and filing of signed copies. Links point to Sourcegraph's
+  internal systems.
 ---
 
 # Contract Review and Signature Authority Policy

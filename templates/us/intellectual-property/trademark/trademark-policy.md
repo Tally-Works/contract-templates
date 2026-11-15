@@ -6,11 +6,13 @@ subcategory: trademark
 type: policy
 parties:
   - foundation
-  - projects
+  - project
 tags:
-  - trademark
-  - policy
-  - commonhaus
+  - brand-use
+  - logo
+  - trademark-license
+  - open-source
+  - nonprofit
 language: en
 source:
   name: Commonhaus Foundation
@@ -25,7 +27,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Commonhaus Foundation's trademark policy.
+summary: >-
+  Commonhaus Foundation's trademark policy setting the terms for third-party use of the
+  Foundation's and its projects' word marks, logos and trade dress. Covers restrictions on
+  similar marks, uses considered non-infringing (redistributing unmodified software,
+  labelling modified builds, compatibility statements, community affiliation, websites,
+  publications, events), licensed uses for user groups and free promotional goods, uses
+  considered infringing, and how to report misuse. Licensed CC BY 4.0, adapted from the
+  Model Trademark Guidelines.
 ---
 
 # Trademark Policy

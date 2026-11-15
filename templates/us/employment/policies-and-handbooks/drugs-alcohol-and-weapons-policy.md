@@ -10,8 +10,9 @@ parties:
 tags:
   - drug-and-alcohol
   - weapons
-  - policy
-  - sparksuite
+  - handbook
+  - firearms
+  - workplace-safety
 language: en
 source:
   name: Sparksuite
@@ -26,7 +27,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's drugs, alcohol and weapons policy.
+summary: >-
+  Sparksuite's drugs, alcohol and weapons policy for employees, banning the use, purchase, sale or distribution
+  of illegal drugs at work or otherwise, allowing alcohol in the office only on select occasions with the
+  office presumed dry, and prohibiting weapons other than small pocket knives (blades under 3 inches) and mace,
+  with violations risking immediate termination and law enforcement involvement.
 ---
 
 ## Drugs, alcohol, and weapons

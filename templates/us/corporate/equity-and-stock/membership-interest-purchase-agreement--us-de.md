@@ -11,8 +11,8 @@ tags:
   - membership-interest
   - issuance
   - llc
-  - delaware
 language: en
+governing_law: Delaware
 source:
   name: General Legal
   url: https://general.legal/library/agent-operated-company-formation-package

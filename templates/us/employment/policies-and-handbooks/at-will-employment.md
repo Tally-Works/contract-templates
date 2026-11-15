@@ -9,9 +9,10 @@ parties:
   - employee
 tags:
   - at-will
-  - policy
-  - texas
-  - sparksuite
+  - handbook
+  - termination
+  - employment-status
+  - without-cause
 language: en
 source:
   name: Sparksuite
@@ -26,7 +27,10 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's at-will employment policy.
+summary: >-
+  Sparksuite's at-will employment policy, a single paragraph stating that either the employee or the company
+  may end employment at any time with or without cause, and that only the CEO, in a written agreement signed
+  by both, may alter at-will status or agree to employment for a fixed period.
 ---
 
 ## At-will employment

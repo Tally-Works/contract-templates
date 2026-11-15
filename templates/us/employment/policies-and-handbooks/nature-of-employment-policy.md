@@ -10,8 +10,8 @@ parties:
 tags:
   - at-will
   - employment-status
-  - policy
-  - osio-labs
+  - handbook
+  - disclaimer
 language: en
 source:
   name: Osio Labs
@@ -25,7 +25,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' policy on the nature of employment.
+summary: >-
+  Osio Labs' employee-handbook statement that employment is at-will, terminable by either
+  side at any time with or without cause or notice, that the handbook's policies may be
+  amended except the at-will policy (changeable only by a signed agreement with the CEO),
+  and that nothing in the handbook creates a contract or promise of future benefits.
 ---
 
 # Nature of Employment

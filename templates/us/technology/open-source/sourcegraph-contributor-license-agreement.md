@@ -3,14 +3,17 @@ title: Sourcegraph Contributor License Agreement
 jurisdiction: US
 category: technology
 subcategory: open-source
-type: agreement
+type: policy
 parties:
   - company
   - contributor
 tags:
   - cla
-  - open-source
-  - sourcegraph
+  - contributor-license
+  - contributor-agreement
+  - handbook
+  - copyleft
+  - patent
 language: en
 source:
   name: Sourcegraph
@@ -25,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sourcegraph's contributor license agreement.
+summary: >-
+  Sourcegraph's handbook page explaining its contributor license agreement policy, not the CLA text itself. Describes
+  what a CLA is for (confirming the contributor's right to license, securing use and redistribution rights, guarding
+  against revocation and patent claims), then an FAQ on which Sourcegraph repositories require a CLA (proprietary and
+  copyleft ones) and which do not (permissively licensed), with links to the signing form and the signatory list.
 ---
 
 # CLA

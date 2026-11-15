@@ -11,7 +11,6 @@ tags:
   - vulnerability-disclosure
   - coordinated-disclosure
   - security
-  - github
 language: en
 source:
   name: GitHub

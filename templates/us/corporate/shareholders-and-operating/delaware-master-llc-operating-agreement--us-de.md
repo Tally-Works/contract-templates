@@ -5,14 +5,14 @@ category: corporate
 subcategory: shareholders-and-operating
 type: agreement
 parties:
-  - members
+  - member
   - company
 tags:
   - operating-agreement
   - series-llc
   - master-llc
-  - delaware
 language: en
+governing_law: Delaware
 source:
   name: Erich Dylus
   url: >-

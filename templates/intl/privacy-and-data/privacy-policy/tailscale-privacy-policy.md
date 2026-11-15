@@ -8,9 +8,14 @@ parties:
   - provider
   - user
 tags:
-  - privacy-policy
   - saas
-  - tailscale
+  - privacy
+  - gdpr
+  - ccpa
+  - analytics
+  - advertising
+  - children
+  - data-retention
 language: en
 source:
   name: Tailscale
@@ -26,7 +31,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Tailscale's privacy policy.
+summary: >-
+  Tailscale's privacy policy for its websites, the Tailscale Solution mesh VPN,
+  Aperture AI gateway and PAM services, where Tailscale is the controller.
+  Seventeen sections covering information collected, uses, legal bases,
+  analytics and advertising, disclosures including law enforcement requests,
+  retention, rights, processing locations, a California notice, non-user
+  information, children under 16 and EU/UK representatives.
 ---
 
 **Tailscale Privacy Policy**

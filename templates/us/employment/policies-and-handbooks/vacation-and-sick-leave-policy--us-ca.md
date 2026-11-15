@@ -10,9 +10,9 @@ parties:
 tags:
   - vacation
   - sick-leave
-  - california
-  - policy
-  - clef
+  - handbook
+  - pto
+  - accrual
 language: en
 source:
   name: Clef
@@ -26,7 +26,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Clef's vacation and sick leave policy.
+summary: >-
+  Clef's short handbook policy giving employees three weeks (15 days) of paid vacation
+  accruing 1.25 days a month, sick leave accruing one hour per 30 hours worked capped at
+  five days, a week's advance scheduling notice for vacation, reporting of days to the
+  founder for payroll tracking, and a note on support for employees with chronic or
+  terminal illness.
 ---
 
 # Vacation and Sick Leave

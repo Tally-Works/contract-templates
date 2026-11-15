@@ -9,9 +9,13 @@ parties:
   - employee
 tags:
   - vendor-management
-  - infosec
-  - policy
-  - sourcegraph
+  - information-security
+  - supplier
+  - due-diligence
+  - third-party-risk
+  - supply-chain
+  - company-policy
+  - handbook
 language: en
 source:
   name: Sourcegraph
@@ -26,7 +30,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sourcegraph's third-party (vendor) management policy.
+summary: >-
+  Sourcegraph's internal third-party management policy for vendors, service providers and contractors with access to
+  its data or systems. Covers third-party categories (software, services, temporary contractors), security terms in
+  supplier agreements, annual review of high-risk suppliers, change management, off-boarding, risk ratings and due
+  diligence based on data classification and contract value, and the baseline security standards expected of them.
 ---
 
 # Third Party Management Policy

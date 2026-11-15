@@ -5,13 +5,12 @@ category: partnerships
 subcategory: collaboration-and-mou
 type: agreement
 parties:
-  - nih
+  - agency
   - institution
 tags:
   - inter-institutional
   - joint-invention
   - patent
-  - nih
   - federal
 language: en
 source:

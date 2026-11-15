@@ -8,10 +8,10 @@ parties:
   - party-a
   - party-b
 tags:
-  - boilerplate
-  - clause
   - no-joint-venture
-  - dot-legal
+  - relationship-of-parties
+  - partnership
+  - no-agency
 language: en
 source:
   name: Dot Legal

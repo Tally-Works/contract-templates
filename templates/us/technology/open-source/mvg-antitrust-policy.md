@@ -6,13 +6,11 @@ subcategory: open-source
 type: policy
 parties:
   - organisation
-  - contributors
+  - contributor
 tags:
   - antitrust
   - governance
-  - open-source
   - mvg
-  - github
 language: en
 source:
   name: GitHub
@@ -26,7 +24,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Antitrust policy under Minimum Viable Governance.
+summary: >-
+  One-paragraph antitrust policy for an open-source organisation whose participants may be business competitors,
+  from GitHub's Minimum Viable Governance (MVG-0.1-beta) org-docs. Confirms participants stay free to build and market
+  competing products and bars discussion of pricing, distribution channels, third-party contracts, market or customer
+  allocation, or anything else that would lessen fair competition.
 ---
 
 # Antitrust Policy

@@ -6,11 +6,13 @@ subcategory: trademark
 type: policy
 parties:
   - foundation
-  - users
+  - user
 tags:
-  - trademark
   - guidelines
-  - commonhaus
+  - logo
+  - brand-use
+  - open-source
+  - nonprofit
 language: en
 source:
   name: Commonhaus Foundation
@@ -25,7 +27,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Commonhaus Foundation's trademark usage guidelines.
+summary: >-
+  Commonhaus Foundation's guidelines on the proper use of its trademarks and logos in text,
+  publications and materials: when to use the ® and ™ symbols, the attribution notice to
+  include, rules for writing marks (exact form, as adjectives, not possessive, plural,
+  verbs or translated), and limits on altering logos. A second part explains trademarks,
+  service marks, trade dress, likelihood of confusion and nominative use under US law.
 ---
 
 # Trademark Information and Guidelines

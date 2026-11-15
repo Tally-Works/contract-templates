@@ -11,7 +11,6 @@ tags:
   - debt-collection
   - validation-notice
   - regulation-f
-  - cfpb
   - federal
 language: en
 source:

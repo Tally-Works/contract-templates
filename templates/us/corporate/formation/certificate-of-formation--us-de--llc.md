@@ -10,7 +10,6 @@ parties:
 tags:
   - certificate-of-formation
   - llc
-  - delaware
   - filing
 language: en
 source:

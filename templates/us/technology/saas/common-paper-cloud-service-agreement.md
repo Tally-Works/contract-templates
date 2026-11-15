@@ -8,12 +8,10 @@ parties:
   - provider
   - customer
 tags:
-  - saas
   - cloud
   - subscription
   - standard-terms
   - cover-page
-  - common-paper
 language: en
 source:
   name: Common Paper

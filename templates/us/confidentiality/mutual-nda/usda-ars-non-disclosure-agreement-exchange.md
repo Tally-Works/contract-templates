@@ -5,12 +5,11 @@ category: confidentiality
 subcategory: mutual-nda
 type: agreement
 parties:
-  - ars
+  - agency
   - counterparty
 tags:
   - nda
   - mutual
-  - usda
   - federal
 language: en
 source:
@@ -29,7 +28,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: USDA ARS mutual NDA for exchanging information.
+summary: >-
+  Two-way non-disclosure agreement between a named USDA Agricultural Research
+  Service scientist and a company or university representative for exchanging
+  Confidential Information to assess interest in a patent licence or
+  cooperative research agreement. Covers use limits, care, exclusions,
+  compelled disclosure, ARS handling under the Freedom of Information Act, a
+  federal whistleblower savings clause, and a one-year term with
+  confidentiality lasting five years after expiry.
 ---
 
 **U.S. Department of Agriculture**

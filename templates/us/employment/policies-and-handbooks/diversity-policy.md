@@ -9,8 +9,9 @@ parties:
   - employee
 tags:
   - diversity
-  - policy
-  - osio-labs
+  - inclusion
+  - dei
+  - handbook
 language: en
 source:
   name: Osio Labs
@@ -24,7 +25,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' diversity policy.
+summary: >-
+  Osio Labs' diversity and inclusion policy for employees, defining diversity and inclusion, stating the
+  company's commitment to seeking out diverse candidates, listing practices such as flexible schedules,
+  pronouns in the handbook and mental health support, discussing intent versus impact and apology, and
+  pointing to the complaint process and outside reading and video resources.
 ---
 
 # Diversity and Inclusion

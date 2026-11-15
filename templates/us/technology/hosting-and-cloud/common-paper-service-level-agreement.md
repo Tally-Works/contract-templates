@@ -13,7 +13,6 @@ tags:
   - service-credits
   - saas
   - standard-terms
-  - common-paper
 language: en
 source:
   name: Common Paper

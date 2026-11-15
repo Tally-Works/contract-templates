@@ -9,9 +9,9 @@ parties:
   - user
 tags:
   - logo
-  - trademark
   - brand-use
-  - github
+  - brand-guidelines
+  - avatar
 language: en
 source:
   name: GitHub

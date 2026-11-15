@@ -12,8 +12,6 @@ tags:
   - at-will
   - startup
   - equity
-  - openagreements
-  - new-york
 language: en
 source:
   name: OpenAgreements

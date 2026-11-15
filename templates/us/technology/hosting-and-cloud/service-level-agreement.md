@@ -13,7 +13,6 @@ tags:
   - service-credits
   - enterprise
   - saas
-  - basecamp
 language: en
 source:
   name: Basecamp (37signals)

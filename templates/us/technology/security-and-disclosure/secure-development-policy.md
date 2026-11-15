@@ -9,9 +9,13 @@ parties:
   - employee
 tags:
   - secure-development
-  - infosec
-  - policy
-  - sourcegraph
+  - information-security
+  - sdlc
+  - code-review
+  - change-management
+  - ai
+  - company-policy
+  - handbook
 language: en
 source:
   name: Sourcegraph
@@ -26,7 +30,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sourcegraph's secure development policy.
+summary: >-
+  Sourcegraph's internal secure development policy for engineers working on its business-critical applications,
+  expressly covering human and AI-generated code. Short sections on change control and peer review before merging to
+  production, git version control, limits on modifying third-party packages, secure engineering principles, secure
+  development environments, outsourced development, security and acceptance testing, protection of test data.
 ---
 
 # **Secure Development Policy**

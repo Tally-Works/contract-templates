@@ -9,9 +9,12 @@ parties:
   - employee
 tags:
   - business-continuity
-  - infosec
-  - policy
-  - sourcegraph
+  - information-security
+  - disaster-recovery
+  - incident-response
+  - backups
+  - company-policy
+  - handbook
 language: en
 source:
   name: Sourcegraph
@@ -26,7 +29,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sourcegraph's business continuity policy.
+summary: >-
+  Sourcegraph's internal business continuity and disaster recovery policy for its business-critical production and IT
+  systems. Covers annual DR and backup-restoration testing, escalation to executives, a roles table (Security team,
+  department heads, managers, support, engineering and people leads), tactical continuity plans, information security
+  continuity, incident reporting and severity grading, investigation, stand down, debrief, exceptions and enforcement.
 ---
 
 # **Business Continuity and Disaster Recovery Policy**

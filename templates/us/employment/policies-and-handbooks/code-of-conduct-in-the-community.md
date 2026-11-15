@@ -9,8 +9,11 @@ parties:
   - employee
 tags:
   - code-of-conduct
-  - policy
-  - clef
+  - handbook
+  - community
+  - harassment
+  - events
+  - community-guidelines
 language: en
 source:
   name: Clef
@@ -24,7 +27,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Clef's code of conduct for employees in the community.
+summary: >-
+  Clef's code of conduct for community members and Clef team members in Clef's online communities, office and
+  events, adapted from the Hack Code of Conduct. Covers a commitment to an inclusive environment regardless of
+  listed characteristics, a definition of prohibited harassment, offensive jokes, immediate compliance when
+  asked to stop, sanctions or removal from community spaces, and reporting to a named founder.
 ---
 
 # Code of Conduct

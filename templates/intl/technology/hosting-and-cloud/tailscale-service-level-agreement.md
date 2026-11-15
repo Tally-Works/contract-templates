@@ -11,7 +11,6 @@ tags:
   - sla
   - uptime
   - service-credits
-  - tailscale
 language: en
 source:
   name: Tailscale
@@ -27,7 +26,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Tailscale's service level agreement.
+summary: >-
+  Tailscale's service level agreement for customers with a Silver or Gold
+  support package under an Order Form, supplementing its MSA. Covers a 99.9%
+  monthly Uptime commitment for core systems with maintenance excluded, a
+  status page, support package tables (Silver, Gold, Platinum) with severity
+  levels and first-response times, service credits of 5% or 10% of monthly fees
+  with a 30-day claim window and cap, and a list of exclusions.
 ---
 
 **Tailscale Service Level Agreement**

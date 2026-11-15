@@ -6,11 +6,14 @@ subcategory: open-source
 type: charter
 parties:
   - project
-  - contributors
+  - contributor
 tags:
   - governance
-  - open-source
-  - commonhaus
+  - maintainers
+  - lazy-consensus
+  - voting
+  - community
+  - code-owners
 language: en
 source:
   name: Commonhaus Foundation
@@ -25,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Commonhaus's governance template for member projects.
+summary: >-
+  One-page GOVERNANCE.md for a Commonhaus Foundation member project, with the project name as a fill-in. Covers roles
+  (code owners with write access kept in CODEOWNERS, and contributors), decision making under the Commonhaus process
+  (lazy consensus, simple majority vote of maintainers if needed, Commonhaus Foundation Council mediation), and
+  pointers to the foundation's code of conduct and trademark policy and the project's contributing guidelines.
 ---
 
 # [Project Name] Governance

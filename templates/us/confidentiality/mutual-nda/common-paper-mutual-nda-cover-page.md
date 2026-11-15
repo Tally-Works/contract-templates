@@ -11,7 +11,6 @@ tags:
   - cover-page
   - nda
   - mutual
-  - common-paper
 language: en
 source:
   name: Common Paper

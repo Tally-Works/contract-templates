@@ -9,8 +9,12 @@ parties:
   - customer
 tags:
   - special-terms
-  - saas
-  - tailscale
+  - addendum
+  - discount
+  - nonprofit
+  - education
+  - vpn
+  - community
 language: en
 source:
   name: Tailscale

@@ -8,10 +8,9 @@ parties:
   - party-a
   - party-b
 tags:
-  - boilerplate
-  - clause
   - good-faith
-  - dot-legal
+  - fair-dealing
+  - performance
 language: en
 source:
   name: Dot Legal

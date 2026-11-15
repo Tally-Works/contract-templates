@@ -10,7 +10,10 @@ parties:
 tags:
   - acknowledgment
   - handbook
-  - clef
+  - at-will
+  - receipt
+  - onboarding
+  - entire-agreement
 language: en
 source:
   name: Clef
@@ -24,7 +27,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Employee acknowledgment of receipt of the handbook.
+summary: >-
+  Signature form in which an employee acknowledges receiving and reading the Clef Employee
+  Handbook, confirms it creates no contractual obligations and may be revised except for
+  at-will employment, and agrees that employment is at-will and that this is the entire
+  agreement on that subject, modifiable only in a writing signed with the CEO. Includes
+  date, name and signature lines and a linked table of contents of the handbook's
+  policies.
 ---
 
 # Acknowledgement of Receipt of Employee Handbook

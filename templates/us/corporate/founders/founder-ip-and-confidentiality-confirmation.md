@@ -13,7 +13,6 @@ tags:
   - confidentiality
   - confirmation
   - startup
-  - openagreements
 language: en
 source:
   name: OpenAgreements

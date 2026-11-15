@@ -8,13 +8,13 @@ parties:
   - company
   - advisor
 tags:
-  - advisor
   - equity
   - stock-option
   - ip-assignment
   - confidentiality
   - startup
 language: en
+governing_law: Delaware
 source:
   name: General Legal
   url: https://general.legal/library/advisor-agreement

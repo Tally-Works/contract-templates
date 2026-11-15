@@ -5,14 +5,13 @@ category: partnerships
 subcategory: collaboration-and-mou
 type: agreement
 parties:
-  - consortium-members
+  - consortium-member
 tags:
   - lambert
   - heads-of-terms
   - consortium
   - research-collaboration
   - ipo
-  - crown-copyright
 language: en
 source:
   name: UK Intellectual Property Office (Lambert Toolkit)

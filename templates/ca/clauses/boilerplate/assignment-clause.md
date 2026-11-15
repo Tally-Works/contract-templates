@@ -8,10 +8,10 @@ parties:
   - party-a
   - party-b
 tags:
-  - boilerplate
-  - clause
   - assignment
-  - dot-legal
+  - transfers
+  - anti-assignment
+  - consent
 language: en
 source:
   name: Dot Legal

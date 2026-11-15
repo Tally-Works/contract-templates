@@ -194,8 +194,8 @@ function buildDocument(meta, body, relMd) {
     `${meta.title}. Written and published by goHeather (Tally Works Inc.) under ${meta.license}${licUrl ? ` (${licUrl})` : ''}.`,
     `Free to use, adapt and share, including commercially, with credit to goHeather. Part of the contract-templates library (${relMd}). Not legal advice.`,
   ] : [
-    `${meta.title}. Published by ${src.name || 'unknown source'}${src.url ? ` (${src.url})` : ''} under ${meta.license}${licUrl ? ` (${licUrl})` : ''}. Text as published; converted to this format by goHeather without changes.`,
-    `goHeather did not write this document and holds no rights in it; it is collected in the contract-templates library (${relMd}), see ATTRIBUTION.md. Not legal advice.`,
+    `${meta.title}. Published by ${src.name || 'unknown source'}${src.url ? ` (${src.url})` : ''} under ${meta.license}${licUrl ? ` (${licUrl})` : ''}. Text as published; converted to Word by goHeather without changes.`,
+    `From goHeather's contract-templates library (${relMd}); every publisher is credited in ATTRIBUTION.md. Not legal advice.`,
   ];
   const when = /^\d{4}-\d{2}-\d{2}$/.test(String(meta.last_reviewed)) ? new Date(`${meta.last_reviewed}T00:00:00Z`) : new Date('2026-01-01T00:00:00Z');
 

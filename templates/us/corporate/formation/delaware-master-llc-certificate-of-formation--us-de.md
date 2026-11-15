@@ -9,7 +9,11 @@ parties:
 tags:
   - certificate-of-formation
   - series-llc
-  - delaware
+  - llc
+  - master-llc
+  - registered-agent
+  - web3
+  - filing
 language: en
 source:
   name: Erich Dylus
@@ -25,7 +29,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Certificate of formation for a Delaware LLC with series.
+summary: >-
+  Certificate of formation for a Delaware series LLC under the Delaware Limited Liability Company Act
+  (6 Del. C. 18-101 et seq.): a short fill-in form with the company name, registered office and agent,
+  a Section 18-215 series provision limiting each series' liabilities to its own assets, and a clause
+  allowing governance and series formation through blockchain or other automated software.
 ---
 
 CERTIFICATE OF FORMATION OF [________] LLC

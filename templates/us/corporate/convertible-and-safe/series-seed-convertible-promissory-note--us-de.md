@@ -14,8 +14,8 @@ tags:
   - valuation-cap
   - discount
   - series-seed-notes
-  - delaware
 language: en
+governing_law: Delaware
 source:
   name: Cooley LLP (Series Seed fork)
   url: https://github.com/CooleyLLP/seriesseed

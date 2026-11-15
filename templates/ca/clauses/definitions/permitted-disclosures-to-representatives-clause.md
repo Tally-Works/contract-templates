@@ -5,13 +5,14 @@ category: clauses
 subcategory: definitions
 type: clause
 parties:
-  - discloser
-  - recipient
+  - disclosing-party
+  - receiving-party
 tags:
   - confidentiality
-  - clause
-  - definitions
-  - dot-legal
+  - nda
+  - representatives
+  - permitted-disclosure
+  - need-to-know
 language: en
 source:
   name: Dot Legal

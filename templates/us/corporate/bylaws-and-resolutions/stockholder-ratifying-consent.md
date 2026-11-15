@@ -6,14 +6,13 @@ subcategory: bylaws-and-resolutions
 type: resolution
 parties:
   - company
-  - stockholders
+  - stockholder
 tags:
   - ratification
   - stockholder-consent
   - written-consent
   - corporate-cleanup
   - startup
-  - openagreements
 language: en
 source:
   name: OpenAgreements

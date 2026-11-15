@@ -11,8 +11,6 @@ tags:
   - lease
   - residential
   - private-residential-tenancy
-  - scotland
-  - crown-copyright
 language: en
 source:
   name: Scottish Government

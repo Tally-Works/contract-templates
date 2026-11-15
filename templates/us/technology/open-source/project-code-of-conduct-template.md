@@ -6,11 +6,12 @@ subcategory: open-source
 type: policy
 parties:
   - project
-  - contributors
+  - contributor
 tags:
   - code-of-conduct
-  - open-source
-  - commonhaus
+  - community
+  - incidents
+  - reporting
 language: en
 source:
   name: Commonhaus Foundation
@@ -25,7 +26,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Commonhaus's code of conduct template for member projects.
+summary: >-
+  Short CODE_OF_CONDUCT.md for a Commonhaus Foundation member project that adopts the foundation's Code of Conduct by
+  reference instead of restating it. Fills in the project name, gives a placeholder project mailing list for reports
+  handled under the foundation's procedures, and points escalations to the foundation's coc-escalation list and Code
+  of Conduct Panel.
 ---
 
 # [Project Name] Code of Conduct

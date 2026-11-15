@@ -12,7 +12,6 @@ tags:
   - subscription
   - billing
   - saas
-  - basecamp
 language: en
 source:
   name: Basecamp (37signals)

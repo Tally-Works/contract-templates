@@ -8,10 +8,9 @@ parties:
   - party-a
   - party-b
 tags:
-  - boilerplate
-  - clause
   - severability
-  - dot-legal
+  - invalidity
+  - enforceability
 language: en
 source:
   name: Dot Legal

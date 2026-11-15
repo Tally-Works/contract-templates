@@ -9,8 +9,9 @@ parties:
   - employee
 tags:
   - personnel-records
-  - policy
-  - osio-labs
+  - handbook
+  - hr
+  - emergency-contacts
 language: en
 source:
   name: Osio Labs
@@ -24,7 +25,10 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' personnel data policy.
+summary: >-
+  Osio Labs' short employee-handbook policy on personnel data changes, requiring employees
+  to promptly notify the team, Insperity or the CEO of changes to legal name, mailing
+  address, telephone numbers, beneficiary, tax-form exemptions and emergency contacts.
 ---
 
 # Personnel Data Changes

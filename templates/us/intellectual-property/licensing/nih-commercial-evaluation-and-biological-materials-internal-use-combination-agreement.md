@@ -5,12 +5,11 @@ category: intellectual-property
 subcategory: licensing
 type: agreement
 parties:
-  - nih
+  - agency
   - licensee
 tags:
   - evaluation-license
   - biological-materials
-  - nih
   - federal
 language: en
 source:

@@ -12,8 +12,8 @@ tags:
   - subscription-agreement
   - securities
   - investment-fund
-  - openagreements
 language: en
+governing_law: Delaware
 source:
   name: OpenAgreements
   url: >-

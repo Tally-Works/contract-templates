@@ -12,8 +12,6 @@ tags:
   - at-will
   - startup
   - equity
-  - openagreements
-  - illinois
 language: en
 source:
   name: OpenAgreements

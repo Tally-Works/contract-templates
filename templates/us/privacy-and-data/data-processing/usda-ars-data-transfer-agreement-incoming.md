@@ -6,11 +6,10 @@ subcategory: data-processing
 type: agreement
 parties:
   - provider
-  - ars
+  - agency
 tags:
   - data-transfer
   - data-sharing
-  - usda
   - federal
 language: en
 source:
@@ -28,7 +27,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: USDA ARS data transfer agreement for data coming in.
+summary: >-
+  Data transfer agreement under which a company or university provides data to the USDA Agricultural Research
+  Service for a named research project, under the Federal Technology Transfer Act. Fill-in form covering
+  research-only non-commercial use, no redistribution, publication only with provider consent, no warranties,
+  confidentiality for 1-5 years, inventorship, US federal law, a 1-5 year term, and return or destruction of data.
 ---
 
 **U. S. Department of Agriculture**

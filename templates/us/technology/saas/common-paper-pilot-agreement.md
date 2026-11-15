@@ -11,9 +11,7 @@ tags:
   - pilot
   - trial
   - proof-of-concept
-  - saas
   - standard-terms
-  - common-paper
 language: en
 source:
   name: Common Paper

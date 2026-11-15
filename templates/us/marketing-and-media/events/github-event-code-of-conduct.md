@@ -9,9 +9,10 @@ parties:
   - attendee
 tags:
   - code-of-conduct
-  - events
-  - anti-harassment
-  - github
+  - harassment
+  - conference
+  - community
+  - incidents
 language: en
 source:
   name: GitHub

@@ -6,15 +6,14 @@ subcategory: shareholders-and-operating
 type: agreement
 variant: commented
 parties:
-  - shareholders
+  - shareholder
   - company
 tags:
   - shareholders-agreement
   - seed
   - annotated
-  - series-seed-finland
-  - finland
 language: en
+governing_law: Finland
 source:
   name: Startup Foundation (Series Seed Finland)
   url: https://www.startup-saatio.fi/seriesseed

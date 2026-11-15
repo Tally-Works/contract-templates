@@ -6,11 +6,15 @@ subcategory: licensing
 type: policy
 parties:
   - foundation
-  - projects
+  - project
 tags:
   - ip-policy
   - open-source
-  - commonhaus
+  - cla
+  - dco
+  - copyright
+  - license
+  - contributor-agreement
 language: en
 source:
   name: Commonhaus Foundation
@@ -25,7 +29,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Commonhaus Foundation's intellectual property policy.
+summary: >-
+  Commonhaus Foundation's intellectual property policy for its open source projects,
+  requiring OSI-approved code licences (Apache 2.0, MIT, BSD named) and permitting OSI or
+  commercial-use Creative Commons licences for documentation. Covers contributions under a
+  DCO or CLA, the rights contributors do and do not grant the Foundation, compliance with
+  upstream project licences, copyright statement wording, exemptions from the CF Council
+  and periodic review.
 ---
 
 # Intellectual Property Policy

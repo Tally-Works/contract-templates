@@ -12,9 +12,6 @@ tags:
   - non-solicitation
   - restrictive-covenant
   - confidentiality
-  - employee
-  - louisiana
-  - openagreements
 language: en
 source:
   name: OpenAgreements

@@ -5,13 +5,12 @@ category: commercial
 subcategory: amendments-and-extensions
 type: form
 parties:
-  - party-1
-  - party-2
+  - party-a
+  - party-b
 tags:
   - amendment
   - modification
   - change
-  - common-paper
 language: en
 source:
   name: Common Paper

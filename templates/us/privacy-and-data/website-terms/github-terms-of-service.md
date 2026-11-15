@@ -12,7 +12,6 @@ tags:
   - saas
   - platform
   - user-content
-  - github
 language: en
 source:
   name: GitHub

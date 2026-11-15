@@ -10,7 +10,10 @@ parties:
 tags:
   - rental-application
   - tenant-screening
-  - pandadoc
+  - residential
+  - lease
+  - credit-check
+  - background-check
 language: en
 source:
   name: PandaDoc
@@ -25,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Rental application form for prospective tenants.
+summary: >-
+  One-page rental application form a prospective tenant completes for a landlord before a lease is offered. Collects
+  the property and move-in date, applicant identity and contact details, current address and reason for moving,
+  employer and monthly income, current and prior landlords, other occupants and pets, references, and a signed
+  certification authorising verification and credit or background checks where permitted by law.
 ---
 
 # Rental Application (template)

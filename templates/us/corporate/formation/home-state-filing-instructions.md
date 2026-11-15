@@ -7,7 +7,6 @@ type: checklist
 parties:
   - company
 tags:
-  - formation
   - home-state
   - filing
   - foreign-qualification

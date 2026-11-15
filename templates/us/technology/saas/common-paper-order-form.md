@@ -9,10 +9,8 @@ parties:
   - customer
 tags:
   - order-form
-  - saas
   - subscription
   - cover-page
-  - common-paper
 language: en
 source:
   name: Common Paper

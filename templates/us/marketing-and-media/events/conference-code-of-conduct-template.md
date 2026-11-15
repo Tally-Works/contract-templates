@@ -9,9 +9,10 @@ parties:
   - attendee
 tags:
   - code-of-conduct
-  - events
-  - anti-harassment
-  - confcodeofconduct
+  - harassment
+  - conference
+  - community
+  - incidents
 language: en
 source:
   name: confcodeofconduct.com

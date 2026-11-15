@@ -11,7 +11,6 @@ tags:
   - code-of-conduct
   - community
   - moderation
-  - github
 language: en
 source:
   name: GitHub

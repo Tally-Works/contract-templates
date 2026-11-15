@@ -5,12 +5,11 @@ category: partnerships
 subcategory: collaboration-and-mou
 type: agreement
 parties:
-  - epa
+  - agency
   - collaborator
 tags:
   - crada
   - materials
-  - epa
   - federal
 language: en
 source:
@@ -28,7 +27,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: EPA's interim materials CRADA template (September 2024).
+summary: >-
+  Short Materials Cooperative Research and Development Agreement between a US EPA Center
+  and a collaborator under the Federal Technology Transfer Act for transferring research
+  material in one or both directions with no other exchange of resources. Covers
+  alternative clauses for human-subjects and dual-use research review, no onward transfer,
+  proprietary business information, no warranty, a promise to negotiate a standard CRADA if
+  inventions arise, disputes, 30-day termination, term and a research plan appendix.
 ---
 
 **MATERIALS COOPERATIVE RESEARCH AND DEVELOPMENT AGREEMENT (MCRADA)**

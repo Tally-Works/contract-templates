@@ -8,10 +8,12 @@ parties:
   - company
   - user
 tags:
-  - acceptable-use
   - content-policy
   - platform
-  - github
+  - aup
+  - user-content
+  - spam
+  - moderation
 language: en
 source:
   name: GitHub

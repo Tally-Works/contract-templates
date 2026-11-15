@@ -9,8 +9,9 @@ parties:
   - employee
 tags:
   - confidentiality
-  - policy
-  - osio-labs
+  - handbook
+  - trade-secrets
+  - discipline
 language: en
 source:
   name: Osio Labs
@@ -24,7 +25,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' employee confidentiality policy.
+summary: >-
+  Osio Labs' employee confidentiality policy, a single paragraph requiring employees to keep company
+  confidential business information in strict confidence, with examples (customer names and projects, payments
+  including salaries, co-workers' information, company plans), applying to current and former employees and
+  backed by discipline up to termination.
 ---
 
 # Confidentiality

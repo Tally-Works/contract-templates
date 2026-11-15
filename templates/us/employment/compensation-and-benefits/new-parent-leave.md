@@ -10,8 +10,10 @@ parties:
 tags:
   - parental-leave
   - benefits
-  - policy
-  - sparksuite
+  - handbook
+  - unpaid-leave
+  - leave
+  - adoption
 language: en
 source:
   name: Sparksuite
@@ -26,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's new parent leave policy.
+summary: >-
+  Sparksuite's new parent leave policy for full- and part-time employees of any gender, giving up to 12 weeks
+  of unpaid leave for a birth, adoption or foster placement, to be used within one year, consecutively or
+  intermittently, with notice to and approval from the employee's manager; treated as a form of unpaid time
+  off.
 ---
 
 ## New parent leave

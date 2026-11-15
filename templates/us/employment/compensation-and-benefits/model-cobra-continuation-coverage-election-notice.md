@@ -12,7 +12,6 @@ tags:
   - election-notice
   - group-health-plan
   - benefits
-  - dol
   - model-notice
 language: en
 source:

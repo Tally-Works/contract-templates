@@ -8,10 +8,12 @@ parties:
   - provider
   - customer
 tags:
-  - acceptable-use
   - aup
   - saas
-  - bonterms
+  - cloud
+  - content-policy
+  - prohibited-conduct
+  - enterprise
 language: en
 source:
   name: Bonterms

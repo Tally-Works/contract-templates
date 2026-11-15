@@ -10,8 +10,9 @@ parties:
 tags:
   - dsa
   - eu
-  - notice
-  - tailscale
+  - legal-representative
+  - moderation
+  - transparency-report
 language: en
 source:
   name: Tailscale
@@ -27,7 +28,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Tailscale's notice under the EU Digital Services Act.
+summary: >-
+  Tailscale's notice under the EU Digital Services Act (Regulation (EU)
+  2022/2065) as a "mere conduit" intermediary service: its appointed legal
+  representative under Article 13 with contact details, a statement that
+  customers alone can decrypt their Traffic and Tailscale does not monitor it,
+  a transparency statement that no DSA orders have been received, and a single
+  point of contact at its Legal team.
 ---
 
 Last Updated: August 14, 2025

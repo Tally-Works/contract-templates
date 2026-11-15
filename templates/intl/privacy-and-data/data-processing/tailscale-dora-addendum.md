@@ -12,7 +12,6 @@ tags:
   - financial-services
   - eu
   - addendum
-  - tailscale
 language: en
 source:
   name: Tailscale

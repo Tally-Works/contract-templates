@@ -5,13 +5,12 @@ category: corporate
 subcategory: bylaws-and-resolutions
 type: resolution
 parties:
-  - stockholders
+  - stockholder
   - company
 tags:
   - stockholder-consent
   - written-consent
   - formation
-  - delaware
   - c-corp
 language: en
 source:

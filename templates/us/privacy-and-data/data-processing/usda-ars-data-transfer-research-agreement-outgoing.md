@@ -5,12 +5,11 @@ category: privacy-and-data
 subcategory: data-processing
 type: agreement
 parties:
-  - ars
+  - agency
   - recipient
 tags:
   - data-transfer
   - research
-  - usda
   - federal
 language: en
 source:

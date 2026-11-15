@@ -5,13 +5,15 @@ category: confidentiality
 subcategory: unilateral-nda
 type: agreement
 parties:
-  - nih
-  - recipient
+  - agency
+  - receiving-party
 tags:
-  - cda
-  - confidentiality
-  - nih
+  - nda
   - federal
+  - unilateral
+  - patent
+  - technology-transfer
+  - government
 language: en
 source:
   name: National Institutes of Health (Office of Technology Transfer)
@@ -27,7 +29,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: NIH's model confidential disclosure agreement (2015).
+summary: >-
+  One-way confidential disclosure agreement between an NIH Institute or Center
+  (IC) and a company receiving copies of the IC's patent application(s) to
+  assess interest in a licence. Six short paragraphs: need-to-know disclosure
+  and reasonable care, standard exclusions, no licence granted, no use for
+  filing patents or proceedings, a five-year obligation with return or
+  certified destruction, and a blank listing the applications; signed by the
+  company only.
 ---
 
 **CONFIDENTIAL DISCLOSURE AGREEMENT**

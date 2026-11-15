@@ -5,13 +5,12 @@ category: intellectual-property
 subcategory: licensing
 type: agreement
 parties:
-  - ars
+  - agency
   - counterparty
 tags:
   - mta
   - plant-material
   - research
-  - usda
   - federal
 language: en
 source:

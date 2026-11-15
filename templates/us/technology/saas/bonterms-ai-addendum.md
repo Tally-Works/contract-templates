@@ -12,9 +12,7 @@ tags:
   - machine-learning
   - training-data
   - addendum
-  - saas
   - standard-terms
-  - bonterms
 language: en
 source:
   name: Bonterms

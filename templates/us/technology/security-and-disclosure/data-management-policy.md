@@ -9,9 +9,13 @@ parties:
   - employee
 tags:
   - data-management
-  - infosec
-  - policy
-  - sourcegraph
+  - information-security
+  - data-classification
+  - data-retention
+  - data-disposal
+  - legal-hold
+  - company-policy
+  - handbook
 language: en
 source:
   name: Sourcegraph
@@ -26,7 +30,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sourcegraph's data management policy.
+summary: >-
+  Sourcegraph's internal data management policy for all company data and systems. Defines four classification levels
+  (Restricted, Private, Internal, Public) with examples and handling rules for each (need-to-know access, encryption,
+  device and backup controls, approved external transfers), plus labelling, retention, secure disposal, annual review
+  and legal holds, with a system-by-system data retention matrix and a classification rule matrix as appendices.
 ---
 
 # **Data Management Policy**

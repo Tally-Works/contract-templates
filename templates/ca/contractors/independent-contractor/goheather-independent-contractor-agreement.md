@@ -8,12 +8,11 @@ parties:
   - company
   - consultant
 tags:
-  - independent-contractor
+  - contractor
   - consulting
   - statement-of-work
   - non-compete
-  - non-solicit
-  - canada
+  - non-solicitation
   - build-notes
 language: en
 source:

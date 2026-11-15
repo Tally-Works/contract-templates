@@ -5,14 +5,13 @@ category: commercial
 subcategory: amendments-and-extensions
 type: agreement
 parties:
-  - consortium-members
+  - consortium-member
 tags:
   - lambert
   - variation
   - amendment
   - consortium
   - ipo
-  - crown-copyright
 language: en
 source:
   name: UK Intellectual Property Office (Lambert Toolkit)

@@ -6,13 +6,11 @@ subcategory: formation
 type: charter
 parties:
   - company
-  - members
+  - member
 tags:
   - model-articles
   - articles-of-association
   - company-limited-by-guarantee
-  - companies-house
-  - crown-copyright
 language: en
 source:
   name: Companies House

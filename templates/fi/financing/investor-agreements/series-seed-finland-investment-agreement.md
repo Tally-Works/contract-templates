@@ -6,13 +6,18 @@ subcategory: investor-agreements
 type: agreement
 parties:
   - company
-  - investors
+  - investor
 tags:
   - investment-agreement
   - seed
-  - series-seed-finland
-  - finland
+  - series-seed
+  - startup
+  - preferred-stock
+  - warranties
+  - arbitration
+  - pre-money-valuation
 language: en
+governing_law: Finland
 source:
   name: Startup Foundation (Series Seed Finland)
   url: https://www.startup-saatio.fi/seriesseed
@@ -28,7 +33,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Series Seed Finland 4.0 investment agreement.
+summary: >-
+  Investment agreement among founders, existing shareholders, seed investors and
+  a Finnish limited liability company (Oy) from the Series Seed Finland 4.0
+  package: investors subscribe for new Series Seed preferred shares at a stated
+  pre-money valuation. Covers the subscription table, closing and payment
+  deadline, founder and company warranties, liability caps and thresholds,
+  Compensatory Issue and Sale remedies, Finnish law and Helsinki arbitration.
 ---
 
 **INVESTMENT AGREEMENT**

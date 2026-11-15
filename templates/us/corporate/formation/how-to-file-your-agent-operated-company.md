@@ -7,8 +7,6 @@ type: checklist
 parties:
   - company
 tags:
-  - formation
-  - checklist
   - filing
   - ein
   - registered-agent

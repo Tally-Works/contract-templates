@@ -9,8 +9,9 @@ parties:
   - employee
 tags:
   - drug-and-alcohol
-  - policy
-  - clef
+  - handbook
+  - alcohol
+  - workplace-safety
 language: en
 source:
   name: Clef
@@ -24,7 +25,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Clef's drug and alcohol policy.
+summary: >-
+  Clef's drug and alcohol policy for employees, framed around preventing harassment and keeping work safe: each
+  employee must ensure their consumption does not make others uncomfortable, beer or wine may occasionally be
+  brought in for celebrations with office events otherwise presumed dry, illegal drugs are banned at work or
+  while representing Clef, and violations may lead to discipline up to termination.
 ---
 
 # Drug and Alcohol Policy

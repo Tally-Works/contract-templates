@@ -11,7 +11,6 @@ tags:
   - terms
   - fiscal-sponsorship
   - open-source
-  - commonhaus
 language: en
 source:
   name: Commonhaus Foundation

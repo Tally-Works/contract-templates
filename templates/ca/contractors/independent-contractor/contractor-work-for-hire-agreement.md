@@ -8,9 +8,13 @@ parties:
   - client
   - contractor
 tags:
-  - contractor
   - work-for-hire
-  - dot-legal
+  - freelance
+  - ip-assignment
+  - project
+  - deliverables
+  - fees
+  - termination
 language: en
 source:
   name: Dot Legal

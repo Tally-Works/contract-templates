@@ -11,10 +11,8 @@ tags:
   - public-procurement
   - model-services-contract
   - core-terms
-  - scotland
-  - cabinet-office
-  - crown-copyright
 language: en
+governing_law: Scotland
 source:
   name: UK Cabinet Office and Government Legal Department
   url: https://www.gov.uk/government/publications/the-model-services-contract-scotland

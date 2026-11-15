@@ -13,7 +13,6 @@ tags:
   - takedown
   - counter-notice
   - designated-agent
-  - creative-commons
 language: en
 source:
   name: Creative Commons

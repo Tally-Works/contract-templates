@@ -12,7 +12,6 @@ tags:
   - board
   - officers
   - ai-governance
-  - delaware
   - c-corp
 language: en
 source:

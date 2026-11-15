@@ -9,8 +9,11 @@ parties:
   - employee
 tags:
   - unpaid-leave
-  - policy
-  - sparksuite
+  - handbook
+  - pto
+  - accrual
+  - benefits
+  - pay
 language: en
 source:
   name: Sparksuite
@@ -25,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's unpaid time off policy.
+summary: >-
+  Sparksuite's employee-handbook unpaid time off policy using two buckets: a "quick review"
+  bucket accruing two weeks a year (capped at two weeks) and a case-by-case "more review"
+  bucket. Covers continuation of health benefits, the request and approval process, the
+  effect on work anniversary and PTO accrual, and how the pay reduction is calculated.
 ---
 
 ## Unpaid time off

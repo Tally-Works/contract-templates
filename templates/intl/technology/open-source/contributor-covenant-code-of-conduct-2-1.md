@@ -6,11 +6,13 @@ subcategory: open-source
 type: policy
 parties:
   - project
-  - contributors
+  - contributor
 tags:
   - code-of-conduct
-  - open-source
   - contributor-covenant
+  - community
+  - harassment
+  - moderation
 language: en
 source:
   name: Organization for Ethical Source (Contributor Covenant)

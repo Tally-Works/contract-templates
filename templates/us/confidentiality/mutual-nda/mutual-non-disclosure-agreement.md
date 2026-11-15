@@ -10,7 +10,6 @@ parties:
 tags:
   - nda
   - mutual
-  - confidentiality
   - startup
 language: en
 source:

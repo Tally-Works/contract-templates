@@ -4,9 +4,9 @@ This library will hold hundreds of templates. It stays useful only if every file
 
 ## 1. Before you add anything: licensing
 
-Only add a template if you can show we are allowed to redistribute **and** adapt it **and** do so commercially. goHeather is a business; a licence that allows only non-commercial use does not cover us.
+Only add a template whose licence allows everyone to redistribute it, adapt it and use it commercially. A licence that allows only non-commercial use does not qualify, because the people building contracts from this library are businesses.
 
-goHeather does not write templates for this library and never claims to; everything here was published by someone else, and the job of a contributor is to record who, where and under what licence.
+Apart from goHeather's own documents, every template here was published by someone else. A contributor's job is to record who, where and under what licence.
 
 | Situation | Add it? | `license` value |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ If a template you want is only available under terms that fail this table, leave
    npm run validate
    npm run build
    ```
-7. **Commit** the template, its `.docx`, and the regenerated `CATALOG.md`, `catalog.json`, `ATTRIBUTION.md` and `docs/taxonomy.md`. Commit message format:
+7. **Commit** the template, its `.docx`, and every regenerated file (`catalog.json`, `CATALOG.md`, `ATTRIBUTION.md`, `llms.txt`, `docs/taxonomy.md`, `docs/tags.md`, `schema/template.schema.json`). Commit message format:
    ```
    add(us/employment/executive): executive employment agreement
    update(ca/employment/offer-letters): fix ESA notice wording in Ontario offer letter

@@ -8,10 +8,10 @@ parties:
   - party-a
   - party-b
 tags:
-  - boilerplate
-  - clause
   - amendment
-  - dot-legal
+  - modification
+  - variation
+  - written-consent
 language: en
 source:
   name: Dot Legal

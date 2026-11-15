@@ -12,7 +12,6 @@ tags:
   - safe-harbor
   - security-research
   - vulnerability-disclosure
-  - github
 language: en
 source:
   name: GitHub

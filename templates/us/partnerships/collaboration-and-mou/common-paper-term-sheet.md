@@ -5,14 +5,13 @@ category: partnerships
 subcategory: collaboration-and-mou
 type: agreement
 parties:
-  - party-1
-  - party-2
+  - party-a
+  - party-b
 tags:
   - term-sheet
   - non-binding
   - confidentiality
   - commercial
-  - common-paper
 language: en
 source:
   name: Common Paper

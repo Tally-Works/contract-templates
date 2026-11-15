@@ -10,8 +10,10 @@ parties:
 tags:
   - education
   - benefits
-  - policy
-  - clef
+  - handbook
+  - professional-development
+  - mentorship
+  - conferences
 language: en
 source:
   name: Clef
@@ -25,7 +27,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Clef's continuing education benefit policy.
+summary: >-
+  Clef's continuing education policy for its employees, covering a $4,000 annual learning budget for courses,
+  conferences, books and travel (reduced to $2,000 in the first year or for mid-year hires), up to four hours a
+  week of work time for learning, company-arranged outside mentorship, and speaker support of up to $1,000 per
+  event up to four times a year, all approved by the employee's reporting founder.
 ---
 
 # Continuing Education

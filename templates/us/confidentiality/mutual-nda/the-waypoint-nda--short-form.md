@@ -6,8 +6,8 @@ subcategory: mutual-nda
 type: agreement
 variant: short-form
 parties:
-  - discloser
-  - recipient
+  - disclosing-party
+  - receiving-party
 tags:
   - nda
   - mutual
@@ -30,7 +30,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: The Waypoint NDA 4.0.1, short form.
+summary: >-
+  Short-form signature cover page for a mutual NDA between two parties that
+  incorporates the standard terms of The Waypoint NDA Version 4.0.1 published
+  at waypointnda.com rather than restating them. Blanks with instructions for
+  Purpose, Governing Law, optional Forum for Disputes and optional Term, then
+  signature pages for a First Party and Second Party (legal name, legal type,
+  signature, name, title, date, e-mail).
 ---
 
 **Standard Nondisclosure Agreement**

@@ -8,12 +8,10 @@ parties:
   - company
   - user
 tags:
-  - privacy-policy
   - gdpr
   - ccpa
   - saas
   - plain-english
-  - basecamp
 language: en
 source:
   name: Basecamp (37signals)

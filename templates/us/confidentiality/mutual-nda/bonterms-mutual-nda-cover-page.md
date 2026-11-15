@@ -5,13 +5,12 @@ category: confidentiality
 subcategory: mutual-nda
 type: form
 parties:
-  - discloser
-  - recipient
+  - disclosing-party
+  - receiving-party
 tags:
   - cover-page
   - nda
   - mutual
-  - bonterms
 language: en
 source:
   name: Bonterms

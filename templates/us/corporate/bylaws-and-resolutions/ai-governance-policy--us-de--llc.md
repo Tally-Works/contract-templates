@@ -11,7 +11,6 @@ tags:
   - ai-governance
   - ai-agent
   - manager-policy
-  - delaware
   - llc
 language: en
 source:

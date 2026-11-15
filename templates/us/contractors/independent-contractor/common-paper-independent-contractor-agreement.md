@@ -8,11 +8,9 @@ parties:
   - company
   - contractor
 tags:
-  - independent-contractor
   - freelance
   - statement-of-work
   - work-product
-  - common-paper
 language: en
 source:
   name: Common Paper

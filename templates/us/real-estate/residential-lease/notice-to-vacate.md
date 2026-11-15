@@ -10,7 +10,11 @@ parties:
 tags:
   - notice-to-vacate
   - termination
-  - pandadoc
+  - move-out
+  - lease-termination
+  - residential
+  - security-deposit
+  - notice-period
 language: en
 source:
   name: PandaDoc
@@ -25,7 +29,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Landlord's notice to a tenant to vacate.
+summary: >-
+  Written notice to vacate ending a residential tenancy, usable by either a landlord or a tenant, in letter form with
+  bracketed blanks. States the move-out date and the number of days' notice, leaves a slot for the landlord's grounds
+  and notice type where a state requires them, and asks for keys to be returned and a forwarding address given for
+  the security deposit. Notes that notice periods and grounds vary by state.
 ---
 
 # Notice to Vacate (template)

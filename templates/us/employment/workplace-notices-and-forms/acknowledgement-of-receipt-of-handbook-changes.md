@@ -10,7 +10,9 @@ parties:
 tags:
   - acknowledgment
   - handbook
-  - clef
+  - at-will
+  - receipt
+  - amendment
 language: en
 source:
   name: Clef
@@ -24,7 +26,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Employee acknowledgement of changes to the handbook.
+summary: >-
+  One-page signature form in which an employee acknowledges receiving and reading the
+  quarterly changes to the Clef Employee Handbook effective on a fill-in date, agrees to
+  ask a founder about any questions, and confirms that the handbook creates no contractual
+  obligations and may be revised at any time except the at-will employment policy. Includes
+  date, printed name and signature lines.
 ---
 
 # Acknowledgement of Receipt of Changes to the Employee Handbook

@@ -10,10 +10,8 @@ parties:
 tags:
   - nda
   - mutual
-  - confidentiality
   - standard-terms
   - cover-page
-  - common-paper
 language: en
 source:
   name: Common Paper

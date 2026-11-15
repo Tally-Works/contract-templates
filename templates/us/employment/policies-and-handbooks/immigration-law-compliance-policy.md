@@ -10,8 +10,9 @@ parties:
 tags:
   - immigration
   - i-9
-  - policy
-  - osio-labs
+  - handbook
+  - work-authorization
+  - employment-eligibility
 language: en
 source:
   name: Osio Labs
@@ -25,7 +26,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' immigration law compliance policy.
+summary: >-
+  Osio Labs' immigration law compliance policy, stating that the company employs US citizens and non-citizens
+  authorised to work in the United States without discriminating on citizenship or national origin, and
+  requiring each new US-resident employee to complete Form I-9 under the Immigration Reform and Control Act of
+  1986, with rules for rehired employees and similar documents for international employees.
 ---
 
 # Immigration Law Compliance

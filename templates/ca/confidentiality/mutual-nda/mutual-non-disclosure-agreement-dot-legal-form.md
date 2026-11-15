@@ -10,7 +10,8 @@ parties:
 tags:
   - nda
   - mutual
-  - dot-legal
+  - trade-secrets
+  - termination
 language: en
 source:
   name: Dot Legal
@@ -24,7 +25,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Mutual NDA form from the Dot Legal reference library.
+summary: >-
+  Mutual NDA cover form between two parties disclosing Confidential Information
+  for a stated Purpose: fill-in definitions for Purpose, Effective Date, Term,
+  Confidentiality Period, Governing Law and Jurisdiction (example: British
+  Columbia), signature blocks, and optional terms on prior disclosures, secrecy
+  of the relationship, termination for convenience and retroactive marking. The
+  substantive confidentiality and general terms are incorporated from
+  reference.legal.
 ---
 
 # Mutual Non-Disclosure Agreement

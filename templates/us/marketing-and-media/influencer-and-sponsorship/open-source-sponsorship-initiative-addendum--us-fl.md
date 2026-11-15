@@ -11,7 +11,6 @@ tags:
   - sponsorship
   - addendum
   - open-source
-  - commonhaus
 language: en
 source:
   name: Commonhaus Foundation

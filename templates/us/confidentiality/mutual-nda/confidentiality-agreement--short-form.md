@@ -12,7 +12,6 @@ tags:
   - nda
   - mutual
   - short-form
-  - confidentiality
   - individual
 language: en
 source:

@@ -5,13 +5,13 @@ category: confidentiality
 subcategory: unilateral-nda
 type: agreement
 parties:
-  - disclosing-entity
-  - recipient
+  - disclosing-party
+  - receiving-party
 tags:
   - nda
-  - one-way
-  - confidentiality
-  - documize
+  - unilateral
+  - proprietary-information
+  - short-form
 language: en
 source:
   name: Documize

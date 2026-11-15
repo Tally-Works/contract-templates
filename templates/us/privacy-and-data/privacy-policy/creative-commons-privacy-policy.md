@@ -8,11 +8,9 @@ parties:
   - organisation
   - user
 tags:
-  - privacy-policy
   - gdpr
-  - non-profit
+  - nonprofit
   - website
-  - creative-commons
 language: en
 source:
   name: Creative Commons

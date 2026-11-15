@@ -12,9 +12,6 @@ tags:
   - non-solicitation
   - restrictive-covenant
   - confidentiality
-  - employee
-  - south-carolina
-  - openagreements
 language: en
 source:
   name: OpenAgreements

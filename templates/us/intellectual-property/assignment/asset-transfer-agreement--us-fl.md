@@ -11,8 +11,8 @@ tags:
   - asset-transfer
   - trademark
   - open-source
-  - commonhaus
 language: en
+governing_law: Florida
 source:
   name: Commonhaus Foundation
   url: https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/asset-transfer-agreement.md

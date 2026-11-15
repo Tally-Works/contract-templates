@@ -9,7 +9,6 @@ parties:
   - employee
 tags:
   - nda
-  - employee
   - confidentiality
   - trade-secrets
   - at-will

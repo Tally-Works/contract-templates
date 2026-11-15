@@ -12,7 +12,6 @@ tags:
   - financing
   - transaction
   - startup
-  - openagreements
 language: en
 source:
   name: OpenAgreements

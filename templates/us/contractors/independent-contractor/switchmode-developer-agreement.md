@@ -11,7 +11,7 @@ tags:
   - software-developer
   - open-source
   - contractor
-  - ip
+  - intellectual-property
   - project-summary
   - hourly
 language: en

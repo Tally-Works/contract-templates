@@ -9,8 +9,13 @@ parties:
   - employee
 tags:
   - termination
-  - policy
-  - osio-labs
+  - handbook
+  - at-will
+  - resignation
+  - layoff
+  - cobra
+  - notice-period
+  - exit-interview
 language: en
 source:
   name: Osio Labs
@@ -24,7 +29,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' termination policy.
+summary: >-
+  Osio Labs' employee-handbook policy on termination of employment, defining resignation,
+  termination, layoff and retirement, restating at-will employment, and covering final
+  accrued pay and benefits continuation such as COBRA. A second section on how to quit asks
+  for at least two weeks' notice and lists steps: tying up loose ends, a resignation plan
+  with HR, last-paycheck details, returning company property and an exit interview.
 ---
 
 # Termination of Employment

@@ -14,7 +14,6 @@ tags:
   - emissions
   - addendum
   - standard-terms
-  - bonterms
 language: en
 source:
   name: Bonterms

@@ -12,8 +12,6 @@ tags:
   - at-will
   - startup
   - equity
-  - openagreements
-  - pennsylvania
 language: en
 source:
   name: OpenAgreements

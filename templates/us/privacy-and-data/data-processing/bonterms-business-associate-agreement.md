@@ -13,7 +13,6 @@ tags:
   - phi
   - healthcare
   - standard-terms
-  - bonterms
 language: en
 source:
   name: Bonterms

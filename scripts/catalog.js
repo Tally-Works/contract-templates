@@ -3,7 +3,7 @@
  * catalog.js — the librarian for the goHeather contract template library.
  *
  *   node scripts/catalog.js validate            check every template against taxonomy.yaml
- *   node scripts/catalog.js build [--check]     regenerate CATALOG.md, catalog.json, ATTRIBUTION.md, docs/taxonomy.md
+ *   node scripts/catalog.js build [--check]     regenerate catalog.json, CATALOG.md, ATTRIBUTION.md, llms.txt, docs/taxonomy.md, docs/tags.md, schema/template.schema.json
  *   node scripts/catalog.js new ...             create (or file an intake document as) a new template
  *
  * `npm run validate`, `npm run build`, `npm run check` and `npm run new -- ...` wrap these.
@@ -21,6 +21,12 @@ const CATALOG_MD = path.join(ROOT, 'CATALOG.md');
 const CATALOG_JSON = path.join(ROOT, 'catalog.json');
 const TAXONOMY_MD = path.join(ROOT, 'docs', 'taxonomy.md');
 const ATTRIBUTION_MD = path.join(ROOT, 'ATTRIBUTION.md');
+const LLMS_TXT = path.join(ROOT, 'llms.txt');
+const TAGS_MD = path.join(ROOT, 'docs', 'tags.md');
+const SCHEMA_JSON = path.join(ROOT, 'schema', 'template.schema.json');
+const REPO = 'Tally-Works/contract-templates';
+const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/main/`;
+const BLOB_BASE = `https://github.com/${REPO}/blob/main/`;
 
 const REQUIRED_FIELDS = [
   'title', 'jurisdiction', 'category', 'subcategory', 'type', 'parties', 'tags',
@@ -159,6 +165,7 @@ function validateTemplate(file, taxonomy) {
     else for (const item of v) if (!SEGMENT_RE.test(String(item))) errors.push(`${f} entry "${item}" must be kebab-case`);
   }
   if (Array.isArray(meta.tags) && meta.tags.length > 12) warnings.push(`${meta.tags.length} tags; keep it to the 10 most useful`);
+  if (Array.isArray(meta.tags) && meta.tags.length > 0 && meta.tags.length < 3) warnings.push(`${meta.tags.length} tag(s); give it at least 3`);
 
   // scalars
   if (meta.language && !LANG_RE.test(String(meta.language))) errors.push(`language "${meta.language}" must be an ISO 639-1 code such as en`);
@@ -290,34 +297,95 @@ function report(results) {
 // build
 // ---------------------------------------------------------------------------
 
+function jurisdictionName(j, taxonomy) {
+  const { country, subdivision } = splitJurisdiction(String(j || ''));
+  const info = taxonomy.jurisdictions[country];
+  if (!info) return String(j || '');
+  return subdivision ? `${info.name} (${country}-${subdivision})` : info.name;
+}
+
+// Section headings of the body: Markdown headings, or, where a document uses none, its bold-only lines.
+function outline(body) {
+  const clean = (t) => t.replace(/[*_`]+/g, '').replace(/\s+/g, ' ').trim();
+  let heads = [];
+  for (const line of body.split('\n')) {
+    const m = line.match(/^#{1,4}\s+(.+?)\s*#*\s*$/);
+    if (m) heads.push(clean(m[1]));
+  }
+  if (heads.length < 3) {
+    for (const line of body.split('\n')) {
+      const m = line.trim().match(/^\*\*([^*]{2,90})\*\*\.?$/);
+      if (m) heads.push(clean(m[1]));
+    }
+  }
+  heads = heads.filter((h) => h && h.length <= 120);
+  return [...new Set(heads)].slice(0, 80);
+}
+
+// Distinct [BRACKETED] fill-in fields in the body.
+function placeholders(body) {
+  const out = new Set();
+  for (const m of body.matchAll(/\[([A-Z][A-Z0-9][A-Z0-9 .,'’/&()-]{0,58})\]/g)) out.add(m[1].trim());
+  return [...out].slice(0, 80);
+}
+
 function buildCatalogJson(results, taxonomy) {
   const entries = results
     .filter((r) => r.meta && r.errors.length === 0)
     .map((r) => {
       const m = r.meta;
+      const docx = r.relPath.replace(/.md$/, '.docx');
+      const cat = taxonomy.categories[m.category] || { name: m.category, subcategories: {} };
+      const { country, subdivision } = splitJurisdiction(String(m.jurisdiction));
+      const body = r.body || '';
       return {
+        id: r.relPath.replace(/^templates\//, '').replace(/\.md$/, ''),
         path: r.relPath,
-        docx: r.relPath.replace(/.md$/, '.docx'),
+        docx,
         docx_is_publisher_original: Boolean(m.source && m.source.file),
+        url: BLOB_BASE + r.relPath,
+        raw_url: RAW_BASE + r.relPath,
+        docx_raw_url: RAW_BASE + docx,
         title: m.title,
         jurisdiction: m.jurisdiction,
+        jurisdiction_country: country,
+        jurisdiction_subdivision: subdivision || null,
+        jurisdiction_name: jurisdictionName(m.jurisdiction, taxonomy),
         category: m.category,
+        category_name: cat.name,
         subcategory: m.subcategory,
+        subcategory_description: (cat.subcategories || {})[m.subcategory] || null,
         type: m.type,
+        type_description: taxonomy.types[m.type] || null,
         variant: m.variant || null,
         parties: m.parties,
         tags: m.tags,
         language: m.language,
         governing_law: m.governing_law || null,
         license: m.license,
+        license_url: (taxonomy.license_urls || {})[m.license] || null,
         status: m.status,
         version: String(m.version),
         last_reviewed: String(m.last_reviewed),
+        reviewed_by: m.reviewed_by || null,
         summary: m.summary || null,
-        source: { name: m.source.name, url: m.source.url || null, file: m.source.file || null },
+        related: asList(m.related).map(String),
+        supersedes: m.supersedes ? String(m.supersedes) : null,
+        headings: outline(body),
+        placeholders: placeholders(body),
+        word_count: body.split(/\s+/).filter(Boolean).length,
+        source: { name: m.source.name, url: m.source.url || null, file: m.source.file || null, retrieved: String(m.source.retrieved || ''), notes: m.source.notes || null },
       };
     });
-  return JSON.stringify({ generated_from: 'taxonomy.yaml + templates/**', count: entries.length, templates: entries }, null, 2) + '\n';
+  return JSON.stringify({
+    schema_version: 2,
+    generated_from: 'taxonomy.yaml + templates/**',
+    repository: `https://github.com/${REPO}`,
+    raw_base: RAW_BASE,
+    schema: RAW_BASE + 'schema/template.schema.json',
+    count: entries.length,
+    templates: entries,
+  }, null, 2) + '\n';
 }
 
 function buildCatalogMd(results, taxonomy) {
@@ -454,7 +522,7 @@ function buildAttributionMd(results, taxonomy) {
   L.push('');
   L.push('<!-- GENERATED by scripts/catalog.js from each template\'s source and license fields. Do not edit by hand: run `npm run build`. -->');
   L.push('');
-  L.push('goHeather wrote only the templates listed under its own name at the end of this page, and publishes them under CC BY 4.0. Every other template was published by its original author under a licence that allows redistribution and adaptation, and this page credits each of them. If you are an author and the credit, licence or link is wrong, [open an issue](../../issues) and it will be fixed.');
+  L.push('Every template in this library was published by the author credited below, under the licence shown, which allows it to be redistributed and adapted. The templates goHeather wrote are listed under its own name at the end and are published under CC BY 4.0. If a credit, licence or link is wrong, [open an issue](../../issues) and it will be fixed.');
   L.push('');
   L.push('Where a template has been changed from the original, the change is described in the template\'s `source.notes` field.');
   L.push('');
@@ -491,6 +559,138 @@ function buildAttributionMd(results, taxonomy) {
   return L.join('\n');
 }
 
+function buildSchemaJson(taxonomy) {
+  const kebab = { type: 'string', pattern: '^[a-z0-9]+(-[a-z0-9]+)*$' };
+  const date = { type: 'string', pattern: '^\\d{4}-\\d{2}-\\d{2}$' };
+  const schema = {
+    $schema: 'https://json-schema.org/draft/2020-12/schema',
+    $id: RAW_BASE + 'schema/template.schema.json',
+    title: 'Contract template front-matter',
+    description: 'The YAML front-matter at the top of every template Markdown file in the contract-templates library. Generated from taxonomy.yaml; see docs/metadata.md.',
+    type: 'object',
+    required: REQUIRED_FIELDS,
+    additionalProperties: false,
+    properties: {
+      title: { type: 'string', minLength: 1, description: 'What a lawyer would call the document. No jurisdiction in the title.' },
+      jurisdiction: { type: 'string', pattern: '^(' + Object.keys(taxonomy.jurisdictions).join('|') + ')(-[A-Z0-9]{1,3})?$', description: 'Country code from taxonomy.yaml, optionally followed by an ISO 3166-2 subdivision, e.g. US, US-CA, CA-ON, GB-SCT. INTL is jurisdiction-neutral.' },
+      category: { type: 'string', enum: Object.keys(taxonomy.categories), description: 'Must match the folder.' },
+      subcategory: { type: 'string', enum: [...new Set(Object.values(taxonomy.categories).flatMap((c) => Object.keys(c.subcategories)))], description: 'A subcategory of the chosen category; must match the folder.' },
+      type: { type: 'string', enum: Object.keys(taxonomy.types), description: Object.entries(taxonomy.types).map(([k, v]) => k + ': ' + v).join(' ') },
+      variant: { ...kebab, description: 'Distinguishes two templates of the same kind in the same folder; must appear in the filename.' },
+      parties: { type: 'array', minItems: 1, items: kebab, description: 'Roles, not names: employer, employee, disclosing-party, licensee, landlord, tenant, company, investor.' },
+      tags: { type: 'array', minItems: 1, items: kebab, description: 'Search keywords; the current vocabulary is listed in docs/tags.md.' },
+      language: { type: 'string', pattern: '^[a-z]{2}(-[A-Z]{2})?$' },
+      governing_law: { type: 'string', description: 'Set only when the document itself fixes a governing law.' },
+      source: {
+        type: 'object', required: ['name', 'url', 'retrieved'], additionalProperties: false,
+        properties: {
+          name: { type: 'string', description: 'The publisher of the original. goHeather only for documents goHeather wrote.' },
+          url: { type: 'string', format: 'uri' },
+          file: { type: 'string', description: 'Set when the .docx beside the template is the publisher\'s original file; it is that path.' },
+          retrieved: date,
+          notes: { type: 'string', description: 'Licence evidence and anything changed from the original.' },
+        },
+      },
+      license: { type: 'string', enum: Object.keys(taxonomy.licenses), description: Object.entries(taxonomy.licenses).map(([k, v]) => k + ': ' + v).join(' ') },
+      status: { type: 'string', enum: Object.keys(taxonomy.statuses) },
+      version: { type: 'string', pattern: '^\\d+\\.\\d+\\.\\d+$' },
+      last_reviewed: date,
+      reviewed_by: { type: 'string' },
+      summary: { type: 'string', description: 'Plain-English description of what the document does and who it is between.' },
+      supersedes: { type: 'string' },
+      related: { type: 'array', items: { type: 'string' }, description: 'Repo paths of templates used together with this one.' },
+    },
+    allOf: Object.entries(taxonomy.categories).map(([key, cat]) => ({
+      if: { properties: { category: { const: key } }, required: ['category'] },
+      then: { properties: { subcategory: { enum: Object.keys(cat.subcategories) } } },
+    })),
+  };
+  return JSON.stringify(schema, null, 2) + '\n';
+}
+
+function buildTagsMd(results) {
+  const entries = results.filter((r) => r.meta && r.errors.length === 0);
+  const counts = new Map();
+  for (const e of entries) for (const t of e.meta.tags || []) counts.set(String(t), (counts.get(String(t)) || 0) + 1);
+  const rows = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+  const L = [];
+  L.push('# Tags');
+  L.push('');
+  L.push('<!-- GENERATED by scripts/catalog.js from the templates\' tags. Do not edit by hand: run `npm run build`. -->');
+  L.push('');
+  L.push(`${rows.length} tags across ${entries.length} templates. A tag is a search keyword; jurisdiction, category, subcategory, type and parties are separate fields and are not repeated as tags.`);
+  L.push('');
+  L.push('| Tag | Templates |');
+  L.push('| --- | ---: |');
+  for (const [t, n] of rows) L.push(`| \`${t}\` | ${n} |`);
+  L.push('');
+  return L.join('\n');
+}
+
+function buildLlmsTxt(results, taxonomy) {
+  const entries = results.filter((r) => r.meta && r.errors.length === 0);
+  const L = [];
+  L.push('# Contract Templates');
+  L.push('');
+  L.push(`> ${entries.length} openly licensed contract templates, filed by jurisdiction, category and subcategory, each a Markdown file with YAML front-matter and a Word file beside it. Maintained by goHeather (Tally Works Inc.). Every template is reproduced under its publisher's own licence and credited in ATTRIBUTION.md; the few goHeather wrote are CC BY 4.0.`);
+  L.push('');
+  L.push('Generated by scripts/catalog.js on every build, so the counts below are current.');
+  L.push('');
+  L.push('## How to find a template');
+  L.push('');
+  L.push(`1. Fetch ${RAW_BASE}catalog.json. It has one entry per template with: id, path, raw_url, docx_raw_url, title, jurisdiction, category, subcategory, type, parties, tags, governing_law, summary, headings (the document's section outline), placeholders (its [BRACKETED] fill-in fields), license, license_url and source.`);
+  L.push('2. Filter by jurisdiction first (country code, or country-subdivision such as US-CA; INTL templates are written for any jurisdiction), then by category and subcategory, then by parties and tags. Read the summary and headings to choose between candidates.');
+  L.push('3. Fetch the template at its raw_url. The body after the front-matter is the full text of the document as its publisher released it, notices and credits included.');
+  L.push('4. The Word file at docx_raw_url is the publisher\'s original where docx_is_publisher_original is true, otherwise a faithful conversion of the Markdown.');
+  L.push('');
+  L.push(`Any file in the repository can be fetched at ${RAW_BASE}<path>.`);
+  L.push('');
+  L.push('## Using what you fetch');
+  L.push('');
+  L.push('- Each template carries the licence its publisher chose (license and license_url in its entry). Keep the publisher\'s notices and credit lines when you build a document from it.');
+  L.push('- Every template has status draft unless reviewed_by names a reviewer. These are forms, not legal advice; a lawyer in the user\'s jurisdiction should review a document before it is signed.');
+  L.push('- Replace every placeholder and remove drafting notes before a document is used.');
+  L.push('- Templates with type clause-library are instructions for assembling a document (question, options, exact text per option, default), not documents to sign.');
+  L.push('');
+  L.push('## Index files');
+  L.push('');
+  L.push(`- [catalog.json](${RAW_BASE}catalog.json): machine-readable index of every template.`);
+  L.push(`- [CATALOG.md](${RAW_BASE}CATALOG.md): the same index as tables, grouped by jurisdiction, category and subcategory.`);
+  L.push(`- [taxonomy.yaml](${RAW_BASE}taxonomy.yaml): every allowed jurisdiction, category, subcategory, type, status and licence, with definitions.`);
+  L.push(`- [schema/template.schema.json](${RAW_BASE}schema/template.schema.json): JSON Schema for the front-matter.`);
+  L.push(`- [docs/tags.md](${RAW_BASE}docs/tags.md): every tag with its count.`);
+  L.push(`- [docs/metadata.md](${RAW_BASE}docs/metadata.md): what each front-matter field means.`);
+  L.push(`- [ATTRIBUTION.md](${RAW_BASE}ATTRIBUTION.md): every publisher, with licence and original URL per template.`);
+  L.push(`- [README.md](${RAW_BASE}README.md): the human introduction.`);
+  L.push('');
+  L.push('## Jurisdictions');
+  L.push('');
+  for (const [code, info] of Object.entries(taxonomy.jurisdictions)) {
+    const n = entries.filter((e) => splitJurisdiction(e.meta.jurisdiction).country === code).length;
+    if (n) L.push(`- ${code}: ${info.name}, ${n} templates`);
+  }
+  L.push('');
+  L.push('## Categories and subcategories');
+  L.push('');
+  for (const [key, cat] of Object.entries(taxonomy.categories)) {
+    const n = entries.filter((e) => e.meta.category === key).length;
+    L.push(`- ${key} (${cat.name}, ${n}): ${cat.description}`);
+    for (const [sub, desc] of Object.entries(cat.subcategories)) {
+      const k = entries.filter((e) => e.meta.category === key && e.meta.subcategory === sub).length;
+      if (k) L.push(`  - ${sub} (${k}): ${desc}`);
+    }
+  }
+  L.push('');
+  L.push('## Document types');
+  L.push('');
+  for (const [t, d] of Object.entries(taxonomy.types)) {
+    const n = entries.filter((e) => e.meta.type === t).length;
+    if (n) L.push(`- ${t} (${n}): ${d}`);
+  }
+  L.push('');
+  return L.join('\n');
+}
+
 function build(taxonomy, check) {
   const results = validateAll(taxonomy);
   const ok = report(results);
@@ -503,6 +703,9 @@ function build(taxonomy, check) {
     [CATALOG_JSON, buildCatalogJson(results, taxonomy)],
     [TAXONOMY_MD, buildTaxonomyMd(taxonomy)],
     [ATTRIBUTION_MD, buildAttributionMd(results, taxonomy)],
+    [LLMS_TXT, buildLlmsTxt(results, taxonomy)],
+    [TAGS_MD, buildTagsMd(results)],
+    [SCHEMA_JSON, buildSchemaJson(taxonomy)],
   ];
   let stale = false;
   for (const [file, content] of outputs) {
@@ -512,6 +715,7 @@ function build(taxonomy, check) {
       console.error(`${rel(file)} is out of date. Run \`npm run build\` and commit the result.`);
       stale = true;
     } else {
+      fs.mkdirSync(path.dirname(file), { recursive: true });
       fs.writeFileSync(file, content);
       console.log(`wrote ${rel(file)}`);
     }

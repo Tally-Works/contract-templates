@@ -6,12 +6,14 @@ subcategory: open-source
 type: charter
 parties:
   - project
-  - contributors
+  - contributor
 tags:
   - governance
   - subprojects
-  - open-source
-  - cncf
+  - steering-committee
+  - elections
+  - community
+  - cloud-native
 language: en
 source:
   name: CNCF

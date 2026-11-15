@@ -11,7 +11,6 @@ tags:
   - ai-governance
   - ai-agent
   - board-policy
-  - delaware
   - c-corp
 language: en
 source:

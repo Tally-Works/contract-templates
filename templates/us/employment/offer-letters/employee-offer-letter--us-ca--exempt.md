@@ -10,7 +10,6 @@ parties:
   - employee
 tags:
   - offer-letter
-  - california
   - exempt
   - at-will
   - arbitration

@@ -9,8 +9,9 @@ parties:
   - employee
 tags:
   - remote-work
-  - policy
-  - clef
+  - handbook
+  - work-from-home
+  - hybrid
 language: en
 source:
   name: Clef
@@ -24,7 +25,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Clef's remote-work policy.
+summary: >-
+  Clef's handbook policy on occasional remote work by co-located employees (working from
+  home or up to one week a month away), treating it as a privilege. Covers expectations for
+  a remote workday, extended remote work of more than two days (manager approval two weeks
+  ahead, seven days' team notice, preparation checklist, a $10/day co-working subsidy),
+  weekly 1:1 check-ins, post-trip retrospectives and loss of the privilege.
 ---
 
 # Working Remotely

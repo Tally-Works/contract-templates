@@ -6,13 +6,12 @@ subcategory: convertible-and-safe
 type: agreement
 parties:
   - company
-  - investors
+  - investor
 tags:
   - term-sheet
   - convertible-note
   - seed
   - series-seed-notes
-  - delaware
 language: en
 source:
   name: Cooley LLP (Series Seed fork)

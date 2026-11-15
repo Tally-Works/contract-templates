@@ -8,8 +8,13 @@ parties:
   - company
   - user
 tags:
-  - privacy-policy
-  - dot-legal
+  - privacy
+  - ccpa
+  - gdpr
+  - cookies
+  - website
+  - children
+  - data-transfer
 language: en
 source:
   name: Dot Legal
@@ -23,7 +28,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Privacy policy form from the Dot Legal reference library.
+summary: >-
+  Privacy policy fill-in form for a company's products and services, addressed
+  to its users: a checklist of CCPA personal-information categories, how
+  information is collected (directly, automatically, cookies, third parties),
+  purposes and retention, legal bases, sharing with service providers,
+  affiliates and advertisers, cross-border storage, security, children under
+  13, CCPA and GDPR rights and contact, with several sections incorporated from
+  reference.legal.
 ---
 
 # Privacy Policy

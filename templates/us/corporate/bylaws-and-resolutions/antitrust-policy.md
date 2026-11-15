@@ -6,12 +6,14 @@ subcategory: bylaws-and-resolutions
 type: policy
 parties:
   - foundation
-  - members
+  - member
 tags:
   - antitrust
-  - policy
   - nonprofit
-  - commonhaus
+  - compliance
+  - open-source
+  - governance
+  - competition
 language: en
 source:
   name: Commonhaus Foundation
@@ -26,7 +28,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Commonhaus Foundation's antitrust policy.
+summary: >-
+  Commonhaus Foundation's antitrust policy for members and other participants
+  in its activities. Short sections on purpose, scope, compliance commitment,
+  general principles listing topics to avoid (pricing, dividing markets,
+  boycotts, limiting supply), open participation, reporting suspected
+  violations to the report mailing list for Council investigation,
+  consequences up to loss of membership, periodic review and member
+  acknowledgment on joining.
 ---
 
 # Commonhaus Foundation Antitrust Policy

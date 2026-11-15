@@ -6,14 +6,12 @@ subcategory: investor-agreements
 type: agreement
 parties:
   - company
-  - investors
+  - investor
 tags:
   - term-sheet
   - seed
   - preferred-stock
   - series-seed
-  - delaware
-  - bloomberg-beta
 language: en
 source:
   name: Bloomberg Beta

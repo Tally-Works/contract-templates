@@ -9,8 +9,10 @@ parties:
   - employee
 tags:
   - office-closures
-  - policy
-  - sparksuite
+  - handbook
+  - remote-work
+  - utility-outage
+  - business-continuity
 language: en
 source:
   name: Sparksuite
@@ -25,7 +27,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's office closure policy.
+summary: >-
+  Sparksuite's employee-handbook policy on partial and full office closures caused by loss
+  of power, internet or water: the utility-outage thresholds that trigger each type of
+  closure, the option to work remotely (without using a remote day) or take time off,
+  notification via Slack, and the statement that no extra benefits are granted for a
+  closure.
 ---
 
 ## Office closures

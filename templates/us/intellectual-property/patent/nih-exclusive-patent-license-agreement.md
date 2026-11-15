@@ -5,12 +5,11 @@ category: intellectual-property
 subcategory: patent
 type: agreement
 parties:
-  - nih
+  - agency
   - licensee
 tags:
   - patent-license
   - exclusive
-  - nih
   - federal
 language: en
 source:
@@ -27,7 +26,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: NIH model exclusive patent licence (rev. September 2024).
+summary: >-
+  Public Health Service model exclusive patent licence between an NIH Institute or Center
+  and a company licensee for government-owned inventions, running to expiry of the last
+  licensed patent. Covers the exclusive grant, sublicensing with IC approval, reserved
+  government and research licences, US manufacturing, issue, minimum, earned, benchmark
+  and sublicensing royalties, patent-cost reimbursement, annual progress and semi-annual
+  royalty reports, infringement suits, indemnity, termination and appeals; appendices give
+  royalty terms, an example royalty report and September 2024 payment instructions.
 ---
 
 **PUBLIC HEALTH SERVICE**

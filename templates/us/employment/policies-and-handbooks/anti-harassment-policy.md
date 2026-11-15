@@ -9,8 +9,11 @@ parties:
   - employee
 tags:
   - harassment
-  - policy
-  - osio-labs
+  - handbook
+  - discrimination
+  - sexual-harassment
+  - eeo
+  - respectful-workplace
 language: en
 source:
   name: Osio Labs
@@ -24,7 +27,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' anti-harassment policy.
+summary: >-
+  Osio Labs' harassment policy for employees, prohibiting discrimination and harassment based on listed
+  protected characteristics, defining harassment and sexual harassment (including quid pro quo and hostile
+  environment conduct), and listing examples of prohibited behaviour; applies to conduct toward employees,
+  contractors and others the company interacts with.
 ---
 
 # Harassment Policy

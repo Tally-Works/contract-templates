@@ -5,12 +5,11 @@ category: partnerships
 subcategory: collaboration-and-mou
 type: schedule
 parties:
-  - epa
+  - agency
   - collaborator
 tags:
   - statement-of-work
   - crada
-  - epa
   - federal
 language: en
 source:
@@ -29,7 +28,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: EPA's statement of work template for a CRADA (July 2024).
+summary: >-
+  Statement of work outline for a Cooperative Research and Development Agreement between a
+  US EPA laboratory or office and a company, with instructions and examples for each
+  heading: project title, goal, approach broken into tasks with laboratory and cooperator
+  responsibilities, in-kind and cash resource contributions from each side, and end
+  products with a month-by-month timeline.
 ---
 
 **EPA - Cooperator Name - CRADA #**

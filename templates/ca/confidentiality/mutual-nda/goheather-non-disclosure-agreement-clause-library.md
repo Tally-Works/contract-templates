@@ -9,13 +9,11 @@ parties:
   - receiving-party
 tags:
   - nda
-  - clause-library
   - question-flow
   - developer-guide
   - unilateral
   - mutual
   - multi-party
-  - canada
 language: en
 source:
   name: goHeather

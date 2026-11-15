@@ -9,8 +9,9 @@ parties:
   - employee
 tags:
   - discipline
-  - policy
-  - osio-labs
+  - handbook
+  - misconduct
+  - termination
 language: en
 source:
   name: Osio Labs
@@ -24,7 +25,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' disciplinary policy.
+summary: >-
+  Osio Labs' disciplinary action policy for employees, stating that discipline is decided case by case, usually
+  starting with a conversation, and may include a verbal warning, written warning, suspension with or without
+  pay or termination depending on severity and frequency, with the company reserving discretion and the right
+  to terminate immediately for serious conduct.
 ---
 
 # Disciplinary Action

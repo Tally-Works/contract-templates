@@ -5,12 +5,11 @@ category: confidentiality
 subcategory: mutual-nda
 type: agreement
 parties:
-  - epa
+  - agency
   - counterparty
 tags:
   - nda
   - mutual
-  - epa
   - federal
 language: en
 source:

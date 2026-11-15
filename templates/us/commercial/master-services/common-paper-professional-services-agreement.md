@@ -13,7 +13,6 @@ tags:
   - statement-of-work
   - consulting
   - standard-terms
-  - common-paper
 language: en
 source:
   name: Common Paper

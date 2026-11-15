@@ -6,15 +6,13 @@ subcategory: investor-agreements
 type: agreement
 parties:
   - company
-  - investors
+  - investor
 tags:
   - stock-purchase
   - seed
   - preferred-stock
   - series-seed
   - investor-rights
-  - delaware
-  - bloomberg-beta
 language: en
 source:
   name: Bloomberg Beta

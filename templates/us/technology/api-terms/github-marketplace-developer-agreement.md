@@ -13,8 +13,8 @@ tags:
   - api
   - app-store
   - revenue-share
-  - github
 language: en
+governing_law: California
 source:
   name: GitHub
   url: https://github.com/github/site-policy/blob/main/Policies/github-terms/github-marketplace-developer-agreement.md

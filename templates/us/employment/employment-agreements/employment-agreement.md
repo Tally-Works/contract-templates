@@ -14,7 +14,6 @@ tags:
   - equity
   - bonus
   - confidentiality
-  - skala
 language: en
 source:
   name: Skala

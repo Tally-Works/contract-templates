@@ -8,11 +8,9 @@ parties:
   - company
   - user
 tags:
-  - eula
   - open-source
   - desktop-app
   - software-terms
-  - github
 language: en
 source:
   name: GitHub

@@ -9,8 +9,11 @@ parties:
   - customer
 tags:
   - product-terms
-  - saas
-  - tailscale
+  - access-control
+  - privileged-access
+  - monitoring
+  - session-recording
+  - security
 language: en
 source:
   name: Tailscale

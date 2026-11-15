@@ -8,11 +8,9 @@ parties:
   - incorporator
   - company
 tags:
-  - incorporator
   - written-consent
   - bylaws-adoption
   - board-appointment
-  - delaware
   - c-corp
 language: en
 source:

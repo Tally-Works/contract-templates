@@ -7,7 +7,6 @@ type: checklist
 parties:
   - company
 tags:
-  - formation
   - delaware
   - filing
   - division-of-corporations

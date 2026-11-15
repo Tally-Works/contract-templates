@@ -13,7 +13,6 @@ tags:
   - officer
   - director
   - startup
-  - openagreements
 language: en
 source:
   name: OpenAgreements

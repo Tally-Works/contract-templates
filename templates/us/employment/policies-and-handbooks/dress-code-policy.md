@@ -9,8 +9,8 @@ parties:
   - employee
 tags:
   - dress-code
-  - policy
-  - sparksuite
+  - handbook
+  - attire
 language: en
 source:
   name: Sparksuite
@@ -25,7 +25,10 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's dress code policy.
+summary: >-
+  Sparksuite's dress code policy, a short statement that the company has a relaxed dress code with no business
+  attire required, while asking employees not to wear clothing that is revealing, falling apart, noticeably
+  dirty or unnecessarily disruptive.
 ---
 
 ## Dress code

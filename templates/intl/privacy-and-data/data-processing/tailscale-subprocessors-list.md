@@ -10,7 +10,12 @@ parties:
 tags:
   - subprocessors
   - dpa
-  - tailscale
+  - gdpr
+  - processor
+  - cloud
+  - ai
+  - data-transfer
+  - saas
 language: en
 source:
   name: Tailscale
@@ -26,7 +31,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Tailscale's list of subprocessors, an exhibit to its DPA.
+summary: >-
+  Tailscale's subprocessor list referenced by its Data Processing Addendum,
+  dated 2026-08-26: a single table of ten subprocessors (cloud hosting, DERP
+  relay operators, data warehouse, support tooling, AI gateway and model
+  providers) with columns for which products each applies to, purpose of
+  processing, categories of data processed and location, followed by footnotes
+  on Customer AI Content, DERP relays and PAM Data.
 ---
 
 **Last Updated: 2026-08-26**

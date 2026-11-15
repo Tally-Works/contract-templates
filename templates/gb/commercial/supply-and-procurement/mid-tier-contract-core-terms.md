@@ -9,10 +9,8 @@ parties:
   - supplier
 tags:
   - public-procurement
-  - mid-tier-contract
+  - mid-tier
   - core-terms
-  - cabinet-office
-  - crown-copyright
 language: en
 source:
   name: UK Cabinet Office and Government Legal Department

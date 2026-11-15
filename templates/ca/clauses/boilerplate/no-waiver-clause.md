@@ -8,10 +8,9 @@ parties:
   - party-a
   - party-b
 tags:
-  - boilerplate
-  - clause
   - no-waiver
-  - dot-legal
+  - waiver
+  - remedies
 language: en
 source:
   name: Dot Legal

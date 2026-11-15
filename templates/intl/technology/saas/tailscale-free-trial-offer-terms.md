@@ -9,8 +9,9 @@ parties:
   - customer
 tags:
   - free-trial
-  - saas
-  - tailscale
+  - trial
+  - subscription
+  - limitation-of-liability
 language: en
 source:
   name: Tailscale
@@ -26,7 +27,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Tailscale's terms for free trials.
+summary: >-
+  Tailscale's terms for its 14-day free trial, open only to new accounts
+  created with a work or custom email domain and layered on its Terms of
+  Service. One paragraph covering eligibility (no existing, upgraded or
+  reseller accounts; one per person), internal business testing use only, the
+  need to buy a Plan at the end, "as is" provision with the DPA and SLA not
+  applying, a $100 liability cap and Tailscale's right to change or end the
+  offer.
 ---
 
 **Tailscale 14-Day Free Trial Offer Terms and Conditions**

@@ -11,7 +11,6 @@ tags:
   - lease
   - residential
   - fixed-term
-  - pandadoc
 language: en
 source:
   name: PandaDoc
@@ -26,7 +25,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Fixed-term residential lease agreement.
+summary: >-
+  Short fixed-term residential lease between a landlord and tenant, laid out as twelve bracketed fill-in clauses:
+  premises, start and end dates, monthly rent with grace period and late fee, security deposit and return period,
+  named occupants, utilities split, maintenance and habitability, pets, landlord entry on notice, termination and
+  renewal, state and federal disclosures such as lead paint for pre-1978 housing, and governing state law.
 ---
 
 # Residential Lease Agreement (template)

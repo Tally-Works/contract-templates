@@ -11,7 +11,6 @@ tags:
   - terms-of-service
   - saas
   - plain-english
-  - basecamp
 language: en
 source:
   name: Basecamp (37signals)

@@ -9,9 +9,11 @@ parties:
   - customer
 tags:
   - cover-page
-  - software-license
   - key-terms
-  - bonterms
+  - on-premise
+  - licensed-software
+  - governing-law
+  - enterprise
 language: en
 source:
   name: Bonterms

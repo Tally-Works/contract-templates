@@ -11,9 +11,7 @@ parties:
 tags:
   - nda
   - mutual
-  - confidentiality
   - plain-english
-  - advottic
 language: en
 source:
   name: Advottic (Techno Optics LLC)

@@ -6,8 +6,8 @@ subcategory: mutual-nda
 type: agreement
 variant: long-form
 parties:
-  - discloser
-  - recipient
+  - disclosing-party
+  - receiving-party
 tags:
   - nda
   - mutual

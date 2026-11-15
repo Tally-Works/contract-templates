@@ -12,7 +12,6 @@ tags:
   - pre-litigation
   - consumer
   - small-claims
-  - advottic
 language: en
 source:
   name: Advottic (Techno Optics LLC)

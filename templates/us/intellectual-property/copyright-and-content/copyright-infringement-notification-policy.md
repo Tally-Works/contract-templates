@@ -13,7 +13,6 @@ tags:
   - takedown
   - counter-notice
   - saas
-  - basecamp
 language: en
 source:
   name: Basecamp (37signals)

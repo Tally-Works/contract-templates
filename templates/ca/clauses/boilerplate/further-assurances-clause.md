@@ -8,10 +8,9 @@ parties:
   - party-a
   - party-b
 tags:
-  - boilerplate
-  - clause
   - further-assurances
-  - dot-legal
+  - cooperation
+  - additional-documents
 language: en
 source:
   name: Dot Legal

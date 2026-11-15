@@ -9,7 +9,6 @@ parties:
   - company
   - user
 tags:
-  - privacy-policy
   - ccpa
   - cpra
   - state-privacy-laws

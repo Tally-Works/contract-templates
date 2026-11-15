@@ -14,7 +14,6 @@ tags:
   - university-industry
   - studentship
   - ipo
-  - crown-copyright
 language: en
 source:
   name: UK Intellectual Property Office (Lambert Toolkit)

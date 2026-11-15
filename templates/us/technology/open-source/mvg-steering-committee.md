@@ -6,13 +6,11 @@ subcategory: open-source
 type: charter
 parties:
   - organisation
-  - contributors
+  - contributor
 tags:
   - governance
   - steering-committee
-  - open-source
   - mvg
-  - github
 language: en
 source:
   name: GitHub

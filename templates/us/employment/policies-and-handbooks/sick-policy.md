@@ -9,8 +9,10 @@ parties:
   - employee
 tags:
   - sick-leave
-  - policy
-  - sparksuite
+  - handbook
+  - contagious-disease
+  - remote-work
+  - workplace-safety
 language: en
 source:
   name: Sparksuite
@@ -25,7 +27,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's sick leave policy.
+summary: >-
+  Sparksuite's short employee-handbook sick policy asking employees with symptoms of a
+  contagious disease to take time off or work from home until 24 hours after symptoms end,
+  to work from home for the CDC-recommended period after a positive test without symptoms,
+  and to get tested after significant exposure.
 ---
 
 ## Sick policy

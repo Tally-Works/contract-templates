@@ -11,7 +11,6 @@ tags:
   - cla
   - contributor-agreement
   - copyright-assignment
-  - open-source
   - harmony
 language: en
 source:

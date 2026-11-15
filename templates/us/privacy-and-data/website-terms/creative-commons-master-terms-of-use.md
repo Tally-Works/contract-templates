@@ -8,11 +8,10 @@ parties:
   - organisation
   - user
 tags:
-  - terms-of-use
+  - terms-of-service
   - website
-  - non-profit
+  - nonprofit
   - plain-english
-  - creative-commons
 language: en
 source:
   name: Creative Commons

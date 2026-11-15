@@ -9,10 +9,8 @@ parties:
   - customer
 tags:
   - order-form
-  - saas
   - subscription
   - fees
-  - bonterms
 language: en
 source:
   name: Bonterms

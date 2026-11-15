@@ -14,7 +14,6 @@ tags:
   - referral
   - trademark-license
   - standard-terms
-  - common-paper
 language: en
 source:
   name: Common Paper

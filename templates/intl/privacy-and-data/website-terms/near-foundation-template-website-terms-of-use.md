@@ -8,9 +8,12 @@ parties:
   - company
   - user
 tags:
-  - terms-of-use
+  - terms-of-service
   - website
-  - near-foundation
+  - web3
+  - user-content
+  - arbitration
+  - intellectual-property
 language: en
 source:
   name: NEAR Foundation

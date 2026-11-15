@@ -11,7 +11,6 @@ tags:
   - crada
   - materials
   - research-collaboration
-  - nih
   - federal
 language: en
 source:
@@ -28,7 +27,15 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: NIH model materials CRADA (rev. 2012).
+summary: >-
+  NIH model Materials Cooperative Research and Development Agreement (M-CRADA) under which a
+  collaborator transfers research material not otherwise available to an NIH investigator
+  for a research plan, with no other exchange of resources. Covers human-origin material
+  questions, acknowledgement and three-year confidentiality, 30-day publication review,
+  no onward transfer, no warranty, reporting of subject inventions, the collaborator's
+  exclusive option to a PHS commercialization licence, reserved government licences,
+  disputes, 60-day termination and a 12-month term, plus signature, contacts and summary
+  pages.
 ---
 
 **NATIONAL INSTITUTES OF HEALTH**

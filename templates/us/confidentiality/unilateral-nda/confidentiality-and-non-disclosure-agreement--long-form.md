@@ -6,12 +6,11 @@ subcategory: unilateral-nda
 type: agreement
 variant: long-form
 parties:
-  - disclosing-company
-  - recipient
+  - disclosing-party
+  - receiving-party
 tags:
   - nda
-  - one-way
-  - confidentiality
+  - unilateral
   - corporate
   - trade-secrets
 language: en

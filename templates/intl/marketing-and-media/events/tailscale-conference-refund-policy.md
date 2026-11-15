@@ -8,9 +8,11 @@ parties:
   - organiser
   - attendee
 tags:
-  - events
   - refund
-  - tailscale
+  - conference
+  - tickets
+  - ticket-transfer
+  - event-terms
 language: en
 source:
   name: Tailscale
@@ -26,7 +28,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Tailscale's refund policy for its conferences.
+summary: >-
+  Tailscale's refund policy for its TailscaleUp conference, addressed to ticket
+  buyers: all ticket purchases (early bird, general admission, promotional) are
+  final and non-refundable; a ticket may be transferred to another eligible
+  person at no cost by emailing the events team with the order number and the
+  new attendee's details at least 7 days before the event. Four short
+  paragraphs.
 ---
 
 ## TAILSCALEUP CONFERENCE REFUND POLICY

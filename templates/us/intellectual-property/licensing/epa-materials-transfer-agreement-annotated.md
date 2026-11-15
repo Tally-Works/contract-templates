@@ -11,7 +11,6 @@ tags:
   - mta
   - materials
   - research
-  - epa
   - federal
 language: en
 source:

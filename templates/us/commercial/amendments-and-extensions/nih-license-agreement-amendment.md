@@ -5,12 +5,11 @@ category: commercial
 subcategory: amendments-and-extensions
 type: form
 parties:
-  - nih
+  - agency
   - licensee
 tags:
   - amendment
   - license
-  - nih
   - federal
 language: en
 source:

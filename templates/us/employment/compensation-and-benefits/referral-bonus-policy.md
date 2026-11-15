@@ -10,8 +10,10 @@ parties:
 tags:
   - referral-bonus
   - benefits
-  - policy
-  - clef
+  - handbook
+  - recruiting
+  - bonus
+  - referral
 language: en
 source:
   name: Clef
@@ -25,7 +27,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Clef's employee referral bonus policy.
+summary: >-
+  Clef's employee referral bonus policy, offering a $5,000 bonus for any new hire from an employee referral.
+  Covers who is eligible (all employees except founders), conditions (referral after the job is posted, hire
+  within 180 days, first contact and first referrer only, referrer still employed for the hire's first 30
+  days), payment within 90 days, and how open positions are shared with the team.
 ---
 
 # Referral Bonuses

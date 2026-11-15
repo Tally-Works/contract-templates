@@ -8,9 +8,13 @@ parties:
   - landlord
   - tenant
 tags:
-  - checklist
   - lease-signing
-  - pandadoc
+  - lease
+  - residential
+  - security-deposit
+  - disclosure
+  - lead-paint
+  - e-signature
 language: en
 source:
   name: PandaDoc
@@ -25,7 +29,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Checklist for the lease signing itself.
+summary: >-
+  Tick-box checklist of points a landlord and tenant should confirm before signing a residential lease: correct party
+  names and address, term dates, rent and late fee, security deposit within the state limit, utilities split, pet,
+  smoking, guest and parking terms, entry-notice period, required disclosures such as lead paint for pre-1978 housing,
+  initialled handwritten changes, every tenant signing, copies for each party, and e-signature verification.
 ---
 
 # Lease signing checklist

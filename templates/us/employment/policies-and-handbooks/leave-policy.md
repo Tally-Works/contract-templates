@@ -10,8 +10,12 @@ parties:
 tags:
   - leave
   - pto
-  - policy
-  - osio-labs
+  - handbook
+  - vacation
+  - sick-leave
+  - holidays
+  - parental-leave
+  - fmla
 language: en
 source:
   name: Osio Labs
@@ -25,7 +29,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' leave policy.
+summary: >-
+  Osio Labs' leave policy for employees in the US and Denmark, covering five weeks' vacation, sick and safe
+  leave (written for the Minneapolis Sick and Safe Time Ordinance and Oregon sick leave law), personal days,
+  11 paid holidays by country, flexible work weeks, parental leave (six weeks paid, six unpaid, run with
+  FMLA), bereavement, a sabbatical after seven years, jury duty, USERRA military leave and unpaid leave.
 ---
 
 # Leave

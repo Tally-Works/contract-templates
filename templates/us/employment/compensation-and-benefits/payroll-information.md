@@ -9,8 +9,11 @@ parties:
   - employee
 tags:
   - payroll
-  - policy
-  - sparksuite
+  - handbook
+  - pay
+  - direct-deposit
+  - payroll-deductions
+  - payday
 language: en
 source:
   name: Sparksuite
@@ -25,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's payroll information policy.
+summary: >-
+  Sparksuite's payroll information policy stating that team members are paid semi-monthly on the 15th and last
+  day of the month by direct deposit, with taxes and deductions such as retirement contributions withheld,
+  payday moved to the preceding business day when it falls on a weekend or bank holiday, and pay history and
+  deposit details available in the people ops platform.
 ---
 
 ## Payroll information

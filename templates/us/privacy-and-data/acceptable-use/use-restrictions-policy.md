@@ -8,11 +8,9 @@ parties:
   - company
   - user
 tags:
-  - acceptable-use
   - abuse
   - content-policy
   - saas
-  - basecamp
 language: en
 source:
   name: Basecamp (37signals)

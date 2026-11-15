@@ -13,7 +13,6 @@ tags:
   - ppm
   - securities
   - investment-fund
-  - openagreements
 language: en
 source:
   name: OpenAgreements

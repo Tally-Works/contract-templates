@@ -7,9 +7,13 @@ type: checklist
 parties:
   - landlord
 tags:
-  - checklist
-  - landlord
-  - pandadoc
+  - tenant-screening
+  - lease
+  - residential
+  - move-in
+  - fair-housing
+  - disclosure
+  - security-deposit
 language: en
 source:
   name: PandaDoc
@@ -24,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Checklist for a landlord before signing a lease.
+summary: >-
+  Checklist for a residential landlord covering the steps from listing to move-in, in three parts: screening
+  applicants (rental application, income and landlord references, consent-based credit checks, fair-housing
+  consistency), preparing the lease (choosing a template, filling blanks, adding state-required disclosures) and
+  signing and move-in (e-signature, first month's rent and deposit, move-in inspection, keys). Tick-box format.
 ---
 
 # Landlord pre-lease checklist

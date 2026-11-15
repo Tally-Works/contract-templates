@@ -5,13 +5,11 @@ category: technology
 subcategory: software-license
 type: agreement
 parties:
-  - nih
+  - agency
   - licensee
 tags:
-  - software-license
   - internal-use
   - non-exclusive
-  - nih
   - federal
 language: en
 source:

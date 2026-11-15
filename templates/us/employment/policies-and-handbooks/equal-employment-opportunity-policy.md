@@ -9,8 +9,12 @@ parties:
   - employee
 tags:
   - eeo
-  - policy
-  - osio-labs
+  - handbook
+  - discrimination
+  - disability
+  - ada
+  - reasonable-accommodation
+  - retaliation
 language: en
 source:
   name: Osio Labs
@@ -24,7 +28,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Osio Labs' equal employment opportunity policy.
+summary: >-
+  Osio Labs' equal employment opportunity policy, stating that employment decisions are based on qualifications
+  and free from discrimination on listed protected characteristics, applying to selection, assignment, pay,
+  promotion, discipline, termination, benefits and training, and prohibiting retaliation; with a section on
+  Americans with Disabilities Act compliance and reasonable accommodation requests to the CEO.
 ---
 
 # Equal Employment Opportunity

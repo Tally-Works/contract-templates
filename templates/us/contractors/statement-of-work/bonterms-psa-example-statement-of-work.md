@@ -8,10 +8,11 @@ parties:
   - provider
   - customer
 tags:
-  - statement-of-work
-  - sow
   - professional-services
-  - bonterms
+  - psa
+  - deliverables
+  - acceptance
+  - fees
 language: en
 source:
   name: Bonterms

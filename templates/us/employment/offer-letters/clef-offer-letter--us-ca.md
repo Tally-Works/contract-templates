@@ -12,8 +12,6 @@ tags:
   - startup
   - equity
   - at-will
-  - california
-  - clef
 language: en
 source:
   name: Clef

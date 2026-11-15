@@ -15,7 +15,6 @@ tags:
   - privacy
   - processor
   - standard-terms
-  - bonterms
 language: en
 source:
   name: Bonterms

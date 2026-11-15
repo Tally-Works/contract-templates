@@ -10,8 +10,9 @@ parties:
 tags:
   - sabbatical
   - benefits
-  - policy
-  - clef
+  - handbook
+  - leave
+  - pto
 language: en
 source:
   name: Clef
@@ -25,7 +26,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Clef's sabbatical policy.
+summary: >-
+  Clef's sabbatical policy giving employees a paid 12-week sabbatical after every five years of service to work
+  on a passion project, with a presentation to the team on return. Covers eligibility (fewer than twelve weeks
+  of paid time off in the prior year), four weeks' notice, the expectation of returning to work, and the rule
+  that time on sabbatical does not accrue further paid time off.
 ---
 
 # Sabbatical

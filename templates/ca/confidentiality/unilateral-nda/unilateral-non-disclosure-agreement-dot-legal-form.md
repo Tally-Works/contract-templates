@@ -5,12 +5,13 @@ category: confidentiality
 subcategory: unilateral-nda
 type: agreement
 parties:
-  - discloser
-  - recipient
+  - disclosing-party
+  - receiving-party
 tags:
   - nda
-  - one-way
-  - dot-legal
+  - unilateral
+  - trade-secrets
+  - termination
 language: en
 source:
   name: Dot Legal
@@ -24,7 +25,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: One-way NDA form from the Dot Legal reference library.
+summary: >-
+  One-way NDA cover form between a Discloser and a Recipient of Confidential
+  Information for a stated Purpose: fill-in definitions for Purpose, Effective
+  Date, Term, Confidentiality Period, Governing Law and Jurisdiction (example:
+  Delaware), signature blocks, and optional terms on prior disclosures, secrecy
+  of the relationship, termination for convenience and retroactive marking. The
+  substantive confidentiality and general terms are incorporated from
+  reference.legal.
 ---
 
 # Unilateral Non-Disclosure Agreement

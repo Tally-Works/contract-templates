@@ -9,12 +9,10 @@ parties:
   - company
   - user
 tags:
-  - privacy-policy
   - website
   - ccpa
   - gdpr
   - short-form
-  - openagreements
 language: en
 source:
   name: OpenAgreements

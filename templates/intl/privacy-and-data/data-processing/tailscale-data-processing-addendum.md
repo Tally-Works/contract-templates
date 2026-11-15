@@ -11,7 +11,6 @@ tags:
   - dpa
   - gdpr
   - processor
-  - tailscale
 language: en
 source:
   name: Tailscale
@@ -27,7 +26,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Tailscale's data processing addendum.
+summary: >-
+  Tailscale's data processing addendum between Tailscale as processor and its
+  Customer as controller, incorporated into the Terms of Service or MSA. Covers
+  GDPR, UK, Swiss, CCPA and PIPEDA laws, processing scope and restrictions,
+  data subject and public authority requests, 72-hour breach notice,
+  subprocessors with a 10-day objection right, EU and UK SCCs (Schedules A and
+  B, Irish law), audits, return or deletion, and security measures.
 ---
 
 Last updated: August 25, 2026

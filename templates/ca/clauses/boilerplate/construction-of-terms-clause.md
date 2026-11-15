@@ -8,10 +8,10 @@ parties:
   - party-a
   - party-b
 tags:
-  - boilerplate
-  - clause
   - construction-of-terms
-  - dot-legal
+  - interpretation
+  - definitions
+  - statutory-references
 language: en
 source:
   name: Dot Legal

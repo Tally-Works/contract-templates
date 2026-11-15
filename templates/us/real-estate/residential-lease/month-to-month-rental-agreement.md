@@ -11,7 +11,6 @@ tags:
   - lease
   - residential
   - month-to-month
-  - pandadoc
 language: en
 source:
   name: PandaDoc
@@ -26,7 +25,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Month-to-month residential rental agreement.
+summary: >-
+  Short month-to-month residential rental agreement between a landlord and tenant for a rolling tenancy with no fixed
+  end date, laid out as eight bracketed fill-in clauses: start date, monthly rent and due date, termination by either
+  party on a fill-in number of days' notice, rent changes on notice, security deposit and return period, utilities,
+  maintenance, pets and entry, state and federal disclosures, and governing state law.
 ---
 
 # Month-to-Month Rental Agreement (template)

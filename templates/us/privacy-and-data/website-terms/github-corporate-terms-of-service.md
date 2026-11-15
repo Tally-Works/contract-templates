@@ -12,7 +12,6 @@ tags:
   - enterprise
   - corporate
   - saas
-  - github
 language: en
 source:
   name: GitHub

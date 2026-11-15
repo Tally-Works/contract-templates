@@ -6,14 +6,13 @@ subcategory: bylaws-and-resolutions
 type: resolution
 parties:
   - company
-  - stockholders
+  - stockholder
 tags:
   - safe
   - stockholder-consent
   - written-consent
   - financing
   - startup
-  - openagreements
 language: en
 source:
   name: OpenAgreements

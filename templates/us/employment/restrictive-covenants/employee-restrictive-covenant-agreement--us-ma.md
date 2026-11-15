@@ -12,9 +12,6 @@ tags:
   - non-solicitation
   - restrictive-covenant
   - confidentiality
-  - employee
-  - massachusetts
-  - openagreements
 language: en
 source:
   name: OpenAgreements

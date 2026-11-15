@@ -12,8 +12,6 @@ tags:
   - at-will
   - startup
   - equity
-  - openagreements
-  - california
 language: en
 source:
   name: OpenAgreements

@@ -9,7 +9,12 @@ parties:
   - user
 tags:
   - cookies
-  - tailscale
+  - tracking
+  - analytics
+  - advertising
+  - consent
+  - website
+  - privacy
 language: en
 source:
   name: Tailscale
@@ -25,7 +30,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Tailscale's cookie notice.
+summary: >-
+  Tailscale's cookie notice for visitors to its Site and users of its Services,
+  supplementing its Privacy Policy. Four numbered sections: what a cookie is;
+  how Tailscale uses Essential, Analytics and Targeted Advertising cookies; a
+  link to the Cookies Preference Center for the current cookie list; and how to
+  manage settings through the cookie banner, the "Your Privacy Choices" footer
+  link and browser options.
 ---
 
 Effective Date: May 30, 2025

@@ -10,8 +10,8 @@ parties:
 tags:
   - holidays
   - benefits
-  - policy
-  - sparksuite
+  - handbook
+  - pto
 language: en
 source:
   name: Sparksuite
@@ -26,7 +26,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's observed holidays policy.
+summary: >-
+  Sparksuite's observed holidays policy listing ten paid company holidays (New Year's Day, Easter Monday,
+  Memorial Day, Juneteenth, Independence Day, Labor Day, Thanksgiving and the day after, Christmas Eve and
+  Christmas Day), with a rule that weekend holidays are observed on the closest business day and a special
+  rule for Christmas Eve and Christmas Day.
 ---
 
 ## Observed holidays

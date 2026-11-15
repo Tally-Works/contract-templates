@@ -5,14 +5,12 @@ category: confidentiality
 subcategory: unilateral-nda
 type: agreement
 parties:
-  - discloser
-  - recipient
+  - disclosing-party
+  - receiving-party
 tags:
   - nda
-  - one-way
-  - confidentiality
+  - unilateral
   - cover-page
-  - common-paper
 language: en
 source:
   name: Common Paper

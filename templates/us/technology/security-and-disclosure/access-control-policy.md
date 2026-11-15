@@ -9,9 +9,13 @@ parties:
   - employee
 tags:
   - access-control
-  - infosec
-  - policy
-  - sourcegraph
+  - information-security
+  - least-privilege
+  - mfa
+  - sso
+  - passwords
+  - company-policy
+  - handbook
 language: en
 source:
   name: Sourcegraph
@@ -25,7 +29,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sourcegraph's access control policy.
+summary: >-
+  Sourcegraph's internal access control and credentials management policy for employees, contractors and external
+  users of its systems. Covers least privilege and role-based access control, unique user IDs and separate admin
+  accounts, provisioning and deprovisioning, annual access reviews, removal within 48 hours of separation, password
+  standards, SSO and MFA, password managers, privileged utilities, source code access, exceptions and enforcement.
 ---
 
 # **Access Control & Credentials Management Policy**

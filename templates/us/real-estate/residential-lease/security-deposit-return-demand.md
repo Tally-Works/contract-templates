@@ -10,9 +10,7 @@ parties:
 tags:
   - security-deposit
   - demand-letter
-  - tenant
   - residential
-  - advottic
 language: en
 source:
   name: Advottic (Techno Optics LLC)

@@ -13,7 +13,6 @@ tags:
   - anti-corruption
   - compliance
   - company-policy
-  - github
 language: en
 source:
   name: GitHub

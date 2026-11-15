@@ -8,9 +8,13 @@ parties:
   - foundation
   - user
 tags:
-  - privacy-policy
   - nonprofit
-  - commonhaus
+  - gdpr
+  - ccpa
+  - cookies
+  - data-transfer
+  - analytics
+  - open-source
 language: en
 source:
   name: Commonhaus Foundation
@@ -25,7 +29,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Commonhaus Foundation's privacy policy.
+summary: >-
+  Commonhaus Foundation's privacy policy for its websites, member services and projects, which use GitHub for
+  authentication. Covers the data collected (GitHub identity, ForwardEmail forwarding addresses, session cookies and
+  aggregated analytics, contributor and legal data), how it is used and shared, cross-border transfers under Standard
+  Contractual Clauses, retention, user rights, and additional rights for EEA, UK and California (CCPA) users.
 ---
 
 # Privacy Policy

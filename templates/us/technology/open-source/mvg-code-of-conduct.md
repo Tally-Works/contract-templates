@@ -6,13 +6,11 @@ subcategory: open-source
 type: policy
 parties:
   - organisation
-  - contributors
+  - contributor
 tags:
   - code-of-conduct
   - governance
-  - open-source
   - mvg
-  - github
 language: en
 source:
   name: GitHub
@@ -26,7 +24,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Code of conduct under Minimum Viable Governance.
+summary: >-
+  Code of conduct for an open-source organisation's community, being the Contributor Covenant version 2.1 as adopted
+  in GitHub's Minimum Viable Governance org-docs. Covers the pledge of a harassment-free community, examples of
+  acceptable and unacceptable behaviour, community leaders' enforcement responsibilities, scope, reporting to a
+  fill-in contact, and a four-step enforcement ladder from correction and warning to temporary and permanent bans.
 ---
 
 # Contributor Covenant Code of Conduct

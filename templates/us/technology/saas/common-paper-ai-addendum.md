@@ -12,9 +12,7 @@ tags:
   - machine-learning
   - training-data
   - addendum
-  - saas
   - standard-terms
-  - common-paper
 language: en
 source:
   name: Common Paper

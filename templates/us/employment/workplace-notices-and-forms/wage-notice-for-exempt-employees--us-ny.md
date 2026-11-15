@@ -11,9 +11,7 @@ tags:
   - wage-notice
   - pay-notice
   - exempt
-  - new-york
   - labor-law-195
-  - openagreements
 language: en
 source:
   name: OpenAgreements

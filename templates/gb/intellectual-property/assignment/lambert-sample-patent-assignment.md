@@ -12,7 +12,6 @@ tags:
   - patent-assignment
   - university-industry
   - ipo
-  - crown-copyright
 language: en
 source:
   name: UK Intellectual Property Office (Lambert Toolkit)

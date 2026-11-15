@@ -12,8 +12,6 @@ tags:
   - residential
   - occupation-contract
   - periodic
-  - wales
-  - crown-copyright
 language: en
 source:
   name: Welsh Government

@@ -9,9 +9,11 @@ parties:
   - employee
 tags:
   - protected-leave
-  - california
-  - policy
-  - clef
+  - handbook
+  - leave
+  - pregnancy-disability-leave
+  - bereavement
+  - jury-duty
 language: en
 source:
   name: Clef
@@ -25,7 +27,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Clef's policy on other legally protected absences.
+summary: >-
+  Clef's handbook policy on legally protected absences for California employees: Pregnancy
+  Disability Leave of up to four months under California law, up to three days' paid
+  bereavement leave for listed family members, up to three days' paid time for jury duty or
+  a witness summons, and other unpaid leaves of absence as required by law.
 ---
 
 # Other Protected Absences

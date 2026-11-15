@@ -8,10 +8,10 @@ parties:
   - party-a
   - party-b
 tags:
-  - boilerplate
-  - clause
   - notices
-  - dot-legal
+  - notice
+  - email
+  - deemed-receipt
 language: en
 source:
   name: Dot Legal

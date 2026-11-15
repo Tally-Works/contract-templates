@@ -11,8 +11,6 @@ tags:
   - benefits
   - health-insurance
   - disability
-  - policy
-  - clef
 language: en
 source:
   name: Clef
@@ -26,7 +24,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Clef's healthcare and disability insurance benefits policy.
+summary: >-
+  Clef's healthcare and disability insurance policy for employees, covering medical, dental and vision plans
+  through TriNet with an 85% employer contribution for employees and 50% for dependents, eligibility on the
+  first of the month after hire, short- and long-term disability and death and dismemberment coverage at one
+  times earnings, and a $25 monthly waiver allowance for employees with other coverage.
 ---
 
 # Healthcare and Disability Insurance

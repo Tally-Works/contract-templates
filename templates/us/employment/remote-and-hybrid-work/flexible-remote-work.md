@@ -9,8 +9,10 @@ parties:
   - employee
 tags:
   - remote-work
-  - policy
-  - sparksuite
+  - handbook
+  - hybrid
+  - work-from-home
+  - benefits
 language: en
 source:
   name: Sparksuite
@@ -25,7 +27,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Sparksuite's flexible remote work policy.
+summary: >-
+  Sparksuite's employee-handbook policy letting full-time team members work remotely up to
+  two days a week without approval, with extra remote days accruing quarterly up to a
+  balance of ten and a way to replenish them by working a full week in the office. Covers
+  mixed office/remote days, working-environment expectations, and why the company is not
+  fully remote.
 ---
 
 ## Flexible remote work

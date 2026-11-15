@@ -5,14 +5,19 @@ category: corporate
 subcategory: shareholders-and-operating
 type: agreement
 parties:
-  - shareholders
+  - shareholder
   - company
 tags:
   - shareholders-agreement
   - seed
-  - series-seed-finland
-  - finland
+  - series-seed
+  - startup
+  - preferred-stock
+  - vesting
+  - drag-along
+  - liquidation-preference
 language: en
+governing_law: Finland
 source:
   name: Startup Foundation (Series Seed Finland)
   url: https://www.startup-saatio.fi/seriesseed
@@ -28,7 +33,14 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Series Seed Finland 4.0 shareholders' agreement.
+summary: >-
+  Shareholders' agreement among founders, working shareholders, seed investors
+  and a Finnish limited liability company (Oy) from the Series Seed Finland 4.0
+  package, under Finnish law. Covers Series Seed preferred shares with a
+  liquidation preference, optional ESOP, pre-emptive rights, investor consent
+  matters, four-year vesting with bad/early/good leaver purchase rights, right
+  of first refusal, drag-along, tag-along, information rights, confidentiality
+  and non-compete.
 ---
 
 **shareholders’ agreement**

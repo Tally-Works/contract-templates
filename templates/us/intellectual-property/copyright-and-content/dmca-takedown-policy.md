@@ -13,7 +13,6 @@ tags:
   - takedown
   - counter-notice
   - platform
-  - github
 language: en
 source:
   name: GitHub

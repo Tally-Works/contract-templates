@@ -11,7 +11,6 @@ tags:
   - cover-page
   - baa
   - hipaa
-  - bonterms
 language: en
 source:
   name: Bonterms

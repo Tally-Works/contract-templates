@@ -9,9 +9,10 @@ parties:
   - employee
 tags:
   - parental-leave
-  - california
-  - policy
-  - clef
+  - handbook
+  - paid-leave
+  - adoption
+  - paid-family-leave
 language: en
 source:
   name: Clef
@@ -25,7 +26,12 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Clef's new parent leave policy.
+summary: >-
+  Clef's handbook policy giving full-time employees 12 weeks of paid leave after the birth
+  or adoption of a child, to be taken within a year; covers notice to the team, the rule
+  that leave does not accrue vacation, sick days or sabbatical time, and how Clef
+  supplements California State Disability Insurance and Paid Family Leave payments to
+  maintain salary.
 ---
 
 # New Parent Leave

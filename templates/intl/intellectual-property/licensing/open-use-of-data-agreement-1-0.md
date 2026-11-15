@@ -11,7 +11,6 @@ tags:
   - data-license
   - open-data
   - o-uda
-  - microsoft
 language: en
 source:
   name: Microsoft

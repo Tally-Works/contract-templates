@@ -13,7 +13,6 @@ tags:
   - amendment
   - research-collaboration
   - ipo
-  - crown-copyright
 language: en
 source:
   name: UK Intellectual Property Office (Lambert Toolkit)

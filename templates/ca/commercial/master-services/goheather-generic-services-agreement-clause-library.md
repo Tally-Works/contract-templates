@@ -5,17 +5,15 @@ category: commercial
 subcategory: master-services
 type: clause-library
 parties:
-  - service-provider
+  - provider
   - client
 tags:
   - services-agreement
-  - clause-library
   - question-flow
   - developer-guide
   - fees
   - intellectual-property
   - termination
-  - canada
 language: en
 source:
   name: goHeather
