@@ -544,14 +544,6 @@ Where a template has been changed from the original, the change is described in 
 | --- | --- | --- | --- |
 | [Harmony Contributor Agreements (Combined Template) (INTL)](templates/intl/technology/open-source/harmony-contributor-agreements-combined-template.md) | CC-BY-3.0 | [link](https://harmonyagreements.org/docs/ha-combined-v1) | 2026-11-14 |
 
-## [Python Software Foundation (PyCon US)](https://github.com/python/pycon-code-of-conduct/blob/master/)
-
-| Template | Licence | Original | Retrieved |
-| --- | --- | --- | --- |
-| [PyCon US Attendee Procedure for Incident Handling (US)](templates/us/marketing-and-media/events/pycon-us-attendee-procedure-for-incident-handling.md) | CC-BY-3.0 | [link](https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md) | 2026-11-14 |
-| [PyCon US Code of Conduct (US)](templates/us/marketing-and-media/events/pycon-us-code-of-conduct.md) | CC-BY-3.0 | [link](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md) | 2026-11-14 |
-| [PyCon US Staff Procedure for Incident Handling (US)](templates/us/marketing-and-media/events/pycon-us-staff-procedure-for-incident-handling.md) | CC-BY-3.0 | [link](https://github.com/python/pycon-code-of-conduct/blob/master/Staff%20Procedure%20for%20incident%20handling.md) | 2026-11-14 |
-
 ## [Scottish Government](https://www.gov.scot/publications/private-residential-tenancy-model-agreement/)
 
 | Template | Licence | Original | Retrieved |

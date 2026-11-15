@@ -1,6 +1,6 @@
 {
   "generated_from": "taxonomy.yaml + templates/**",
-  "count": 495,
+  "count": 492,
   "templates": [
     {
       "path": "templates/au/real-estate/residential-lease/residential-rental-agreement-for-a-fixed-term-of-more-than-five-years-form-2--au-vic.md",
@@ -12470,105 +12470,6 @@
       "source": {
         "name": "GitHub",
         "url": "https://github.com/github/site-policy/blob/main/Policies/github-terms/github-event-terms.md",
-        "file": null
-      }
-    },
-    {
-      "path": "templates/us/marketing-and-media/events/pycon-us-attendee-procedure-for-incident-handling.md",
-      "docx": "templates/us/marketing-and-media/events/pycon-us-attendee-procedure-for-incident-handling.docx",
-      "docx_is_publisher_original": false,
-      "title": "PyCon US Attendee Procedure for Incident Handling",
-      "jurisdiction": "US",
-      "category": "marketing-and-media",
-      "subcategory": "events",
-      "type": "policy",
-      "variant": null,
-      "parties": [
-        "organiser",
-        "attendee"
-      ],
-      "tags": [
-        "incident-handling",
-        "events",
-        "code-of-conduct",
-        "pycon"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC-BY-3.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "PyCon US's procedure for attendees reporting an incident.",
-      "source": {
-        "name": "Python Software Foundation (PyCon US)",
-        "url": "https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md",
-        "file": null
-      }
-    },
-    {
-      "path": "templates/us/marketing-and-media/events/pycon-us-code-of-conduct.md",
-      "docx": "templates/us/marketing-and-media/events/pycon-us-code-of-conduct.docx",
-      "docx_is_publisher_original": false,
-      "title": "PyCon US Code of Conduct",
-      "jurisdiction": "US",
-      "category": "marketing-and-media",
-      "subcategory": "events",
-      "type": "policy",
-      "variant": null,
-      "parties": [
-        "organiser",
-        "attendee"
-      ],
-      "tags": [
-        "code-of-conduct",
-        "events",
-        "anti-harassment",
-        "pycon"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC-BY-3.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "The PyCon US code of conduct.",
-      "source": {
-        "name": "Python Software Foundation (PyCon US)",
-        "url": "https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md",
-        "file": null
-      }
-    },
-    {
-      "path": "templates/us/marketing-and-media/events/pycon-us-staff-procedure-for-incident-handling.md",
-      "docx": "templates/us/marketing-and-media/events/pycon-us-staff-procedure-for-incident-handling.docx",
-      "docx_is_publisher_original": false,
-      "title": "PyCon US Staff Procedure for Incident Handling",
-      "jurisdiction": "US",
-      "category": "marketing-and-media",
-      "subcategory": "events",
-      "type": "policy",
-      "variant": null,
-      "parties": [
-        "organiser",
-        "attendee"
-      ],
-      "tags": [
-        "incident-handling",
-        "events",
-        "code-of-conduct",
-        "pycon"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC-BY-3.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-14",
-      "summary": "PyCon US's procedure for staff handling an incident.",
-      "source": {
-        "name": "Python Software Foundation (PyCon US)",
-        "url": "https://github.com/python/pycon-code-of-conduct/blob/master/Staff%20Procedure%20for%20incident%20handling.md",
         "file": null
       }
     },

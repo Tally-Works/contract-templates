@@ -4,13 +4,13 @@
 
 Every template is a Markdown file with a Word (.docx) file of the same name beside it. "original" marks the publisher's own file; the others are generated from the Markdown.
 
-495 template(s). Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.
+492 template(s). Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.
 
 ## By jurisdiction
 
 | Jurisdiction | Templates |
 | --- | ---: |
-| United States (`us`) | 394 |
+| United States (`us`) | 391 |
 | Canada (`ca`) | 23 |
 | United Kingdom (`gb`) | 44 |
 | Ireland (`ie`) | 0 |
@@ -37,7 +37,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | Financing (`financing`) | 13 |
 | Real Estate (`real-estate`) | 21 |
 | Partnerships & Joint Ventures (`partnerships`) | 33 |
-| Marketing & Media (`marketing-and-media`) | 9 |
+| Marketing & Media (`marketing-and-media`) | 6 |
 | Dispute Resolution (`dispute-resolution`) | 3 |
 | Clause Library (`clauses`) | 21 |
 
@@ -718,9 +718,6 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | [Conference Code of Conduct Template](templates/us/marketing-and-media/events/conference-code-of-conduct-template.md) | [docx](templates/us/marketing-and-media/events/conference-code-of-conduct-template.docx) | US | policy | draft | CC-BY-3.0 | code-of-conduct, events, anti-harassment, confcodeofconduct |
 | [GitHub Event Code of Conduct](templates/us/marketing-and-media/events/github-event-code-of-conduct.md) | [docx](templates/us/marketing-and-media/events/github-event-code-of-conduct.docx) | US | policy | draft | CC0-1.0 | code-of-conduct, events, anti-harassment, github |
 | [GitHub Event Terms](templates/us/marketing-and-media/events/github-event-terms.md) | [docx](templates/us/marketing-and-media/events/github-event-terms.docx) | US | policy | draft | CC0-1.0 | event-terms, attendee, registration, photo-release, github |
-| [PyCon US Attendee Procedure for Incident Handling](templates/us/marketing-and-media/events/pycon-us-attendee-procedure-for-incident-handling.md) | [docx](templates/us/marketing-and-media/events/pycon-us-attendee-procedure-for-incident-handling.docx) | US | policy | draft | CC-BY-3.0 | incident-handling, events, code-of-conduct, pycon |
-| [PyCon US Code of Conduct](templates/us/marketing-and-media/events/pycon-us-code-of-conduct.md) | [docx](templates/us/marketing-and-media/events/pycon-us-code-of-conduct.docx) | US | policy | draft | CC-BY-3.0 | code-of-conduct, events, anti-harassment, pycon |
-| [PyCon US Staff Procedure for Incident Handling](templates/us/marketing-and-media/events/pycon-us-staff-procedure-for-incident-handling.md) | [docx](templates/us/marketing-and-media/events/pycon-us-staff-procedure-for-incident-handling.docx) | US | policy | draft | CC-BY-3.0 | incident-handling, events, code-of-conduct, pycon |
 
 #### Dispute Resolution
 
