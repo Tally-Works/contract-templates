@@ -757,11 +757,11 @@ Where a template has been changed from the original, the change is described in 
 
 | Template | Licence | Original | Retrieved |
 | --- | --- | --- | --- |
+| [goHeather Generic Services Agreement Clause Library (CA)](templates/ca/commercial/master-services/goheather-generic-services-agreement-clause-library.md) | CC-BY-4.0 | [link](https://goheather.io) | 2026-11-15 |
+| [goHeather Non-Disclosure Agreement Clause Library (CA)](templates/ca/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.md) | CC-BY-4.0 | [link](https://goheather.io) | 2026-11-15 |
+| [goHeather Unilateral Non-Disclosure Agreement (CA)](templates/ca/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.md) | CC-BY-4.0 | [link](https://goheather.io) | 2026-11-15 |
 | [goHeather Independent Contractor Agreement (CA)](templates/ca/contractors/independent-contractor/goheather-independent-contractor-agreement.md) | CC-BY-4.0 | [link](https://goheather.io) | 2026-11-15 |
 | [goHeather Termination Letter Without Cause (Employer) (CA)](templates/ca/employment/separation-and-termination/goheather-termination-letter-without-cause-employer.md) | CC-BY-4.0 | [link](https://goheather.io) | 2026-11-15 |
-| [goHeather Generic Services Agreement Clause Library (INTL)](templates/intl/commercial/master-services/goheather-generic-services-agreement-clause-library.md) | CC-BY-4.0 | [link](https://goheather.io) | 2026-11-15 |
-| [goHeather Non-Disclosure Agreement Clause Library (INTL)](templates/intl/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.md) | CC-BY-4.0 | [link](https://goheather.io) | 2026-11-15 |
-| [goHeather Unilateral Non-Disclosure Agreement (US)](templates/us/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.md) | CC-BY-4.0 | [link](https://goheather.io) | 2026-11-15 |
 
 ## Licence texts
 

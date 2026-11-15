@@ -1,6 +1,6 @@
 ---
 title: goHeather Unilateral Non-Disclosure Agreement
-jurisdiction: US
+jurisdiction: CA
 category: confidentiality
 subcategory: unilateral-nda
 type: agreement
@@ -11,11 +11,12 @@ tags:
   - nda
   - one-way
   - confidentiality
+  - canada
 language: en
 source:
   name: goHeather
   url: https://goheather.io
-  file: templates/us/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.docx
+  file: templates/ca/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.docx
   retrieved: "2026-11-15"
   notes: >-
     Written by goHeather (Tally Works Inc.). The Word file beside this template is goHeather's original. Published by goHeather under CC BY 4.0: anyone may use, adapt and share it, including commercially, with credit to goHeather.
@@ -25,7 +26,7 @@ version: 1.0.0
 last_reviewed: "2026-11-15"
 reviewed_by: ""
 summary: >-
-  goHeather's short one-way non-disclosure agreement under the law of a US state to be filled in, with return of
+  goHeather's short one-way non-disclosure agreement under the law of a Canadian province to be filled in, with return of
   information, no-licence, no-warranty and equitable-relief terms.
 ---
 
@@ -60,7 +61,7 @@ regulation; provided, that Recipient uses all reasonable efforts to give Company
 4.  No Warranty. ALL CONFIDENTIAL INFORMATION IS PROVIDED BY COMPANY “AS IS”.
 5.  Term. This Agreement will remain in effect for a period of [NUMBER OF] years from the date of last disclosure of Confidential Information by Company, at which time it will terminate.
 6.  Equitable Relief. Recipient acknowledges that the unauthorized use or disclosure of any Confidential Information would cause Company to suffer irreparable harm and incur significant damages, the degree of which may be difficult to ascertain. Accordingly, Recipient agrees that Company will have the right to obtain immediate equitable relief to enjoin any unauthorized use or disclosure of its Confidential Information, in addition to any other rights or remedies that it may have at law or otherwise.
-7.  Miscellaneous. This letter agreement will be governed and construed in accordance with the laws of the State [STATE] and the federal laws of the United States of America applicable therein, excluding conflict of laws rules. This Agreement is the complete and exclusive understanding and agreement between the parties regarding the subject matter of this Agreement and supersedes all prior agreements, understandings and communications, oral or written, between the parties regarding the subject matter of this Agreement. If any provision of this Agreement is held invalid or unenforceable by a court of competent jurisdiction, that provision of this Agreement will be enforced to the maximum extent permissible and the other provisions of this Agreement will remain in full force and effect. Neither party may assign this Agreement, in whole or in part, by operation of law or otherwise, without the other party’s prior written consent, and any attempted assignment without such consent will be void; provided that Company may assign this agreement to an affiliate or in connection with the sale of all or substantially all of the Company’s assets or business. This Agreement may be executed in counterparts, each of which will be deemed an original, but all of which together will constitute one and the same instrument. Delivery of an executed copy of this Agreement by facsimile or electronic transmission constitutes valid and effective delivery. Each party agrees that electronic signatures, whether digital or encrypted, of the parties as may be included in this Agreement are intended to authenticate this writing and to have the same force and effect as manual signatures.
+7.  Miscellaneous. This letter agreement will be governed and construed in accordance with the laws of the Province of [PROVINCE] and the federal laws of Canada applicable therein, excluding conflict of laws rules. This Agreement is the complete and exclusive understanding and agreement between the parties regarding the subject matter of this Agreement and supersedes all prior agreements, understandings and communications, oral or written, between the parties regarding the subject matter of this Agreement. If any provision of this Agreement is held invalid or unenforceable by a court of competent jurisdiction, that provision of this Agreement will be enforced to the maximum extent permissible and the other provisions of this Agreement will remain in full force and effect. Neither party may assign this Agreement, in whole or in part, by operation of law or otherwise, without the other party’s prior written consent, and any attempted assignment without such consent will be void; provided that Company may assign this agreement to an affiliate or in connection with the sale of all or substantially all of the Company’s assets or business. This Agreement may be executed in counterparts, each of which will be deemed an original, but all of which together will constitute one and the same instrument. Delivery of an executed copy of this Agreement by facsimile or electronic transmission constitutes valid and effective delivery. Each party agrees that electronic signatures, whether digital or encrypted, of the parties as may be included in this Agreement are intended to authenticate this writing and to have the same force and effect as manual signatures.
 
 \- 3 -
 

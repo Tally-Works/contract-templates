@@ -10,8 +10,8 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Jurisdiction | Templates |
 | --- | ---: |
-| United States (`us`) | 392 |
-| Canada (`ca`) | 25 |
+| United States (`us`) | 391 |
+| Canada (`ca`) | 28 |
 | United Kingdom (`gb`) | 44 |
 | Ireland (`ie`) | 0 |
 | Australia (`au`) | 2 |
@@ -20,7 +20,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | India (`in`) | 0 |
 | Singapore (`sg`) | 0 |
 | Finland (`fi`) | 5 |
-| International / jurisdiction-neutral (`intl`) | 29 |
+| International / jurisdiction-neutral (`intl`) | 27 |
 
 ## By category
 
@@ -267,7 +267,6 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | [Common Paper One-Way NDA](templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.md) | [docx](templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.docx) (original) | US | agreement | draft | CC-BY-4.0 | nda, one-way, confidentiality, cover-page, common-paper |
 | [Confidentiality and Non-Disclosure Agreement (long-form)](templates/us/confidentiality/unilateral-nda/confidentiality-and-non-disclosure-agreement--long-form.md) | [docx](templates/us/confidentiality/unilateral-nda/confidentiality-and-non-disclosure-agreement--long-form.docx) | US | agreement | draft | CC0-1.0 | nda, one-way, confidentiality, corporate, trade-secrets |
 | [EPA Non-Disclosure Agreement (Information to EPA)](templates/us/confidentiality/unilateral-nda/epa-non-disclosure-agreement-information-to-epa.md) | [docx](templates/us/confidentiality/unilateral-nda/epa-non-disclosure-agreement-information-to-epa.docx) (original) | US | agreement | draft | Public-Domain | nda, one-way, epa, federal |
-| [goHeather Unilateral Non-Disclosure Agreement](templates/us/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.md) | [docx](templates/us/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.docx) (original) | US | agreement | draft | CC-BY-4.0 | nda, one-way, confidentiality |
 | [NIH Confidential Disclosure Agreement](templates/us/confidentiality/unilateral-nda/nih-confidential-disclosure-agreement.md) | [docx](templates/us/confidentiality/unilateral-nda/nih-confidential-disclosure-agreement.docx) (original) | US | agreement | draft | Public-Domain | cda, confidentiality, nih, federal |
 | [One-Way Non-Disclosure Agreement](templates/us/confidentiality/unilateral-nda/one-way-non-disclosure-agreement.md) | [docx](templates/us/confidentiality/unilateral-nda/one-way-non-disclosure-agreement.docx) (original) | US | agreement | draft | CC0-1.0 | nda, one-way, confidentiality, startup |
 | [The Guestbook NDA (long-form)](templates/us/confidentiality/unilateral-nda/the-guestbook-nda--long-form.md) | [docx](templates/us/confidentiality/unilateral-nda/the-guestbook-nda--long-form.docx) (original) | US | agreement | draft | Guestbook-NDA-License | nda, one-way, plain-english, guestbook |
@@ -765,15 +764,23 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [goHeather Non-Disclosure Agreement Clause Library](templates/ca/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.md) | [docx](templates/ca/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.docx) (original) | CA | clause-library | draft | CC-BY-4.0 | nda, clause-library, question-flow, developer-guide, unilateral, mutual, multi-party, canada |
 | [Mutual Non-Disclosure Agreement (Dot Legal form)](templates/ca/confidentiality/mutual-nda/mutual-non-disclosure-agreement-dot-legal-form.md) | [docx](templates/ca/confidentiality/mutual-nda/mutual-non-disclosure-agreement-dot-legal-form.docx) | CA | agreement | draft | Apache-2.0 | nda, mutual, dot-legal |
 
 **unilateral-nda** — One-way non-disclosure agreements.
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
+| [goHeather Unilateral Non-Disclosure Agreement](templates/ca/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.md) | [docx](templates/ca/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.docx) (original) | CA | agreement | draft | CC-BY-4.0 | nda, one-way, confidentiality, canada |
 | [Unilateral Non-Disclosure Agreement (Dot Legal form)](templates/ca/confidentiality/unilateral-nda/unilateral-non-disclosure-agreement-dot-legal-form.md) | [docx](templates/ca/confidentiality/unilateral-nda/unilateral-non-disclosure-agreement-dot-legal-form.docx) | CA | agreement | draft | Apache-2.0 | nda, one-way, dot-legal |
 
 #### Commercial
+
+**master-services** — Master services agreements and general services agreements.
+
+| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
+| --- | --- | --- | --- | --- | --- | --- |
+| [goHeather Generic Services Agreement Clause Library](templates/ca/commercial/master-services/goheather-generic-services-agreement-clause-library.md) | [docx](templates/ca/commercial/master-services/goheather-generic-services-agreement-clause-library.docx) (original) | CA | clause-library | draft | CC-BY-4.0 | services-agreement, clause-library, question-flow, developer-guide, fees, intellectual-property, termination, canada |
 
 **amendments-and-extensions** — Amendments, extensions, renewals and change orders to existing agreements.
 
@@ -979,16 +986,9 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
-| [goHeather Non-Disclosure Agreement Clause Library](templates/intl/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.md) | [docx](templates/intl/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.docx) (original) | INTL | clause-library | draft | CC-BY-4.0 | nda, clause-library, question-flow, developer-guide, unilateral, mutual, multi-party |
 | [NEAR Foundation Template Mutual NDA](templates/intl/confidentiality/mutual-nda/near-foundation-template-mutual-nda.md) | [docx](templates/intl/confidentiality/mutual-nda/near-foundation-template-mutual-nda.docx) | INTL | agreement | draft | CC0-1.0 | nda, mutual, near-foundation |
 
 #### Commercial
-
-**master-services** — Master services agreements and general services agreements.
-
-| Template | Word | Jurisdiction | Type | Status | Licence | Tags |
-| --- | --- | --- | --- | --- | --- | --- |
-| [goHeather Generic Services Agreement Clause Library](templates/intl/commercial/master-services/goheather-generic-services-agreement-clause-library.md) | [docx](templates/intl/commercial/master-services/goheather-generic-services-agreement-clause-library.docx) (original) | INTL | clause-library | draft | CC-BY-4.0 | services-agreement, clause-library, question-flow, developer-guide, fees, intellectual-property, termination |
 
 **distribution-and-reseller** — Distribution, reseller, dealer and channel partner agreements.
 

@@ -695,6 +695,80 @@
       }
     },
     {
+      "path": "templates/ca/commercial/master-services/goheather-generic-services-agreement-clause-library.md",
+      "docx": "templates/ca/commercial/master-services/goheather-generic-services-agreement-clause-library.docx",
+      "docx_is_publisher_original": true,
+      "title": "goHeather Generic Services Agreement Clause Library",
+      "jurisdiction": "CA",
+      "category": "commercial",
+      "subcategory": "master-services",
+      "type": "clause-library",
+      "variant": null,
+      "parties": [
+        "service-provider",
+        "client"
+      ],
+      "tags": [
+        "services-agreement",
+        "clause-library",
+        "question-flow",
+        "developer-guide",
+        "fees",
+        "intellectual-property",
+        "termination",
+        "canada"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-15",
+      "summary": "goHeather's clause library for assembling a generic services agreement: mandatory and optional sections, the user question for each, the exact clause text for each answer, and the default used when the user gives none.",
+      "source": {
+        "name": "goHeather",
+        "url": "https://goheather.io",
+        "file": "templates/ca/commercial/master-services/goheather-generic-services-agreement-clause-library.docx"
+      }
+    },
+    {
+      "path": "templates/ca/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.md",
+      "docx": "templates/ca/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.docx",
+      "docx_is_publisher_original": true,
+      "title": "goHeather Non-Disclosure Agreement Clause Library",
+      "jurisdiction": "CA",
+      "category": "confidentiality",
+      "subcategory": "mutual-nda",
+      "type": "clause-library",
+      "variant": null,
+      "parties": [
+        "disclosing-party",
+        "receiving-party"
+      ],
+      "tags": [
+        "nda",
+        "clause-library",
+        "question-flow",
+        "developer-guide",
+        "unilateral",
+        "mutual",
+        "multi-party",
+        "canada"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-15",
+      "summary": "goHeather's clause library for assembling a unilateral, mutual or multi-party non-disclosure agreement: the form flow, the user question for each section, and the exact text for each option.",
+      "source": {
+        "name": "goHeather",
+        "url": "https://goheather.io",
+        "file": "templates/ca/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.docx"
+      }
+    },
+    {
       "path": "templates/ca/confidentiality/mutual-nda/mutual-non-disclosure-agreement-dot-legal-form.md",
       "docx": "templates/ca/confidentiality/mutual-nda/mutual-non-disclosure-agreement-dot-legal-form.docx",
       "docx_is_publisher_original": false,
@@ -724,6 +798,39 @@
         "name": "Dot Legal",
         "url": "https://github.com/dot-legal/reference/blob/main/v1/forms/confidentiality/mutual-non-disclosure.md",
         "file": null
+      }
+    },
+    {
+      "path": "templates/ca/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.md",
+      "docx": "templates/ca/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.docx",
+      "docx_is_publisher_original": true,
+      "title": "goHeather Unilateral Non-Disclosure Agreement",
+      "jurisdiction": "CA",
+      "category": "confidentiality",
+      "subcategory": "unilateral-nda",
+      "type": "agreement",
+      "variant": null,
+      "parties": [
+        "company",
+        "recipient"
+      ],
+      "tags": [
+        "nda",
+        "one-way",
+        "confidentiality",
+        "canada"
+      ],
+      "language": "en",
+      "governing_law": null,
+      "license": "CC-BY-4.0",
+      "status": "draft",
+      "version": "1.0.0",
+      "last_reviewed": "2026-11-15",
+      "summary": "goHeather's short one-way non-disclosure agreement under the law of a Canadian province to be filled in, with return of information, no-licence, no-warranty and equitable-relief terms.",
+      "source": {
+        "name": "goHeather",
+        "url": "https://goheather.io",
+        "file": "templates/ca/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.docx"
       }
     },
     {
@@ -2597,78 +2704,6 @@
         "name": "Tailscale",
         "url": "https://github.com/tailscale/terms-and-conditions/blob/main/channel-partner-agreement/index.md",
         "file": null
-      }
-    },
-    {
-      "path": "templates/intl/commercial/master-services/goheather-generic-services-agreement-clause-library.md",
-      "docx": "templates/intl/commercial/master-services/goheather-generic-services-agreement-clause-library.docx",
-      "docx_is_publisher_original": true,
-      "title": "goHeather Generic Services Agreement Clause Library",
-      "jurisdiction": "INTL",
-      "category": "commercial",
-      "subcategory": "master-services",
-      "type": "clause-library",
-      "variant": null,
-      "parties": [
-        "service-provider",
-        "client"
-      ],
-      "tags": [
-        "services-agreement",
-        "clause-library",
-        "question-flow",
-        "developer-guide",
-        "fees",
-        "intellectual-property",
-        "termination"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC-BY-4.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-15",
-      "summary": "goHeather's clause library for assembling a generic services agreement: mandatory and optional sections, the user question for each, the exact clause text for each answer, and the default used when the user gives none.",
-      "source": {
-        "name": "goHeather",
-        "url": "https://goheather.io",
-        "file": "templates/intl/commercial/master-services/goheather-generic-services-agreement-clause-library.docx"
-      }
-    },
-    {
-      "path": "templates/intl/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.md",
-      "docx": "templates/intl/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.docx",
-      "docx_is_publisher_original": true,
-      "title": "goHeather Non-Disclosure Agreement Clause Library",
-      "jurisdiction": "INTL",
-      "category": "confidentiality",
-      "subcategory": "mutual-nda",
-      "type": "clause-library",
-      "variant": null,
-      "parties": [
-        "disclosing-party",
-        "receiving-party"
-      ],
-      "tags": [
-        "nda",
-        "clause-library",
-        "question-flow",
-        "developer-guide",
-        "unilateral",
-        "mutual",
-        "multi-party"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC-BY-4.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-15",
-      "summary": "goHeather's clause library for assembling a unilateral, mutual or multi-party non-disclosure agreement: the form flow, the user question for each section, and the exact text for each option.",
-      "source": {
-        "name": "goHeather",
-        "url": "https://goheather.io",
-        "file": "templates/intl/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.docx"
       }
     },
     {
@@ -4688,38 +4723,6 @@
         "name": "U.S. Environmental Protection Agency",
         "url": "https://www.epa.gov/ftta/document-templates-federal-technology-transfer-act-agreements",
         "file": "templates/us/confidentiality/unilateral-nda/epa-non-disclosure-agreement-information-to-epa.docx"
-      }
-    },
-    {
-      "path": "templates/us/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.md",
-      "docx": "templates/us/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.docx",
-      "docx_is_publisher_original": true,
-      "title": "goHeather Unilateral Non-Disclosure Agreement",
-      "jurisdiction": "US",
-      "category": "confidentiality",
-      "subcategory": "unilateral-nda",
-      "type": "agreement",
-      "variant": null,
-      "parties": [
-        "company",
-        "recipient"
-      ],
-      "tags": [
-        "nda",
-        "one-way",
-        "confidentiality"
-      ],
-      "language": "en",
-      "governing_law": null,
-      "license": "CC-BY-4.0",
-      "status": "draft",
-      "version": "1.0.0",
-      "last_reviewed": "2026-11-15",
-      "summary": "goHeather's short one-way non-disclosure agreement under the law of a US state to be filled in, with return of information, no-licence, no-warranty and equitable-relief terms.",
-      "source": {
-        "name": "goHeather",
-        "url": "https://goheather.io",
-        "file": "templates/us/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.docx"
       }
     },
     {

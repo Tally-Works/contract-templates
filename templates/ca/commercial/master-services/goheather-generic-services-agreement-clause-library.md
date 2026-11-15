@@ -1,6 +1,6 @@
 ---
 title: goHeather Generic Services Agreement Clause Library
-jurisdiction: INTL
+jurisdiction: CA
 category: commercial
 subcategory: master-services
 type: clause-library
@@ -15,11 +15,12 @@ tags:
   - fees
   - intellectual-property
   - termination
+  - canada
 language: en
 source:
   name: goHeather
   url: https://goheather.io
-  file: templates/intl/commercial/master-services/goheather-generic-services-agreement-clause-library.docx
+  file: templates/ca/commercial/master-services/goheather-generic-services-agreement-clause-library.docx
   retrieved: "2026-11-15"
   notes: >-
     Written by goHeather (Tally Works Inc.) as a clause library: for each section it gives the question to ask the user,

@@ -1,6 +1,6 @@
 ---
 title: goHeather Non-Disclosure Agreement Clause Library
-jurisdiction: INTL
+jurisdiction: CA
 category: confidentiality
 subcategory: mutual-nda
 type: clause-library
@@ -15,11 +15,12 @@ tags:
   - unilateral
   - mutual
   - multi-party
+  - canada
 language: en
 source:
   name: goHeather
   url: https://goheather.io
-  file: templates/intl/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.docx
+  file: templates/ca/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.docx
   retrieved: "2026-11-15"
   notes: >-
     Written by goHeather (Tally Works Inc.) as a clause library: for each section it gives the question to ask the user,
