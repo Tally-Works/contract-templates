@@ -4,7 +4,7 @@ A library of openly licensed contract templates, filed by **jurisdiction → cat
 
 The templates come from publishers who released them under open licences: Common Paper, Bonterms, OpenAgreements, the UK Government, US federal agencies and others, each credited in [ATTRIBUTION.md](ATTRIBUTION.md) and each reproduced under its own licence. A handful were written by goHeather and are published under CC BY 4.0. What goHeather adds across all of them is the filing system: one taxonomy, one metadata format, a catalog, and a validator that keeps every file where it belongs.
 
-The library is built to be read by software as well as by people. goHeather's own product builds contracts from it, and any AI assistant or agent can fetch the catalog and the files directly; see [For AI assistants and agents](#for-ai-assistants-and-agents). It will always be free to use from this repository.
+The library is built to be read by software as well as by people. goHeather's own product builds contracts from it, and any AI assistant or agent can fetch the catalog and the files directly; see [For AI assistants and agents](#for-ai-assistants-and-agents).
 
 Browse the **[Catalog](CATALOG.md)** or jump straight into the tree:
 
