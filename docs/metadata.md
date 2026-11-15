@@ -45,7 +45,7 @@ summary: One-paragraph plain-English description shown in the catalog.
 | `tags` | yes | list of kebab-case keywords | 3 to 10 tags. Think "what would someone search for". |
 | `language` | yes | ISO 639-1 code | `en`, `fr`, `es` ... |
 | `governing_law` | no | free text | Named governing law if the template fixes one. |
-| `source.name` | yes | free text | Who published the original. Never goHeather: goHeather gathers and organises templates and does not write them. |
+| `source.name` | yes | free text | Who published the original. `goHeather` only for the documents goHeather wrote, which must carry `license: goHeather-Template-License`. |
 | `source.url` | yes | URL | Where the original was published. |
 | `source.file` | no | repo path | Set only when the `.docx` beside the template is the publisher's original file; it must be that path. When unset, the `.docx` is generated from the Markdown. |
 | `source.retrieved` | yes | `YYYY-MM-DD` | Date the original was downloaded. |

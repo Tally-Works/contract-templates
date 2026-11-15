@@ -6,11 +6,13 @@ This licence covers the organisation of this repository only: the taxonomy
 (taxonomy.yaml), the scripts, the generated catalog and attribution files,
 the documentation, and the metadata front-matter added to each template.
 
-IT DOES NOT COVER THE TEMPLATES THEMSELVES. goHeather did not write the
-templates in the templates/ and sources/ directories and claims no copyright
-in them. Each template was published by its original author under an open
-licence, which is recorded in that template's "license" and "source" fields
-and credited in ATTRIBUTION.md. Use each template under its own licence.
+IT DOES NOT COVER THE TEMPLATES THEMSELVES. Apart from the few documents
+marked "source.name: goHeather", goHeather did not write the templates in
+the templates/ directory and claims no copyright in them. Each of those was
+published by its original author under an open licence, which is recorded in
+the template's "license" and "source" fields and credited in ATTRIBUTION.md.
+Use each template under its own licence. The documents goHeather wrote are
+covered by LICENSE-GOHEATHER-TEMPLATES.md, not by this licence.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of the covered materials (the "Software"), to deal in the Software without

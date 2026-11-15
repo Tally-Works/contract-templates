@@ -94,6 +94,8 @@ The body of a template is the publisher's document, as published. The only thing
 - Format conversion may flatten Word tables into label/value lines and turn Word heading styles used for ordinary clauses into bold lead-ins; that is the limit.
 - If a template needs other terms to work (a cover page, an order form, a statement of work), list those templates in `related:` in the front-matter. Do not write a note into the document.
 
+The one exception is a document goHeather wrote itself (`source.name: goHeather`, `license: goHeather-Template-License`). goHeather may edit its own documents. Where such a document carries Word margin comments with build instructions, those comments are carried into the Markdown as bracketed notes at the point they refer to, so that software reading the file sees the clause and the instruction together.
+
 ## 5. Review and status
 
 | Status | What it means |

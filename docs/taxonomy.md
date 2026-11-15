@@ -218,6 +218,7 @@ Standalone clauses to insert into other documents. Files here are type "clause".
 | `schedule` | A schedule, exhibit, annex, addendum or statement of work that attaches to a parent agreement. |
 | `resolution` | A board or shareholder resolution, written consent or minutes. |
 | `charter` | A constitutional document of an entity, such as a certificate or articles of incorporation or formation, or bylaws. |
+| `clause-library` | A set of clauses with the user questions, options, exact text and fallback defaults needed to assemble a complete document; written for software or an assistant to build from, not to be signed as it stands. |
 
 ## Statuses
 
@@ -244,3 +245,4 @@ Standalone clauses to insert into other documents. Files here are type "clause".
 | `Apache-2.0` | Apache License 2.0 |
 | `Public-Domain` | US federal government work or other work in the public domain with no licence |
 | `Permission-Granted` | Author gave goHeather written permission to redistribute and adapt (source.url and source.notes must link to or quote the permission) |
+| `goHeather-Template-License` | goHeather Template Licence 1.0 (documents goHeather wrote; free to use, fill in and adapt for your own documents, but the template itself may not be redistributed, sold or included in another library or product) |

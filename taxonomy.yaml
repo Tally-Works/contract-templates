@@ -53,6 +53,7 @@ types:
   schedule: A schedule, exhibit, annex, addendum or statement of work that attaches to a parent agreement.
   resolution: A board or shareholder resolution, written consent or minutes.
   charter: A constitutional document of an entity, such as a certificate or articles of incorporation or formation, or bylaws.
+  clause-library: A set of clauses with the user questions, options, exact text and fallback defaults needed to assemble a complete document; written for software or an assistant to build from, not to be signed as it stands.
 
 statuses:
   draft: Filed, not reviewed by anyone. Every template starts here.
@@ -79,6 +80,7 @@ licenses:
   Apache-2.0: Apache License 2.0
   Public-Domain: US federal government work or other work in the public domain with no licence
   Permission-Granted: Author gave goHeather written permission to redistribute and adapt (source.url and source.notes must link to or quote the permission)
+  goHeather-Template-License: goHeather Template Licence 1.0 (documents goHeather wrote; free to use, fill in and adapt for your own documents, but the template itself may not be redistributed, sold or included in another library or product)
 
 # Where each licence's terms live. Shown in every generated Word footer and in ATTRIBUTION.md.
 license_urls:
@@ -94,6 +96,7 @@ license_urls:
   Apache-2.0: https://www.apache.org/licenses/LICENSE-2.0
   Public-Domain: https://www.copyright.gov/title17/92chap1.html#105
   Permission-Granted: ""
+  goHeather-Template-License: https://github.com/Tally-Works/contract-templates/blob/main/LICENSE-GOHEATHER-TEMPLATES.md
 
 categories:
   employment:
