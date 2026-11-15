@@ -8,12 +8,12 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 ## Contents
 
-- **[United States](#united-states-us)** 391: [Employment](#employment-us) 127 · [Contractors & Consultants](#contractors-consultants-us) 5 · [Confidentiality](#confidentiality-us) 21 · [Commercial](#commercial-us) 17 · [Technology](#technology-us) 65 · [Intellectual Property](#intellectual-property-us) 29 · [Privacy & Data](#privacy-data-us) 24 · [Corporate](#corporate-us) 49 · [Financing](#financing-us) 10 · [Real Estate](#real-estate-us) 15 · [Partnerships & Joint Ventures](#partnerships-joint-ventures-us) 18 · [Marketing & Media](#marketing-media-us) 5 · [Dispute Resolution](#dispute-resolution-us) 3 · [Clause Library](#clause-library-us) 3
-- **[Canada](#canada-ca)** 28: [Employment](#employment-ca) 1 · [Contractors & Consultants](#contractors-consultants-ca) 2 · [Confidentiality](#confidentiality-ca) 4 · [Commercial](#commercial-ca) 2 · [Privacy & Data](#privacy-data-ca) 1 · [Clause Library](#clause-library-ca) 18
-- **[United Kingdom](#united-kingdom-gb)** 44: [Contractors & Consultants](#contractors-consultants-gb) 2 · [Confidentiality](#confidentiality-gb) 5 · [Commercial](#commercial-gb) 12 · [Intellectual Property](#intellectual-property-gb) 3 · [Corporate](#corporate-gb) 3 · [Real Estate](#real-estate-gb) 4 · [Partnerships & Joint Ventures](#partnerships-joint-ventures-gb) 15
+- **[United States](#united-states-us)** 391: [Employment](#employment-us) 127 · [Contractors & Consultants](#contractors--consultants-us) 5 · [Confidentiality](#confidentiality-us) 21 · [Commercial](#commercial-us) 17 · [Technology](#technology-us) 65 · [Intellectual Property](#intellectual-property-us) 29 · [Privacy & Data](#privacy--data-us) 24 · [Corporate](#corporate-us) 49 · [Financing](#financing-us) 10 · [Real Estate](#real-estate-us) 15 · [Partnerships & Joint Ventures](#partnerships--joint-ventures-us) 18 · [Marketing & Media](#marketing--media-us) 5 · [Dispute Resolution](#dispute-resolution-us) 3 · [Clause Library](#clause-library-us) 3
+- **[Canada](#canada-ca)** 28: [Employment](#employment-ca) 1 · [Contractors & Consultants](#contractors--consultants-ca) 2 · [Confidentiality](#confidentiality-ca) 4 · [Commercial](#commercial-ca) 2 · [Privacy & Data](#privacy--data-ca) 1 · [Clause Library](#clause-library-ca) 18
+- **[United Kingdom](#united-kingdom-gb)** 44: [Contractors & Consultants](#contractors--consultants-gb) 2 · [Confidentiality](#confidentiality-gb) 5 · [Commercial](#commercial-gb) 12 · [Intellectual Property](#intellectual-property-gb) 3 · [Corporate](#corporate-gb) 3 · [Real Estate](#real-estate-gb) 4 · [Partnerships & Joint Ventures](#partnerships--joint-ventures-gb) 15
 - **[Australia](#australia-au)** 2: [Real Estate](#real-estate-au) 2
 - **[Finland](#finland-fi)** 5: [Corporate](#corporate-fi) 2 · [Financing](#financing-fi) 3
-- **[International / jurisdiction-neutral](#international-jurisdiction-neutral-intl)** 27: [Confidentiality](#confidentiality-intl) 1 · [Commercial](#commercial-intl) 1 · [Technology](#technology-intl) 12 · [Intellectual Property](#intellectual-property-intl) 4 · [Privacy & Data](#privacy-data-intl) 8 · [Marketing & Media](#marketing-media-intl) 1
+- **[International / jurisdiction-neutral](#international--jurisdiction-neutral-intl)** 27: [Confidentiality](#confidentiality-intl) 1 · [Commercial](#commercial-intl) 1 · [Technology](#technology-intl) 12 · [Intellectual Property](#intellectual-property-intl) 4 · [Privacy & Data](#privacy--data-intl) 8 · [Marketing & Media](#marketing--media-intl) 1
 
 ## By jurisdiction
 
@@ -22,12 +22,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | United States (`us`) | 391 |
 | Canada (`ca`) | 28 |
 | United Kingdom (`gb`) | 44 |
-| Ireland (`ie`) | 0 |
 | Australia (`au`) | 2 |
-| New Zealand (`nz`) | 0 |
-| European Union (`eu`) | 0 |
-| India (`in`) | 0 |
-| Singapore (`sg`) | 0 |
 | Finland (`fi`) | 5 |
 | International / jurisdiction-neutral (`intl`) | 27 |
 

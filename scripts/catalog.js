@@ -389,7 +389,8 @@ function buildCatalogJson(results, taxonomy) {
 }
 
 function mdAnchor(heading) {
-  return heading.toLowerCase().replace(/[`()]/g, '').replace(/[^a-z0-9 -]/g, '').trim().replace(/\s+/g, '-');
+  // GitHub's heading anchors: lower case, punctuation dropped, every space becomes a hyphen (so "A & B" gives "a--b")
+  return heading.toLowerCase().replace(/[`()]/g, '').replace(/[^a-z0-9 -]/g, '').trim().replace(/ /g, '-');
 }
 
 function mdCell(v) {
@@ -430,7 +431,7 @@ function buildCatalogMd(results, taxonomy) {
   lines.push('| --- | ---: |');
   for (const [code, info] of Object.entries(taxonomy.jurisdictions)) {
     const n = entries.filter((e) => splitJurisdiction(e.meta.jurisdiction).country === code).length;
-    lines.push(`| ${info.name} (\`${code}\`) | ${n} |`);
+    if (n) lines.push(`| ${info.name} (\`${code}\`) | ${n} |`);
   }
   lines.push('');
 
