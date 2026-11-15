@@ -92,6 +92,8 @@ Software, SaaS, IT services and online platform agreements.
 | `development-services/` | Software, web and app development agreements. |
 | `hosting-and-cloud/` | Hosting, cloud infrastructure and service-level agreements. |
 | `api-terms/` | API and developer terms. |
+| `terms-of-service/` | Website, app and online service terms of use / terms of service and related notices. |
+| `acceptable-use/` | Acceptable-use policies and community guidelines for a service or platform. |
 | `support-and-maintenance/` | Support, maintenance and managed-services agreements. |
 | `open-source/` | Contributor licence agreements and open-source project governance documents. |
 | `security-and-disclosure/` | Vulnerability disclosure, bug bounty safe-harbour and security policies. |
@@ -103,22 +105,21 @@ Creation, transfer and licensing of IP rights outside the employment context.
 | Subcategory | What goes here |
 | --- | --- |
 | `assignment/` | IP assignment and transfer agreements. |
-| `licensing/` | General IP licence agreements (in-bound and out-bound). |
+| `licensing/` | General IP licence agreements (in-bound and out-bound), including data and biological-materials licences. |
+| `materials-transfer/` | Material transfer agreements for research materials, organisms, plant material and human materials, and their implementing letters. |
 | `trademark/` | Trademark licence, coexistence and consent agreements. |
 | `copyright-and-content/` | Copyright licences, content licences and publishing agreements. |
 | `patent/` | Patent licence, assignment and cross-licence agreements. |
 
 ### Privacy & Data — `privacy-and-data/`
 
-Privacy notices and data-handling agreements.
+Privacy notices, cookie policies and data-handling agreements.
 
 | Subcategory | What goes here |
 | --- | --- |
 | `privacy-policy/` | Website, app and customer privacy policies and notices. |
 | `data-processing/` | Data processing agreements, standard contractual clauses and sub-processor terms. |
 | `cookie-policy/` | Cookie and tracking policies. |
-| `website-terms/` | Website and app terms of use / terms of service. |
-| `acceptable-use/` | Acceptable-use and community guidelines. |
 
 ### Corporate — `corporate/`
 
@@ -166,7 +167,8 @@ Agreements between parties pooling resources for a shared venture.
 | --- | --- |
 | `general-partnership/` | Partnership and limited partnership agreements. |
 | `joint-venture/` | Joint venture and consortium agreements. |
-| `collaboration-and-mou/` | Memoranda of understanding, letters of intent and collaboration agreements. |
+| `collaboration-and-mou/` | Memoranda of understanding, letters of intent, term sheets, fiscal sponsorship and other collaboration agreements. |
+| `research-collaboration/` | Research collaboration, consortium and cooperative research and development agreements (CRADAs) between companies, universities and public bodies, with their heads of terms and schedules. |
 
 ### Marketing & Media — `marketing-and-media/`
 

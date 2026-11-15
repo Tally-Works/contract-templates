@@ -79,7 +79,7 @@ Work top-down. Each answer narrows the path.
 - Company ownership, governance or equity → `corporate`. Borrowing money → `financing`.
 - A single clause meant to be pasted into something else → `clauses`.
 
-**Subcategory.** Pick the most specific one that fits. If two fit, pick the one a lawyer would name first. If none fits, do not invent a folder: propose a new subcategory in `taxonomy.yaml` in the same pull request and explain why in the PR.
+**Subcategory.** Pick the most specific one that fits. If two fit, pick the one a lawyer would name first. If none fits, do not invent a folder: add the subcategory to `taxonomy.yaml` in the same commit and say why in the commit message.
 
 **Type.** `agreement` is signed by everyone. `letter` is sent by one party and may be countersigned. `policy` is unilateral. `notice` is served. `form` is filled in. `clause` is pasted. `checklist` is for drafters. `schedule` attaches to a parent.
 

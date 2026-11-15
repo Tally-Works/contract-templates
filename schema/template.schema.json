@@ -90,19 +90,20 @@
         "development-services",
         "hosting-and-cloud",
         "api-terms",
+        "terms-of-service",
+        "acceptable-use",
         "support-and-maintenance",
         "open-source",
         "security-and-disclosure",
         "assignment",
         "licensing",
+        "materials-transfer",
         "trademark",
         "copyright-and-content",
         "patent",
         "privacy-policy",
         "data-processing",
         "cookie-policy",
-        "website-terms",
-        "acceptable-use",
         "formation",
         "shareholders-and-operating",
         "bylaws-and-resolutions",
@@ -123,6 +124,7 @@
         "general-partnership",
         "joint-venture",
         "collaboration-and-mou",
+        "research-collaboration",
         "influencer-and-sponsorship",
         "advertising",
         "talent-and-model-release",
@@ -405,6 +407,8 @@
               "development-services",
               "hosting-and-cloud",
               "api-terms",
+              "terms-of-service",
+              "acceptable-use",
               "support-and-maintenance",
               "open-source",
               "security-and-disclosure"
@@ -430,6 +434,7 @@
             "enum": [
               "assignment",
               "licensing",
+              "materials-transfer",
               "trademark",
               "copyright-and-content",
               "patent"
@@ -455,9 +460,7 @@
             "enum": [
               "privacy-policy",
               "data-processing",
-              "cookie-policy",
-              "website-terms",
-              "acceptable-use"
+              "cookie-policy"
             ]
           }
         }
@@ -557,7 +560,8 @@
             "enum": [
               "general-partnership",
               "joint-venture",
-              "collaboration-and-mou"
+              "collaboration-and-mou",
+              "research-collaboration"
             ]
           }
         }

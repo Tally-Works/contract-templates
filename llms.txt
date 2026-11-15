@@ -65,27 +65,28 @@ Any file in the repository can be fetched at https://raw.githubusercontent.com/T
   - distribution-and-reseller (1): Distribution, reseller, dealer and channel partner agreements.
   - subscription-and-membership (2): Subscription, membership and recurring-service agreements.
   - amendments-and-extensions (9): Amendments, extensions, renewals and change orders to existing agreements.
-- technology (Technology, 62): Software, SaaS, IT services and online platform agreements.
+- technology (Technology, 77): Software, SaaS, IT services and online platform agreements.
   - saas (17): Software-as-a-service subscription agreements and order forms.
   - software-license (5): On-premise and perpetual software licence agreements.
   - eula (1): End-user licence agreements for apps and downloadable software.
   - hosting-and-cloud (4): Hosting, cloud infrastructure and service-level agreements.
   - api-terms (1): API and developer terms.
+  - terms-of-service (8): Website, app and online service terms of use / terms of service and related notices.
+  - acceptable-use (7): Acceptable-use policies and community guidelines for a service or platform.
   - support-and-maintenance (1): Support, maintenance and managed-services agreements.
   - open-source (20): Contributor licence agreements and open-source project governance documents.
   - security-and-disclosure (13): Vulnerability disclosure, bug bounty safe-harbour and security policies.
 - intellectual-property (Intellectual Property, 36): Creation, transfer and licensing of IP rights outside the employment context.
   - assignment (2): IP assignment and transfer agreements.
-  - licensing (19): General IP licence agreements (in-bound and out-bound).
+  - licensing (10): General IP licence agreements (in-bound and out-bound), including data and biological-materials licences.
+  - materials-transfer (9): Material transfer agreements for research materials, organisms, plant material and human materials, and their implementing letters.
   - trademark (4): Trademark licence, coexistence and consent agreements.
   - copyright-and-content (6): Copyright licences, content licences and publishing agreements.
   - patent (5): Patent licence, assignment and cross-licence agreements.
-- privacy-and-data (Privacy & Data, 48): Privacy notices and data-handling agreements.
+- privacy-and-data (Privacy & Data, 33): Privacy notices, cookie policies and data-handling agreements.
   - privacy-policy (13): Website, app and customer privacy policies and notices.
   - data-processing (16): Data processing agreements, standard contractual clauses and sub-processor terms.
   - cookie-policy (4): Cookie and tracking policies.
-  - website-terms (8): Website and app terms of use / terms of service.
-  - acceptable-use (7): Acceptable-use and community guidelines.
 - corporate (Corporate, 54): Formation, governance and equity documents for companies.
   - formation (13): Articles, certificates of incorporation and formation documents.
   - shareholders-and-operating (6): Shareholder agreements, operating agreements and unanimous shareholder agreements.
@@ -104,7 +105,8 @@ Any file in the repository can be fetched at https://raw.githubusercontent.com/T
   - property-management (1): Property management and co-ownership agreements.
 - partnerships (Partnerships & Joint Ventures, 33): Agreements between parties pooling resources for a shared venture.
   - general-partnership (2): Partnership and limited partnership agreements.
-  - collaboration-and-mou (31): Memoranda of understanding, letters of intent and collaboration agreements.
+  - collaboration-and-mou (6): Memoranda of understanding, letters of intent, term sheets, fiscal sponsorship and other collaboration agreements.
+  - research-collaboration (25): Research collaboration, consortium and cooperative research and development agreements (CRADAs) between companies, universities and public bodies, with their heads of terms and schedules.
 - marketing-and-media (Marketing & Media, 6): Advertising, sponsorship, talent and content production.
   - influencer-and-sponsorship (2): Influencer, brand ambassador and sponsorship agreements.
   - events (4): Event, venue, speaker and exhibitor agreements.

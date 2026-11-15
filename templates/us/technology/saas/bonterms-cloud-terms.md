@@ -28,7 +28,7 @@ related:
   - templates/us/technology/saas/bonterms-cloud-terms-cover-page.md
   - templates/us/technology/saas/bonterms-cloud-terms-order-form.md
   - templates/us/technology/support-and-maintenance/bonterms-support-policy.md
-  - templates/us/privacy-and-data/acceptable-use/bonterms-acceptable-use-policy.md
+  - templates/us/technology/acceptable-use/bonterms-acceptable-use-policy.md
 summary: >-
   Neutral standard terms for a cloud / SaaS subscription, with the business terms, governing law and any modifications
   on a separate cover page. Version 1.0. Governing law and business terms are chosen on the cover page.
