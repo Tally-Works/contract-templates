@@ -1,6 +1,8 @@
-# Contributing
+# How templates are added
 
-This library will hold hundreds of templates. It stays useful only if every file is marked correctly and sits in the right folder, so the process below is strict on purpose. The validator enforces most of it; the rest is judgement, and this page is the guide.
+This is goHeather's own process for adding templates. The library does not take outside pull requests at the moment; to report a problem with a template or ask for one, [open an issue](../../issues/new/choose).
+
+The library holds hundreds of templates. It stays useful only if every file is marked correctly and sits in the right folder, so the process below is strict on purpose. The validator enforces most of it; the rest is judgement, and this page is the guide.
 
 ## 1. Before you add anything: licensing
 
@@ -57,7 +59,7 @@ If a template you want is only available under terms that fail this table, leave
    deprecate(gb/privacy-and-data/data-processing): pre-2021 SCCs
    taxonomy: add employment/collective-and-union
    ```
-8. **Open a pull request.** CI runs `npm run check`; the PR template has the review checklist.
+8. **Push.** CI runs `npm run check` on every push; section 7 is the checklist to go through first.
 
 ## 3. Decision guide: where does it go?
 
@@ -111,7 +113,7 @@ Changing a status requires `reviewed_by` and `last_reviewed` to be set in the sa
 
 `taxonomy.yaml` is the only place categories, subcategories, jurisdictions, types, statuses and licences are defined. To change it, edit the file, run `npm run build` to regenerate `docs/taxonomy.md`, and move any affected templates in the same pull request so `npm run validate` still passes. Renaming a subcategory means renaming its folder; the validator will tell you which files disagree.
 
-## 7. Pull request checklist
+## 7. Checklist before pushing
 
 - [ ] Licence allows redistribution and is recorded in `license`; `source.url` and `source.retrieved` are filled in for third-party material.
 - [ ] Front-matter complete; `npm run validate` passes with no errors.

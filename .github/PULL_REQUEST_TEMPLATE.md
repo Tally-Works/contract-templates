@@ -1,10 +1,12 @@
+<!-- The library does not take outside pull requests at the moment; see CONTRIBUTING.md. To report a problem with a template or ask for one, open an issue instead. -->
+
 ## What this adds or changes
 
 <!-- One line per template, e.g. "add(us/employment/executive): executive employment agreement" -->
 
 ## Source and licence
 
-<!-- Where each template came from and the licence that lets us redistribute it. "Drafted in-house" is fine. -->
+<!-- Where each template came from and the licence that lets us redistribute it. -->
 
 ## Checklist
 
@@ -12,5 +14,5 @@
 - [ ] `npm run validate` passes with no errors
 - [ ] Filed per the decision guide in CONTRIBUTING.md (jurisdiction / category / subcategory / type / variant)
 - [ ] Filename follows docs/naming.md
-- [ ] Body cleaned up: `[PLACEHOLDERS]`, no real names or amounts, drafting notes marked
+- [ ] Body is the publisher's text as published: nothing added, nothing removed, every notice and credit line kept
 - [ ] `npm run build` run and every regenerated file committed (`catalog.json`, `CATALOG.md`, `ATTRIBUTION.md`, `llms.txt`, `docs/taxonomy.md`, `docs/tags.md`, `schema/template.schema.json`)

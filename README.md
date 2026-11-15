@@ -81,7 +81,11 @@ Start with [`llms.txt`](llms.txt). The short version:
 - The body of each Markdown file is the template text, publisher's notices included. Keep those notices when you build a document from it; the `license` field says what the publisher requires.
 - The front-matter follows [`schema/template.schema.json`](schema/template.schema.json), and the allowed values are in [`taxonomy.yaml`](taxonomy.yaml).
 
-## Adding templates
+## How templates are added
+
+goHeather adds and maintains the templates. The library does not take outside pull requests at the moment. If a template has a problem, is misattributed, or you would like it removed, or if you want a template the library does not have, [open an issue](../../issues/new/choose).
+
+The process goHeather follows:
 
 ```bash
 npm install
@@ -93,6 +97,8 @@ npm run build
 ```
 
 `npm run new` creates the file in the correct folder with a complete front-matter block. To file a document you dropped into `_intake/`, add `--from _intake/the-file.md`. `npm run build` then writes the Word file beside it and regenerates the catalog. The intake workflow and licensing rules are in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+The **[Catalog](CATALOG.md)** and [`catalog.json`](catalog.json) link to the Word file beside every template; on GitHub it is the `.docx` of the same name in the same folder.
 
 ## What is accepted
 
@@ -121,7 +127,7 @@ Every template is filed with `status: draft`. A template has been reviewed by a 
 | `scripts/catalog.js` | The librarian: `validate`, `build`, `new`. |
 | `scripts/build-docx.js` | Writes the Word file for every template that has no publisher original. |
 | `_intake/` | Local drop zone for documents not yet filed. Git-ignored. |
-| `.github/` | CI that runs the validator on every pull request. |
+| `.github/` | CI that runs the validator on every push and pull request, and the issue forms. |
 
 ## Licence
 
