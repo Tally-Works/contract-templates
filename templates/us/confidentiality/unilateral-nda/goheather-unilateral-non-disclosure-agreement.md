@@ -18,10 +18,8 @@ source:
   file: templates/us/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.docx
   retrieved: "2026-11-15"
   notes: >-
-    Written by goHeather (Tally Works Inc.). The Word file beside this template is goHeather's original. Licensed under
-    the goHeather Template Licence 1.0 (LICENSE-GOHEATHER-TEMPLATES.md): free to use, fill in and adapt for your own
-    documents; the template itself may not be redistributed, sold or included in another library or product.
-license: goHeather-Template-License
+    Written by goHeather (Tally Works Inc.). The Word file beside this template is goHeather's original. Published by goHeather under CC BY 4.0: anyone may use, adapt and share it, including commercially, with credit to goHeather.
+license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-15"

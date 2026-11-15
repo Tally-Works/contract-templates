@@ -245,4 +245,3 @@ Standalone clauses to insert into other documents. Files here are type "clause".
 | `Apache-2.0` | Apache License 2.0 |
 | `Public-Domain` | US federal government work or other work in the public domain with no licence |
 | `Permission-Granted` | Author gave goHeather written permission to redistribute and adapt (source.url and source.notes must link to or quote the permission) |
-| `goHeather-Template-License` | goHeather Template Licence 1.0 (documents goHeather wrote; free to use, fill in and adapt for your own documents, but the template itself may not be redistributed, sold or included in another library or product) |

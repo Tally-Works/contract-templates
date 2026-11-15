@@ -267,7 +267,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | [Common Paper One-Way NDA](templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.md) | [docx](templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.docx) (original) | US | agreement | draft | CC-BY-4.0 | nda, one-way, confidentiality, cover-page, common-paper |
 | [Confidentiality and Non-Disclosure Agreement (long-form)](templates/us/confidentiality/unilateral-nda/confidentiality-and-non-disclosure-agreement--long-form.md) | [docx](templates/us/confidentiality/unilateral-nda/confidentiality-and-non-disclosure-agreement--long-form.docx) | US | agreement | draft | CC0-1.0 | nda, one-way, confidentiality, corporate, trade-secrets |
 | [EPA Non-Disclosure Agreement (Information to EPA)](templates/us/confidentiality/unilateral-nda/epa-non-disclosure-agreement-information-to-epa.md) | [docx](templates/us/confidentiality/unilateral-nda/epa-non-disclosure-agreement-information-to-epa.docx) (original) | US | agreement | draft | Public-Domain | nda, one-way, epa, federal |
-| [goHeather Unilateral Non-Disclosure Agreement](templates/us/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.md) | [docx](templates/us/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.docx) (original) | US | agreement | draft | goHeather-Template-License | nda, one-way, confidentiality |
+| [goHeather Unilateral Non-Disclosure Agreement](templates/us/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.md) | [docx](templates/us/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.docx) (original) | US | agreement | draft | CC-BY-4.0 | nda, one-way, confidentiality |
 | [NIH Confidential Disclosure Agreement](templates/us/confidentiality/unilateral-nda/nih-confidential-disclosure-agreement.md) | [docx](templates/us/confidentiality/unilateral-nda/nih-confidential-disclosure-agreement.docx) (original) | US | agreement | draft | Public-Domain | cda, confidentiality, nih, federal |
 | [One-Way Non-Disclosure Agreement](templates/us/confidentiality/unilateral-nda/one-way-non-disclosure-agreement.md) | [docx](templates/us/confidentiality/unilateral-nda/one-way-non-disclosure-agreement.docx) (original) | US | agreement | draft | CC0-1.0 | nda, one-way, confidentiality, startup |
 | [The Guestbook NDA (long-form)](templates/us/confidentiality/unilateral-nda/the-guestbook-nda--long-form.md) | [docx](templates/us/confidentiality/unilateral-nda/the-guestbook-nda--long-form.docx) (original) | US | agreement | draft | Guestbook-NDA-License | nda, one-way, plain-english, guestbook |
@@ -748,7 +748,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
-| [goHeather Termination Letter Without Cause (Employer)](templates/ca/employment/separation-and-termination/goheather-termination-letter-without-cause-employer.md) | [docx](templates/ca/employment/separation-and-termination/goheather-termination-letter-without-cause-employer.docx) (original) | CA | letter | draft | goHeather-Template-License | termination, without-cause, severance, notice-period, release, canada, build-notes |
+| [goHeather Termination Letter Without Cause (Employer)](templates/ca/employment/separation-and-termination/goheather-termination-letter-without-cause-employer.md) | [docx](templates/ca/employment/separation-and-termination/goheather-termination-letter-without-cause-employer.docx) (original) | CA | letter | draft | CC-BY-4.0 | termination, without-cause, severance, notice-period, release, canada, build-notes |
 
 #### Contractors & Consultants
 
@@ -757,7 +757,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Contractor Work-for-Hire Agreement](templates/ca/contractors/independent-contractor/contractor-work-for-hire-agreement.md) | [docx](templates/ca/contractors/independent-contractor/contractor-work-for-hire-agreement.docx) | CA | agreement | draft | Apache-2.0 | contractor, work-for-hire, dot-legal |
-| [goHeather Independent Contractor Agreement](templates/ca/contractors/independent-contractor/goheather-independent-contractor-agreement.md) | [docx](templates/ca/contractors/independent-contractor/goheather-independent-contractor-agreement.docx) (original) | CA | agreement | draft | goHeather-Template-License | independent-contractor, consulting, statement-of-work, non-compete, non-solicit, canada, build-notes |
+| [goHeather Independent Contractor Agreement](templates/ca/contractors/independent-contractor/goheather-independent-contractor-agreement.md) | [docx](templates/ca/contractors/independent-contractor/goheather-independent-contractor-agreement.docx) (original) | CA | agreement | draft | CC-BY-4.0 | independent-contractor, consulting, statement-of-work, non-compete, non-solicit, canada, build-notes |
 
 #### Confidentiality
 
@@ -979,7 +979,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
-| [goHeather Non-Disclosure Agreement Clause Library](templates/intl/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.md) | [docx](templates/intl/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.docx) (original) | INTL | clause-library | draft | goHeather-Template-License | nda, clause-library, question-flow, developer-guide, unilateral, mutual, multi-party |
+| [goHeather Non-Disclosure Agreement Clause Library](templates/intl/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.md) | [docx](templates/intl/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.docx) (original) | INTL | clause-library | draft | CC-BY-4.0 | nda, clause-library, question-flow, developer-guide, unilateral, mutual, multi-party |
 | [NEAR Foundation Template Mutual NDA](templates/intl/confidentiality/mutual-nda/near-foundation-template-mutual-nda.md) | [docx](templates/intl/confidentiality/mutual-nda/near-foundation-template-mutual-nda.docx) | INTL | agreement | draft | CC0-1.0 | nda, mutual, near-foundation |
 
 #### Commercial
@@ -988,7 +988,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Template | Word | Jurisdiction | Type | Status | Licence | Tags |
 | --- | --- | --- | --- | --- | --- | --- |
-| [goHeather Generic Services Agreement Clause Library](templates/intl/commercial/master-services/goheather-generic-services-agreement-clause-library.md) | [docx](templates/intl/commercial/master-services/goheather-generic-services-agreement-clause-library.docx) (original) | INTL | clause-library | draft | goHeather-Template-License | services-agreement, clause-library, question-flow, developer-guide, fees, intellectual-property, termination |
+| [goHeather Generic Services Agreement Clause Library](templates/intl/commercial/master-services/goheather-generic-services-agreement-clause-library.md) | [docx](templates/intl/commercial/master-services/goheather-generic-services-agreement-clause-library.docx) (original) | INTL | clause-library | draft | CC-BY-4.0 | services-agreement, clause-library, question-flow, developer-guide, fees, intellectual-property, termination |
 
 **distribution-and-reseller** — Distribution, reseller, dealer and channel partner agreements.
 

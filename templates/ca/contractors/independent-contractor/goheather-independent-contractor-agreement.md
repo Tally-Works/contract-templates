@@ -24,10 +24,8 @@ source:
   notes: >-
     Written by goHeather (Tally Works Inc.) for its own contract builder. The Word file beside this template is
     goHeather's original, margin comments included; in this Markdown each comment appears as a bracketed build note at
-    the point it refers to, and the instruction lines in the body are goHeather's own. Licensed under the goHeather
-    Template Licence 1.0 (LICENSE-GOHEATHER-TEMPLATES.md): free to use, fill in and adapt for your own documents; the
-    template itself may not be redistributed, sold or included in another library or product.
-license: goHeather-Template-License
+    the point it refers to, and the instruction lines in the body are goHeather's own. Published by goHeather under CC BY 4.0: anyone may use, adapt and share it, including commercially, with credit to goHeather.
+license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-15"

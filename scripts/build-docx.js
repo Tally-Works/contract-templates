@@ -191,8 +191,8 @@ function buildDocument(meta, body, relMd) {
   const licUrl = (TAXONOMY.license_urls || {})[meta.license] || '';
   const ours = String(src.name || '').toLowerCase() === 'goheather';
   const footerLines = ours ? [
-    `${meta.title}. Written and published by goHeather (Tally Works Inc.) under the goHeather Template Licence 1.0${licUrl ? ` (${licUrl})` : ''}.`,
-    `Free to use, fill in and adapt for your own documents; the template itself may not be redistributed, sold or included in another library or product. Part of the contract-templates library (${relMd}). Not legal advice.`,
+    `${meta.title}. Written and published by goHeather (Tally Works Inc.) under ${meta.license}${licUrl ? ` (${licUrl})` : ''}.`,
+    `Free to use, adapt and share, including commercially, with credit to goHeather. Part of the contract-templates library (${relMd}). Not legal advice.`,
   ] : [
     `${meta.title}. Published by ${src.name || 'unknown source'}${src.url ? ` (${src.url})` : ''} under ${meta.license}${licUrl ? ` (${licUrl})` : ''}. Text as published; converted to this format by goHeather without changes.`,
     `goHeather did not write this document and holds no rights in it; it is collected in the contract-templates library (${relMd}), see ATTRIBUTION.md. Not legal advice.`,

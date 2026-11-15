@@ -25,10 +25,8 @@ source:
     Written by goHeather (Tally Works Inc.) as a clause library: for each section it gives the question to ask the user,
     the exact text to use for each answer and the fallback when the user gives no answer. It is meant for goHeather's
     app and for assistants to build a complete agreement from, not to be signed as it stands. The Word file beside this
-    template is goHeather's original. Licensed under the goHeather Template Licence 1.0
-    (LICENSE-GOHEATHER-TEMPLATES.md): free to use, fill in and adapt for your own documents; the template itself may not
-    be redistributed, sold or included in another library or product.
-license: goHeather-Template-License
+    template is goHeather's original. Published by goHeather under CC BY 4.0: anyone may use, adapt and share it, including commercially, with credit to goHeather.
+license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-15"
