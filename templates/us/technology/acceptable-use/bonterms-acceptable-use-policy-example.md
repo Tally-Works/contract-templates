@@ -1,5 +1,5 @@
 ---
-title: Bonterms Acceptable Use Policy
+title: Bonterms Acceptable Use Policy (Example)
 jurisdiction: US
 category: technology
 subcategory: acceptable-use
@@ -18,10 +18,10 @@ language: en
 source:
   name: Bonterms
   url: https://bonterms.com/resources/acceptable-use-policy-version-1-0
-  file: templates/us/technology/acceptable-use/bonterms-acceptable-use-policy.docx
+  file: templates/us/technology/acceptable-use/bonterms-acceptable-use-policy-example.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (bonterms-acceptable-use-policy.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (bonterms-acceptable-use-policy.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -61,3 +61,15 @@ This Acceptable Use Policy (“**AUP**”) sets forth rules that apply to the us
 We may monitor compliance with this AUP and investigate any violations. If we determine that you or your content violates this AUP, we may remove or suspend access to your content or invoke our suspension rights under the Agreement (see Section 13 of the Bonterms Cloud Terms (Suspension)).
 
 We may report any activity that we suspect violates any law or regulation to law enforcement officials, regulators or other appropriate third parties, and cooperate with them to investigate and prosecute illegal conduct. Our reporting may include disclosing information related to the violation of this AUP.
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+[DELETE THIS FOOTER BEFORE USING:
+
+Example Acceptable Use Policy Attachment for Bonterms Cloud Terms
+
+Made available under CC0 1.0 - you may freely use, modify or distribute without attribution.
+
+Bonterms does not provide legal advice, does not guarantee the enforceability or effect of these terms and has no liability relating to use of these terms.]

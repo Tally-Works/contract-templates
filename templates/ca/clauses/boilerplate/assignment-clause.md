@@ -14,7 +14,7 @@ tags:
   - consent
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/provisions/general/assignment.md
   retrieved: "2026-11-14"
   notes: >-
@@ -25,7 +25,9 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Boilerplate assignment provision from the Dot Legal reference library.
+summary: >-
+  Bars any party from assigning the document without the prior written consent of all other parties, which may not be
+  unreasonably withheld or delayed.
 ---
 
 This document may not be assigned by any party without prior written consent of all other parties, where such consent may not be unreasonably withheld or delayed.

@@ -16,10 +16,10 @@ tags:
 language: en
 source:
   name: GitHub
-  url: https://github.com/github/balanced-employee-ip-agreement
+  url: https://github.com/github/balanced-employee-ip-agreement/blob/main/Balanced_Employee_IP_Agreement.md
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from Balanced_Employee_IP_Agreement.md in github.com/github/balanced-employee-ip-agreement (LICENSE.md: CC0 1.0). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from Balanced_Employee_IP_Agreement.md in github.com/github/balanced-employee-ip-agreement (LICENSE.md: CC0 1.0). goHeather added nothing and removed nothing; this Markdown file is the publisher's file. The publisher's README states, under "Norms": "If you adapt BEIPA's text for your company's use other than by replacing bracketed [] fields, please change its name or state that you've changed the agreement so its no longer BEIPA. If you wish to attribute BEIPA, a link to its repository would be nice." CC0 covers the text only; GitHub's names and logos are trademarks and must be replaced when the text is adapted.
 license: CC0-1.0
 status: draft
 version: 1.0.0

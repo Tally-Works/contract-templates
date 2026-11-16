@@ -20,7 +20,7 @@ source:
   file: templates/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (bonterms-psa-example-statement-of-work.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (bonterms-psa-example-statement-of-work.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -33,8 +33,7 @@ summary: Example statement of work under the Bonterms Professional Services Agre
 
 [Example: Create your own version and remove this note and the footer before using]
 
-**Professional Services Agreement (PSA)STATEMENT OF WORK
-**
+**Professional Services Agreement (PSA) STATEMENT OF WORK**
 
 This Statement of Work (“SOW”) is for the purchase and provision of Services and Deliverables under the Professional Services Agreement referenced below. Capitalized terms not defined in this SOW have the meanings given in the Professional Services Agreement.
 
@@ -132,9 +131,7 @@ If yes, PO #: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Accepted and agreed to as of the SOW Effective Date by the authorized representative of each party:
 
 **Customer:**
-**Provider:**
 
-**Signature: Name and Title:Company: Address *(choose one or both)*:☐ Email:☐ Postal mail:Date:**
 Signature:
 Name and Title:
 Company:
@@ -142,3 +139,25 @@ Address *(choose one or both)*:
 ☐ Email:
 ☐ Postal mail:
 Date:
+
+**Provider:**
+
+Signature:
+Name and Title:
+Company:
+Address *(choose one or both)*:
+☐ Email:
+☐ Postal mail:
+Date:
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+[REMOVE THIS FOOTER BEFORE USING:
+
+Example Statement of Work for Bonterms Professional Services Agreement (Version 1.2)
+
+Made available under CC0 1.0 - you may freely use, modify or distribute without attribution.
+
+Bonterms does not provide legal advice, does not guarantee the enforceability or effect of these terms and has no liability relating to use of these terms.]

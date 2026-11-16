@@ -20,7 +20,7 @@ source:
   notes: >-
     Converted to Markdown from the Word file published by the NIH Office of Technology Transfer at
     https://www.techtransfer.nih.gov/resources, kept beside this file as the download. A work of the United States
-    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed.
+    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown.
 license: Public-Domain
 status: draft
 version: 1.0.0
@@ -175,3 +175,15 @@ Phone:
 Fax:
 
 Any false or misleading statements made, presented, or submitted to the **Government**, including any relevant omissions, under this **Agreement** and during the course of negotiation of this **Agreement** are subject to all applicable civil and criminal statutes including Federal statutes [31 U.S.C. §§3801-3812](https://uscode.house.gov/view.xhtml?path=/prelim@title31/subtitle3/chapter38&edition=prelim) (civil liability) and [18 U.S.C. §1001](https://uscode.house.gov/view.xhtml?path=/prelim@title15/chapter41/subchapter5&edition=prelim) (criminal liability including fine(s) or imprisonment).
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+CONFIDENTIAL L-XXX-20XX-0
+
+NIH Cost Sharing Agreement
+
+Model 10-2015 Page 7 of 7 [Draft/Final] [Company] [Date]
+
+Model 10-2015 Page 1 of 7 [Draft/Final] [Company] [Date]

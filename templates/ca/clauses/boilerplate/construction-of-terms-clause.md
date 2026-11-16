@@ -1,5 +1,5 @@
 ---
-title: Construction Of Terms Clause
+title: Construction of Terms Clause
 jurisdiction: CA
 category: clauses
 subcategory: boilerplate
@@ -14,7 +14,7 @@ tags:
   - statutory-references
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/provisions/general/construction-of-terms.md
   retrieved: "2026-11-14"
   notes: >-
@@ -25,7 +25,10 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Boilerplate construction of terms provision from the Dot Legal reference library.
+summary: >-
+  Interpretation rules: singular includes plural and each gender includes the other where context requires,
+  "including" means "including, without limitation", "and" and "or" are not exclusive unless context requires, and a
+  reference to a statute, regulation, policy, rule or instrument includes its amendments and any successor.
 ---
 
 Where context indicates or requires, a word in the singular form will include the plural, a word in the masculine form will include the feminine, and vice-versa.

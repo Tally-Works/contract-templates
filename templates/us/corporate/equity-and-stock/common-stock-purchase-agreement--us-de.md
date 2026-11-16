@@ -21,7 +21,9 @@ source:
   file: templates/us/corporate/equity-and-stock/common-stock-purchase-agreement--us-de.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (common-stock-purchase-agreement--us-de.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (common-stock-purchase-agreement--us-de.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
+    CC0 1.0 per the library page; the GitHub mirror of the package carries an MIT licence for code and no formal
+    licence for the templates.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -78,3 +80,9 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 [PURCHASER NAME]
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+[COMPANY NAME], INC. — Common Stock Purchase Agreement

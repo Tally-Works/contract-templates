@@ -19,15 +19,18 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-anti-bribery-statement.md
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-anti-bribery-statement.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-anti-bribery-statement.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and no site variables occur in this file; no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC0 covers the text only; GitHub's names and logos are trademarks and must be replaced when the text is adapted.
 license: CC0-1.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
-  Company anti-bribery and anti-corruption statement covering employees, contractors and partners, with reporting and
-  consequences.
+  GitHub's own Anti-Bribery Statement from github/site-policy, published under CC0 for others to adapt;
+  GitHub-specific throughout. States GitHub's prohibition of bribery and corruption, the company policies that carry
+  it (Code of Ethics, Standards of Conduct, Gifts and Entertainment Policy and Microsoft's Anti-Corruption Policy),
+  employee training on the US FCPA and UK Bribery Act, and the anti-corruption commitments required of channel
+  partners and vendors.
 ---
 
 GitHub upholds our commitment to ethical business practices, including by prohibiting bribery and corruption. As [Transparency International](https://www.transparency.org/what-is-corruption) explains, the costs of corruption are

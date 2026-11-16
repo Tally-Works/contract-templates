@@ -14,7 +14,7 @@ tags:
   - no-agency
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/provisions/general/no-joint-venture.md
   retrieved: "2026-11-14"
   notes: >-
@@ -25,7 +25,9 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Boilerplate no joint venture provision from the Dot Legal reference library.
+summary: >-
+  States that nothing in the document, and no act of any party, creates a partnership or joint venture between the
+  parties.
 ---
 
 Nothing contained in this document, nor the acts of any party, will create, or be construed to create, a partnership or joint venture relationship between any of the parties.

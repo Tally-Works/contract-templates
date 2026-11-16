@@ -21,7 +21,7 @@ source:
   notes: >-
     Converted to Markdown from the Word file published by the NIH Office of Technology Transfer at
     https://www.techtransfer.nih.gov/resources, kept beside this file as the download. A work of the United States
-    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed.
+    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown.
 license: Public-Domain
 status: draft
 version: 1.0.0
@@ -195,3 +195,11 @@ The Research Plan should be a short, concise explanation of the research project
 that will be conducted by NIH using the materials provided under the M-CRADA. **APPENDIX B**
 
 **EXCEPTIONS OR MODIFICATIONS TO THIS M-CRADA**
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+IC-Collaborator M-CRADA IC Ref. No. _____ Model Adopted 2009
+
+Page 9 of 9 Confidential Revised August 1, 2012

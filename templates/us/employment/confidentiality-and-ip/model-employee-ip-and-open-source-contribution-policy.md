@@ -20,7 +20,7 @@ source:
   file: templates/us/employment/confidentiality-and-ip/model-employee-ip-and-open-source-contribution-policy.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (model-employee-ip-and-open-source-contribution-policy.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (model-employee-ip-and-open-source-contribution-policy.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -242,3 +242,11 @@ A provision in an employment agreement which provides that an employee shall ass
 Any provision which purports to apply to such an invention is to that extent against the public policy of the state and is to that extent void and unenforceable.
 
 An employer cannot require as a condition of employment any provision made void and unenforceable by the law. If an employment agreement entered into after Sept. 1, 1979 contains a provision requiring the employee to assign any of the employee's rights in any invention to the employer, the employer must also, at the time the agreement is made, provide a written notification to the employee of the employee's rights under the law. The employee will - at the time of employment or thereafter - disclose all inventions being developed by the employee, for the purpose of determining employer or employee rights. The employer or the employee may disclose such inventions to the Department of Employment Security, and the department will maintain a record of such disclosures for a minimum period of five years.
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Model Corporate IP/OSS Policy, © 2015 Rackspace, Van Lindberg
+
+Licensed under CC-BY 4.0; just cite include a clause or footnote stating something like “This policy includes sections adapted from the Model Corporate Intellectual Property and Open Source policy by Van Lindberg, licensed under Creative Commons CC-BY 4.0, available at https://processmechanics.com/static/2015-07/ModelCo_IP_Policy.docx.”

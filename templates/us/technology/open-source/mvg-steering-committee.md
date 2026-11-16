@@ -18,13 +18,24 @@ source:
   retrieved: "2026-11-14"
   notes: >-
     Text taken verbatim from the GitHub Minimum Viable Governance repository (github.com/github/MVG), LICENSE: Creative
-    Commons Attribution 4.0 International; marked beta by GitHub. goHeather added nothing and removed nothing.
+    Commons Attribution 4.0 International; marked beta by GitHub. goHeather added nothing and removed nothing. Relative links are to sibling files in the MVG repository and do not resolve here.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Steering committee document under Minimum Viable Governance.
+related:
+  - templates/us/technology/open-source/mvg-antitrust-policy.md
+  - templates/us/technology/open-source/mvg-code-of-conduct.md
+  - templates/us/technology/open-source/mvg-maintainers.md
+  - templates/us/technology/open-source/mvg-organisation-charter.md
+  - templates/us/technology/open-source/mvg-project-governance.md
+  - templates/us/technology/open-source/mvg-trademark-policy.md
+summary: >-
+  Steering Committee sign-up file under GitHub's Minimum Viable Governance (MVG-0.1-beta): a table of voting members
+  with handle and affiliated organisation, added once approved as the charter provides. Adding a name binds the
+  member to the organisation's charter, code of conduct, trademark policy and antitrust policy, and represents
+  authority to bind any affiliated organisation.
 ---
 
 # Steering Committee

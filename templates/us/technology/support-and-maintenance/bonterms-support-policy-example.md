@@ -1,5 +1,5 @@
 ---
-title: Bonterms Support Policy
+title: Bonterms Support Policy (Example)
 jurisdiction: US
 category: technology
 subcategory: support-and-maintenance
@@ -16,10 +16,10 @@ language: en
 source:
   name: Bonterms
   url: https://bonterms.com/resources/support-policy-version-1-0
-  file: templates/us/technology/support-and-maintenance/bonterms-support-policy.docx
+  file: templates/us/technology/support-and-maintenance/bonterms-support-policy-example.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (bonterms-support-policy.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (bonterms-support-policy.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -42,7 +42,7 @@ Provider offers Support for the Cloud Service in accordance with the following t
 
 1.  **Support Hours**. Support is provided during Provider’s normal business hours of [\_\_ to \_\_ \_\_\_, Monday through Friday, except U.S. holidays].
 2.  **Incident Submission and Customer Cooperation**. Customer may report errors or abnormal behavior of the Cloud Service (“**Incidents**”) by contacting Provider at the applicable email or phone number specified in the table below. Customer will provide information and cooperation to Provider as reasonably required for Provider to provide Support. This includes providing the following information to Provider regarding the Incident:
-    -   -   Aspects of the Cloud Service that are unavailable or not functioning correctly
+    -   Aspects of the Cloud Service that are unavailable or not functioning correctly
         -   Incident’s impact on users
         -   Start time of Incident
         -   List of steps to reproduce Incident
@@ -69,4 +69,16 @@ Cloud Service is responding and functional but performance is degraded, and/or I
 Non-critical issue; no significant impact on performance of the Cloud Service but user experience may be affected.
 [\_\_ Business Day(s)]
 
-1.  **Exclusions.** Provider will have no obligation to provide Support to the extent an Incident arises from: (a) misuse or unauthorized modifications to the Cloud Service, (b) Third-Party Platforms or other third-party systems, (c) Trials and Betas or other free or evaluation use or (d) Professional Services deliverables.
+4.  **Exclusions.** Provider will have no obligation to provide Support to the extent an Incident arises from: (a) misuse or unauthorized modifications to the Cloud Service, (b) Third-Party Platforms or other third-party systems, (c) Trials and Betas or other free or evaluation use or (d) Professional Services deliverables.
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+[DELETE THIS FOOTER BEFORE USING:
+
+Example Support Policy for Bonterms Cloud Terms
+
+Made available under CC0 1.0 - you may freely use, modify or distribute without attribution.
+
+Bonterms does not provide legal advice, does not guarantee the enforceability or effect of these terms and has no liability relating to use of these terms.]

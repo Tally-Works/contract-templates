@@ -20,7 +20,7 @@ source:
   file: templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-election-notice.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (model-cobra-continuation-coverage-election-notice.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (model-cobra-continuation-coverage-election-notice.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: Public-Domain
 status: draft
 version: 1.0.0
@@ -242,3 +242,9 @@ Your first payment and all periodic payments for continuation coverage should be
 [*enter appropriate payment address*]
 
 1.  [https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start). These rules are different for people with End Stage Renal Disease (ESRD). [↑](#footnote-ref-1)
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+OMB Control Number 1210-0123 (expires 07/31/2029)

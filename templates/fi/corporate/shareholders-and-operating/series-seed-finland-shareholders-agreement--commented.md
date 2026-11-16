@@ -789,3 +789,9 @@ The following secondary occupations are permitted for the Working Shareholders l
 **Person**
 Description of permitted secondary occupation, including scope and nature of activities
 Maximum time commitment, if applicable
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+2 (26)

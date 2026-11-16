@@ -122,3 +122,9 @@ Month 11 Task 3
 Months 12 - 15 Preparation of and presentation of data at EPA workshop
 
 Months 19 - 24 Distribution of the EPA workshop products
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Version 7/2/2024

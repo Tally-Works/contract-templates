@@ -304,3 +304,9 @@ Signature: ………………………………………
 8.  This set of wording reflects the terms of Consortium Agreement C under which the ownership of the Results is split between two Parties. [↑](#footnote-ref-8)
 
 9.  This set of wording reflects the terms of Consortium Agreement D. [↑](#footnote-ref-9)
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Heads of Terms for Consortium Agreements (Final)

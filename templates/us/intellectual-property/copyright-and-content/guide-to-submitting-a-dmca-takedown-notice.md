@@ -19,13 +19,16 @@ source:
     https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice.md
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variable contact_dmca is shown as the text it renders to on docs.github.com, "[Copyright claims form](https://github.com/contact/dmca)"; no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC0 covers the text only; GitHub's names and logos are trademarks and must be replaced when the text is adapted. Relative links are to docs.github.com and do not resolve here.
 license: CC0-1.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Step-by-step guide and required contents for a DMCA takedown notice sent to a hosting platform.
+summary: >-
+  GitHub's own guide to submitting a DMCA takedown notice, from github/site-policy, published under CC0 for others to
+  adapt; GitHub-specific throughout. Lists the information GitHub needs in a notice, the separate requirements for
+  anti-circumvention complaints, and how to send it, down to GitHub's postal address.
 ---
 
 This guide describes the information that GitHub needs in order to process a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/site-policy/content-removal-policies/dmca-takedown-policy).
@@ -90,14 +93,14 @@ GitHub exercises little discretion in the process other than determining whether
 
 ## Complaints about Anti-Circumvention Technology
 
-The Copyright Act also prohibits the circumvention of technological measures that effectively control access to works protected by copyright. If you believe that content hosted on GitHub violates this prohibition, please send us a report through our copyright@github.com. A circumvention claim must include the following details about the technical measures in place and the manner in which the accused project circumvents them. Specifically, the notice to GitHub must include detailed statements that describe:
+The Copyright Act also prohibits the circumvention of technological measures that effectively control access to works protected by copyright. If you believe that content hosted on GitHub violates this prohibition, please send us a report through our [Copyright claims form](https://github.com/contact/dmca). A circumvention claim must include the following details about the technical measures in place and the manner in which the accused project circumvents them. Specifically, the notice to GitHub must include detailed statements that describe:
 1. What the technical measures are;
 1. How they effectively control access to the copyrighted material; and
 1. How the accused project is designed to circumvent their previously described technological protection measures.
 
 ## How to Submit Your Complaint
 
-The fastest way to get a response is to enter your information and answer all the questions on our copyright@github.com.
+The fastest way to get a response is to enter your information and answer all the questions on our [Copyright claims form](https://github.com/contact/dmca).
 
 You can also send an email notification to <copyright@github.com>. You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
 

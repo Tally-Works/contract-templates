@@ -106,17 +106,21 @@ The **Deliverables** are: [define the Deliverables that will be owned by Custome
 *[Drafting note: Delete the travel and expense option if not applicable.]*
 [ ] Travel and expenses: [Describe or attach travel and expense policy.]
 
-**Payment PeriodTime frame for Customer to pay invoices**
+**Payment Period**
+*Time frame for Customer to pay invoices*
 [ Fill in payment terms, e.g., 30 days from Customer’s receipt of invoice ]
 
-**Invoice PeriodHow frequently Provider sends invoices**
+**Invoice Period**
+*How frequently Provider sends invoices*
 [ Fill in cadence of sending invoices, e.g., month, quarter, upon acceptance, after each milestone, etc. ]
 
-**SOW DateThe date this SOW begins**
+**SOW Date**
+*The date this SOW begins*
 [ x ] Date of last signature on this Cover Page
 [ ] [ Fill in custom SOW Date ]
 
-**SOW TermHow long this SOW lasts**
+**SOW Term**
+*How long this SOW lasts*
 *[Drafting note: Choose and customize one and delete the other.]*
 The **SOW Term** begins on the **SOW Date** and ends:
 [ x ] [ # ] [ days, weeks, months, year ] after the **SOW Date**
@@ -125,7 +129,8 @@ The **SOW Term** begins on the **SOW Date** and ends:
 **Customer Obligations**
 [ Fill in Customer's Obligations, e.g., identifying a single point of contact, geographic limitations on use of Deliverables, etc. ]
 
-**Other Changes to Standard TermsChanges that apply for this SOW only**
+**Other Changes to Standard Terms**
+*Changes that apply for this SOW only*
 *[Drafting note: Optional variable. If no changes to the Standard Terms, delete this entire row.]*
 [Fill in]
 
@@ -140,6 +145,7 @@ By signing this Cover Page, each party agrees to enter into this SOW as of the *
 
 **Title**
 
-**Notice AddressUse email or postal address**
+**Notice Address**
+*Use email or postal address*
 
 **Date**

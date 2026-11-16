@@ -138,3 +138,11 @@ Graham.kathleen@epa.gov
 (303) 312-6137
 
 FTTA@epa.gov
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+EPA-Cooperator. CRADA Amendment #
+
+Page | 3

@@ -24,10 +24,9 @@ version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 related:
-  - templates/us/technology/software-license/bonterms-software-license-terms-cover-page.md
+  - templates/us/technology/software-license/bonterms-software-license-terms-cover-page-example.md
 summary: >-
-  Standard terms for licensing on-premise or downloadable software, the counterpart to the Bonterms Cloud Terms. Version
-  1.0. Governing law and business terms are chosen on the cover page.
+  Standard terms for licensing on-premise or downloadable software. Version 1.0. Governing law and business terms are chosen on the cover page.
 ---
 
 # Bonterms Software License Terms

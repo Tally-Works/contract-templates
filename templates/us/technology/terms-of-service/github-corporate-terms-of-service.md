@@ -3,7 +3,7 @@ title: GitHub Corporate Terms of Service
 jurisdiction: US
 category: technology
 subcategory: terms-of-service
-type: policy
+type: agreement
 parties:
   - company
   - customer
@@ -18,15 +18,17 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/github-terms/github-corporate-terms-of-service.md
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-terms/github-corporate-terms-of-service.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-terms/github-corporate-terms-of-service.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and no site variables occur in this file; no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC0 covers the text only; GitHub's names and logos are trademarks and must be replaced when the text is adapted. Relative links are to docs.github.com and do not resolve here.
 license: CC0-1.0
-status: draft
+status: deprecated
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
-  Terms of service for business and enterprise customers of a developer platform, with organisation accounts, data
-  protection and support terms.
+  GitHub's own Corporate Terms of Service (version effective 16 November 2020), which GitHub deprecated on 30
+  November 2021 in favour of its Customer Agreement; from github/site-policy, published under CC0, and kept here as a
+  model only. GitHub-specific throughout: terms for business and enterprise customers, with organisation accounts,
+  data protection and support terms.
 ---
 
 <!-- markdownlint-disable search-replace -->

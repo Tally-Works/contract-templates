@@ -23,7 +23,7 @@ source:
   notes: >-
     Converted to Markdown from the Word file published by the NIH Office of Technology Transfer at
     https://www.techtransfer.nih.gov/resources, kept beside this file as the download. A work of the United States
-    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed.
+    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown.
 license: Public-Domain
 status: draft
 version: 1.0.0
@@ -68,3 +68,13 @@ Name
 Title
 
 Date
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+(HHS Ref. No(s)):
+
+IC (IC Office Name)
+
+10-2015 - Page 1 of 1

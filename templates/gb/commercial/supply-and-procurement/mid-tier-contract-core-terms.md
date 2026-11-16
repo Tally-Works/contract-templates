@@ -678,3 +678,17 @@ Each Party will, at the request and cost of the other Party, do all things which
 2.  Which law applies
 
 This Contract and any Disputes arising out of, or connected to it, are governed by English law.
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Core Terms – Mid-Tier, Crown Copyright 2025, [Subject to Contract]
+
+092856209-1
+
+92856209-1
+
+v.1.3A
+
+v.1.3A 34

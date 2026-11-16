@@ -17,8 +17,9 @@ source:
   name: OpenAgreements
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc0-1.0/openagreements-closing-checklist
   retrieved: "2026-11-14"
+  attribution: OpenAgreements Closing Checklist. Licensed under CC0 1.0.
   notes: >-
-    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc0-1.0/openagreements-closing-checklist); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc0-1.0/openagreements-closing-checklist); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file. The publisher's file opens with its own metadata block and uses docx-templates loop tags ({FOR ...}{END-FOR}), both reproduced as published.
 license: CC0-1.0
 status: draft
 version: 1.0.0

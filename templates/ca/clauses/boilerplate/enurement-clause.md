@@ -13,7 +13,7 @@ tags:
   - binding-effect
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/provisions/general/enurement.md
   retrieved: "2026-11-14"
   notes: >-
@@ -24,7 +24,9 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Boilerplate enurement provision from the Dot Legal reference library.
+summary: >-
+  Makes the document binding on, and for the benefit of, the parties and their heirs, executors, administrators,
+  other legal personal representatives, successors and permitted assigns.
 ---
 
 The provisions of this document will enure to the benefit of and will be binding upon the parties to this document and their respective heirs, executors, administrators, other legal personal representatives, successors and permitted assigns.

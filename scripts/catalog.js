@@ -374,7 +374,7 @@ function buildCatalogJson(results, taxonomy) {
         headings: outline(body),
         placeholders: placeholders(body),
         word_count: body.split(/\s+/).filter(Boolean).length,
-        source: { name: m.source.name, url: m.source.url || null, file: m.source.file || null, retrieved: String(m.source.retrieved || ''), notes: m.source.notes || null },
+        source: { name: m.source.name, url: m.source.url || null, file: m.source.file || null, retrieved: String(m.source.retrieved || ''), notes: m.source.notes || null, attribution: m.source.attribution || null },
       };
     });
   return JSON.stringify({
@@ -470,7 +470,7 @@ function buildCatalogMd(results, taxonomy) {
           const m = e.meta;
           const { subdivision } = splitJurisdiction(String(m.jurisdiction));
           let title = m.title;
-          if (m.variant) title += ` (${m.variant})`;
+          if (m.variant) title += ` (${String(m.variant).replace(/-/g, ' ').replace(/\bsla\b/i, 'SLA')})`;
           if (subdivision) title += ` · ${m.jurisdiction}`;
           const src = m.source || {};
           const publisher = src.url ? `[${mdCell(src.name)}](${src.url})` : mdCell(src.name);
@@ -563,28 +563,33 @@ function buildAttributionMd(results, taxonomy) {
     const urls = s.templates.map((e) => e.meta.source.url).filter(Boolean);
     if (urls.length) {
       const gh = urls[0].match(/^https:\/\/github\.com\/[^/]+\/[^/]+/);
+      const org = urls[0].match(/^https:\/\/github\.com\/[^/]+/);
       if (gh && urls.filter((u) => u.startsWith(gh[0])).length * 2 >= urls.length) s.url = gh[0];
+      else if (org && urls.every((u) => u.startsWith(org[0] + '/'))) s.url = org[0];
       else if (urls.length > 1) { try { const o = new URL(urls[0]).origin; if (urls.every((u) => u.startsWith(o))) s.url = o + '/'; } catch (e) { /* keep the first template URL */ } }
     }
     L.push(`## ${s.url ? `[${s.name}](${s.url})` : s.name}`);
     L.push('');
-    L.push('| Template | Licence | Original | Retrieved |');
-    L.push('| --- | --- | --- | --- |');
+    const anyAttribution = s.templates.some((e) => e.meta.source.attribution);
+    L.push(`| Template | Licence | Original | Retrieved |${anyAttribution ? ' Attribution the publisher asks for |' : ''}`);
+    L.push(`| --- | --- | --- | --- |${anyAttribution ? ' --- |' : ''}`);
     for (const e of s.templates) {
       const m = e.meta;
-      const title = m.variant ? `${m.title} (${m.variant}, ${m.jurisdiction})` : `${m.title} (${m.jurisdiction})`;
+      const variant = m.variant ? String(m.variant).replace(/-/g, ' ').replace(/\bsla\b/i, 'SLA') : '';
+      const title = m.variant ? `${m.title} (${variant}, ${m.jurisdiction})` : `${m.title} (${m.jurisdiction})`;
       const lic = taxonomy.licenses[m.license] ? `${m.license}` : m.license;
       const original = m.source.url ? `[link](${m.source.url})` : '';
-      L.push(`| [${title}](${e.relPath}) | ${lic} | ${original} | ${m.source.retrieved || ''} |`);
+      L.push(`| [${title}](${e.relPath}) | ${lic} | ${original} | ${m.source.retrieved || ''} |${anyAttribution ? ` ${mdCell(m.source.attribution || '')} |` : ''}`);
     }
     L.push('');
   }
   L.push('## Licence texts');
   L.push('');
-  L.push('| Licence | Terms |');
-  L.push('| --- | --- |');
+  L.push('| Licence | Terms | Copy in this repository |');
+  L.push('| --- | --- | --- |');
   for (const [k, v] of Object.entries(taxonomy.license_urls || {})) {
-    L.push(`| ${k} | ${v || 'Written permission from the author, recorded in the template\'s `source.notes`.'} |`);
+    const local = fs.existsSync(path.join(ROOT, 'LICENSES', `${k}.txt`)) ? `[LICENSES/${k}.txt](LICENSES/${k}.txt)` : '';
+    L.push(`| ${k} | ${v || 'Written permission from the author, recorded in the template\'s `source.notes`.'} | ${local} |`);
   }
   L.push('');
   return L.join('\n');
@@ -620,6 +625,7 @@ function buildSchemaJson(taxonomy) {
           file: { type: 'string', description: 'Set when the .docx beside the template is the publisher\'s original file; it is that path.' },
           retrieved: date,
           notes: { type: 'string', description: 'Licence evidence and anything changed from the original.' },
+          attribution: { type: 'string', description: 'The attribution line the publisher asks to travel with the document, verbatim, where the publisher states one outside the document text.' },
         },
       },
       license: { type: 'string', enum: Object.keys(taxonomy.licenses), description: Object.entries(taxonomy.licenses).map(([k, v]) => k + ': ' + v).join(' ') },

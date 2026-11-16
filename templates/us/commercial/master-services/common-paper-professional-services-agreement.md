@@ -19,7 +19,7 @@ source:
   url: https://commonpaper.com/standards/professional-services-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from psa.md in github.com/CommonPaper/PSA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from psa.md in github.com/CommonPaper/PSA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC BY 4.0 is stated on the source page; the GitHub file carries no licence line. The body carries no version statement; the text matches tag 1.1 of github.com/CommonPaper/PSA, and the source page names 1.1 as the current version.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -27,8 +27,8 @@ last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
   Master terms for professional services (implementation, consulting, custom work) delivered under statements of work,
-  with IP, payment, warranty and liability terms balanced between provider and customer. Governing law and business
-  terms are chosen on the cover page.
+  with IP, payment, warranty and liability terms balanced between provider and customer. Version 1.1. Governing law and
+  business terms are chosen on the cover page.
 ---
 
 # Professional Services Agreement

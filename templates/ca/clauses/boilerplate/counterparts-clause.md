@@ -13,7 +13,7 @@ tags:
   - signatures
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/provisions/general/counterparts.md
   retrieved: "2026-11-14"
   notes: >-
@@ -24,7 +24,8 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Boilerplate counterparts provision from the Dot Legal reference library.
+summary: >-
+  Allows the document to be signed in counterparts, each deemed an original and all together one document.
 ---
 
 This document may be signed in counterparts, each of which will be deemed an original, but all of which, taken together, constitute one and the same document.

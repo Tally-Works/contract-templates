@@ -42,19 +42,32 @@ jurisdiction: US
 category: confidentiality
 subcategory: mutual-nda
 type: agreement
-parties: [disclosing-party, receiving-party]
-tags: [nda, mutual, confidentiality, cover-page]
+parties:
+  - disclosing-party
+  - receiving-party
+tags:
+  - nda
+  - mutual
+  - standard-terms
+  - cover-page
 language: en
 source:
   name: Common Paper
   url: https://commonpaper.com/standards/mutual-nda/
-  retrieved: 2026-11-14
-  notes: Text taken from github.com/CommonPaper/Mutual-NDA, unchanged; attribution line kept.
+  retrieved: "2026-11-14"
+  notes: >-
+    Text taken verbatim from Mutual-NDA.md in github.com/CommonPaper/Mutual-NDA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
-last_reviewed: 2026-11-14
-summary: Two-way NDA in cover-page-plus-standard-terms form.
+last_reviewed: "2026-11-14"
+reviewed_by: ""
+related:
+  - templates/us/confidentiality/mutual-nda/common-paper-mutual-nda-cover-page.md
+summary: >-
+  Two-way non-disclosure agreement in cover-page-plus-standard-terms form. The cover page (included) sets the purpose,
+  term and governing law; the standard terms are meant to be used unchanged. Version 1.0. Governing law and business
+  terms are chosen on the cover page.
 ---
 ```
 
@@ -123,6 +136,7 @@ Every template is filed with `status: draft`. A template has been reviewed by a 
 | `llms.txt` | Generated guide for AI assistants and agents. |
 | `taxonomy.yaml` | The allowed jurisdictions, categories, subcategories, types, statuses and licences. |
 | `schema/` | JSON Schema for the front-matter, generated from the taxonomy. |
+| `LICENSES/` | Reference copies of every licence the templates are published under. |
 | `docs/` | Taxonomy and tag list (generated), metadata reference, naming rules. |
 | `scripts/catalog.js` | The librarian: `validate`, `build`, `new`. |
 | `scripts/build-docx.js` | Writes the Word file for every template that has no publisher original. |
@@ -132,6 +146,8 @@ Every template is filed with `status: draft`. A template has been reviewed by a 
 ## Licence
 
 Each template belongs to its publisher and is reproduced here under the licence that publisher chose. That licence is recorded in the file's `license` field, the publisher is named in its `source` field, and every publisher is credited in [ATTRIBUTION.md](ATTRIBUTION.md). The documents goHeather wrote are marked `source.name: goHeather` and published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Reference copies of the licence texts are in [LICENSES/](LICENSES/).
 
 The filing system around the documents, meaning the taxonomy, the metadata, the catalog and the scripts, is released under the [MIT License](LICENSE).
 

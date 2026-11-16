@@ -25,7 +25,7 @@ source:
     re-used for commercial and non-commercial purposes without charge under the Open Government Licence; that statement
     is kept in the text. The page footer states "All content is available under the Open Government Licence v3.0, except
     where otherwise stated" (Crown copyright). Attribution: Contains public sector information licensed under the Open
-    Government Licence v3.0. Format conversion only: nothing added, nothing removed.
+    Government Licence v3.0. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown.
 license: OGL-UK-3.0
 status: draft
 version: 1.0.0
@@ -428,3 +428,13 @@ Name
 (block
 capitals):
 Position:
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+[Subject to contract]
+
+Crown copyright 2025
+
+Front Sheet, Model Services Contract, v.2.2 3

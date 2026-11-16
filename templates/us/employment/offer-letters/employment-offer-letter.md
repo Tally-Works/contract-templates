@@ -17,6 +17,7 @@ source:
   name: OpenAgreements
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-employment-offer-letter
   retrieved: "2026-11-14"
+  attribution: Authored by OpenAgreements contributors. Drafting structure informed by publicly available permissive sources including the DocuSign template library (MIT) and Papertrail legal-docs (CC0). Licensed under CC BY 4.0.
   notes: >-
     Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-employment-offer-letter); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0

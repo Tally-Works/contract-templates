@@ -18,12 +18,20 @@ source:
   retrieved: "2026-11-14"
   notes: >-
     Text taken verbatim from the GitHub Minimum Viable Governance repository (github.com/github/MVG), LICENSE: Creative
-    Commons Attribution 4.0 International; marked beta by GitHub. goHeather added nothing and removed nothing.
+    Commons Attribution 4.0 International; marked beta by GitHub. goHeather added nothing and removed nothing. The text is the Contributor Covenant Code of Conduct, version 2.1, written by the Organization for Ethical Source and published under CC BY 4.0, as adopted in MVG's org-docs; the Covenant's own attribution links are kept in the body.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/technology/open-source/mvg-antitrust-policy.md
+  - templates/us/technology/open-source/mvg-maintainers.md
+  - templates/us/technology/open-source/mvg-organisation-charter.md
+  - templates/us/technology/open-source/mvg-project-governance.md
+  - templates/us/technology/open-source/mvg-steering-committee.md
+  - templates/us/technology/open-source/mvg-trademark-policy.md
+  - templates/intl/technology/open-source/contributor-covenant-code-of-conduct-2-1.md
 summary: >-
   Code of conduct for an open-source organisation's community, being the Contributor Covenant version 2.1 as adopted
   in GitHub's Minimum Viable Governance org-docs. Covers the pledge of a harassment-free community, examples of

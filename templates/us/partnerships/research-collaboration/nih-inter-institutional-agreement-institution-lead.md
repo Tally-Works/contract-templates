@@ -21,7 +21,7 @@ source:
   notes: >-
     Converted to Markdown from the Word file published by the NIH Office of Technology Transfer at
     https://www.techtransfer.nih.gov/resources, kept beside this file as the download. A work of the United States
-    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed.
+    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown.
 license: Public-Domain
 status: draft
 version: 1.0.0
@@ -535,3 +535,15 @@ Patent information provided by Institution pursuant to this **Agreement** should
 25.  Comments
 
 An example report can be located on NIH OTT’s website ([https://www.techtransfer.nih.gov/sites/default/files/documents/files/Inter-Institutional\_Agreement\_(IIA)\_Report\_Example.xlsx](https://www.techtransfer.nih.gov/sites/default/files/documents/files/Inter-Institutional_Agreement_\(IIA\)_Report_Example.xlsx)) under Resources and License Notices/Reports.
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+CONFIDENTIAL L-XXX-20XX-0
+
+Model 10-2015 (updated 5-2026) Page 1 of 13 [Draft/Final] [Institution] [Date]
+
+CONFIDENTIAL L-XXX-20XX/0
+
+Model 10-2015 (updated 5-2026) Page 13 of 13 [Draft/Final] [Institution] [Date]

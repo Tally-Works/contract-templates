@@ -1874,3 +1874,15 @@ Add the following required provisions for drop-down structures:
 **Add to §10.01. Additional, Substitute and Transferee Limited Partners. The General Partner may not admit additional Class A Limited Partners. No person or entity shall be admitted as a substitute Class A Limited Partner nor shall any Class A Limited Partner transfer any interest in the Partnership without the prior written approval of SBA and, further, unless the limited partners or equity owners of the substituted Class A Limited Partner or of the transferee Class A Limited Partner simultaneously become Class B Limited Partners.**
 
 **Add to §10.01. Assignability of Class B Partnership Interests. In addition to the other requirements of this Agreement, no Class B Limited Partner may transfer, sell, pledge, assign or otherwise dispose of its interest in the Partnership or in this Agreement unless such Class B Limited Partner simultaneously transfers its interest in the Class A Limited Partner to the transferee of such interest.**
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Model Debenture SBIC LPA - Version 3.0 - March 26, 2016
+
+88 RULPA specifically addresses the issues related to withdrawal by a general partner; see Delaware RULPA §§17-602 and 17-801(3).
+
+provisions dealing with the treatment of the General Partner’s interest if the Partnership is not continued.
+
+Model Debenture SBIC LPA - Version 3.0 - , 2015

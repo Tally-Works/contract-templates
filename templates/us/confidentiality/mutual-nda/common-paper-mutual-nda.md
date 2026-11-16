@@ -27,9 +27,9 @@ reviewed_by: ""
 related:
   - templates/us/confidentiality/mutual-nda/common-paper-mutual-nda-cover-page.md
 summary: >-
-  Two-way non-disclosure agreement in cover-page-plus-standard-terms form. The cover page (included) sets the purpose,
-  term and governing law; the standard terms are meant to be used unchanged. Version 1.0. Governing law and business
-  terms are chosen on the cover page.
+  Two-way non-disclosure agreement in cover-page-plus-standard-terms form. This file is the Standard Terms (Version
+  1.0), meant to be used unchanged; the cover page that sets purpose, term and governing law is a separate template,
+  linked under related. Governing law and business terms are chosen on the cover page.
 ---
 
 # Standard Terms

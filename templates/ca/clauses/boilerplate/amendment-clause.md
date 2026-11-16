@@ -14,7 +14,7 @@ tags:
   - written-consent
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/provisions/general/amendment.md
   retrieved: "2026-11-14"
   notes: >-
@@ -25,7 +25,8 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Boilerplate amendment provision from the Dot Legal reference library.
+summary: >-
+  Requires the written consent of all parties for any amendment to the document.
 ---
 
 Any amendment to this document must be made with the written consent of all parties.

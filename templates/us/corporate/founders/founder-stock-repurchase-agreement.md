@@ -18,6 +18,7 @@ source:
   url: >-
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-founder-stock-repurchase-agreement
   retrieved: "2026-11-14"
+  attribution: Authored by OpenAgreements contributors. Licensed under CC BY 4.0.
   notes: >-
     Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-founder-stock-repurchase-agreement); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0

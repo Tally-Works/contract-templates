@@ -548,3 +548,9 @@ Chinese 如果您聽不大懂英語，請打電話給口譯和筆譯服務處，
 **Greek** Αν έχετε δυσκολίες στην κατανόηση της αγγλικής γλώσσας, επικοινωνήστε με την Υπηρεσία Μετάφρασης και Διερμηνείας (ΤΙS) στο 131 450 (με το κόστος μιας τοπικής κλήσης) και ζητήστε να σας συνδέσουν με έναν Υπάλληλο Πληροφοριών στην Υπηρεσία Προστασίας Καταναλωτών Βικτώριας (Consumer Affairs Victoria) στον αριθμό 1300 55 81 81.
 
 **Italian** Se avete difficoltà a comprendere l’inglese, contattate il servizio interpreti e traduttori, cioè il Translating and Interpreting Service (TIS) al 131 450 (per il costo di una chiamata locale), e chiedete di essee messi in comunicazione con un operatore addetto alle informazioni del dipartimento “Consumer Affairs Victoria” al numero 1300 55 81 81.
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+OFFICIAL

@@ -18,7 +18,7 @@ source:
   file: templates/us/contractors/independent-contractor/common-paper-independent-contractor-agreement.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (common-paper-independent-contractor-agreement.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (common-paper-independent-contractor-agreement.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -254,3 +254,9 @@ any negligent act or omission or reckless or willful conduct of Contractor that 
 “Terms” means these terms and conditions.
 
 “Work Product” means all inventions, products, designs, drawings, notes, information, documentation, works of authorship, processes, techniques, know-how, algorithms, technical and business plans, specifications, computer programs, interfaces, encoding techniques, and other materials or innovations of any kind that Contractor may make, conceive, develop or reduce to practice, alone or jointly with others, in connection with performing Services or that result from or that are related to such Services, whether or not they are eligible for patent, copyright, mask work, trade secret, trademark or other legal protection.
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Common Paper Independent Contractor Agreement (Version 1.0) free to use under CC BY 4.0.

@@ -26,10 +26,11 @@ version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 related:
-  - templates/us/privacy-and-data/data-processing/bonterms-baa-cover-page.md
+  - templates/us/privacy-and-data/data-processing/bonterms-baa-cover-page-example.md
 summary: >-
   HIPAA business associate agreement in cover-page form, governing a vendor's handling of protected health information.
-  Version 1. Governing law and business terms are chosen on the cover page.
+  Version 1. Incorporated into a main agreement by a cover page naming that agreement and the effective date, and
+  construed under the main agreement.
 ---
 
 # Bonterms Standard Agreement

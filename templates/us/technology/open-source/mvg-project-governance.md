@@ -18,13 +18,25 @@ source:
   retrieved: "2026-11-14"
   notes: >-
     Text taken verbatim from the GitHub Minimum Viable Governance repository (github.com/github/MVG), LICENSE: Creative
-    Commons Attribution 4.0 International; marked beta by GitHub. goHeather added nothing and removed nothing.
+    Commons Attribution 4.0 International; marked beta by GitHub. goHeather added nothing and removed nothing. Relative links are to sibling files in the MVG repository and do not resolve here.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Project-level governance document under Minimum Viable Governance.
+related:
+  - templates/us/technology/open-source/mvg-antitrust-policy.md
+  - templates/us/technology/open-source/mvg-code-of-conduct.md
+  - templates/us/technology/open-source/mvg-maintainers.md
+  - templates/us/technology/open-source/mvg-organisation-charter.md
+  - templates/us/technology/open-source/mvg-steering-committee.md
+  - templates/us/technology/open-source/mvg-trademark-policy.md
+summary: >-
+  Project-level governance policy under GitHub's Minimum Viable Governance (MVG-0.1-beta), which maintainers accept
+  by adding their name to the maintainers file. Defines maintainers and contributors; consensus decision making by
+  the maintainers with an appeal first to them and then to the organisation's Steering Committee; openness, balance
+  and written-procedure principles; no confidentiality; organisation control of trademarks; and amendments by a 2/3
+  vote of maintainers with Steering Committee approval.
 ---
 
 # Governance Policy

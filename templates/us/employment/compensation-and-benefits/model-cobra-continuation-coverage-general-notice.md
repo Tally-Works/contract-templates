@@ -20,7 +20,7 @@ source:
   file: templates/us/employment/compensation-and-benefits/model-cobra-continuation-coverage-general-notice.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (model-cobra-continuation-coverage-general-notice.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (model-cobra-continuation-coverage-general-notice.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: Public-Domain
 status: draft
 version: 1.0.0
@@ -147,3 +147,9 @@ To protect your family’s rights, let the Plan Administrator know about any cha
 [*Enter name of the Plan and name (or position), address and phone number of party or parties from whom information about the Plan and COBRA continuation coverage can be obtained on request.*]
 
 1.  [https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start). [↑](#footnote-ref-2)
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+OMB Control Number 1210-0123 (expires 07/31/2029)

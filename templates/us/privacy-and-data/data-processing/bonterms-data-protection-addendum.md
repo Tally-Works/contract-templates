@@ -28,11 +28,11 @@ version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 related:
-  - templates/us/privacy-and-data/data-processing/bonterms-dpa-cover-page.md
+  - templates/us/privacy-and-data/data-processing/bonterms-dpa-cover-page-example.md
 summary: >-
   Data protection addendum between a provider (processor) and customer (controller) covering GDPR, UK GDPR and US state
-  privacy laws, including transfer mechanisms and sub-processor terms. Version 2, cover-page version. Governing law and
-  business terms are chosen on the cover page.
+  privacy laws, including transfer mechanisms and sub-processor terms. Version 2, cover-page version: incorporated into a main agreement by a
+  cover page, governed by the law of the main agreement, with the EU governing law for the SCCs chosen on the cover page.
 ---
 
 # Bonterms Standard Agreement
@@ -145,12 +145,12 @@ This Bonterms Data Protection Addendum Version 2.0 (Cover Page Version) ("**DPA*
 
 1.  **EU Transfers**. Where Customer Personal Data is protected by EU GDPR and is subject to a Restricted Transfer, the following applies:
     1.  The EU SCCs are hereby incorporated by reference as follows:
-    2.  1.  Module 2 (Controller to Processor) applies where Customer is a Controller of Customer Personal Data and Provider is a Processor of Customer Personal Data;
+        1.  Module 2 (Controller to Processor) applies where Customer is a Controller of Customer Personal Data and Provider is a Processor of Customer Personal Data;
         2.  Module 3 (Processor to Processor) applies where Customer is a Processor of Customer Personal Data (on behalf of a third-party Controller) and Provider is a Processor of Customer Personal Data;
         3.  Customer is the "data exporter" and Provider is the "data importer"; and
         4.  by entering into this DPA, each party is deemed to have signed the EU SCCs (including their Annexes) as of the DPA Effective Date.
     3.  For each Module, where applicable the following applies:
-    4.  1.  the optional docking clause in Clause 7 does not apply;
+        1.  the optional docking clause in Clause 7 does not apply;
         2.  in Clause 9, Option 2 will apply, the minimum time period for prior notice of Subprocessor changes shall be as set out in Section 4.3 of this DPA, and Provider shall fulfill its notification obligations by notifying Customer of any Subprocessor changes in accordance with Section 4.3 of this DPA;
         3.  in Clause 11, the optional language does not apply;
         4.  in Clause 13, all square brackets are removed with the text remaining;
@@ -161,19 +161,19 @@ This Bonterms Data Protection Addendum Version 2.0 (Cover Page Version) ("**DPA*
     5.  Where context permits and requires, any reference in this DPA to the EU SCCs shall be read as a reference to the EU SCCs as modified in the manner set forth in this Section 1.
 2.  **Swiss Transfers**. Where Customer Personal Data is protected by the FADP and is subject to a Restricted Transfer, the following applies:
     1.  The EU SCCs apply as set forth in Section 1 (EU Transfers) of this Exhibit A with the following modifications:
-    2.  1.  in Clause 13, the competent supervisory authority shall be the Swiss Federal Data Protection and Information Commissioner;
+        1.  in Clause 13, the competent supervisory authority shall be the Swiss Federal Data Protection and Information Commissioner;
         2.  in Clause 17 (Option 1), the EU SCCs will be governed by the laws of Switzerland;
         3.  in Clause 18(b), disputes will be resolved before the courts of Switzerland;
         4.  the term Member State must not be interpreted in such a way as to exclude Data Subjects in Switzerland from enforcing their rights in their place of habitual residence in accordance with Clause 18(c); and
         5.  all references to the EU GDPR in this DPA are also deemed to refer to the FADP.
 3.  **UK Transfers**. Where Customer Personal Data is protected by the UK GDPR and is subject to a Restricted Transfer, the following applies:
     1.  The EU SCCs apply as set forth in Section 1 (EU Transfers) of this Exhibit A with the following modifications:
-    2.  1.  each party shall be deemed to have signed the "International Data Transfer Addendum to the EU Commission Standard Contractual Clauses" ("**UK Addendum**") issued by the Information Commissioner's Office under section 119A of the Data Protection Act 2018;
+        1.  each party shall be deemed to have signed the "International Data Transfer Addendum to the EU Commission Standard Contractual Clauses" ("**UK Addendum**") issued by the Information Commissioner's Office under section 119A of the Data Protection Act 2018;
         2.  the EU SCCs shall be deemed amended as specified by the UK Addendum in respect of the transfer of Customer Personal Data;
         3.  in Table 1 of the UK Addendum, the parties' key contact information is located in the Processing Details;
         4.  in Table 2 of the UK Addendum, information about the version of the EU SCCs, modules and selected clauses which this UK Addendum is appended to are located above in this Exhibit A;
         5.  in Table 3 of the UK Addendum:
-        6.  1.  the list of parties is located in the Processing Details;
+            1.  the list of parties is located in the Processing Details;
             2.  the description of transfer is located in the Processing Details;
             3.  Annex II is located in the Processing Details; and
             4.  the list of Subprocessors is located in the Processing Details.

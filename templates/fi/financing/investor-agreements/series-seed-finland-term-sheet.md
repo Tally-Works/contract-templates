@@ -25,7 +25,7 @@ source:
     Converted to Markdown from the Word file in the Series Seed Finland 4.0 document package downloaded from
     startup-saatio.fi/seriesseed, kept beside this file as the download. The package ReadMe states "The documents are
     free to use as-is and are licensed under Creative Commons: Attribution 3.0." Drafted pro bono by Castrén & Snellman.
-    Format conversion only: nothing added, nothing removed.
+    Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown.
 license: CC-BY-3.0
 status: draft
 version: 1.0.0
@@ -204,3 +204,11 @@ Title
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **NameTitle**
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+DRAFT
+
+17455308.1

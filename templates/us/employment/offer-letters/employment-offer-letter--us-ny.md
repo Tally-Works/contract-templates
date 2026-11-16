@@ -18,6 +18,7 @@ source:
   url: >-
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-employment-offer-letter-new-york
   retrieved: "2026-11-14"
+  attribution: Authored by OpenAgreements contributors. Projected from the master employment offer letter for New York; offer-letter structure benchmarked against the local Cooley GO and Orrick forms and public EDGAR examples recorded in the precedent audit sidecar. Licensed under CC BY 4.0.
   notes: >-
     Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-employment-offer-letter-new-york); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0

@@ -20,15 +20,16 @@ source:
     https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-gifts-and-entertainment-policy.md
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-gifts-and-entertainment-policy.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-company-policies/github-gifts-and-entertainment-policy.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and no site variables occur in this file; no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC0 covers the text only; GitHub's names and logos are trademarks and must be replaced when the text is adapted.
 license: CC0-1.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
-  Company policy on giving and receiving gifts, meals and entertainment, with thresholds, approvals and
-  government-official rules.
+  GitHub's own Gifts and Entertainment Policy from github/site-policy, published under CC0 for others to adapt;
+  GitHub-specific throughout. Rules on giving and receiving gifts, meals and entertainment, with a $150 threshold
+  above which written approval from Legal is needed, and special rules for government officials.
 ---
 
 GitHub recognizes that our business is built on positive and transparent relationships. While informal interactions and exchanges of gifts may be part of developing those relationships and may even be considered customary in some countries, we need to ensure that we’re following anti-bribery laws. We have a legal obligation to behave ethically, including by not using such interactions to create a special advantage or influence a deal.

@@ -27,10 +27,10 @@ version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 related:
-  - templates/us/commercial/master-services/bonterms-climate-addendum-cover-page.md
+  - templates/us/commercial/master-services/bonterms-climate-addendum-cover-page-example.md
 summary: >-
-  Addendum adding climate and emissions-reporting commitments to a commercial agreement. Cover-page version. Governing
-  law and business terms are chosen on the cover page.
+  Addendum adding climate and emissions-reporting commitments to a commercial agreement. Cover-page version: incorporated into a main agreement by a cover page naming that agreement and the
+  effective date, and construed under the main agreement.
 ---
 
 # Bonterms Standard Agreement

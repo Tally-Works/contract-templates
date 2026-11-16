@@ -26,7 +26,7 @@ source:
     re-used for commercial and non-commercial purposes without charge under the Open Government Licence; that statement
     is kept in the text. The page footer states "All content is available under the Open Government Licence v3.0, except
     where otherwise stated" (Crown copyright). Attribution: Contains public sector information licensed under the Open
-    Government Licence v3.0. Format conversion only: nothing added, nothing removed.
+    Government Licence v3.0. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown.
 license: OGL-UK-3.0
 status: draft
 version: 1.0.0
@@ -14880,3 +14880,85 @@ Authority Specific Terms
 [Insert Authority Terms]
 
 ***[Guidance: HMRC-specific terms will be provided by HMRC]***
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+[Subject to Contract]
+
+Crown Copyright 2025
+
+(Combined Schedules) Model Services Contract, (Version 2.2A) 7
+
+Schedule 1 (Definitions), Model Services Contract, v2.2A 55
+
+Schedule 2 (Services Description), Model Services Contract, v2.2 58
+
+Schedule 3 (Performance Levels), Model Services Contract, v2.2 67
+
+Schedule 3 (Performance Levels), Model Services Contract, v2.2 69
+
+Schedule 3 (Performance Levels), Model Services Contract, v2.2 80
+
+Schedule 4 (Standards), Model Services Contract, v2.2 93
+
+Schedule 5 (Security Management), Model Services Contract, v2.2A 137
+
+Schedule 5 (Security Management), Model Services Contract, v2.2A 170
+
+Schedule 5 (Security Management), Model Services Contract, v2.2A 172
+
+Schedule 5 (Security Management), Model Services Contract, v2.2A 216
+
+Schedule 5 (Security Management), Model Services Contract, v2.2A 251
+
+Schedule 5 (Security Management), Model Services Contract, v2.2A 252
+
+Schedule 5 (Security Management), Model Services Contract, v2.2A 258
+
+Schedule 6 (Insurance Requirements), Model Services Contract, v2.2A 268
+
+Schedule 7 (Authority Respnsibilities), Model Services Contract, v2.2 271
+
+Schedule 8 (Supplier Solution), Model Services Contract, v2.2 273
+
+Schedule 13 (Implementation Plan)
+
+Schedule 9 (Implementation Plan), Model Services Contract, v2.2 279
+
+Schedule 10 (Testing Procedures), Model Services Contract, v2.2 293
+
+Schedule 11: (Charges and Invoicing), Model Services Contract, v2.2 311
+
+Schedule 11: (Charges and Invoicing), Model Services Contract, v2.2 324
+
+Schedule 12: (Payments on Termination), Model Services Contract, v2.2 333
+
+Schedule 13: (Benchmarking), Model Services Contract, v2.2 347
+
+Schedule 14: (Financial Distress), Model Services Contract, v2.2 367
+
+Schedule 16: (Anticipated Savings), Model Services Contract, v2.2 381
+
+Schedule 17: (Governance), Model Services Contract, v2.2 389
+
+Schedule 18: (Change Control Procedure), Model Services Contract, v2.2 399
+
+Schedule 21: (Exit Management), Model Services Contract, v2.2A 451
+
+Schedule 23: (Conduct of Claims), Model Services Contract, v2.2 472
+
+Schedule 24: (Staff Transfer), Model Services Contract, v2.2 526
+
+Schedule 28: (Staff Transfer), Model Services Contract, v2.2 535
+
+Schedule 25: (Deed of Guarantee), Model Services Contract, v2.2 545
+
+Schedule 26: (Processing Personal Data), Model Services Contract, v2.2 646
+
+Schedule 28 (Carbon Reduction), Model Services Contract, v2.2A 701
+
+Schedule 28: (Carbon Reduction), Model Services Contract, v2.2A 710
+
+Schedule 29: (Authority Specific Terms), Model Services Contract, v2.2 712

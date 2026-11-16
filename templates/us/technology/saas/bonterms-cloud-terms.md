@@ -25,12 +25,13 @@ version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 related:
-  - templates/us/technology/saas/bonterms-cloud-terms-cover-page.md
-  - templates/us/technology/saas/bonterms-cloud-terms-order-form.md
-  - templates/us/technology/support-and-maintenance/bonterms-support-policy.md
-  - templates/us/technology/acceptable-use/bonterms-acceptable-use-policy.md
+  - templates/us/technology/hosting-and-cloud/bonterms-service-level-agreement.md
+  - templates/us/technology/saas/bonterms-cloud-terms-cover-page-example.md
+  - templates/us/technology/saas/bonterms-cloud-terms-order-form-example.md
+  - templates/us/technology/support-and-maintenance/bonterms-support-policy-example.md
+  - templates/us/technology/acceptable-use/bonterms-acceptable-use-policy-example.md
 summary: >-
-  Neutral standard terms for a cloud / SaaS subscription, with the business terms, governing law and any modifications
+  Standard terms for a cloud / SaaS subscription, with the business terms, governing law and any modifications
   on a separate cover page. Version 1.0. Governing law and business terms are chosen on the cover page.
 ---
 

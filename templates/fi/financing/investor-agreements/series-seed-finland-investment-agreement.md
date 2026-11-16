@@ -544,3 +544,9 @@ Title:
 **Name:Title:**
 Name:
 Title:
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+17356553.2

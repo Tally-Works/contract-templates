@@ -197,3 +197,11 @@ Name/full contact info
 **Research Project:**
 
 Brief description, including what EPA will be doing.
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+EPA-Cooperator DUA #
+
+DTA_v2016.mod

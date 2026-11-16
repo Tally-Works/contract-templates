@@ -26,18 +26,16 @@ version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 related:
-  - templates/us/technology/saas/bonterms-ai-addendum-cover-page.md
+  - templates/us/technology/saas/bonterms-ai-addendum-cover-page-example.md
 summary: >-
   Addendum to a cloud or services agreement for AI-enabled features: permitted uses of customer data, training
-  restrictions, output rights and responsibilities. Version 2, cover-page version. Governing law and business terms are
-  chosen on the cover page.
+  restrictions, output rights and responsibilities. Version 2, cover-page version: incorporated into a main agreement by a cover page naming that agreement
+  and the effective date, and construed under the main agreement.
 ---
 
 # Bonterms Standard Agreement
 AI Addendum v2.0
 (Cover Page Version)
-
-#
 
 This Bonterms Standard AI Addendum Version 2.0 (Cover Page Version) (“**AI Addendum**”)is a set of standard terms that is entered into between Customer and Provider by executing a Cover Page.
 

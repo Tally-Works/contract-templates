@@ -14,7 +14,7 @@ tags:
   - prior-agreements
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/provisions/general/entire-agreement.md
   retrieved: "2026-11-14"
   notes: >-
@@ -25,7 +25,9 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Boilerplate entire agreement provision from the Dot Legal reference library.
+summary: >-
+  States that the document is the entire agreement between the parties and supersedes all prior oral, written or
+  other agreements and understandings on its subject matter.
 ---
 
 This document contains the entire agreement between all parties.  This document supersedes all other prior agreements and understandings, oral, written or otherwise with respect to the subject matter of the document.

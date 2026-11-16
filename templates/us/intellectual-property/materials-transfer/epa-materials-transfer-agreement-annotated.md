@@ -184,3 +184,13 @@ By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Title:
 
 Email:
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+EPA – Cooperator – MTA # Date:
+
+Model Annotated EPA MTA Form 9.13.2024
+
+Model Annotated EPA MTA Form 9.13.2024 FTTA Home Page:

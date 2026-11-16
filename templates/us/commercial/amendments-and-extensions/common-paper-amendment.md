@@ -18,15 +18,16 @@ source:
   file: templates/us/commercial/amendments-and-extensions/common-paper-amendment.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (common-paper-amendment.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (common-paper-amendment.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
-  One-page form to amend an existing agreement: identifies the agreement, the amendment date and each change, with
-  signature blocks. Governing law and business terms are filled in on the document itself.
+  Short form to amend an existing agreement, preceded by a page of the publisher's instructions: identifies the
+  agreement, the amendment date and each change, with signature blocks. Governing law and business terms are filled in
+  on the document itself.
 ---
 
 **Interpreting help text**
@@ -41,7 +42,8 @@ summary: >-
 4.  Remove this first page.
 5.  Send to your counterparty for review and signature.
 
-**AmendmentThe parties identified below agree to the following:**
+**Amendment**
+*The parties identified below agree to the following:*
 
 **Agreement**
 This Amendment modifies the [ agreement name ] between [ Party 1 ] and [ Party 2 ], with an Effective Date of [ date ].
@@ -63,6 +65,13 @@ By signing this Amendment, each party agrees to enter into this Amendment as of 
 
 **Title**
 
-**Notice AddressUse email or postal address**
+**Notice Address**
+*Use email or postal address*
 
 **Date**
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Common Paper Amendment free to use under CC BY 4.0

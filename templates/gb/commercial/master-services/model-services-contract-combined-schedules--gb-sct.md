@@ -24,7 +24,7 @@ source:
     commercial and non-commercial purposes without charge under the Open Government Licence; that statement is kept in
     the text. The page footer states "All content is available under the Open Government Licence v3.0, except where
     otherwise stated" (Crown copyright). Attribution: Contains public sector information licensed under the Open
-    Government Licence v3.0. Format conversion only: nothing added, nothing removed.
+    Government Licence v3.0. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown.
 license: OGL-UK-3.0
 status: draft
 version: 1.0.0
@@ -14897,3 +14897,85 @@ Authority Specific Terms
 [Insert Authority Terms]
 
 ***[Guidance: HMRC-specific terms will be provided by HMRC]***
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+[Subject to Contract]
+
+Crown Copyright 2025
+
+Combined Schedules - Model Services Contract (Scottish Law) v2.2A 1
+
+Schedule 1 (Definitions), Model Services Contract (Scottish Law), v2.2A 29
+
+Schedule 2 (Services Description), Model Services Contract (Scottish Law), v2.2 59
+
+Schedule 3 (Performance Levels), Model Services Contract (Scottish Law), v2.2 67
+
+Schedule 3: Performance Levels – Model Services Contract (Scottish Law), v2.2 68
+
+Schedule 3: Performance Levels – Model Services Contract (Scottish Law), v2.2 78
+
+Schedule 4 (Standards), Model Services Contract (Scottish Law), v2.2 88
+
+Schedule 5 (Security Management), Model Services Contract, v2.2A 106
+
+Schedule 5 (Security Management), Model Services Contract, v2.2A 163
+
+Schedule 5 (Security Management), Model Services Contract, v2.2A 165
+
+Schedule 5 (Security Management), Model Services Contract, v2.2A 184
+
+Schedule 5 (Security Management), Model Services Contract, v2.2A 238
+
+Schedule 5 (Security Management), Model Services Contract, v2.2A 239
+
+Schedule 5 (Security Management), Model Services Contract (Scottish Law), v2.2A 245
+
+Schedule 6 (Insurance Requirements), Model Services Contract (Scottish Law), v2.2 254
+
+Schedule 7 (Authority Responsibilities), Model Services Contract (Scottish Law), v2.2 257
+
+Schedule 8 (Supplier Solution), Model Services Contract (Scottish Law), v2.2 259
+
+Schedule 9 (Implementation Plan) Model Services Contract (Scottish Law), v2.2 265
+
+Schedule 10 (Testing Procedures), Model Services Contract (Scottish Law), v2.2 279
+
+Schedule 11 (Charges and Invoicing), Model Services Contract (Scottish Law), v2.2 308
+
+Schedule 15 (Charges and Invoicing), Model Services Contract (Scottish Law), v2.2 311
+
+Schedule 12 (Payments on Termination), Model Services Contract (Scottish Law), v2.2 320
+
+Schedule 13 (Benchmarking), Model Services Contract (Scottish Law), v2.2 335
+
+Schedule 14 (Financial Distress), Model Services Contract (Scottish Law), v2.2 355
+
+Schedule 16 (Anticipated Savings), Model Services Contract (Scottish Law), v2.2 370
+
+Schedule 17 (Governance), Model Services Contract (Scottish Law), v2.2 378
+
+Schedule 18 (Change Control Procedure), Model Services Contract (Scottish Law), v2.2 389
+
+Schedule 21 (Exit Management), Model Services Contract (Scottish Law), v2.2A 446
+
+Schedule 23 (Conduct of Claims), Model Services Contract (Scottish Law), v2.2 467
+
+Schedule 24 (Staff Transfer), Model Services Contract (Scottish Law), v2.2 507
+
+Schedule 24 (Staff Transfer), Model Services Contract (Scottish Law), v2.2 524
+
+Schedule 25 (Guarantee), Model Services Contract (Scottish Law), v2.2 541
+
+Schedule 26 (Processing Personal Detail)
+
+Schedule 26 (Processing Personal Data), Model Services Contract (Scottish Law), v2.2 588
+
+Schedule 28 (Carbon Reduction), Model Services Contract (Scottish Law), v2.2A 693
+
+Schedule 28: (Carbon Reduction), Model Services Contract (Scottish Law), v2.2A 702
+
+Schedule 29: (Authority Specific Terms), Model Services Contract (Scottish Law), v2.2 711

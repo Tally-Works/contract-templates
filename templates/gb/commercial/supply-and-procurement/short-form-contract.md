@@ -2172,3 +2172,11 @@ registered address.
          1.  notify the Buyer as soon as reasonably practicable after becoming aware of the breach, and in any event within [24] hours;
          2.  provide such assistance to the Buyer as the Buyer requires until the Breach of Security and any impacts or potential impacts on the Buyer are resolved to the Buyer's satisfaction; and
          3.  where the Law requires the Buyer to report a Breach of Security to the appropriate regulator provide such information and other input as the Buyer requires within the timescales specified by the Buyer.
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Crown Copyright 2025[Subject to Contract]
+
+The Short Form Contract – version 1.5A62 of 76

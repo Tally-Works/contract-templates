@@ -19,7 +19,7 @@ source:
   url: https://commonpaper.com/standards/service-level-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from sla.md in github.com/CommonPaper/SLA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from sla.md in github.com/CommonPaper/SLA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC BY 4.0 is stated on the source page; the GitHub file carries no licence line.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0

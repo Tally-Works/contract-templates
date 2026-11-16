@@ -8,16 +8,17 @@ parties:
   - employee
   - employer
 tags:
-  - non-compete
-  - non-solicitation
   - restrictive-covenant
   - confidentiality
+  - non-disparagement
+  - trade-secrets
 language: en
 source:
   name: OpenAgreements
   url: >-
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-restrictive-covenant-california
   retrieved: "2026-11-14"
+  attribution: Authored by OpenAgreements contributors. California-specific analysis informed by the quote-verified California practice note. Licensed under CC BY 4.0.
   notes: >-
     Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-restrictive-covenant-california); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0

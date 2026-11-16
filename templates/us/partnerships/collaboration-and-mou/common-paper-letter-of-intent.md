@@ -19,7 +19,7 @@ source:
   file: templates/us/partnerships/collaboration-and-mou/common-paper-letter-of-intent.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (common-paper-letter-of-intent.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (common-paper-letter-of-intent.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -110,3 +110,9 @@ By signing this LOI, each party acknowledges their intent as outlined in the LOI
 **Legal Notice Address**
 
 **Date**
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Common Paper Letter of Intent free to use under CC BY 4.0.

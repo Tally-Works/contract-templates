@@ -13,7 +13,7 @@ tags:
   - additional-documents
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/provisions/general/further-assurances.md
   retrieved: "2026-11-14"
   notes: >-
@@ -24,7 +24,9 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Boilerplate further assurances provision from the Dot Legal reference library.
+summary: >-
+  Obliges each party to do such further acts and sign such further documents as the other party reasonably requests
+  to carry out the intent and purposes of the document.
 ---
 
 Each party will do and perform, or cause to be done and performed, all such further acts and things, and will execute and deliver all such other agreements, certificates, instruments and documents, as the other party may reasonably request in order to carry out the intent and accomplish the purposes of this document.

@@ -177,3 +177,13 @@ By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **RESEARCH PLAN**
 
 [RESEARCH PLAN DETAILS]
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+EPA – [COOPERATOR NAME] – MCRADA # [####-##]
+
+EPA Model MCRADA Form 9.13.2024
+
+EPA Model MCRADA Form 9.13.2024 FTTA Home Page:

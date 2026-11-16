@@ -224,3 +224,9 @@ Signature: ………………………………………
 3.  Use if the Collaborator is to own or have exclusive rights to any of the Results. [↑](#footnote-ref-3)
 
 4.  This alternative wording will be appropriate only if contract research is being carried out. [↑](#footnote-ref-4)
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Heads of Terms for Collaboration Agreements (Final)

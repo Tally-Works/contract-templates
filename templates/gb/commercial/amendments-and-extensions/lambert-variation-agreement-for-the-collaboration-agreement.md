@@ -153,3 +153,9 @@ Signature: ………………………………………
 Schedule 1 – Financial Contributions
 
 New Schedule 2 - the Project]
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Lambert Variation Agreement for Collaboration Agreements (Final)

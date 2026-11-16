@@ -21,7 +21,7 @@ source:
   notes: >-
     Converted to Markdown from the Word file published by the NIH Office of Technology Transfer at
     https://www.techtransfer.nih.gov/resources, kept beside this file as the download. A work of the United States
-    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed.
+    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown.
 license: Public-Domain
 status: draft
 version: 1.0.0
@@ -524,3 +524,15 @@ Collaborator will provide to IC the following Collaborator Materials and/or capi
 **APPENDIX C**
 
 MODIFICATIONS TO THE MODEL EXTRAMURAL-PHS CLINICAL CRADA
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+PHS ECT-CRADA Agreement Ref. No. _______ MODEL ADOPTED December 8, 2010
+
+Page of 27 Revised October 18, 2018
+
+PHS ECT-CRADA Case Ref. No. _______ MODEL ADOPTED December 8, 2010
+
+Page of 27 Confidential Revised November 1, 2018

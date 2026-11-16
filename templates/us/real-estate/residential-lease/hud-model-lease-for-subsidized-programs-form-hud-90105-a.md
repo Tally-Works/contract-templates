@@ -574,3 +574,11 @@ Date (mm/dd/yyyy)
 Tenant
 
 Date (mm/dd/yyyy)
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+OMB Control No. 2502–0204(exp. 10/31/2029)
+
+form HUD–90105–A

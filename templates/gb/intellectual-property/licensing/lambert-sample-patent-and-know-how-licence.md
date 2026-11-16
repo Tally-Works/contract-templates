@@ -29,7 +29,7 @@ source:
     institutions and companies to use, adapt and re-use, and asks that their source be cited where practicable. The page
     footer states "All content is available under the Open Government Licence v3.0, except where otherwise stated"
     (Crown copyright). Attribution: Contains public sector information licensed under the Open Government Licence v3.0.
-    Format conversion only: nothing added, nothing removed.
+    Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown.
 license: OGL-UK-3.0
 status: draft
 version: 1.0.0
@@ -336,3 +336,9 @@ Signature
 **THE SCHEDULE**
 
 **The Patents**
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Sample Patent and Know-how Licence – October 2005

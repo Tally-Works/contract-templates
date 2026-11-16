@@ -17,6 +17,7 @@ source:
   name: OpenAgreements
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-restrictive-covenant-hawaii
   retrieved: "2026-11-14"
+  attribution: "Authored by OpenAgreements contributors. Hawaii-specific analysis informed by the quote-verified Hawaii practice note (HRS sections 480-4, 480-13, 480-2, 482B-8; Prudential Locations, LLC v. Gagnon; 7's Enterprises, Inc. v. Del Rosario; Technicolor, Inc. v. Traeger). Licensed under CC BY 4.0."
   notes: >-
     Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-restrictive-covenant-hawaii); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0

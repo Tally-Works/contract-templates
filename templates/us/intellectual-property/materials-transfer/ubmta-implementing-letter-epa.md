@@ -95,3 +95,9 @@ Certification: I hereby certify that the RECIPIENT organization has accepted and
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (Signature) Date
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+v14.02.18

@@ -1,5 +1,5 @@
 ---
-title: Bonterms Software License Terms Cover Page
+title: Bonterms Software License Terms Cover Page (Example)
 jurisdiction: US
 category: technology
 subcategory: software-license
@@ -18,10 +18,10 @@ language: en
 source:
   name: Bonterms
   url: https://bonterms.com/resources/software-license-terms-cover-page-example
-  file: templates/us/technology/software-license/bonterms-software-license-terms-cover-page.docx
+  file: templates/us/technology/software-license/bonterms-software-license-terms-cover-page-example.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (bonterms-software-license-terms-cover-page.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (bonterms-software-license-terms-cover-page.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -71,7 +71,14 @@ for Bonterms Software License Terms**
 
 **Agreed to as of the Effective Date by each party’s authorized representative:**
 
-**Customer:Signature: Name and Title:Company: Notice Address *(choose one or both)*:☐ Email:☐ Postal mail:Date:**
+**Customer:**
+Signature:
+Name and Title:
+Company:
+Notice Address *(choose one or both)*:
+☐ Email:
+☐ Postal mail:
+Date:
 **Provider**:
 Signature:
 Name and Title:
@@ -80,3 +87,15 @@ Notice Address *(choose one or both)*:
 ☐ Email:
 ☐ Postal mail:
 Date:
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+[REMOVE THIS FOOTER BEFORE USING:
+
+Example Cover Page for Bonterms Software License Terms (Version 1.0)
+
+Made available under CC0 1.0 - you may freely use, modify or distribute without attribution.
+
+Bonterms does not provide legal advice, does not guarantee the enforceability or effect of these terms and has no liability relating to use of these terms.]

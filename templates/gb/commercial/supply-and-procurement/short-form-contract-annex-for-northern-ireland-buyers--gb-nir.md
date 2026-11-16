@@ -121,3 +121,13 @@ if the Supplier is in default under this clause the Buyer may by notice:
         3.  Clause 35.4: replaced with the following wording: “The Supplier agrees that the Buyer has the exclusive right to refer any dispute to be finally resolved by arbitration under the Arbitration Act 1996. There will be only one arbitrator. The seat or legal place of the arbitration will be Belfast and the proceedings will be in English.
     3.  Clause 36 *(Which law applies)*
         1.  Clause 36.1: the term "English law" replaced with the following wording: "the law of Northern Ireland".
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+The Short Form Contract
+
+Crown Copyright 2026[Subject to Contract]
+
+For use with the Short Form Contract – version 1.5A

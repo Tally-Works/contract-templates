@@ -20,7 +20,7 @@ source:
   file: templates/us/technology/saas/common-paper-order-form--with-sla.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (common-paper-order-form--with-sla.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (common-paper-order-form--with-sla.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines. The form is written for the Cloud Service Agreement v2 (the footer names Version 2.1); the related Cloud Service Agreement template in this library is Version 3.0.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -30,8 +30,9 @@ related:
   - templates/us/technology/saas/common-paper-cloud-service-agreement.md
   - templates/us/technology/hosting-and-cloud/common-paper-service-level-agreement.md
 summary: >-
-  Order form for a subscription under the Common Paper Cloud Service Agreement, with the Service Level Agreement
-  standard terms incorporated. Governing law and business terms are filled in on the document itself.
+  Order form written for the Common Paper Cloud Service Agreement v2 (the footer names Version 2.1); the library's CSA
+  template is Version 3.0. Incorporates the Service Level Agreement standard terms. Governing law and business terms
+  are filled in on the document itself.
 ---
 
 **Interpreting help text**
@@ -72,7 +73,8 @@ Send to your counterparty for review and signature.
 
 Cloud Service Agreement
 
-**Order FormThe key business terms of this Order Form are as follows:**
+**Order Form**
+*The key business terms of this Order Form are as follows:*
 
 **Framework Terms**
 *[Drafting note: Fill in details about the applicable Key Terms.]*
@@ -81,7 +83,8 @@ This Order Form incorporates and is governed by the Framework Terms dated [enter
 **Cloud Service**
 The Cloud Service available under this Order Form is [description of the product].
 
-**Order DateThe date access to the Cloud Service starts**
+**Order Date**
+*The date access to the Cloud Service starts*
 *[Drafting note: Select one option and delete the other.]*
 ( x ) Date of last signature on this Order Form
 ( ) [Fill in custom start date]
@@ -168,7 +171,8 @@ The **Response Time Credit** will be [\_\_]% of the monthly Cloud Service Fee fo
 [ ] **Payment Process** for these services: [describe how services fees will be billed, for example "Invoices for these services will be sent monthly."]
 **Customer** will reasonably cooperate with **Provider** to allow the performance of the services described above, including providing Customer Content as needed. **Provider** is not responsible for any inability to perform these services if **Customer** does not cooperate as reasonably requested.
 
-**Other Changes to Standard TermsChanges that apply for this Order Form only**
+**Other Changes to Standard Terms**
+*Changes that apply for this Order Form only*
 *[Drafting note: Use this area to add modifications that only apply to this Order Form.]*
 
 By signing this Order Form, each party agrees to enter into this Order Form.
@@ -182,6 +186,13 @@ By signing this Order Form, each party agrees to enter into this Order Form.
 
 **Title**
 
-**Notice AddressUse email or postal address**
+**Notice Address**
+*Use email or postal address*
 
 **Date**
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Common Paper Cloud Service Agreement (Version 2.1) free to use under CC BY 4.0.

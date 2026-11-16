@@ -17,18 +17,45 @@ tags:
   - termination
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/forms/employment/contractor-work-for-hire.md
   retrieved: "2026-11-14"
   notes: >-
     Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache
-    License 2.0. goHeather added nothing and removed nothing.
+    License 2.0. goHeather added nothing and removed nothing. Of the reference.legal terms the form incorporates, directly or through the files it names, the provisions
+    listed under related are in this library; not in the library are v1/templates/employment/contractor-work-for-hire
+    (ownership and work-for-hire assignment of the Project, waiver of moral rights, independent-contractor status,
+    representations and warranties, indemnities, survival of confidentiality) and the two wrappers
+    v1/provisions/confidentiality/definitions and v1/sections/general/general-expanded, whose provisions are all in the
+    library.
 license: Apache-2.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Contractor work-for-hire agreement from the Dot Legal reference library.
+related:
+  - templates/ca/clauses/definitions/definition-of-discloser-and-recipient-mutual-clause.md
+  - templates/ca/clauses/definitions/definition-of-confidential-information-clause.md
+  - templates/ca/clauses/definitions/permitted-disclosures-to-representatives-clause.md
+  - templates/ca/clauses/boilerplate/headings-clause.md
+  - templates/ca/clauses/boilerplate/construction-of-terms-clause.md
+  - templates/ca/clauses/boilerplate/good-faith-clause.md
+  - templates/ca/clauses/boilerplate/further-assurances-clause.md
+  - templates/ca/clauses/boilerplate/entire-agreement-clause.md
+  - templates/ca/clauses/boilerplate/no-waiver-clause.md
+  - templates/ca/clauses/boilerplate/cumulative-remedies-clause.md
+  - templates/ca/clauses/boilerplate/severability-clause.md
+  - templates/ca/clauses/boilerplate/amendment-clause.md
+  - templates/ca/clauses/boilerplate/counterparts-clause.md
+  - templates/ca/clauses/boilerplate/no-joint-venture-clause.md
+  - templates/ca/clauses/boilerplate/assignment-clause.md
+summary: >-
+  Fill-in cover form for a simple work-for-hire engagement in which the Client takes full ownership of the Project:
+  definitions for Project name and description, Effective Date, Deadline and Governing Jurisdiction (example: British
+  Columbia), signature blocks, optional terms on project details, credit and publicity, and key terms on delivery, a
+  fixed fee on acceptance, termination on notice or for breach and a cancellation fee, all shown with example data
+  (Project Breeze, US$5,000 fee, 15 days' notice); the ownership, warranty, indemnity and confidentiality terms are
+  incorporated from reference.legal.
 ---
 
 # Contractor Agreement (Simple Work for Hire)

@@ -14,7 +14,7 @@ tags:
   - deemed-receipt
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/provisions/general/notices.md
   retrieved: "2026-11-14"
   notes: >-
@@ -25,7 +25,9 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Boilerplate notices provision from the Dot Legal reference library.
+summary: >-
+  Notices go by email to the addresses listed in the document and are received when acknowledged; if not acknowledged
+  or refused, a second email may be sent after 5 calendar days and is deemed received when sent.
 ---
 
 All notices and other communications required or permitted under this document will be sent by email to the applicable addresses listed in this document.  The email will be deemed to have been received when its receipt is acknowledged.  If receipt is not acknowledged and there is no refusal, a second email may be sent 5 calendar days after the initial email which will be deemed to be received when the second email is sent.

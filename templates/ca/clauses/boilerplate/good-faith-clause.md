@@ -13,7 +13,7 @@ tags:
   - performance
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/provisions/general/good-faith.md
   retrieved: "2026-11-14"
   notes: >-
@@ -24,7 +24,9 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Boilerplate good faith provision from the Dot Legal reference library.
+summary: >-
+  Commits each party to perform its obligations and exercise its rights under the document in good faith, with all
+  parties dealing fairly with each other.
 ---
 
 Each party agrees that its performance of all obligations and exercise of all rights under this document will be undertaken in good faith, and with all parties dealing fairly with each other.

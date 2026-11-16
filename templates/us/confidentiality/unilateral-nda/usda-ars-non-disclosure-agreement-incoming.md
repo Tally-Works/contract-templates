@@ -20,7 +20,7 @@ source:
   notes: >-
     Converted to Markdown from the Word file published by USDA ARS at https://www.ars.usda.gov/ott/templates-agreements,
     kept beside this file as the download. A work of the United States Government, not subject to copyright (17 U.S.C.
-    105). Format conversion only: nothing added, nothing removed. The agency published this document as a legacy .doc
+    105). Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. The agency published this document as a legacy .doc
     file; it was saved as .docx with Microsoft Word without changes. The ARS page itself states that under 17 U.S.C. 105
     copyright protection is not available for works of the United States Government.
 license: Public-Domain
@@ -78,3 +78,9 @@ City, State Zip
 Tel.: Telephone No.
 FAX: FAX No.
 E-mail: E-mail Address
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+NDA-In: February 2021 Page 2 of 2

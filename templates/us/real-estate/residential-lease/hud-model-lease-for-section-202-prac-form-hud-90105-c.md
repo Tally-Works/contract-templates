@@ -502,3 +502,13 @@ Date (mm/dd/yyyy)
 Tenant
 
 Date (mm/dd/yyyy)
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+OMB Approval No. 2502–0204(exp. 10/31/2029)
+
+Form HUD-90105-C
+
+Model Lease for Section 202/811 PRAC and 811 PRA

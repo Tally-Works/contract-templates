@@ -18,16 +18,16 @@ source:
   url: https://commonpaper.com/standards/cloud-service-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from CSA.md in github.com/CommonPaper/CSA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from CSA.md in github.com/CommonPaper/CSA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC BY 4.0 is stated on the source page; the GitHub file carries no licence line.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
-  Standard terms for a cloud / SaaS subscription, drafted by a committee of over 40 attorneys representing vendors and
-  customers. Business terms (fees, subscription period, governing law) go on a separate cover page that incorporates
-  these terms by reference. Version 3.0. Governing law and business terms are chosen on the cover page.
+  Standard terms for a cloud / SaaS subscription. Business terms (fees, subscription period, governing law) go on a
+  separate cover page that incorporates these terms by reference. Version 3.0. Governing law and business terms are
+  chosen on the cover page.
 ---
 
 # Cloud Service Agreement

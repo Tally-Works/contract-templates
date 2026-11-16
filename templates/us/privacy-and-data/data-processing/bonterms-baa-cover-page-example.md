@@ -1,5 +1,5 @@
 ---
-title: Bonterms BAA Cover Page
+title: Bonterms BAA Cover Page (Example)
 jurisdiction: US
 category: privacy-and-data
 subcategory: data-processing
@@ -15,10 +15,10 @@ language: en
 source:
   name: Bonterms
   url: https://bonterms.com/resources/baa-cover-page-example
-  file: templates/us/privacy-and-data/data-processing/bonterms-baa-cover-page.docx
+  file: templates/us/privacy-and-data/data-processing/bonterms-baa-cover-page-example.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (bonterms-baa-cover-page.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (bonterms-baa-cover-page.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -53,9 +53,25 @@ This BAA is incorporated into the agreement between Customer and Provider identi
 
 **Agreed to as of the BAA Effective Date by each party’s authorized representative:**
 
-**Customer:Signature: Name and Title:Company: Date:**
+**Customer:**
+Signature:
+Name and Title:
+Company:
+Date:
 **Business Associate**:
 Signature:
 Name and Title:
 Company:
 Date:
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+[REMOVE THIS FOOTER BEFORE USING:
+
+Example Cover Page for Bonterms BAA
+
+This example Cover Page is made available under CC0 1.0 - you may freely use, modify or distribute without attribution.
+
+Bonterms does not provide legal advice, does not guarantee the enforceability or effect of these terms and has no liability relating to use of these terms.]

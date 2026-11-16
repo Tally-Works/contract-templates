@@ -25,9 +25,11 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/technology/saas/bonterms-cloud-terms.md
 summary: >-
   Uptime commitment with measurement, exclusions and service credits, designed to attach to the Bonterms Cloud Terms or
-  another subscription agreement. Version 1.0. Governing law and business terms are chosen on the cover page.
+  another subscription agreement. Version 1.0. Incorporated by reference on the cover page of the agreement it attaches to.
 ---
 
 # Bonterms Service Level Agreement

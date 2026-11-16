@@ -11,13 +11,13 @@ parties:
 tags:
   - website
   - ccpa
-  - gdpr
   - short-form
 language: en
 source:
   name: OpenAgreements
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-privacy-policy
   retrieved: "2026-11-14"
+  attribution: Licensed under CC BY 4.0.
   notes: >-
     Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-privacy-policy); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
@@ -26,9 +26,9 @@ version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
-  Fill-in website privacy policy template covering data collected, purposes, sharing, retention, security and user
-  rights under US state privacy laws and GDPR. Shorter than the Basecamp policy in the same folder. (OpenAgreements,
-  marked experimental by its authors.)
+  Configurable national consumer privacy-policy template that assembles the union of U.S. state privacy-disclosure
+  duties, gated by a business's coverage and data-practice facts. Shorter than the Basecamp policy in the same folder.
+  (OpenAgreements version 0.1, marked experimental by its authors.)
 ---
 
 # Privacy Policy

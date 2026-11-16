@@ -25,7 +25,7 @@ source:
     commercial and non-commercial purposes without charge under the Open Government Licence; that statement is kept in
     the text. The page footer states "All content is available under the Open Government Licence v3.0, except where
     otherwise stated" (Crown copyright). Attribution: Contains public sector information licensed under the Open
-    Government Licence v3.0. Format conversion only: nothing added, nothing removed.
+    Government Licence v3.0. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown.
 license: OGL-UK-3.0
 status: draft
 version: 1.0.0
@@ -1674,3 +1674,13 @@ Properly addressed prepaid and delivered as evidenced by signature of a delivery
 2.  Governing Law and Jurisdiction
     1.  This Contract and any issues, disputes or claims (whether contractual or non-contractual) arising out of or in connection with it or its subject matter or formation shall be governed by and construed in accordance with the laws of Scotland.
     2.  Subject to Clause 43 (*Disputes*) and Schedule 19 (*Dispute Resolution Procedure*) (including the Authority's right to refer the dispute to arbitration), the Parties [irrevocably] agree that the Court of Session shall have exclusive jurisdiction to settle any dispute or claim (whether contractual or non-contractual) that arises out of or in connection with this Contract or its subject matter or formation.
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+[Subject to Contract]
+
+Crown Copyright 2025
+
+Core Terms, Model Services Contract (Scottish Law), v.2.2A 71

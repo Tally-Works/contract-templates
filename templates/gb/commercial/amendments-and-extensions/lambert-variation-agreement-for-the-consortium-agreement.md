@@ -174,3 +174,9 @@ New Schedule 2 – the Project Plan
 New Schedule 8 – the Exploitation Strategy
 
 New Schedule 10– the Payment Plan]
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Lambert Variation Agreement for Consortium Agreements (Final)

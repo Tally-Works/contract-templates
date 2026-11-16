@@ -21,7 +21,7 @@ source:
   notes: >-
     Converted to Markdown from the Word file published by the NIH Office of Technology Transfer at
     https://www.techtransfer.nih.gov/resources, kept beside this file as the download. A work of the United States
-    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed. The
+    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. The
     agency published this document as a legacy .doc file; it was saved as .docx with Microsoft Word without changes.
 license: Public-Domain
 status: draft
@@ -134,3 +134,9 @@ In accepting the animal(s), RECIPIENT accepts full ownership, custody, and contr
 PROVIDER is transferring the animal(s) as a service to the research community. The animal(s) is transferred to the RECIPIENT with no warranties, express or implied, including any warranty of merchantability or fitness for a particular purpose. Unless prohibited by law from doing so, RECIPIENT agrees to hold the United States Government harmless and to indemnify the Government from all liabilities, demands, damages, expenses and losses arising out of the RECIPIENT’s care, use or treatment of the animal(s).
 
 RECIPIENT agrees not to claim, infer, or imply Governmental endorsement of the RECIPIENT, the research project, the institution or personnel conducting the research, or any resulting product(s).
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+12/2008 Updated 12/2020 Model MTA-TO

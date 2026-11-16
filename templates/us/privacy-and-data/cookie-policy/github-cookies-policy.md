@@ -18,13 +18,15 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-cookies.md
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-cookies.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/privacy-policies/github-cookies.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and no site variables occur in this file; no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC0 covers the text only; GitHub's names and logos are trademarks and must be replaced when the text is adapted. Relative links are to docs.github.com and do not resolve here.
 license: CC0-1.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Cookie policy listing the cookies a platform sets, their purposes and durations, and how users can control them.
+summary: >-
+  GitHub's own Cookies page from github/site-policy, published under CC0 for others to adapt; GitHub-specific
+  throughout. Lists the cookies GitHub sets, their purposes and expiration, and how users can control them.
 ---
 
 # Cookies

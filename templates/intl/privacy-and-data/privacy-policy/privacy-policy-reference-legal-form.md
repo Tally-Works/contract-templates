@@ -1,6 +1,6 @@
 ---
-title: Privacy Policy (Dot Legal form)
-jurisdiction: CA
+title: Privacy Policy (reference.legal form)
+jurisdiction: INTL
 category: privacy-and-data
 subcategory: privacy-policy
 type: policy
@@ -17,12 +17,14 @@ tags:
   - data-transfer
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/forms/privacy/privacy-policy.md
   retrieved: "2026-11-14"
   notes: >-
     Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache
-    License 2.0. goHeather added nothing and removed nothing.
+    License 2.0. goHeather added nothing and removed nothing. Filed as jurisdiction-neutral: the form's example governing law and data-location fields are not Canadian and the operative terms are incorporated by reference. None of the four reference.legal sections the form incorporates is in this library:
+    v1/sections/privacy/cookies-description, us-ccpa-consumer-privacy-rights-description,
+    eu-gdpr-data-subject-rights-description and data-protection-authority-contact.
 license: Apache-2.0
 status: draft
 version: 1.0.0

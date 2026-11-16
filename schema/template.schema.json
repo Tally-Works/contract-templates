@@ -219,6 +219,10 @@
         "notes": {
           "type": "string",
           "description": "Licence evidence and anything changed from the original."
+        },
+        "attribution": {
+          "type": "string",
+          "description": "The attribution line the publisher asks to travel with the document, verbatim, where the publisher states one outside the document text."
         }
       }
     },

@@ -21,7 +21,7 @@ source:
   notes: >-
     Converted to Markdown from the Word file published by the NIH Office of Technology Transfer at
     https://www.techtransfer.nih.gov/resources, kept beside this file as the download. A work of the United States
-    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed.
+    Government, not subject to copyright (17 U.S.C. 105). Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown.
 license: Public-Domain
 status: draft
 version: 1.0.0
@@ -506,3 +506,19 @@ Name: **Licensee name**
 **ACH debits are not permitted to this ABA routing number. All debits received will be automatically rejected/returned.**
 
 Agency Contacts: Office of Technology Transfer (OTT) [OTT-Royalties@mail.nih.gov](mailto:OTT-Royalties@mail.nih.gov)
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+CONFIDENTIAL L-XXX-20XX/0
+
+NIH Patent License Agreement—Internal Use Only. Nonexclusive
+
+Model 10-2015 Rev 09-2024 Page 1 of 27 [Draft/Final] [Company] [Date]
+
+CONFIDENTIAL L-XXX-20XX-0
+
+NIH Patent License Agreement — Internal Use Only Nonexclusive
+
+Model 10-2015 Page 18 of 18 [Draft/Final] [Company] [Date]

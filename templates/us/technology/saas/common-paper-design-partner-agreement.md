@@ -18,7 +18,7 @@ source:
   url: https://commonpaper.com/standards/design-partner-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from design-partner-agreement.md in github.com/CommonPaper/Design-Partner-Agreement (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from design-partner-agreement.md in github.com/CommonPaper/Design-Partner-Agreement (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC BY 4.0 is stated on the source page; the GitHub file carries no licence line. The body carries no version statement; the text matches tag 1.3 of github.com/CommonPaper/Design-Partner-Agreement, and the source page names 1.3 as the current version.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -26,7 +26,8 @@ last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
   Agreement for an early customer to use a pre-release product and give feedback, covering access, confidentiality,
-  feedback ownership and the absence of warranties. Governing law and business terms are chosen on the cover page.
+  feedback ownership and the absence of warranties. Version 1.3. Governing law and business terms are chosen on the
+  cover page.
 ---
 
 # Design Partner Agreement

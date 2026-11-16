@@ -17,13 +17,16 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/github-terms/github-community-guidelines.md
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-terms/github-community-guidelines.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/github-terms/github-community-guidelines.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variable contact_support is shown as the text it renders to on docs.github.com, "us through the [GitHub Support portal](https://support.github.com)"; no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC0 covers the text only; GitHub's names and logos are trademarks and must be replaced when the text is adapted. Relative links are to docs.github.com and do not resolve here.
 license: CC0-1.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: "Community guidelines for a platform: expected behaviour, what is not allowed, and how reports and moderation work."
+summary: >-
+  GitHub's own Community Guidelines from github/site-policy, published under CC0 for others to adapt; GitHub-specific
+  throughout. Expected behaviour on GitHub, what is not allowed, the moderation tools available to maintainers, and
+  what happens when GitHub's policies are violated.
 ---
 
 Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
@@ -58,7 +61,7 @@ While some disagreements can be resolved with direct, respectful communication b
 
 * **Limit Interactions** - If your public project is getting unwanted attention, being trolled, spammed, or otherwise, you have the option of setting [temporary interaction limits](/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) to keep certain users from interacting with your repository. You can even set [code review limits](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) to ensure quality contributions on your projects.
 
-While we are passionate about empowering maintainers to moderate their own projects, please contact GitHub Support if you need additional support in dealing with a situation.
+While we are passionate about empowering maintainers to moderate their own projects, please contact us through the [GitHub Support portal](https://support.github.com) if you need additional support in dealing with a situation.
 
 ## What happens if someone violates GitHub's policies?
 

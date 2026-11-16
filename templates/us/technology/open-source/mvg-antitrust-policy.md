@@ -24,9 +24,16 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/technology/open-source/mvg-code-of-conduct.md
+  - templates/us/technology/open-source/mvg-maintainers.md
+  - templates/us/technology/open-source/mvg-organisation-charter.md
+  - templates/us/technology/open-source/mvg-project-governance.md
+  - templates/us/technology/open-source/mvg-steering-committee.md
+  - templates/us/technology/open-source/mvg-trademark-policy.md
 summary: >-
-  One-paragraph antitrust policy for an open-source organisation whose participants may be business competitors,
-  from GitHub's Minimum Viable Governance (MVG-0.1-beta) org-docs. Confirms participants stay free to build and market
+  One-paragraph antitrust policy for an open-source organisation whose participants may be business competitors, from
+  GitHub's Minimum Viable Governance (MVG-0.1-beta) org-docs. Confirms participants stay free to build and market
   competing products and bars discussion of pricing, distribution channels, third-party contracts, market or customer
   allocation, or anything else that would lessen fair competition.
 ---

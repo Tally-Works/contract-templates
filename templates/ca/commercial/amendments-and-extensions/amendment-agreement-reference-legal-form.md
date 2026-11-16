@@ -1,5 +1,5 @@
 ---
-title: Amendment Agreement (Dot Legal form)
+title: Amendment Agreement (reference.legal form)
 jurisdiction: CA
 category: commercial
 subcategory: amendments-and-extensions
@@ -15,17 +15,21 @@ tags:
   - counterparts
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/forms/general/amendment.md
   retrieved: "2026-11-14"
   notes: >-
     Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache
-    License 2.0. goHeather added nothing and removed nothing.
+    License 2.0. goHeather added nothing and removed nothing. Both reference.legal provisions the form incorporates (entire agreement, counterparts) are in this library;
+    see related.
 license: Apache-2.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/ca/clauses/boilerplate/entire-agreement-clause.md
+  - templates/ca/clauses/boilerplate/counterparts-clause.md
 summary: >-
   Short fill-in amendment form by which the original parties change an existing
   agreement: a definitions block (Original Document, its date and parties,

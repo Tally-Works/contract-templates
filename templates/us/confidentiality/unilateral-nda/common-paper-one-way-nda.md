@@ -18,7 +18,7 @@ source:
   file: templates/us/confidentiality/unilateral-nda/common-paper-one-way-nda.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (common-paper-one-way-nda.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (common-paper-one-way-nda.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -72,17 +72,20 @@ One-Way NDA
 **Discloser**
 [ company name and address of Discloser ]
 
-**PurposeHow Confidential Information may be used**
+**Purpose**
+*How Confidential Information may be used*
 [Evaluating whether to enter into a business relationship with the other party.]
 
 **Effective Date**
 [Fill in: today’s date]
 
-**NDA TermPeriod for sharing Confidential Information**
+**NDA Term**
+*Period for sharing Confidential Information*
 [ x ] Expires [1 year(s)] from Effective Date.
 [ ] Continues until terminated in accordance with the terms of the NDA.
 
-**Term of ConfidentialityHow long Confidential Information is Protected**
+**Term of Confidentiality**
+*How long Confidential Information is Protected*
 [ x ] [1 year(s)] from [choose 1: Effective Date || the date of last disclosure], but in the case of trade secrets, until Confidential Information is no longer considered a trade secret under applicable laws.
 [ ] In perpetuity.
 
@@ -92,7 +95,8 @@ The laws of the State of [fill in state].
 **Jurisdiction**
 The state and federal courts located in [fill in state and/or county].
 
-**Changes to Standard TermsList specific changes to the Standard Terms**
+**Changes to Standard Terms**
+*List specific changes to the Standard Terms*
 [Fill in, if any.]
 
 By signing this Cover Page, Recipient agrees to enter into this NDA as of the Effective Date.
@@ -107,7 +111,8 @@ By signing this Cover Page, Recipient agrees to enter into this NDA as of the Ef
 
 **Company**
 
-**Notice AddressUse either email or postal address**
+**Notice Address**
+*Use either email or postal address*
 
 **Date**
 
@@ -122,3 +127,9 @@ By signing this Cover Page, Recipient agrees to enter into this NDA as of the Ef
 9.  **Governing Law and Jurisdiction**. This NDA and all matters relating hereto are governed by, and construed in accordance with, the laws of the State of **Governing Law**, without regard to the conflict of laws provisions of such **Governing Law**. Any legal suit, action, or proceeding relating to this NDA must be instituted in the federal or state courts located in **Jurisdiction**. Each party irrevocably submits to the exclusive jurisdiction of such **Jurisdiction** in any such suit, action, or proceeding.
 10.  **Equitable Relief**. A breach of this NDA may cause irreparable harm for which monetary damages are an insufficient remedy. Upon a breach of this NDA, the Discloser is entitled to seek appropriate equitable relief, including an injunction, in addition to its other remedies.
 11.  **General**. Discloser has no obligation under this NDA to disclose Confidential Information to Recipient or proceed with any proposed transaction. Neither party may assign this NDA without the prior written consent of the other party, except that Discloser may assign this NDA in connection with a merger, reorganization, acquisition or other transfer of all or substantially all its assets or voting securities. Any assignment in violation of this Section is null and void. This NDA will bind and inure to the benefit of each party’s permitted successors and assigns. Waivers must be signed by the waiving party’s authorized representative and cannot be implied from conduct. If any provision of this NDA is held unenforceable, it will be limited to the minimum extent necessary so the rest of this NDA remains in effect. This NDA (including the Cover Page) constitutes the entire agreement of the parties with respect to its subject matter, and supersedes all prior and contemporaneous understandings, agreements, representations, and warranties, whether written or oral, regarding such subject matter. This NDA may only be amended, modified, waived, or supplemented by an agreement in writing signed by both parties. Notices, requests and approvals under this NDA must be sent in writing to the email or postal addresses on the Cover Page and are deemed delivered on receipt. This NDA may be executed in counterparts, including electronic copies, each of which is deemed an original and which together form the same agreement.
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Common Paper One-Way Non-Disclosure Agreement free to use under CC BY 4.0.

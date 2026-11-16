@@ -19,15 +19,16 @@ source:
   url: https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/dmca-takedown-policy.md
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/dmca-takedown-policy.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/dmca-takedown-policy.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and no site variables occur in this file; no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC0 covers the text only; GitHub's names and logos are trademarks and must be replaced when the text is adapted. Relative links are to docs.github.com and do not resolve here.
 license: CC0-1.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
-  Plain-English DMCA takedown policy for a platform hosting user content, including how notices and counter-notices are
-  processed and the repeat-infringer policy.
+  GitHub's own DMCA Takedown Policy from github/site-policy, published under CC0 for others to adapt; GitHub-specific
+  throughout. Plain-English explanation of how GitHub processes takedown notices and counter notices, including
+  forks, transparency, and its repeat-infringer policy.
 ---
 
 Welcome to GitHub's Guide to the Digital Millennium Copyright Act, commonly known as the "DMCA." This page is not meant as a comprehensive primer to the statute. However, if you've received a DMCA takedown notice targeting content you've posted on GitHub or if you're a rights-holder looking to issue such a notice, this page will hopefully help to demystify the law a bit as well as our policies for complying with it.

@@ -17,6 +17,7 @@ source:
   name: OpenAgreements
   url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-due-diligence-request-list
   retrieved: "2026-11-14"
+  attribution: "Authored by OpenAgreements contributors. Category structure and consensus framing informed by publicly available DDRLs and commentary from Cooley, Skadden, Morgan Lewis, Gunderson Dettmer, Lowenstein Sandler, Holland & Knight, Foley & Lardner, Software Equity Group, the International Bar Association, the American Bar Association, Bass Berry & Sims, and Carta. See practice note for sources. Drafted clean-room; no source language was reused. Licensed under CC BY 4.0."
   notes: >-
     Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-due-diligence-request-list); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0

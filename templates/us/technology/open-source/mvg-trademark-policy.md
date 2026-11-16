@@ -24,6 +24,13 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/technology/open-source/mvg-antitrust-policy.md
+  - templates/us/technology/open-source/mvg-code-of-conduct.md
+  - templates/us/technology/open-source/mvg-maintainers.md
+  - templates/us/technology/open-source/mvg-organisation-charter.md
+  - templates/us/technology/open-source/mvg-project-governance.md
+  - templates/us/technology/open-source/mvg-steering-committee.md
 summary: >-
   Trademark policy for an open-source organisation and its projects, from GitHub's Minimum Viable Governance org-docs
   and based on the Model Trademark Guidelines. Covers which names, logos and marks it applies to, the rule that use

@@ -224,3 +224,15 @@ Signature of Office Director:
 Name: Date
 
 Title:
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+[Cooperator Name] - CRADA # [supplied by FTTA upon request]
+
+Last Save Date: [DATE]
+
+INTERNAL EPA DOCUMENT
+
+EPA CRADA & MCRADA LOI Template 10/20/2026 1

@@ -25,10 +25,10 @@ version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 related:
-  - templates/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page.md
+  - templates/us/confidentiality/mutual-nda/bonterms-mutual-nda-cover-page-example.md
 summary: >-
-  Two-way NDA in cover-page form, drafted by a working group of in-house and law-firm lawyers as neutral terms both
-  sides can accept without negotiation. Version 1.0. Governing law and business terms are chosen on the cover page.
+  Two-way NDA in cover-page form. Version 1.0. Purpose, effective date, term, confidentiality period, governing law
+  and courts are chosen on the cover page.
 ---
 
 # Bonterms Mutual NDA (Version 1.0)

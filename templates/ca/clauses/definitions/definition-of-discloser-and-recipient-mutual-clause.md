@@ -14,7 +14,7 @@ tags:
   - confidential-information
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: >-
     https://github.com/dot-legal/reference/blob/master/v1/provisions/confidentiality/definition-discloser-recipient-mutual.md
   retrieved: "2026-11-14"
@@ -26,7 +26,9 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Confidentiality provision (definition discloser recipient mutual) from the Dot Legal reference library.
+summary: >-
+  Defines each party disclosing Confidential Information as the Discloser and each party receiving it as the
+  Recipient, so that both roles apply to both sides of a mutual agreement.
 ---
 
 Each of the parties under this document disclosing Confidential Information will be referred to as the "**Discloser**", and each of the parties under this document receiving Confidential Information will be referred to as the "**Recipient**".

@@ -14,7 +14,7 @@ tags:
   - marking
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: >-
     https://github.com/dot-legal/reference/blob/master/v1/provisions/confidentiality/definition-confidential-information.md
   retrieved: "2026-11-14"
@@ -26,7 +26,10 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Confidentiality provision (definition confidential information) from the Dot Legal reference library.
+summary: >-
+  Defines Confidential Information as all information a Discloser discloses to a Recipient or its Representatives in
+  any form, plus copies and materials derived from it, that a reasonable person would recognise as confidential or
+  that the Discloser marks or otherwise makes clear it intends to keep confidential.
 ---
 
 "**Confidential Information**" will mean all information of a Discloser that is disclosed or furnished to a Recipient or its Representatives by or on behalf of a Discloser, whether in written, oral, electronic, web-based, or other form, and includes any copies, reports, analyses, compilations, studies, notes, interpretations, or other documents prepared by a Recipient which contain, reflect, or are otherwise generated from information that:

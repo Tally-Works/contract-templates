@@ -18,15 +18,17 @@ source:
     https://github.com/github/site-policy/blob/main/Policies/security-policies/coordinated-disclosure-of-security-vulnerabilities.md
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/security-policies/coordinated-disclosure-of-security-vulnerabilities.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/security-policies/coordinated-disclosure-of-security-vulnerabilities.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and no site variables occur in this file; no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC0 covers the text only; GitHub's names and logos are trademarks and must be replaced when the text is adapted. Relative links are to docs.github.com and do not resolve here.
 license: CC0-1.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
-  Short statement of how a company handles vulnerabilities it finds in other products and how it expects to be told
-  about its own.
+  GitHub's own Coordinated Disclosure of Security Vulnerabilities statement from github/site-policy, published under
+  CC0 for others to adapt; GitHub-specific throughout. A short statement of how GitHub handles vulnerabilities it
+  finds in other products and how it expects to be told about vulnerabilities in its own, pointing to its bug bounty
+  programme.
 ---
 
 We want to keep GitHub safe for everyone. If you've discovered a security vulnerability in GitHub, we appreciate your help in disclosing it to us in a coordinated manner.

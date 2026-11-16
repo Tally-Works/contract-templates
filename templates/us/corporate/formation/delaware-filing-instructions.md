@@ -18,11 +18,16 @@ source:
   notes: >-
     Taken verbatim from the filing-instructions folder of the Agent-Operated Company Formation Package zip published at
     general.legal (CC0 1.0 per the library page). goHeather added nothing and removed nothing.
+    CC0 1.0 per the library page; the GitHub mirror of the package carries an MIT licence for code and no formal
+    licence for the templates.
 license: CC0-1.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/us/corporate/formation/how-to-file-your-agent-operated-company.md
+  - templates/us/corporate/formation/home-state-filing-instructions.md
 summary: General Legal's instructions for filing the charter in Delaware.
 ---
 

@@ -21,13 +21,26 @@ source:
   retrieved: "2026-11-14"
   notes: >-
     Text taken verbatim from the GitHub Minimum Viable Governance repository (github.com/github/MVG), LICENSE: Creative
-    Commons Attribution 4.0 International; marked beta by GitHub. goHeather added nothing and removed nothing.
+    Commons Attribution 4.0 International; marked beta by GitHub. goHeather added nothing and removed nothing. Relative links are to sibling files in the MVG repository and do not resolve here.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Charter for a technical organisation under GitHub's Minimum Viable Governance model.
+related:
+  - templates/us/technology/open-source/mvg-antitrust-policy.md
+  - templates/us/technology/open-source/mvg-code-of-conduct.md
+  - templates/us/technology/open-source/mvg-maintainers.md
+  - templates/us/technology/open-source/mvg-project-governance.md
+  - templates/us/technology/open-source/mvg-steering-committee.md
+  - templates/us/technology/open-source/mvg-trademark-policy.md
+summary: >-
+  Organisation charter under GitHub's Minimum Viable Governance (MVG-0.1-beta) for a technical organisation run by a
+  Steering Committee, which members accept by adding their name to the steering committee file. Sets a fill-in
+  mission; the committee's purpose, composition (members added or removed by a 3/4 vote) and consensus-then-vote
+  decision making; termination of membership; organisation control of trademarks; the antitrust policy; no
+  confidentiality; the approval and licence criteria a project must meet; and amendments to the charter and policies
+  by a 3/4 vote.
 ---
 
 # Charter for the [FIXME] Organization

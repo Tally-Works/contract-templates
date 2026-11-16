@@ -26,7 +26,7 @@ source:
     institutions and companies to use, adapt and re-use, and asks that their source be cited where practicable. The page
     footer states "All content is available under the Open Government Licence v3.0, except where otherwise stated"
     (Crown copyright). Attribution: Contains public sector information licensed under the Open Government Licence v3.0.
-    Format conversion only: nothing added, nothing removed.
+    Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown.
 license: OGL-UK-3.0
 status: draft
 version: 1.0.0
@@ -38,3 +38,9 @@ summary: Lambert Toolkit sample confidentiality notice for the front page of a c
 **NOTE: This is a sample of the kind of notification you would include on the front page of the document to indicate that it and the information provided are confidential**
 
 **THIS DOCUMENT AND THE INFORMATION IN IT ARE PROVIDED IN CONFIDENCE, FOR THE SOLE PURPOSE OF [*INSERT DETAILS*], AND MAY NOT BE DISCLOSED TO ANY THIRD PARTY OR USED FOR ANY OTHER PURPOSE WITHOUT THE EXPRESS WRITTEN PERMISSION OF [*INSERT DETAILS*].**
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+Sample Confidentiality Notice – October 2005

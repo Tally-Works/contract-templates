@@ -1,5 +1,5 @@
 ---
-title: Bonterms DPA Cover Page
+title: Bonterms DPA Cover Page (Example)
 jurisdiction: US
 category: privacy-and-data
 subcategory: data-processing
@@ -16,10 +16,10 @@ language: en
 source:
   name: Bonterms
   url: https://bonterms.com/resources/example-dpa-cover-page-v2
-  file: templates/us/privacy-and-data/data-processing/bonterms-dpa-cover-page.docx
+  file: templates/us/privacy-and-data/data-processing/bonterms-dpa-cover-page-example.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (bonterms-dpa-cover-page.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (bonterms-dpa-cover-page.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -95,12 +95,12 @@ Processor
 **Categories of Data Subjects:**
 ***[Uncheck any boxes that do not apply. List additional categories of data subjects or add any additional detail as necessary. This list is not necessarily exhaustive.]***
 The following, as applicable under the circumstances:
- Customer's customers
+☐ Customer's customers
 ☒ Customer's prospective customers
 ☒ Customer's business contacts
 ☒ Users
 ☒ Employees, other personnel and job candidates
- Other: [*specify*]
+☐ Other: [*specify*]
 
 **Categories of Customer Personal Data:**
 ***[Uncheck any boxes that do not apply. List additional categories of personal data or add any additional detail as necessary. This list is not necessarily exhaustive.]***
@@ -113,19 +113,19 @@ The following, as applicable under the circumstances:
 ☒ Communications information
 ☒ User generated content
 ☒ Unique identifiers
- Other: [*specify other categories*]
+☐ Other: [*specify other categories*]
 *For Sensitive or Special Categories of Personal Data, see immediately below*.
 
 **Sensitive or Special Categories of Personal Data:**
 ***[Check applicable box]***
- Yes, sensitive or special categories of Personal Data: [*specify categories*]
+☐ Yes, sensitive or special categories of Personal Data: [*specify categories*]
 If Yes, additional restrictions on Processing: [*specify restrictions*]
- None/Not Applicable
+☐ None/Not Applicable
 
 **Frequency of transfer:**
 ***[Check applicable box]***
- Continuous
- Other: [*specify*]
+☐ Continuous
+☐ Other: [*specify*]
 
 **Nature of the Processing:**
 Processing operations required to provide the Service in accordance with the Main Agreement.
@@ -155,9 +155,25 @@ If the EU SCCs apply, the competent supervisory authority is determined in accor
 
 **Agreed to as of the DPA Effective Date by each party's authorized representative:**
 
-**Customer:Signature: Name and Title:Company: Date:**
+**Customer:**
+Signature:
+Name and Title:
+Company:
+Date:
 **Provider**:
 Signature:
 Name and Title:
 Company:
 Date:
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+[REMOVE THIS FOOTER BEFORE USING:
+
+Example Cover Page for Bonterms DPA v.2
+
+Made available under CC0 1.0 - you may freely use, modify or distribute without attribution.
+
+Bonterms does not provide legal advice, does not guarantee the enforceability or effect of these terms and has no liability relating to use of these terms.]

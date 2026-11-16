@@ -84,3 +84,13 @@ Graham.kathleen@epa.gov
 (303) 312-6137
 
 FTTA@epa.gov
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+EPA-Cooperator NDA #
+
+NDA Template to EPA Model 9.13.2024
+
+NDA Template to EPA Model 9.13.2024 FTTA Home Page:

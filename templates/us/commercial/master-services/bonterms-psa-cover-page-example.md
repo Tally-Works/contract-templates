@@ -1,5 +1,5 @@
 ---
-title: Bonterms PSA Cover Page
+title: Bonterms PSA Cover Page (Example)
 jurisdiction: US
 category: commercial
 subcategory: master-services
@@ -15,10 +15,10 @@ language: en
 source:
   name: Bonterms
   url: https://bonterms.com/resources/psa-cover-page-example
-  file: templates/us/commercial/master-services/bonterms-psa-cover-page.docx
+  file: templates/us/commercial/master-services/bonterms-psa-cover-page-example.docx
   retrieved: "2026-11-14"
   notes: >-
-    Converted to Markdown from the publisher's own Word file (bonterms-psa-cover-page.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
+    Converted to Markdown from the publisher's own Word file (bonterms-psa-cover-page.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed; the header and footer text of the Word file is reproduced at the end of the Markdown. Word tables appear as label/value lines.
 license: CC0-1.0
 status: draft
 version: 1.0.0
@@ -31,8 +31,7 @@ summary: Example cover page for the Bonterms Professional Services Agreement.
 
 [Example: Create your own version and remove this note and the footer before using]
 
-**Cover Pagefor Bonterms Professional Services Agreement (PSA)
-**
+**Cover Page for Bonterms Professional Services Agreement (PSA)**
 
 **By executing this Cover Page, Customer and Provider enter into an Agreement which incorporates the Bonterms Professional Services Agreement (Version 1.2) (available at [https://bonterms.com/forms/professional-services-agreement-v1.2/](https://bonterms.com/forms/professional-services-agreement-v1.2/)) by this reference. A reference copy may be attached. The Agreement also includes the contents of this Cover Page, including the Key Terms, Attachments and any Additional Terms. Capitalized terms not defined in this Cover Page have the meanings given in the Bonterms Professional Services Agreement.**
 
@@ -69,7 +68,14 @@ Assigned Deliverables
 
 **Agreed to as of the Effective Date by each party’s authorized representative:**
 
-**Customer:Signature: Name and Title:Company: Notice Address *(choose one or both)*:☐ Email:☐ Postal mail:Date:**
+**Customer:**
+Signature:
+Name and Title:
+Company:
+Notice Address *(choose one or both)*:
+☐ Email:
+☐ Postal mail:
+Date:
 **Provider**:
 Signature:
 Name and Title:
@@ -78,3 +84,15 @@ Notice Address *(choose one or both)*:
 ☐ Email:
 ☐ Postal mail:
 Date:
+
+---
+
+*Header and footer text of the publisher's Word file:*
+
+[REMOVE THIS FOOTER BEFORE USING:
+
+Example Cover Page for Bonterms Professional Services Agreement (Version 1.2)
+
+Made available under CC0 1.0 - you may freely use, modify or distribute without attribution.
+
+Bonterms does not provide legal advice, does not guarantee the enforceability or effect of these terms and has no liability relating to use of these terms.]

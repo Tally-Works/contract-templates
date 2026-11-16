@@ -20,7 +20,7 @@ source:
   url: https://commonpaper.com/standards/data-processing-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from DPA.md in github.com/CommonPaper/DPA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from DPA.md in github.com/CommonPaper/DPA (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC BY 4.0 is stated on the source page; the GitHub file carries no licence line. The body carries no version statement; the text matches tag 1.1 of github.com/CommonPaper/DPA, and the source page names 1.1 as the current version.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -28,8 +28,8 @@ last_reviewed: "2026-11-14"
 reviewed_by: ""
 summary: >-
   Data processing agreement between a service provider (processor) and its customer (controller), covering GDPR, UK GDPR
-  and US state privacy laws, with sub-processor, security, audit and transfer terms. Governing law and business terms
-  are chosen on the cover page.
+  and US state privacy laws, with sub-processor, security, audit and transfer terms. Version 1.1. Governing law and
+  business terms are chosen on the cover page.
 ---
 
 # Data Processing Agreement

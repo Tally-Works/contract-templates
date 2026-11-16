@@ -20,7 +20,7 @@ source:
   url: https://commonpaper.com/standards/partnership-agreement/
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from Partnership-Agreement.md in github.com/CommonPaper/Partnership-Agreement (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from Partnership-Agreement.md in github.com/CommonPaper/Partnership-Agreement (HTML span markup used for Common Paper's web styling removed; words unchanged). goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC BY 4.0 is stated on the source page; the GitHub file carries no licence line. Text matches tag 1.1 of the GitHub repository; the definition in section 19 still says Version 1.0, as it does on the publisher's 1.1 page.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0
@@ -29,7 +29,7 @@ reviewed_by: ""
 summary: >-
   Commercial partnership between two companies (co-marketing, referral, integration or channel cooperation) with
   obligations set on a cover page, mutual trademark licences and payment terms. Not a general-partnership entity
-  agreement. Version 1.0. Governing law and business terms are chosen on the cover page.
+  agreement. Governing law and business terms are chosen on the cover page.
 ---
 
 # Partnership Agreement

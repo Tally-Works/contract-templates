@@ -13,7 +13,7 @@ tags:
   - construction-of-terms
 language: en
 source:
-  name: Dot Legal
+  name: reference.legal
   url: https://github.com/dot-legal/reference/blob/master/v1/provisions/general/headings.md
   retrieved: "2026-11-14"
   notes: >-
@@ -24,7 +24,8 @@ status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Boilerplate headings provision from the Dot Legal reference library.
+summary: >-
+  Headings are for convenience only, form no part of the document and do not limit or affect its provisions.
 ---
 
 The headings in this document are for convenience only and do not constitute a part of this document.  The headings will not limit or affect any of the provisions contained in this document.

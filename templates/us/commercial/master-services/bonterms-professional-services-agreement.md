@@ -26,10 +26,10 @@ version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
 related:
-  - templates/us/commercial/master-services/bonterms-psa-cover-page.md
+  - templates/us/commercial/master-services/bonterms-psa-cover-page-example.md
   - templates/us/contractors/statement-of-work/bonterms-psa-example-statement-of-work.md
 summary: >-
-  Neutral master terms for professional services delivered under statements of work, with IP, acceptance, payment and
+  Standard terms for professional services delivered under statements of work, with IP, acceptance, payment and
   liability terms. Version 1.2. Governing law and business terms are chosen on the cover page.
 ---
 

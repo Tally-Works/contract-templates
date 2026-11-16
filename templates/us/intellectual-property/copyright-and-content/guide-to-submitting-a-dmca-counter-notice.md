@@ -19,13 +19,16 @@ source:
     https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/guide-to-submitting-a-dmca-counter-notice.md
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/guide-to-submitting-a-dmca-counter-notice.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variables are shown as the names they render to ("GitHub", "GitHub Support", "copyright@github.com"); no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from https://github.com/github/site-policy/blob/main/Policies/content-removal-policies/guide-to-submitting-a-dmca-counter-notice.md (repository LICENSE.md: CC0-1.0). The file's site front-matter is omitted and GitHub's site variable contact_dmca is shown as the text it renders to on docs.github.com, "[Copyright claims form](https://github.com/contact/dmca)"; no other change. goHeather added nothing and removed nothing; this Markdown file is the publisher's file. CC0 covers the text only; GitHub's names and logos are trademarks and must be replaced when the text is adapted. Relative links are to docs.github.com and do not resolve here.
 license: CC0-1.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
-summary: Step-by-step guide and required contents for a DMCA counter notice.
+summary: >-
+  GitHub's own guide to submitting a DMCA counter notice, from github/site-policy, published under CC0 for others to
+  adapt; GitHub-specific throughout. Lists the information GitHub needs in a counter notice and how to send it, down
+  to GitHub's postal address.
 ---
 
 This guide describes the information that GitHub needs in order to process a counter notice to a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/site-policy/content-removal-policies/dmca-takedown-policy).
@@ -85,7 +88,7 @@ You may also choose to communicate the reasons why you believe there was a mista
 
 ## How to Submit Your Counter Notice
 
-The fastest way to get a response is to enter your information and answer all the questions on our copyright@github.com.
+The fastest way to get a response is to enter your information and answer all the questions on our [Copyright claims form](https://github.com/contact/dmca).
 
 You can also send an email notification to <copyright@github.com>. You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
 

@@ -117,9 +117,18 @@ function blocks(tokens, ctx) {
       case 'text':
         out.push(new Paragraph({ children: inlineRuns(t.tokens && t.tokens.length ? t.tokens : [{ type: 'text', text: t.text }]), spacing: { after: 120 } }));
         break;
-      case 'blockquote':
+      case 'blockquote': {
+        // GitHub-flavoured alerts ("> [!NOTE]") become a labelled paragraph instead of a literal marker
+        const first = t.tokens && t.tokens[0];
+        const firstText = first && first.tokens && first.tokens.find((x) => x.type === 'text' && /^\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]/.test(x.text || ''));
+        if (firstText) {
+          const label = firstText.text.match(/^\[!(\w+)\]/)[1];
+          firstText.text = firstText.text.replace(/^\[!\w+\]\s*/, '');
+          first.tokens.unshift({ type: 'strong', text: `${label.charAt(0) + label.slice(1).toLowerCase()}: `, tokens: [{ type: 'text', text: `${label.charAt(0) + label.slice(1).toLowerCase()}: ` }] });
+        }
         out.push(...blocks(t.tokens, { ...ctx, indent: (ctx.indent || 0) + 480 }).map((p) => p));
         break;
+      }
       case 'list':
         out.push(...listBlocks(t, ctx.level || 0, ctx));
         break;
@@ -194,13 +203,14 @@ function buildDocument(meta, body, relMd) {
     `${meta.title}. Written and published by goHeather (Tally Works Inc.) under ${meta.license}${licUrl ? ` (${licUrl})` : ''}.`,
     `Free to use, adapt and share, including commercially, with credit to goHeather. Part of the contract-templates library (${relMd}). Not legal advice.`,
   ] : [
-    `${meta.title}. Published by ${src.name || 'unknown source'}${src.url ? ` (${src.url})` : ''} under ${meta.license}${licUrl ? ` (${licUrl})` : ''}. Text as published; converted to Word by goHeather without changes.`,
+    `${meta.title}. Published by ${src.name || 'unknown source'}${src.url ? ` (${src.url})` : ''} under ${meta.license}${licUrl ? ` (${licUrl})` : ''}${fs.existsSync(path.join(ROOT, 'LICENSES', `${meta.license}.txt`)) ? `; full text in LICENSES/${meta.license}.txt` : ''}. Text as published; converted to Word by goHeather without changes.${src.attribution ? ` ${src.attribution}` : ''}`,
     `From goHeather's contract-templates library (${relMd}); every publisher is credited in ATTRIBUTION.md. Not legal advice.`,
   ];
   const when = /^\d{4}-\d{2}-\d{2}$/.test(String(meta.last_reviewed)) ? new Date(`${meta.last_reviewed}T00:00:00Z`) : new Date('2026-01-01T00:00:00Z');
 
   return new Document({
-    creator: 'goHeather contract-templates',
+    creator: ours ? 'goHeather (Tally Works Inc.)' : String(src.name || 'unknown source'),
+    lastModifiedBy: 'goHeather contract-templates',
     title: String(meta.title),
     description: String(meta.summary || ''),
     created: when,

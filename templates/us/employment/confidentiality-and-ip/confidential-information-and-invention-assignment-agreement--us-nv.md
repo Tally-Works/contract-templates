@@ -18,6 +18,7 @@ source:
   url: >-
     https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-confidentiality-invention-assignment-agreement-nevada
   retrieved: "2026-11-14"
+  attribution: Authored by OpenAgreements contributors. Baseline structure inspired by permissive public references including the Balanced Employee IP Agreement (CC0) and Papertrail legal-docs (CC0). Licensed under CC BY 4.0.
   notes: >-
     Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-confidentiality-invention-assignment-agreement-nevada); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0

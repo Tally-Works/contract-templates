@@ -1,43 +1,62 @@
 ---
-title: Mutual Non-Disclosure Agreement (Dot Legal form)
-jurisdiction: CA
+title: Unilateral Non-Disclosure Agreement (reference.legal form)
+jurisdiction: INTL
 category: confidentiality
-subcategory: mutual-nda
+subcategory: unilateral-nda
 type: agreement
 parties:
-  - party-a
-  - party-b
+  - disclosing-party
+  - receiving-party
 tags:
   - nda
-  - mutual
+  - unilateral
   - trade-secrets
   - termination
 language: en
 source:
-  name: Dot Legal
-  url: https://github.com/dot-legal/reference/blob/master/v1/forms/confidentiality/mutual-non-disclosure.md
+  name: reference.legal
+  url: https://github.com/dot-legal/reference/blob/master/v1/forms/confidentiality/unilateral-non-disclosure.md
   retrieved: "2026-11-14"
   notes: >-
     Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache
-    License 2.0. goHeather added nothing and removed nothing.
+    License 2.0. goHeather added nothing and removed nothing. Filed as jurisdiction-neutral: the form's example governing law and data-location fields are not Canadian and the operative terms are incorporated by reference. Of the reference.legal terms the form incorporates, directly or through the files it names, the provisions
+    listed under related are in this library; not in the library are v1/templates/confidentiality/non-disclosure (the
+    operative confidentiality terms: no obligation to disclose, obligation of confidentiality, permitted disclosures by
+    law, exceptions, breach, return or destruction, retention of rights, no warranties, equitable relief) and
+    v1/sections/general/general-expanded, a wrapper whose ten provisions are all in the library.
 license: Apache-2.0
 status: draft
 version: 1.0.0
 last_reviewed: "2026-11-14"
 reviewed_by: ""
+related:
+  - templates/ca/clauses/definitions/definition-of-confidential-information-clause.md
+  - templates/ca/clauses/definitions/permitted-disclosures-to-representatives-clause.md
+  - templates/ca/clauses/boilerplate/headings-clause.md
+  - templates/ca/clauses/boilerplate/construction-of-terms-clause.md
+  - templates/ca/clauses/boilerplate/good-faith-clause.md
+  - templates/ca/clauses/boilerplate/further-assurances-clause.md
+  - templates/ca/clauses/boilerplate/entire-agreement-clause.md
+  - templates/ca/clauses/boilerplate/no-waiver-clause.md
+  - templates/ca/clauses/boilerplate/cumulative-remedies-clause.md
+  - templates/ca/clauses/boilerplate/severability-clause.md
+  - templates/ca/clauses/boilerplate/amendment-clause.md
+  - templates/ca/clauses/boilerplate/counterparts-clause.md
+  - templates/ca/clauses/boilerplate/no-joint-venture-clause.md
+  - templates/ca/clauses/boilerplate/assignment-clause.md
 summary: >-
-  Mutual NDA cover form between two parties disclosing Confidential Information
-  for a stated Purpose: fill-in definitions for Purpose, Effective Date, Term,
-  Confidentiality Period, Governing Law and Jurisdiction (example: British
-  Columbia), signature blocks, and optional terms on prior disclosures, secrecy
+  One-way NDA cover form between a Discloser and a Recipient of Confidential
+  Information for a stated Purpose: fill-in definitions for Purpose, Effective
+  Date, Term, Confidentiality Period, Governing Law and Jurisdiction (example:
+  Delaware), signature blocks, and optional terms on prior disclosures, secrecy
   of the relationship, termination for convenience and retroactive marking. The
   substantive confidentiality and general terms are incorporated from
   reference.legal.
 ---
 
-# Mutual Non-Disclosure Agreement
+# Unilateral Non-Disclosure Agreement
 
-The parties want to disclose to each other Confidential Information for the Purpose defined below.  The parties agree:
+Discloser wants to disclose to Recipient Confidential Information for the Purpose defined below.  The parties agree:
 
 ## Form
 
@@ -47,15 +66,19 @@ The parties want to disclose to each other Confidential Information for the Purp
 * "**Effective Date**": `January 1, 2022`
 * "**Agreement Term**": `2 years`
 * "**Confidentiality Period**": `3 years from Effective Date, perpetual for trade secrets`
-* "**Governing Law**": `Province of British Columbia, Canada`
-* "**Jurisdiction**": `Province of British Columbia, Canada`
+* "**Governing Law**": `Delaware, United States`
+* "**Jurisdiction**": `Delaware, United States`
 
 ### Signatures
 
+#### Discloser
+
 `Party A` on `December 1, 2021`  
-Representative: `John Doe, CEO`  
+Representative: `John Doe, Senior Engineer`  
 Notice Contact: `example@email.com`  
 **Signature:**
+
+#### Recipient
 
 `Party B` on `December 15, 2021`  
 Representative: `Jane Smith, CEO`  
@@ -76,7 +99,7 @@ Notice Contact: `1600 Pennsylvania Avenue NW, Washington, DC, 20500 USA`
 
 The term of this document will begin on the Effective Date and will continue for the Agreement Term.  The confidentiality obligations set out in this document will survive expiration of the document during any Confidentiality Period.
 
-Incorporate <https://reference.legal/v1/templates/confidentiality/mutual-non-disclosure>.
+Incorporate <https://reference.legal/v1/templates/confidentiality/non-disclosure>.
 
 ## General
 
