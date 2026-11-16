@@ -1,6 +1,6 @@
 # Contract Templates
 
-A library of openly licensed contract templates, filed by **jurisdiction → category → subcategory**, with the same structured metadata on every file. Each template is a Markdown file with a Word file beside it. The library is maintained by [goHeather](https://goheather.io) (Tally Works Inc.).
+A library of openly licensed contract templates, filed by **jurisdiction → category → subcategory**, with the same structured metadata on every file. Each template is a Markdown file with a Word file beside it. The library is maintained by [goHeather](https://goheather.io/).
 
 The templates come from publishers who released them under open licences: Common Paper, Bonterms, OpenAgreements, the UK Government, US federal agencies and others, each credited in [ATTRIBUTION.md](ATTRIBUTION.md) and each reproduced under its own licence. A handful were written by goHeather and are published under CC BY 4.0. What goHeather adds across all of them is the filing system: one taxonomy, one metadata format, a catalog, and a validator that keeps every file where it belongs.
 
