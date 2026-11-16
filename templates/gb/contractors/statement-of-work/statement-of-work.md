@@ -21,6 +21,7 @@ source:
   url: https://github.com/documize/document-templates
   file: templates/gb/contractors/statement-of-work/statement-of-work.docx
   retrieved: "2026-11-14"
+  attribution: "Copyright (c) 2015, per the LICENSE file of the documize/document-templates repository, which names no holder. Licensed under the MIT License; the permission notice is in LICENSES/MIT.txt."
   notes: >-
     Converted to Markdown from the publisher's own Word file (statement-of-work.docx), which sits beside this file and is the download. Format conversion only: nothing added, nothing removed. Word tables appear as label/value lines.
 license: MIT

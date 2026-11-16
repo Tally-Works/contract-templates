@@ -19,6 +19,7 @@ source:
   name: PandaDoc
   url: https://github.com/PandaDoc/property-agreement-templates/blob/main/templates/property-management-agreement.md
   retrieved: "2026-11-14"
+  attribution: "Copyright (c) 2026 PandaDoc. Licensed under the MIT License; the permission notice is in LICENSES/MIT.txt."
   notes: >-
     Text taken verbatim from the PandaDoc property-agreement-templates repository
     (github.com/PandaDoc/property-agreement-templates), LICENSE: MIT, Copyright (c) 2026 PandaDoc. goHeather added

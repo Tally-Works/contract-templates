@@ -16,6 +16,7 @@ source:
   name: Erich Dylus
   url: https://github.com/ErichDylus/Open-Source-Legal-Engineering/blob/main/forms/legal/Grant%20Agreement%20(DAO).md
   retrieved: "2026-11-14"
+  attribution: "Copyright (c) 2021 Varia LLC. Licensed under the MIT License; the permission notice is in LICENSES/MIT.txt."
   notes: >-
     Text taken verbatim from the Open-Source-Legal-Engineering repository by attorney Erich Dylus
     (github.com/ErichDylus/Open-Source-Legal-Engineering), LICENSE: MIT; the author's Disclosure.md states the forms are

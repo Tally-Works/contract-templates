@@ -22,6 +22,7 @@ source:
     Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache
     License 2.0. goHeather added nothing and removed nothing. Both reference.legal provisions the form incorporates (entire agreement, counterparts) are in this library;
     see related.
+    Apache License 2.0 notice: goHeather added the YAML front-matter above the text and changed nothing in the text; the licence text is in LICENSES/Apache-2.0.txt.
 license: Apache-2.0
 status: draft
 version: 1.0.0

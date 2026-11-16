@@ -25,6 +25,7 @@ source:
   notes: >-
     Text taken verbatim from the archived Sourcegraph handbook repository (github.com/sourcegraph/handbook), LICENSE:
     Apache License 2.0; the file's site front-matter block is omitted, nothing else changed.
+    Apache License 2.0 notice: goHeather added the YAML front-matter above the text and changed nothing in the text; the licence text is in LICENSES/Apache-2.0.txt.
 license: Apache-2.0
 status: draft
 version: 1.0.0

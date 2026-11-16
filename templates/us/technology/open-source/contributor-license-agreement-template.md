@@ -18,6 +18,7 @@ source:
   name: Commonhaus Foundation
   url: https://github.com/commonhaus/foundation/blob/main/templates/CLA.md
   retrieved: "2026-11-14"
+  attribution: "Copyright (c) Commonhaus Foundation and contributors. All rights reserved. Licensed under the MIT License; the permission notice is in LICENSES/MIT.txt."
   notes: >-
     Text taken verbatim from the Commonhaus Foundation repository (github.com/commonhaus/foundation), LICENSE: MIT,
     Copyright (c) Commonhaus Foundation and contributors; the file's site front-matter block is omitted, nothing else

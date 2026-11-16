@@ -28,6 +28,7 @@ source:
     representations and warranties, indemnities, survival of confidentiality) and the two wrappers
     v1/provisions/confidentiality/definitions and v1/sections/general/general-expanded, whose provisions are all in the
     library.
+    Apache License 2.0 notice: goHeather added the YAML front-matter above the text and changed nothing in the text; the licence text is in LICENSES/Apache-2.0.txt.
 license: Apache-2.0
 status: draft
 version: 1.0.0

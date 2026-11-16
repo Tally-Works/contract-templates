@@ -25,6 +25,7 @@ source:
     License 2.0. goHeather added nothing and removed nothing. Filed as jurisdiction-neutral: the form's example governing law and data-location fields are not Canadian and the operative terms are incorporated by reference. None of the four reference.legal sections the form incorporates is in this library:
     v1/sections/privacy/cookies-description, us-ccpa-consumer-privacy-rights-description,
     eu-gdpr-data-subject-rights-description and data-protection-authority-contact.
+    Apache License 2.0 notice: goHeather added the YAML front-matter above the text and changed nothing in the text; the licence text is in LICENSES/Apache-2.0.txt.
 license: Apache-2.0
 status: draft
 version: 1.0.0
