@@ -2,7 +2,7 @@
 
 This is goHeather's own process for adding templates. The library does not take outside pull requests at the moment; to report a problem with a template or ask for one, [open an issue](../../issues/new/choose).
 
-The library holds hundreds of templates. It stays useful only if every file is marked correctly and sits in the right folder, so the process below is strict on purpose. The validator enforces most of it; the rest is judgement, and this page is the guide.
+Every file must be marked correctly and sit in the right folder. The validator enforces most of that; this page covers the rest.
 
 ## 1. Before you add anything: licensing
 
