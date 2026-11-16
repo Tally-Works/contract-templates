@@ -17,7 +17,7 @@ language: en
 source:
   name: Dot Legal
   url: >-
-    https://github.com/dot-legal/reference/blob/main/v1/provisions/confidentiality/permitted-disclosures-representatives.md
+    https://github.com/dot-legal/reference/blob/master/v1/provisions/confidentiality/permitted-disclosures-representatives.md
   retrieved: "2026-11-14"
   notes: >-
     Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache

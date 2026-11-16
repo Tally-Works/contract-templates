@@ -559,13 +559,12 @@ function buildAttributionMd(results, taxonomy) {
   L.push('Where a template has been changed from the original, the change is described in the template\'s `source.notes` field.');
   L.push('');
   for (const s of sources) {
-    // link the publisher, not one template: longest common URL prefix of its templates, cut at a slash
+    // link the publisher, not one template: a GitHub source links to its repository, any other site to its home page
     const urls = s.templates.map((e) => e.meta.source.url).filter(Boolean);
-    if (urls.length > 1) {
-      let prefix = urls[0];
-      for (const u of urls) while (!u.startsWith(prefix)) prefix = prefix.slice(0, -1);
-      const cut = prefix.lastIndexOf('/');
-      if (cut > 'https://'.length) s.url = prefix.slice(0, cut + 1);
+    if (urls.length) {
+      const gh = urls[0].match(/^https:\/\/github\.com\/[^/]+\/[^/]+/);
+      if (gh && urls.filter((u) => u.startsWith(gh[0])).length * 2 >= urls.length) s.url = gh[0];
+      else if (urls.length > 1) { try { const o = new URL(urls[0]).origin; if (urls.every((u) => u.startsWith(o))) s.url = o + '/'; } catch (e) { /* keep the first template URL */ } }
     }
     L.push(`## ${s.url ? `[${s.name}](${s.url})` : s.name}`);
     L.push('');

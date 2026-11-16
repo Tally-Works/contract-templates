@@ -14,7 +14,7 @@ tags:
 language: en
 source:
   name: Microsoft
-  url: https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/main/C-UDA-1.0.md
+  url: https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/master/C-UDA-1.0.md
   retrieved: "2026-11-14"
   notes: >-
     Text taken verbatim from github.com/microsoft/Computational-Use-of-Data-Agreement (LICENSE: CC0 1.0 Universal).

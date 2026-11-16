@@ -15,7 +15,7 @@ tags:
 language: en
 source:
   name: Osio Labs
-  url: https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/02diversity.md
+  url: https://github.com/OsioLabs/emphandbook/blob/main/04emp_conduct/02diversity.md
   retrieved: "2026-11-14"
   notes: >-
     Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0
@@ -39,7 +39,7 @@ We believe that individual perspectives provided by a wide range of lived experi
 ## What is diversity and inclusion? 
 *Diversity* represents differences between people. Committing to a diverse company means we value and seek out these differences, both within our team and our customers. Most often, diversity is identified through various social categories like race, age, gender identity, sexual orientation, socioeconomic background, physical disabilities, and more.
 
-*Inclusion* means providing a safe and welcoming environment for the people we interact with. This is represented through our [values](https://github.com/OsioLabs/emphandbook/blob/master/01who_we_are/02values.md), policies, and most importantly, our actions. Having a diverse team means nothing if we can’t all thrive here equally.
+*Inclusion* means providing a safe and welcoming environment for the people we interact with. This is represented through our [values](https://github.com/OsioLabs/emphandbook/blob/main/01who_we_are/02values.md), policies, and most importantly, our actions. Having a diverse team means nothing if we can’t all thrive here equally.
 
 In Kim Crayton’s 2018 article titled , [“Diversity” and “inclusion” aren’t interchangeable. Here’s how to use them correctly](https://qz.com/work/1328942/what-is-diversity-a-practical-definition/amp/), she defines diversity as variety and inclusion as experience. (The article is well-worth a read as she defines and elaborates several terms used here.) For a discussion of diversity and inclusion in the workplace, you can also watch this 17-minute video, [Practical diversity: taking inclusion from theory to practice](https://www.youtube.com/watch?v=ExcDNly1DbI) presented by Dawn Bennett-Alexander.  
 
@@ -57,7 +57,7 @@ We also recognize that we can say a lot of nice things, but we also need to be a
 
 To better understand the difference between intent and impact, and why it matters, you can watch this 2.5-minute video [Intention vs. Impact](https://www.youtube.com/watch?v=83KMiek0E8I) presented by Dr. Cheryl Ingram and/or read the article [Intent vs. impact: Why does it matter in an inclusive workplace?](https://diversityedu.com/intent-vs-impact-inclusive-workplace/) by DiversityEdu. To learn what a sincere apology means, read [It’s Time We All Learned the 5 Rules for Apologizing Like an Adult](https://www.wellandgood.com/good-advice/how-to-apologize/) by Kells McPhillips.
 
-If anyone has suggestions for ways to improve our diversity and inclusivity, you can always reach out to the team, the CEO, and/or the board. If there is something that is specifically wrong or crossing into harassment, you should [lodge a complaint](https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/03complaints.md).
+If anyone has suggestions for ways to improve our diversity and inclusivity, you can always reach out to the team, the CEO, and/or the board. If there is something that is specifically wrong or crossing into harassment, you should [lodge a complaint](https://github.com/OsioLabs/emphandbook/blob/main/04emp_conduct/03complaints.md).
 
 ## Learn more
 To learn more on a variety of diversity and inclusion topics, we’ve found the [Drupal Diversity resources](https://www.drupaldiversity.com/resources) to be very helpful. They provide a searchable list of resources that focus on communities and technology in particular.

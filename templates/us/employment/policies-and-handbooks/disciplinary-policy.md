@@ -15,7 +15,7 @@ tags:
 language: en
 source:
   name: Osio Labs
-  url: https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/05disciplinary.md
+  url: https://github.com/OsioLabs/emphandbook/blob/main/04emp_conduct/05disciplinary.md
   retrieved: "2026-11-14"
   notes: >-
     Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0

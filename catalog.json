@@ -186,7 +186,7 @@
       "word_count": 15,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/amendment.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/amendment.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -238,7 +238,7 @@
       "word_count": 27,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/assignment.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/assignment.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -290,7 +290,7 @@
       "word_count": 145,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/construction-of-terms.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/construction-of-terms.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -341,7 +341,7 @@
       "word_count": 27,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/counterparts.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/counterparts.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -392,7 +392,7 @@
       "word_count": 49,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/cumulative-remedies.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/cumulative-remedies.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -444,7 +444,7 @@
       "word_count": 31,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/entire-agreement.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/entire-agreement.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -495,7 +495,7 @@
       "word_count": 35,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/enurement.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/enurement.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -547,7 +547,7 @@
       "word_count": 100,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/force-majeure.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/force-majeure.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -598,7 +598,7 @@
       "word_count": 53,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/further-assurances.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/further-assurances.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -649,7 +649,7 @@
       "word_count": 32,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/good-faith.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/good-faith.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -700,7 +700,7 @@
       "word_count": 33,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/headings.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/headings.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -752,7 +752,7 @@
       "word_count": 29,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/no-joint-venture.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/no-joint-venture.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -803,7 +803,7 @@
       "word_count": 58,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/no-waiver.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/no-waiver.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -855,7 +855,7 @@
       "word_count": 74,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/notices.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/notices.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -906,7 +906,7 @@
       "word_count": 64,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/general/severability.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/general/severability.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -958,7 +958,7 @@
       "word_count": 92,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/confidentiality/definition-confidential-information.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/confidentiality/definition-confidential-information.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -1010,7 +1010,7 @@
       "word_count": 35,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/confidentiality/definition-discloser-recipient-mutual.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/confidentiality/definition-discloser-recipient-mutual.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -1063,7 +1063,7 @@
       "word_count": 122,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/provisions/confidentiality/permitted-disclosures-representatives.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/provisions/confidentiality/permitted-disclosures-representatives.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -1127,7 +1127,7 @@
       "word_count": 368,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/forms/general/amendment.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/forms/general/amendment.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -1348,7 +1348,7 @@
       "word_count": 377,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/forms/confidentiality/mutual-non-disclosure.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/forms/confidentiality/mutual-non-disclosure.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -1472,7 +1472,7 @@
       "word_count": 376,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/forms/confidentiality/unilateral-non-disclosure.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/forms/confidentiality/unilateral-non-disclosure.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -1540,7 +1540,7 @@
       "word_count": 465,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/forms/employment/contractor-work-for-hire.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/forms/employment/contractor-work-for-hire.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -1740,7 +1740,7 @@
       "word_count": 1549,
       "source": {
         "name": "Dot Legal",
-        "url": "https://github.com/dot-legal/reference/blob/main/v1/forms/privacy/privacy-policy.md",
+        "url": "https://github.com/dot-legal/reference/blob/master/v1/forms/privacy/privacy-policy.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Dot Legal reference library (github.com/dot-legal/reference, v1), LICENSE.txt: Apache License 2.0. goHeather added nothing and removed nothing."
@@ -6748,7 +6748,7 @@
       "word_count": 1304,
       "source": {
         "name": "Microsoft",
-        "url": "https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/main/C-UDA-1.0_annotated.md",
+        "url": "https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/master/C-UDA-1.0_annotated.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from github.com/microsoft/Computational-Use-of-Data-Agreement (LICENSE: CC0 1.0 Universal). goHeather added nothing and removed nothing."
@@ -6801,7 +6801,7 @@
       "word_count": 563,
       "source": {
         "name": "Microsoft",
-        "url": "https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/main/C-UDA-1.0.md",
+        "url": "https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/master/C-UDA-1.0.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from github.com/microsoft/Computational-Use-of-Data-Agreement (LICENSE: CC0 1.0 Universal). goHeather added nothing and removed nothing."
@@ -9422,10 +9422,10 @@
       "word_count": 4195,
       "source": {
         "name": "18F (U.S. General Services Administration)",
-        "url": "https://github.com/18F/acq-templates/blob/master/agile_bpa/pws.md",
+        "url": "https://github.com/18F/acq-templates/blob/develop/agile_bpa/pws.md",
         "file": null,
         "retrieved": "2026-11-14",
-        "notes": "Text taken verbatim from https://github.com/18F/acq-templates/blob/master/agile_bpa/pws.md (LICENSE.md: public domain in the United States, CC0 1.0 worldwide); 18F's {{ }} template variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file."
+        "notes": "Text taken verbatim from https://github.com/18F/acq-templates/blob/develop/agile_bpa/pws.md (LICENSE.md: public domain in the United States, CC0 1.0 worldwide); 18F's {{ }} template variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file."
       }
     },
     {
@@ -9475,10 +9475,10 @@
       "word_count": 1080,
       "source": {
         "name": "18F (U.S. General Services Administration)",
-        "url": "https://github.com/18F/acq-templates/blob/master/agile_bpa/qasp.md",
+        "url": "https://github.com/18F/acq-templates/blob/develop/agile_bpa/qasp.md",
         "file": null,
         "retrieved": "2026-11-14",
-        "notes": "Text taken verbatim from https://github.com/18F/acq-templates/blob/master/agile_bpa/qasp.md (LICENSE.md: public domain in the United States, CC0 1.0 worldwide); 18F's {{ }} template variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file."
+        "notes": "Text taken verbatim from https://github.com/18F/acq-templates/blob/develop/agile_bpa/qasp.md (LICENSE.md: public domain in the United States, CC0 1.0 worldwide); 18F's {{ }} template variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file."
       }
     },
     {
@@ -9534,10 +9534,10 @@
       "word_count": 4490,
       "source": {
         "name": "18F (U.S. General Services Administration)",
-        "url": "https://github.com/18F/acq-templates/blob/master/agile_bpa/rfq.md",
+        "url": "https://github.com/18F/acq-templates/blob/develop/agile_bpa/rfq.md",
         "file": null,
         "retrieved": "2026-11-14",
-        "notes": "Text taken verbatim from https://github.com/18F/acq-templates/blob/master/agile_bpa/rfq.md (LICENSE.md: public domain in the United States, CC0 1.0 worldwide); 18F's {{ }} template variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file."
+        "notes": "Text taken verbatim from https://github.com/18F/acq-templates/blob/develop/agile_bpa/rfq.md (LICENSE.md: public domain in the United States, CC0 1.0 worldwide); 18F's {{ }} template variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file."
       }
     },
     {
@@ -15006,7 +15006,7 @@
       "word_count": 415,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/03benefits/01pay.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/03benefits/01pay.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -15496,7 +15496,7 @@
       "word_count": 101,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/05emp_status/06confidentiality.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/05emp_status/06confidentiality.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -16648,7 +16648,7 @@
       "word_count": 430,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/03harassment.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/04emp_conduct/03harassment.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -16925,7 +16925,7 @@
       "word_count": 261,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/04complaints.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/04emp_conduct/04complaints.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -16979,7 +16979,7 @@
       "word_count": 131,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/05disciplinary.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/04emp_conduct/05disciplinary.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -17036,7 +17036,7 @@
       "word_count": 580,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/02diversity.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/04emp_conduct/02diversity.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -17447,7 +17447,7 @@
       "word_count": 252,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/05emp_status/02eeo.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/05emp_status/02eeo.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -17726,7 +17726,7 @@
       "word_count": 133,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/05emp_status/03immigration.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/05emp_status/03immigration.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -17801,7 +17801,7 @@
       "word_count": 2179,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/03benefits/02leave.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/03benefits/02leave.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -17909,7 +17909,7 @@
       "word_count": 179,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/05emp_status/01nature_of_emp.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/05emp_status/01nature_of_emp.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -18137,7 +18137,7 @@
       "word_count": 74,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/05emp_status/05personnel_data.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/05emp_status/05personnel_data.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -18323,7 +18323,7 @@
       "word_count": 185,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/01standards.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/04emp_conduct/01standards.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -18493,7 +18493,7 @@
       "word_count": 169,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/06whistleblower.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/04emp_conduct/06whistleblower.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -22855,7 +22855,7 @@
       "word_count": 651,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/05emp_status/04termination.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/05emp_status/04termination.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -22966,7 +22966,7 @@
       "word_count": 106,
       "source": {
         "name": "Osio Labs",
-        "url": "https://github.com/OsioLabs/emphandbook/blob/master/acknowledgement.md",
+        "url": "https://github.com/OsioLabs/emphandbook/blob/main/acknowledgement.md",
         "file": null,
         "retrieved": "2026-11-14",
         "notes": "Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0 1.0 Universal. goHeather added nothing and removed nothing."
@@ -23133,10 +23133,10 @@
       "word_count": 1238,
       "source": {
         "name": "OpenAgreements",
-        "url": "https://dol.ny.gov/LS59-doc",
+        "url": "https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-wage-notice-new-york-exempt",
         "file": null,
         "retrieved": "2026-11-14",
-        "notes": "Text taken verbatim from template.md in the OpenAgreements repository (https://dol.ny.gov/LS59-doc); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file."
+        "notes": "Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-wage-notice-new-york-exempt), OpenAgreements' rendering of New York State Department of Labor form LS 59 (https://dol.ny.gov/LS59-doc); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file."
       }
     },
     {

@@ -16,10 +16,10 @@ tags:
 language: en
 source:
   name: 18F (U.S. General Services Administration)
-  url: https://github.com/18F/acq-templates/blob/master/agile_bpa/pws.md
+  url: https://github.com/18F/acq-templates/blob/develop/agile_bpa/pws.md
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from https://github.com/18F/acq-templates/blob/master/agile_bpa/pws.md (LICENSE.md: public domain in the United States, CC0 1.0 worldwide); 18F's {{ }} template variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from https://github.com/18F/acq-templates/blob/develop/agile_bpa/pws.md (LICENSE.md: public domain in the United States, CC0 1.0 worldwide); 18F's {{ }} template variables are left as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: Public-Domain
 status: draft
 version: 1.0.0

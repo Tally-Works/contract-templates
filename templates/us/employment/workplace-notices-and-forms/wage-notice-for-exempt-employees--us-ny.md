@@ -15,10 +15,10 @@ tags:
 language: en
 source:
   name: OpenAgreements
-  url: https://dol.ny.gov/LS59-doc
+  url: https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-wage-notice-new-york-exempt
   retrieved: "2026-11-14"
   notes: >-
-    Text taken verbatim from template.md in the OpenAgreements repository (https://dol.ny.gov/LS59-doc); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
+    Text taken verbatim from template.md in the OpenAgreements repository (https://github.com/open-agreements/open-agreements/tree/main/templates/openagreements-cc-by-4.0/openagreements-wage-notice-new-york-exempt), OpenAgreements' rendering of New York State Department of Labor form LS 59 (https://dol.ny.gov/LS59-doc); OpenAgreements' own {field} and [[term]] markup is left exactly as published. goHeather added nothing and removed nothing; this Markdown file is the publisher's file.
 license: CC-BY-4.0
 status: draft
 version: 1.0.0

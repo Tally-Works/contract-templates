@@ -19,7 +19,7 @@ tags:
 language: en
 source:
   name: Osio Labs
-  url: https://github.com/OsioLabs/emphandbook/blob/master/05emp_status/04termination.md
+  url: https://github.com/OsioLabs/emphandbook/blob/main/05emp_status/04termination.md
   retrieved: "2026-11-14"
   notes: >-
     Text taken verbatim from the Osio Labs employee handbook repository (github.com/OsioLabs/emphandbook), LICENSE: CC0
