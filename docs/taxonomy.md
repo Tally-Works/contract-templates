@@ -226,7 +226,7 @@ Standalone clauses to insert into other documents. Files here are type "clause".
 
 | `status` | Meaning |
 | --- | --- |
-| `draft` | Filed, not reviewed by anyone. Every template starts here. |
+| `draft` | The default status; every template starts here. |
 | `reviewed` | Checked by the person named in reviewed_by. |
 | `approved` | Approved by the person named in reviewed_by. |
 | `deprecated` | Kept for reference only; superseded or no longer reliable. |

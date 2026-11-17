@@ -56,7 +56,7 @@ types:
   clause-library: A set of clauses with the user questions, options, exact text and fallback defaults needed to assemble a complete document; written for software or an assistant to build from, not to be signed as it stands.
 
 statuses:
-  draft: Filed, not reviewed by anyone. Every template starts here.
+  draft: The default status; every template starts here.
   reviewed: Checked by the person named in reviewed_by.
   approved: Approved by the person named in reviewed_by.
   deprecated: Kept for reference only; superseded or no longer reliable.

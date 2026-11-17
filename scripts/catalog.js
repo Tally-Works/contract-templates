@@ -400,7 +400,9 @@ function mdCell(v) {
 
 function buildCatalogMd(results, taxonomy) {
   const entries = results.filter((r) => r.meta && r.errors.length === 0);
-  const anyReviewed = entries.some((e) => e.meta.status !== 'draft');
+  const otherStatuses = [...new Set(entries.map((e) => e.meta.status))].filter((s) => s !== 'draft');
+  const anyReviewed = otherStatuses.length > 0;
+  const statusKey = anyReviewed ? `Status column: draft is the default; ${otherStatuses.map((s) => `${s} = ${String((taxonomy.statuses || {})[s] || '').replace(/\.$/, '').toLowerCase()}`).join('; ')}.` : '';
   const lines = [];
   lines.push('# Catalog');
   lines.push('');
@@ -408,7 +410,7 @@ function buildCatalogMd(results, taxonomy) {
   lines.push('');
   lines.push('Every template is a Markdown file with a Word (.docx) file of the same name beside it; the Word column links to it, and "original" marks the publisher\'s own file. The same index for software is [catalog.json](catalog.json); the guide for assistants is [llms.txt](llms.txt).');
   lines.push('');
-  lines.push(`${entries.length} templates, filed by jurisdiction, then category, then subcategory. ${anyReviewed ? 'Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.' : 'Every template is status draft: none has been reviewed by a lawyer.'}`);
+  lines.push(`${entries.length} templates, filed by jurisdiction, then category, then subcategory.${statusKey ? ' ' + statusKey : ''}`);
   lines.push('');
 
   // contents
@@ -686,7 +688,7 @@ function buildLlmsTxt(results, taxonomy) {
   L.push('## Using what you fetch');
   L.push('');
   L.push('- Each template carries the licence its publisher chose (license and license_url in its entry). Keep the publisher\'s notices and credit lines when you build a document from it.');
-  L.push('- Every template has status draft unless reviewed_by names a reviewer. These are forms, not legal advice; a lawyer in the user\'s jurisdiction should review a document before it is signed.');
+  L.push('- These are forms, not legal advice; a lawyer in the user\'s jurisdiction should review a document before it is signed.');
   L.push('- Replace every placeholder and remove drafting notes before a document is used.');
   L.push('- Templates tagged build-notes start with an Inputs table and mark optional sections, alternative wordings (keep exactly one option) and insertion points with italic build notes; the convention is in docs/metadata.md under Build templates.');
   L.push('- Templates with type clause-library are instructions for assembling a document (question, options, exact text per option, default), not documents to sign.');

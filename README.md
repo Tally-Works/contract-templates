@@ -33,7 +33,7 @@ The full list of jurisdictions, categories and subcategories is in [docs/taxonom
 
 ## How a template is marked
 
-Each file opens with a YAML front-matter block that says what it is, where it came from, and whether it has been reviewed:
+Each file opens with a YAML front-matter block that says what it is and where it came from:
 
 ```yaml
 ---
@@ -77,10 +77,9 @@ The validator refuses any file whose metadata disagrees with its folder or filen
 
 1. Find it in the [Catalog](CATALOG.md), or search [`catalog.json`](catalog.json).
 2. Download the Word file beside it. Every template has one, in this repository, with no account and no other website involved.
-3. Check its `status` and `reviewed_by`. Everything is `draft` unless a named person has reviewed it.
-4. Check its `jurisdiction`. A `US` template is state-neutral; `US-CA` is written for California.
-5. Replace every `[BRACKETED]` placeholder and delete the drafting notes.
-6. Have a lawyer in your jurisdiction review it before you sign it. See the disclaimer below.
+3. Check its `jurisdiction`. A `US` template is state-neutral; `US-CA` is written for California.
+4. Replace every `[BRACKETED]` placeholder and delete the drafting notes.
+5. Have a lawyer in your jurisdiction review it before you sign it. See the disclaimer below.
 
 Every document is reproduced as its publisher released it, notices and credits included. Where a document is designed to incorporate another set of terms (an order form, a cover page, a statement of work), those terms are in this library too and are listed in the template's `related` metadata.
 
@@ -99,32 +98,17 @@ Start with [`llms.txt`](llms.txt). The short version:
 
 goHeather adds and maintains the templates. The library does not take outside pull requests at the moment. If a template has a problem, is misattributed, or you would like it removed, or if you want a template the library does not have, [open an issue](https://github.com/Tally-Works/contract-templates/issues/new/choose) or email help@goheather.io.
 
-The process goHeather follows:
-
-```bash
-npm install
-npm run new -- --title "Mutual Non-Disclosure Agreement" --jurisdiction US \
-               --category confidentiality --subcategory mutual-nda \
-               --parties company,counterparty --tags nda,mutual,startup
-npm run validate
-npm run build
-```
-
-`npm run new` creates the file in the correct folder with a complete front-matter block. To file a document you dropped into `_intake/`, add `--from _intake/the-file.md`. `npm run build` then writes the Word file beside it and regenerates the catalog. The intake workflow and licensing rules are in [CONTRIBUTING.md](CONTRIBUTING.md).
-
 The **[Catalog](CATALOG.md)** and [`catalog.json`](catalog.json) link to the Word file beside every template; on GitHub it is the `.docx` of the same name in the same folder.
 
-## What is accepted
+## What the library contains
 
-The library takes templates whose authors have allowed everyone to redistribute and adapt them:
+Every template was published by its author under terms that let everyone redistribute and adapt it:
 
 - **Published under an open licence** that permits commercial use and modified redistribution: CC0, CC BY, MIT, Apache 2.0, the Open Government Licence, or an equivalent permissive form licence.
 - **Public domain**, such as US federal government forms.
 - **Written permission** from the author, quoted or linked in the template's metadata.
 
-ShareAlike, NonCommercial and NoDerivatives licences are out, and so are "free templates" published under a website's terms of use rather than an open licence. The validator requires a source URL and retrieval date on every file, and `ATTRIBUTION.md` is regenerated from that metadata on every build.
-
-Every template is filed with `status: draft`. A template has been reviewed by a lawyer only if its `reviewed_by` field names one.
+The library does not include documents under ShareAlike, NonCommercial or NoDerivatives licences, or "free templates" published under a website's terms of use rather than an open licence. Every file records its source URL and retrieval date, and `ATTRIBUTION.md` is regenerated from that metadata on every build.
 
 ## Repository layout
 

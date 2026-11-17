@@ -4,7 +4,7 @@
 
 Every template is a Markdown file with a Word (.docx) file of the same name beside it; the Word column links to it, and "original" marks the publisher's own file. The same index for software is [catalog.json](catalog.json); the guide for assistants is [llms.txt](llms.txt).
 
-496 templates, filed by jurisdiction, then category, then subcategory. Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.
+496 templates, filed by jurisdiction, then category, then subcategory. Status column: draft is the default; deprecated = kept for reference only; superseded or no longer reliable.
 
 ## Contents
 

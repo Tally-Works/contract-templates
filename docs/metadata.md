@@ -53,7 +53,7 @@ summary: One-paragraph plain-English description shown in the catalog.
 | `license` | yes | a key under `licenses` in `taxonomy.yaml` | The licence the **original author** published the template under, which is what lets anyone redistribute it. goHeather holds no rights in the template text. |
 | `status` | yes | `draft`, `reviewed`, `approved`, `deprecated` | Every new template starts as `draft`. |
 | `version` | yes | semver `MAJOR.MINOR.PATCH` | Bump PATCH for typos, MINOR for clause changes, MAJOR for restructures. |
-| `last_reviewed` | yes | `YYYY-MM-DD` | Date of the last substantive review. |
+| `last_reviewed` | yes | `YYYY-MM-DD` | Date the template or its metadata was last checked or changed. |
 | `reviewed_by` | no | free text | Name or handle of the reviewer. Required to move to `reviewed` or `approved`. |
 | `summary` | no | one to three sentences | What the document is and who it is between, what it covers, and what distinguishes it. Derived from the text; no praise and no claims the text does not support. It is what an assistant reads to choose between templates, so make it specific. |
 | `supersedes` | no | repo path | Path of the template this one replaces (the old one should be `deprecated`). |
