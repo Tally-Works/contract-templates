@@ -138,7 +138,7 @@ Every template is filed with `status: draft`. A template has been reviewed by a 
 | `taxonomy.yaml` | The allowed jurisdictions, categories, subcategories, types, statuses and licences. |
 | `schema/` | JSON Schema for the front-matter, generated from the taxonomy. |
 | `LICENSES/` | Reference copies of every licence the templates are published under. |
-| `docs/` | Metadata reference and naming rules, the generated taxonomy and tag lists, and the generated HTML site (one page per template, sitemap, robots.txt). |
+| `docs/` | Metadata reference and naming rules, and the generated taxonomy and tag lists. |
 | `scripts/catalog.js` | The librarian: `validate`, `build`, `new`. |
 | `scripts/build-docx.js` | Writes the Word file for every template that has no publisher original. |
 | `_intake/` | Local drop zone for documents not yet filed. Git-ignored. |

@@ -3,7 +3,7 @@
  * catalog.js — the librarian for the goHeather contract template library.
  *
  *   node scripts/catalog.js validate            check every template against taxonomy.yaml
- *   node scripts/catalog.js build [--check]     regenerate catalog.json, CATALOG.md, ATTRIBUTION.md, llms.txt, llms-full.txt, docs/ (site), the README.md in every templates folder, docs/taxonomy.md, docs/tags.md, schema/template.schema.json
+ *   node scripts/catalog.js build [--check]     regenerate catalog.json, CATALOG.md, ATTRIBUTION.md, llms.txt, llms-full.txt, the README.md in every templates folder, docs/taxonomy.md, docs/tags.md, schema/template.schema.json
  *   node scripts/catalog.js new ...             create (or file an intake document as) a new template
  *
  * `npm run validate`, `npm run build`, `npm run check` and `npm run new -- ...` wrap these.
@@ -27,7 +27,6 @@ const SCHEMA_JSON = path.join(ROOT, 'schema', 'template.schema.json');
 const REPO = 'Tally-Works/contract-templates';
 const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/main/`;
 const BLOB_BASE = `https://github.com/${REPO}/blob/main/`;
-const SITE_BASE = 'https://tally-works.github.io/contract-templates/';
 const site = require('./site');
 
 const REQUIRED_FIELDS = [
@@ -747,11 +746,10 @@ function build(taxonomy, check) {
     [SCHEMA_JSON, buildSchemaJson(taxonomy)],
   ];
   const llmsTxt = outputs.find(([f]) => f === LLMS_TXT)[1];
-  outputs.push(...site.buildAll({ results, taxonomy, ROOT, RAW_BASE, BLOB_BASE, SITE_BASE, splitJurisdiction, llmsTxt }));
+  outputs.push(...site.buildAll({ results, taxonomy, ROOT, RAW_BASE, splitJurisdiction, llmsTxt }));
   // generated files that no longer correspond to a template are stale too
   const expected = new Set(outputs.map(([f]) => path.resolve(f)));
   const orphans = [];
-  (function scan(dir, test) { if (!fs.existsSync(dir)) return; for (const e of fs.readdirSync(dir, { withFileTypes: true })) { const p = path.join(dir, e.name); if (e.isDirectory()) scan(p, test); else if (test(p) && !expected.has(path.resolve(p))) orphans.push(p); } })(path.join(ROOT, 'docs', 'templates'), (p) => p.endsWith('.html'));
   (function scan(dir) { for (const e of fs.readdirSync(dir, { withFileTypes: true })) { const p = path.join(dir, e.name); if (e.isDirectory()) scan(p); else if (e.name === 'README.md' && dir !== TEMPLATES_DIR && !expected.has(path.resolve(p))) orphans.push(p); } })(TEMPLATES_DIR);
   let stale = false;
   for (const p of orphans) { if (check) { console.error(`${rel(p)} is a generated file with no template behind it. Run "npm run build" and commit the result.`); stale = true; } else { fs.unlinkSync(p); console.log(`removed ${rel(p)}`); } }
