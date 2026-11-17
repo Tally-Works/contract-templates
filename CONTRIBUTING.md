@@ -52,7 +52,7 @@ If a template you want is only available under terms that fail this table, leave
    npm run validate
    npm run build
    ```
-7. **Commit** the template, its `.docx`, and every regenerated file (`catalog.json`, `CATALOG.md`, `ATTRIBUTION.md`, `llms.txt`, `docs/taxonomy.md`, `docs/tags.md`, `schema/template.schema.json`). Commit message format:
+7. **Commit** the template, its `.docx`, and every regenerated file (`catalog.json`, `CATALOG.md`, `ATTRIBUTION.md`, `llms.txt`, `llms-full.txt`, `docs/taxonomy.md`, `docs/tags.md`, `schema/template.schema.json`, the HTML pages under `docs/` and the folder README files under `templates/`). Commit message format:
    ```
    add(us/employment/executive): executive employment agreement
    update(ca/employment/offer-letters): fix ESA notice wording in Ontario offer letter

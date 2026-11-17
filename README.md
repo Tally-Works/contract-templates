@@ -89,7 +89,8 @@ Every document is reproduced as its publisher released it, notices and credits i
 Start with [`llms.txt`](llms.txt). The short version:
 
 - [`catalog.json`](catalog.json) has one entry per template: a stable `id`, the Markdown and Word paths and their raw URLs, title, jurisdiction, category, subcategory, type, parties, tags, governing law, summary, the document's heading outline, its bracketed placeholders, the licence with its URL, and the source.
-- Any file can be fetched raw at `https://raw.githubusercontent.com/Tally-Works/contract-templates/main/<path>`.
+- [`llms-full.txt`](llms-full.txt) is the same guide followed by one entry per template (title, jurisdiction, type, publisher, licence, summary, raw URL), for assistants that prefer to ingest a single file.
+- Any file can be fetched raw at `https://raw.githubusercontent.com/Tally-Works/contract-templates/main/<path>`. Every folder under `templates/` has a README listing what is in it.
 - Narrow by `jurisdiction`, then `category` and `subcategory`, then `parties` and `tags`. `INTL` templates are written to be used in any jurisdiction. [`docs/tags.md`](docs/tags.md) lists every tag with its count.
 - The body of each Markdown file is the template text, publisher's notices included. Keep those notices when you build a document from it; the `license` field says what the publisher requires.
 - The front-matter follows [`schema/template.schema.json`](schema/template.schema.json), and the allowed values are in [`taxonomy.yaml`](taxonomy.yaml).
@@ -129,15 +130,15 @@ Every template is filed with `status: draft`. A template has been reviewed by a 
 
 | Path | What it is |
 | --- | --- |
-| `templates/` | The library. For every template, a Markdown file and a Word file of the same name, filed by jurisdiction / category / subcategory. The Word file is the publisher's original where one exists, otherwise generated from the Markdown. |
+| `templates/` | The library. For every template, a Markdown file and a Word file of the same name, filed by jurisdiction / category / subcategory, with a generated README in every folder. The Word file is the publisher's original where one exists, otherwise generated from the Markdown. |
 | `catalog.json` | Generated machine-readable index of every template. Do not edit by hand. |
 | `CATALOG.md` | The same index for reading. Generated. |
 | `ATTRIBUTION.md` | Generated credit to every source author and licence. |
-| `llms.txt` | Generated guide for AI assistants and agents. |
+| `llms.txt`, `llms-full.txt` | Generated guides for AI assistants and agents; the full version lists every template. |
 | `taxonomy.yaml` | The allowed jurisdictions, categories, subcategories, types, statuses and licences. |
 | `schema/` | JSON Schema for the front-matter, generated from the taxonomy. |
 | `LICENSES/` | Reference copies of every licence the templates are published under. |
-| `docs/` | Taxonomy and tag list (generated), metadata reference, naming rules. |
+| `docs/` | Metadata reference and naming rules, the generated taxonomy and tag lists, and the generated HTML site (one page per template, sitemap, robots.txt). |
 | `scripts/catalog.js` | The librarian: `validate`, `build`, `new`. |
 | `scripts/build-docx.js` | Writes the Word file for every template that has no publisher original. |
 | `_intake/` | Local drop zone for documents not yet filed. Git-ignored. |

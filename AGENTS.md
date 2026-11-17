@@ -4,7 +4,7 @@ This file is for AI agents that change the repository. Agents that only want to 
 
 ## What this is
 
-A library of contract templates under `templates/<country>/<category>/<subcategory>/`. Every template is a Markdown file with YAML front-matter and a Word file of the same name beside it. `taxonomy.yaml` defines every allowed jurisdiction, category, subcategory, type, status and licence. `catalog.json`, `CATALOG.md`, `ATTRIBUTION.md`, `llms.txt`, `docs/taxonomy.md`, `docs/tags.md` and `schema/template.schema.json` are generated; never edit them by hand.
+A library of contract templates under `templates/<country>/<category>/<subcategory>/`. Every template is a Markdown file with YAML front-matter and a Word file of the same name beside it. `taxonomy.yaml` defines every allowed jurisdiction, category, subcategory, type, status and licence. `catalog.json`, `CATALOG.md`, `ATTRIBUTION.md`, `llms.txt`, `llms-full.txt`, `docs/taxonomy.md`, `docs/tags.md`, `schema/template.schema.json`, the HTML site under `docs/` and the README.md in every folder under `templates/` are generated; never edit them by hand.
 
 ## Commands
 

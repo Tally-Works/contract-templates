@@ -15,4 +15,4 @@
 - [ ] Filed per the decision guide in CONTRIBUTING.md (jurisdiction / category / subcategory / type / variant)
 - [ ] Filename follows docs/naming.md
 - [ ] Body is the publisher's text as published: nothing added, nothing removed, every notice and credit line kept
-- [ ] `npm run build` run and every regenerated file committed (`catalog.json`, `CATALOG.md`, `ATTRIBUTION.md`, `llms.txt`, `docs/taxonomy.md`, `docs/tags.md`, `schema/template.schema.json`)
+- [ ] `npm run build` run and every regenerated file committed (catalog, attribution, llms files, schema, the HTML pages under `docs/` and the folder README files under `templates/`)
