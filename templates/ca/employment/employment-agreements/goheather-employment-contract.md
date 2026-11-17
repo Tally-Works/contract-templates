@@ -25,19 +25,20 @@ source:
   retrieved: "2026-11-17"
   notes: >-
     Written by goHeather (Tally Works Inc.) for its own Canadian employment contract builder, where it is a web
-    template with fill-in fields and conditional sections. Converted to Markdown by goHeather. The inputs table, the
-    province table, the option and optional-section markers, and the wording of the four sentences the builder
-    generates from code (work location, probationary period, delayed benefits, background check period) were written
-    for this Markdown version; everything else is the builder's text. Published by goHeather under CC BY 4.0: anyone
-    may use, adapt and share it, including commercially, with credit to goHeather.
+    template with fill-in fields and conditional sections. Converted to Markdown by goHeather: the clause text, the
+    sentences the builder generates from code (work location, probation, delayed benefits) and the province lookups
+    (statute, probationary period, background check period) are reproduced from the builder's source; the inputs
+    table and the option and optional-section markers were added for this Markdown version. Published by goHeather
+    under CC BY 4.0: anyone may use, adapt and share it, including commercially, with credit to goHeather.
 license: CC-BY-4.0
 status: draft
-version: 1.1.0
+version: 1.2.0
 last_reviewed: "2026-11-17"
 reviewed_by: ""
 summary: >-
-  goHeather's Canadian employment contract for salaried or hourly, full-time or part-time staff, governed by the law
-  of the province the parties choose, with position, term (indefinite or fixed), hours, temporary layoff, salary,
+  goHeather's Canadian employment contract for salaried or hourly, full-time or part-time staff in one of eight
+  provinces (Ontario, British Columbia, Alberta, Manitoba, Saskatchewan, Nova Scotia, New Brunswick, Newfoundland and
+  Labrador), with province-specific statute, probation and background check periods, position, term (indefinite or fixed), hours, temporary layoff, salary,
   benefits, vacation and non-disparagement terms, optional probation, exclusivity, bonus, resignation notice,
   termination (statutory minimum or enhanced), confidentiality, intellectual property, non-solicitation and background
   check clauses. Starts with a table of every input and the clauses it drives; optional clauses and alternative
@@ -52,32 +53,34 @@ summary: >-
 | --- | --- | --- | --- |
 | `[EMPLOYER LEGAL NAME]` | Employer's legal name | text | preamble |
 | `[EMPLOYEE FIRST NAME]`, `[EMPLOYEE LAST NAME]` | Employee's name | text | preamble |
-| `[START DATE]` | Start date | date written in full, e.g. January 6, 2027 | preamble, clause 5 |
+| `[START DATE]` | Start date | month, two-digit day and year, e.g. January 06, 2027 | preamble, clause 5 |
 | `[POSITION TITLE]` | Position | text | clause 1 |
-| `[EMPLOYER ADDRESS]` | Employer's work location | street address | clause 2, options A and C |
-| (choice) | Location type: on site, remote, or hybrid | picks option A, B or C | clause 2 |
-| (yes/no, list) | Custom paragraphs about the position | one paragraph each | insertion point after clause 3 |
-| `[PROBATION LENGTH]` | Probationary period | length in words, e.g. three months; "none" removes clause 4 | clause 4 |
+| `[EMPLOYER ADDRESS]` | Work location | street address, city, province name, e.g. 100 King Street West, Toronto, Ontario | clause 2, option A |
+| (choice) | Location type: Employer's location, remote, or hybrid | picks option A, B or C | clause 2 |
+| `[HYBRID REMOTE DAYS]` | Hybrid: days per week worked remotely | number from one to four, in words | clause 2, option C |
+| (yes/no, list) | Job description: custom paragraphs about the position | one paragraph each | insertion point after clause 3 |
+| (yes/no) | Probationary period | includes or removes clause 4 | clause 4 |
+| `[PROBATION LENGTH]` | (derived from the province) | from the Province table below | clause 4 |
 | (choice) | Term: indefinite or fixed | picks option A or B | clause 5 |
-| `[FIXED END DATE]` | Fixed end date | date written in full | clause 5, option B |
+| `[FIXED END DATE]` | Fixed end date | YYYY-MM-DD, e.g. 2027-12-31 | clause 5, option B |
 | `[FULL-TIME OR PART-TIME]` | Full-time or part-time | the words "full-time" or "part-time" | clause 7 |
 | (choice) | Hours: regular, casual, or neither | picks option A, option B, or removes clause 8 | clause 8 |
-| `[REGULAR HOURS OF WORK]` | Regular hours of work | e.g. 40 hours per week, Monday to Friday | clause 8, option A |
-| `[PROVINCE]` | Province or territory | name, e.g. Ontario | clauses 9, 18, 28, 35 |
-| `[EMPLOYMENT STANDARDS STATUTE]` | (derived from the province) | statute name from the Province table below | clauses 9, 18 |
+| `[REGULAR HOURS OF WORK]` | Regular hours of work: the days and hours | free text, e.g. Monday to Friday, 9-5 | clause 8, option A |
+| `[PROVINCE]` | Province the Employee will work in | one of the eight provinces in the Province table below | clauses 9, 18, 28, 35 |
+| `[EMPLOYMENT STANDARDS STATUTE]` | (derived from the province) | from the Province table below | clauses 9, 18 |
 | (yes/no) | Exclusivity clause | includes or removes clause 10 | clause 10 |
 | `[SALARY AMOUNT]` | Salary | number with thousands separators, no currency symbol, e.g. 80,000 | clause 11 |
 | (choice) | Salary type: annual or hourly | picks "per year" or "per hour" | clause 11 |
-| `[PAY FREQUENCY]` | Pay frequency | adjective, e.g. bi-weekly, semi-monthly, monthly | clause 12 |
+| `[PAY FREQUENCY]` | Pay frequency | one of: a weekly basis; a biweekly basis; a monthly basis; 1st and the 15th of the month; 15th and the 30th of the month | clause 12 |
 | (yes/no) | Group benefits | includes or removes the first sentence of clause 13 | clause 13 |
 | `[OTHER BENEFIT]` | Other benefits | one list item each; none removes the second sentence and the list | clause 13 |
-| `[BENEFITS WAITING PERIOD]` | When benefits begin | length in words, e.g. three months; "immediately" picks option A | clause 14 |
+| `[BENEFITS WAITING PERIOD]` | When benefits begin | "on the first day" picks option A; otherwise one of: 30 days; 60 days; 90 days; 6 months; 1 year | clause 14 |
 | (yes/no) | Bonus | includes or removes clause 15 | clause 15 |
 | `[BONUS AMOUNT]` or `[BONUS PERCENTAGE]` | Bonus amount or percentage of base salary | number; percentage picks option B | clause 15 |
 | `[BONUS FREQUENCY]` | Bonus frequency | "per year", "per quarter" or similar | clause 15 |
-| `[FISCAL YEAR END]` | Employer's fiscal year end | month and day, e.g. December 31 | clause 15 |
+| `[FISCAL YEAR END]` | Employer's fiscal year end | month and two-digit day, e.g. December 31 | clause 15 |
 | (yes/no, list) | Custom paragraphs about benefits | one paragraph each | insertion point after clause 15 |
-| `[VACATION WEEKS]` | Vacation weeks per year | number in words, e.g. three | clause 16 |
+| `[VACATION WEEKS]` | Vacation weeks per year | numeral, e.g. 3; the builder offers the province's statutory minimum (2 weeks in most provinces, 3 in Saskatchewan) or more | clause 16 |
 | `[RESIGNATION NOTICE WEEKS]` | Notice of resignation | number in words, e.g. two; "none" removes the Resignation section | clause 17 |
 | (choice) | Termination clause: none, minimum statutory notice, or enhanced | removes the Termination section, or picks option A or B | clauses 18 to 19 |
 | `[ADDITIONAL WEEKS PER YEAR OF SERVICE]` | Enhanced termination: weeks of base salary per year of completed service, on top of the statutory minimum | number with unit, e.g. 1 week, 3 weeks. In goHeather's builder the user answers a total number of notice weeks and the builder shows that number minus one; an answer of 1 gives option A | clause 18, option B |
@@ -85,29 +88,24 @@ summary: >-
 | (yes/no) | Intellectual property clause | includes or removes clauses 24 to 25 | Intellectual Property |
 | (yes/no) | Non-solicitation clause | includes or removes clauses 26 to 27 | Non-Solicitation |
 | (yes/no) | Background check | includes or removes clause 35 | clause 35 |
-| `[BACKGROUND CHECK PERIOD]` | (derived from the province) | length in words, e.g. three months; goHeather's builder sets it from the province chosen | clause 35 |
+| `[BACKGROUND CHECK PERIOD]` | (derived from the province) | from the Province table below | clause 35 |
 
 **PROVINCE TABLE**
 
-The employment standards statute to write for `[EMPLOYMENT STANDARDS STATUTE]`, by province or territory:
+goHeather's builder covers these eight provinces. The three right-hand columns are the values it writes for `[EMPLOYMENT STANDARDS STATUTE]`, `[PROBATION LENGTH]` and `[BACKGROUND CHECK PERIOD]`.
 
-| Province or territory | Statute |
-| --- | --- |
-| Alberta | Employment Standards Code |
-| British Columbia | Employment Standards Act |
-| Manitoba | The Employment Standards Code |
-| New Brunswick | Employment Standards Act |
-| Newfoundland and Labrador | Labour Standards Act |
-| Nova Scotia | Labour Standards Code |
-| Ontario | Employment Standards Act, 2000 |
-| Prince Edward Island | Employment Standards Act |
-| Quebec | Act respecting labour standards |
-| Saskatchewan | The Saskatchewan Employment Act |
-| Northwest Territories | Employment Standards Act |
-| Nunavut | Labour Standards Act |
-| Yukon | Employment Standards Act |
+| Province | Employment standards statute | Probationary period | Background check period |
+| --- | --- | --- | --- |
+| Ontario | Employment Standards Act | three months | three months |
+| British Columbia | Employment Standards Act | three months | three months |
+| Alberta | Employment Standards Code | 90 days | 90 days |
+| Manitoba | The Employment Standards Code | 30 days | 30 days |
+| Saskatchewan | The Saskatchewan Employment Act | 13 weeks | 13 weeks |
+| Nova Scotia | Labour Standards Code | three months | three months |
+| New Brunswick | Employment Standards Act | six months | six months |
+| Newfoundland and Labrador | Labour Standards Act | one month | month |
 
-*[Build note: The words "and severance pay (if applicable)" in clause 18 are kept only when the province is Ontario.]*
+*[Build note: Clauses 9 and 18 already say "the" before the statute, so the builder's output for Manitoba and Saskatchewan reads "the The Employment Standards Code" and "the The Saskatchewan Employment Act"; drop the second "The" when assembling by hand. The words "and severance pay (if applicable)" in clause 18 are kept only when the province is Ontario. The builder also asks for the fiscal start date and whether the bonus is discretionary; neither answer changes the text.]*
 
 **EMPLOYMENT CONTRACT**
 
@@ -119,19 +117,19 @@ WHEREAS the Employee wants to be employed by the Employer and the parties have a
 
 1. The Employer agrees to employ the Employee and the Employee accepts employment with the Employer under the terms and conditions outlined in this Agreement. The Employee's position shall be [POSITION TITLE].
 
-*[Build note: Option A: location type is on site.]*
+*[Build note: Option A: location type is the Employer's location.]*
 
-2. The Employee's place of work shall be the Employer's location at [EMPLOYER ADDRESS].
+2. The Employee shall work at the Employer's location at [EMPLOYER ADDRESS].
 
 *[Build note: Option B: location type is remote.]*
 
-2. The Employee shall work remotely.
+2. The Employee shall work on a remote basis. The Employer may recall the Employee to work at the Employer's location, with notice, indefinitely, without breaching this Agreement.
 
 *[Build note: Option C: location type is hybrid.]*
 
-2. The Employee shall work partly at the Employer's location at [EMPLOYER ADDRESS] and partly remotely, as the Employer directs.
+2. The Employee shall work [HYBRID REMOTE DAYS] days per week remotely, with the balance of the workweek at the Employer's location.
 
-*[Build note: End of options. goHeather's builder generates this sentence from the location type answer; the three wordings above were written for this Markdown version.]*
+*[Build note: End of options.]*
 
 3. The Employer may require the Employee to work at the Employer's location or remotely, within reason and with notice, indefinitely, without breaching this Agreement.
 
@@ -139,9 +137,9 @@ WHEREAS the Employee wants to be employed by the Employer and the parties have a
 
 *[Build note: Optional section: include only if there is a probationary period.]*
 
-4. The first [PROBATION LENGTH] of the Employee's employment is a probationary period. During this probationary period, the Employee's employment may be terminated without notice.
+4. The Employee's first [PROBATION LENGTH] are probationary. During this probationary period, the Employee's employment may be terminated without notice.
 
-*[Build note: End of optional section. goHeather's builder generates the first sentence from the probation answer; the wording above was written for this Markdown version.]*
+*[Build note: End of optional section. For Newfoundland and Labrador the first sentence is "The first month is probationary."]*
 
 *[Build note: Option A: term is indefinite.]*
 
@@ -179,7 +177,7 @@ WHEREAS the Employee wants to be employed by the Employer and the parties have a
 
 11. The Employer shall pay the Employee a salary of $[SALARY AMOUNT] per year, less applicable statutory withholdings and deductions. *[Build note: Write "per year" for an annual salary and "per hour" for an hourly one.]*
 
-12. The Employee's salary shall be paid on a [PAY FREQUENCY] basis.
+12. The Employee's salary shall be paid on [PAY FREQUENCY].
 
 *[Build note: Optional section: include only if the Employee gets group benefits or other benefits. Keep the first sentence of clause 13 only if the Employee gets group benefits. Keep the second sentence and the list only if other benefits are listed, and drop the word "also" when there is no first sentence.]*
 
@@ -187,15 +185,15 @@ WHEREAS the Employee wants to be employed by the Employer and the parties have a
 
     - [OTHER BENEFIT]
 
-*[Build note: Option A: benefits begin immediately.]*
+*[Build note: Option A: benefits begin on the first day.]*
 
 14. The Employee's benefits will begin on the first day of employment.
 
 *[Build note: Option B: benefits begin after a waiting period.]*
 
-14. The Employee's benefits will begin after the first [BENEFITS WAITING PERIOD] of employment.
+14. The Employee's benefits will not begin until the Employee has served [BENEFITS WAITING PERIOD].
 
-*[Build note: End of options. goHeather's builder generates option B from the benefits delay answer; the wording above was written for this Markdown version.]*
+*[Build note: End of options.]*
 
 *[Build note: End of optional section.]*
 

@@ -1750,10 +1750,10 @@
       "license": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "status": "draft",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "last_reviewed": "2026-11-17",
       "reviewed_by": null,
-      "summary": "goHeather's Canadian employment contract for salaried or hourly, full-time or part-time staff, governed by the law of the province the parties choose, with position, term (indefinite or fixed), hours, temporary layoff, salary, benefits, vacation and non-disparagement terms, optional probation, exclusivity, bonus, resignation notice, termination (statutory minimum or enhanced), confidentiality, intellectual property, non-solicitation and background check clauses. Starts with a table of every input and the clauses it drives; optional clauses and alternative wordings are marked with build notes.",
+      "summary": "goHeather's Canadian employment contract for salaried or hourly, full-time or part-time staff in one of eight provinces (Ontario, British Columbia, Alberta, Manitoba, Saskatchewan, Nova Scotia, New Brunswick, Newfoundland and Labrador), with province-specific statute, probation and background check periods, position, term (indefinite or fixed), hours, temporary layoff, salary, benefits, vacation and non-disparagement terms, optional probation, exclusivity, bonus, resignation notice, termination (statutory minimum or enhanced), confidentiality, intellectual property, non-solicitation and background check clauses. Starts with a table of every input and the clauses it drives; optional clauses and alternative wordings are marked with build notes.",
       "related": [],
       "supersedes": null,
       "headings": [
@@ -1778,6 +1778,7 @@
         "START DATE",
         "POSITION TITLE",
         "EMPLOYER ADDRESS",
+        "HYBRID REMOTE DAYS",
         "PROBATION LENGTH",
         "FIXED END DATE",
         "FULL-TIME OR PART-TIME",
@@ -1797,13 +1798,13 @@
         "ADDITIONAL WEEKS PER YEAR OF SERVICE",
         "BACKGROUND CHECK PERIOD"
       ],
-      "word_count": 4107,
+      "word_count": 4263,
       "source": {
         "name": "goHeather",
         "url": "https://goheather.io",
         "file": null,
         "retrieved": "2026-11-17",
-        "notes": "Written by goHeather (Tally Works Inc.) for its own Canadian employment contract builder, where it is a web template with fill-in fields and conditional sections. Converted to Markdown by goHeather. The inputs table, the province table, the option and optional-section markers, and the wording of the four sentences the builder generates from code (work location, probationary period, delayed benefits, background check period) were written for this Markdown version; everything else is the builder's text. Published by goHeather under CC BY 4.0: anyone may use, adapt and share it, including commercially, with credit to goHeather.",
+        "notes": "Written by goHeather (Tally Works Inc.) for its own Canadian employment contract builder, where it is a web template with fill-in fields and conditional sections. Converted to Markdown by goHeather: the clause text, the sentences the builder generates from code (work location, probation, delayed benefits) and the province lookups (statute, probationary period, background check period) are reproduced from the builder's source; the inputs table and the option and optional-section markers were added for this Markdown version. Published by goHeather under CC BY 4.0: anyone may use, adapt and share it, including commercially, with credit to goHeather.",
         "attribution": null
       }
     },
