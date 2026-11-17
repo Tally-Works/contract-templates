@@ -67,8 +67,6 @@ Some of goHeather's own documents (tag `build-notes`) are templates with optiona
 - Instructions are italic build notes in square brackets, `*[Build note: ...]*`, in four kinds: an optional section runs from `*[Build note: Optional section: ...]*` to `*[Build note: End of optional section.]*`; alternative wordings run from `*[Build note: Option A: ...]*` through `*[Build note: Option B: ...]*` to `*[Build note: End of options.]*`, and exactly one option is kept, each option being a complete paragraph; an insertion point, `*[Build note: Insertion point: ...]*`, is where extra paragraphs go; any other build note is a plain instruction.
 - Clause numbers are for reference only: after removing what does not apply, renumber consecutively. Delete every build note before use.
 
-Older goHeather documents carry build notes as `*[Build note (author): ...]*` at the point they refer to, without the section markers.
-
 ## Path rule
 
 The front-matter and the file path must agree:
