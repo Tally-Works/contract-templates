@@ -97,7 +97,7 @@ Start with [`llms.txt`](llms.txt). The short version:
 
 ## How templates are added
 
-goHeather adds and maintains the templates. The library does not take outside pull requests at the moment. If a template has a problem, is misattributed, or you would like it removed, or if you want a template the library does not have, [open an issue](../../issues/new/choose).
+goHeather adds and maintains the templates. The library does not take outside pull requests at the moment. If a template has a problem, is misattributed, or you would like it removed, or if you want a template the library does not have, [open an issue](https://github.com/Tally-Works/contract-templates/issues/new/choose) or email help@goheather.io.
 
 The process goHeather follows:
 
