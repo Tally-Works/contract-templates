@@ -59,6 +59,16 @@ summary: One-paragraph plain-English description shown in the catalog.
 | `supersedes` | no | repo path | Path of the template this one replaces (the old one should be `deprecated`). |
 | `related` | no | list of repo paths | Templates commonly used together (e.g. an offer letter and its confidentiality agreement). |
 
+## Build templates
+
+Some of goHeather's own documents (tag `build-notes`) are templates with optional clauses and alternative wordings, converted from goHeather's contract builder. They use one convention so an assistant can assemble a document without guessing:
+
+- Fill-in fields are `[PLACEHOLDERS]` in capitals. An **Inputs** table at the top lists every placeholder, the question it answers, its format, and the clauses it appears in. Inputs that pick between wordings rather than fill a field are listed as "(choice)" or "(yes/no)".
+- Instructions are italic build notes in square brackets, `*[Build note: ...]*`, in four kinds: an optional section runs from `*[Build note: Optional section: ...]*` to `*[Build note: End of optional section.]*`; alternative wordings run from `*[Build note: Option A: ...]*` through `*[Build note: Option B: ...]*` to `*[Build note: End of options.]*`, and exactly one option is kept, each option being a complete paragraph; an insertion point, `*[Build note: Insertion point: ...]*`, is where extra paragraphs go; any other build note is a plain instruction.
+- Clause numbers are for reference only: after removing what does not apply, renumber consecutively. Delete every build note before use.
+
+Older goHeather documents carry build notes as `*[Build note (author): ...]*` at the point they refer to, without the section markers.
+
 ## Path rule
 
 The front-matter and the file path must agree:

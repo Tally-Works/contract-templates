@@ -688,6 +688,7 @@ function buildLlmsTxt(results, taxonomy) {
   L.push('- Each template carries the licence its publisher chose (license and license_url in its entry). Keep the publisher\'s notices and credit lines when you build a document from it.');
   L.push('- Every template has status draft unless reviewed_by names a reviewer. These are forms, not legal advice; a lawyer in the user\'s jurisdiction should review a document before it is signed.');
   L.push('- Replace every placeholder and remove drafting notes before a document is used.');
+  L.push('- Templates tagged build-notes start with an Inputs table and mark optional sections, alternative wordings (keep exactly one option) and insertion points with italic build notes; the convention is in docs/metadata.md under Build templates.');
   L.push('- Templates with type clause-library are instructions for assembling a document (question, options, exact text per option, default), not documents to sign.');
   L.push('');
   L.push('## Index files');
