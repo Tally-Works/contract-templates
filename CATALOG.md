@@ -4,12 +4,12 @@
 
 Every template is a Markdown file with a Word (.docx) file of the same name beside it; the Word column links to it, and "original" marks the publisher's own file. The same index for software is [catalog.json](catalog.json); the guide for assistants is [llms.txt](llms.txt).
 
-495 templates, filed by jurisdiction, then category, then subcategory. Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.
+496 templates, filed by jurisdiction, then category, then subcategory. Status key: draft = unreviewed, reviewed = checked, approved = recommended, deprecated = reference only.
 
 ## Contents
 
 - **[United States](#united-states-us)** 389: [Employment](#employment-us) 126 · [Contractors & Consultants](#contractors--consultants-us) 5 · [Confidentiality](#confidentiality-us) 21 · [Commercial](#commercial-us) 17 · [Technology](#technology-us) 65 · [Intellectual Property](#intellectual-property-us) 28 · [Privacy & Data](#privacy--data-us) 24 · [Corporate](#corporate-us) 49 · [Financing](#financing-us) 10 · [Real Estate](#real-estate-us) 15 · [Partnerships & Joint Ventures](#partnerships--joint-ventures-us) 18 · [Marketing & Media](#marketing--media-us) 5 · [Dispute Resolution](#dispute-resolution-us) 3 · [Clause Library](#clause-library-us) 3
-- **[Canada](#canada-ca)** 26: [Employment](#employment-ca) 1 · [Contractors & Consultants](#contractors--consultants-ca) 2 · [Confidentiality](#confidentiality-ca) 3 · [Commercial](#commercial-ca) 2 · [Clause Library](#clause-library-ca) 18
+- **[Canada](#canada-ca)** 27: [Employment](#employment-ca) 2 · [Contractors & Consultants](#contractors--consultants-ca) 2 · [Confidentiality](#confidentiality-ca) 3 · [Commercial](#commercial-ca) 2 · [Clause Library](#clause-library-ca) 18
 - **[United Kingdom](#united-kingdom-gb)** 44: [Contractors & Consultants](#contractors--consultants-gb) 2 · [Confidentiality](#confidentiality-gb) 5 · [Commercial](#commercial-gb) 12 · [Intellectual Property](#intellectual-property-gb) 3 · [Corporate](#corporate-gb) 3 · [Real Estate](#real-estate-gb) 4 · [Partnerships & Joint Ventures](#partnerships--joint-ventures-gb) 15
 - **[Australia](#australia-au)** 2: [Real Estate](#real-estate-au) 2
 - **[Finland](#finland-fi)** 5: [Corporate](#corporate-fi) 2 · [Financing](#financing-fi) 3
@@ -20,7 +20,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 | Jurisdiction | Templates |
 | --- | ---: |
 | United States (`us`) | 389 |
-| Canada (`ca`) | 26 |
+| Canada (`ca`) | 27 |
 | United Kingdom (`gb`) | 44 |
 | Australia (`au`) | 2 |
 | Finland (`fi`) | 5 |
@@ -30,7 +30,7 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 
 | Category | Templates |
 | --- | ---: |
-| Employment (`employment`) | 127 |
+| Employment (`employment`) | 128 |
 | Contractors & Consultants (`contractors`) | 9 |
 | Confidentiality (`confidentiality`) | 31 |
 | Commercial (`commercial`) | 32 |
@@ -754,6 +754,12 @@ Every template is a Markdown file with a Word (.docx) file of the same name besi
 ### Canada (`ca`)
 
 #### Employment (`ca`)
+
+**employment-agreements** (1) — General employment agreements for full-time, part-time, hourly and salaried staff.
+
+| Template | Type | Status | Parties | Publisher | Licence | Summary | Word |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [goHeather Employment Contract](templates/ca/employment/employment-agreements/goheather-employment-contract.md) | agreement | draft | employer, employee | [goHeather](https://goheather.io) | CC-BY-4.0 | goHeather's Canadian employment contract for salaried or hourly staff, with position, term (indefinite or fixed), hours, temporary layoff, salary, benefits, bonus, vacation, resignation and termination terms, optional confidentiality, intellectual property, non-solicitation and background check clauses, governing law of the chosen province, and the build notes that drive goHeather's question flow. | [docx](templates/ca/employment/employment-agreements/goheather-employment-contract.docx) |
 
 **separation-and-termination** (1) — Severance, separation, termination letters, releases, resignation and retirement documents.
 

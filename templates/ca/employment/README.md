@@ -6,4 +6,5 @@ Contracts and documents governing the relationship between an employer and an em
 
 | Subcategory | Templates |
 | --- | ---: |
+| [employment-agreements](employment-agreements/) | 1 |
 | [separation-and-termination](separation-and-termination/) | 1 |
