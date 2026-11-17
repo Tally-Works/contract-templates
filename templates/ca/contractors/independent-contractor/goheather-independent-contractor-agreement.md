@@ -22,43 +22,86 @@ source:
   retrieved: "2026-11-15"
   notes: >-
     Written by goHeather (Tally Works Inc.) for its own contract builder. The Word file beside this template is
-    goHeather's original, margin comments included; in this Markdown each comment appears as a bracketed build note at
-    the point it refers to, and the instruction lines in the body are goHeather's own. Published by goHeather under CC BY 4.0: anyone may use, adapt and share it, including commercially, with credit to goHeather.
+    goHeather's original, margin comments included. In this Markdown the comments became build notes, the XXX
+    fill-ins became named placeholders listed in the Inputs table, and optional clauses are marked. Published by
+    goHeather under CC BY 4.0: anyone may use, adapt and share it, including commercially, with credit to goHeather.
 license: CC-BY-4.0
 status: draft
-version: 1.0.0
-last_reviewed: "2026-11-15"
+version: 1.1.0
+last_reviewed: "2026-11-17"
 reviewed_by: ""
 summary: >-
   goHeather's Canadian independent contractor agreement with services, remuneration, nondisclosure, work product,
   non-competition, non-solicitation, indemnity, insurance, termination and arbitration terms, an Exhibit A statement of
-  work, and the build notes that drive goHeather's question flow.
+  work, and the build notes that drive goHeather's question flow. Starts with a table of every input and the clauses
+  it drives; optional clauses are marked with build notes.
 ---
+
+> **How to build a contract from this template.** Fill-in fields are placeholders in square brackets and capitals; the Inputs table below lists every one with its format. Instructions are italic build notes in square brackets, `*[Build note: ...]*`, and come in three kinds: an optional section runs from `*[Build note: Optional section: ...]*` to `*[Build note: End of optional section.]*`; an insertion point, `*[Build note: Insertion point: ...]*`, is where extra text goes; any other build note is a plain instruction. Clause numbers are for reference only: after removing what does not apply, renumber the clauses consecutively. Delete every build note before use.
+
+**INPUTS**
+
+| Placeholder | Question the builder asks | Format | Used in |
+| --- | --- | --- | --- |
+| `[EFFECTIVE DATE]` | Date the agreement begins | date written in full, e.g. January 6, 2027 | preamble |
+| `[COMPANY LEGAL NAME]` | Company's legal name | text | preamble, Exhibit A |
+| `[COMPANY TRADE NAME]` | Company's trade name | text | preamble |
+| `[CONSULTANT LEGAL NAME]` | Consultant's legal name | text | preamble, Exhibit A |
+| `[CONSULTANT TRADE NAME]` | Consultant's trade name | text | preamble |
+| Exhibit A | Services the Consultant will perform | the Statement of Work at the end of this document; see the Exhibit A rows below | section 1, item 1; Exhibit A |
+| (choice) | Is the Agreement exclusive or not | keeps the words "not exclusive" or replaces them with "exclusive" | section 1, item 6 |
+| Exhibit B | Materials, tools and equipment the Company provides | list, written as Exhibit B after Exhibit A; goHeather's original refers to Exhibit B but has no text for it | section 1(iv), insertion point after Exhibit A |
+| (yes/no) | Clause restricting use of the Company's name, logos and marks | includes or removes section 1(vii) | section 1(vii) |
+| `[FEE AMOUNT]` | Fee | number with thousands separators, no currency symbol, e.g. 5,000 | section 2(a) |
+| `[FEE PERIOD]` | Hourly or annual fee | the word "hour" or "year" | section 2(a) |
+| `[PAYMENT FREQUENCY]` | Payment and invoicing frequency | adjective, e.g. monthly, bi-weekly; written twice in section 2(a) | section 2(a) |
+| (yes/no) | Nondisclosure clause | includes or removes section 3 | section 3 |
+| (yes/no) | Ownership of work product clause | includes or removes section 4 | section 4 |
+| (yes/no) | Non-competition clause | includes or removes section 5 | section 5 |
+| (yes/no) | Non-solicitation clause | includes or removes section 6 | section 6 |
+| `[TERM NUMBER]` | Length of the term | number, e.g. 12 | section 10 (Termination) |
+| `[TERM UNIT]` | Weeks, months or years | the word "weeks", "months" or "years" | section 10 (Termination) |
+| `[CONSULTANT NOTICE PERIOD]` | Notice the Consultant must give to terminate | length in words, e.g. two weeks'; goHeather's builder offers a list | section 10 (Termination), item 2 |
+| `[COMPANY NOTICE PERIOD]` | Notice the Company must give to terminate | length in words, e.g. two weeks'; goHeather's builder offers a list | section 10 (Termination), item (ii) |
+| `[ARBITRATION CITY AND PROVINCE]` | City and province where arbitration takes place | city and province, e.g. Toronto, Ontario | section 10 (Arbitration) |
+| `[COMPANY PROVINCE]` | Province of the Company | province name, e.g. Ontario | section 11(e) |
+| `[SOW EFFECTIVE DATE]` | Date of the Statement of Work | date written in full; may be the same as `[EFFECTIVE DATE]` | Exhibit A |
+| `[PROJECT NAME]` | Name of the project | text | Exhibit A, Project 1 heading |
+| `[PROJECT DESCRIPTION]` | Description of the project | free text | Exhibit A, Project 1 |
+| `[PROJECT OBJECTIVES]` | Objectives of the project | free text | Exhibit A, Project 1 |
+| `[PROJECT SUCCESSFUL OUTCOME]` | What a successful outcome looks like | free text | Exhibit A, Project 1 |
+| `[PROJECT DELIVERABLES]` | Expected deliverables | free text | Exhibit A, Project 1 |
+| `[PROJECT DURATION]` | Duration of the project | free text | Exhibit A, Project 1 |
+| (yes/no, list) | Further projects | one project each, with the same five headings as Project 1 | Exhibit A, Project 2 and following |
 
 **INDEPENDENT CONTRACTOR AGREEMENT**
 
-THIS INDEPENDENT CONTRACTOR AGREEMENT (“Agreement”) made on XXX XX. XXX *[Build note (goHeather Canada): Ask for date agreement will begin]*(the “Effective Date”) is made between XXX *[Build note (goHeather Canada): Ask for legal name of Company]*, carrying on business as XXX *[Build note (goHeather Canada): Ask for trade name of Company]*, and its affiliates, successors, assigns, and authorized representatives (the “Company”), and XXX *[Build note (goHeather Canada): Ask for legal name of Consultant]*, carrying on business as XXX *[Build note (goHeather Canada): Ask for trade name of Consultant]* (the “Consultant”), for the purpose of setting forth the terms and conditions by which Company desires to acquire Consultant’s services.
+THIS INDEPENDENT CONTRACTOR AGREEMENT (“Agreement”) made on [EFFECTIVE DATE] (the “Effective Date”) is made between [COMPANY LEGAL NAME], carrying on business as [COMPANY TRADE NAME], and its affiliates, successors, assigns, and authorized representatives (the “Company”), and [CONSULTANT LEGAL NAME], carrying on business as [CONSULTANT TRADE NAME] (the “Consultant”), for the purpose of setting forth the terms and conditions by which Company desires to acquire Consultant’s services.
 
 NOW THEREFORE, in consideration of the mutual promises and obligations specified in this Agreement (the sufficiency is hereby acknowledged), the parties, intending to be legally bound hereby, agree to the following terms and conditions:
 
 1\. Services:
 
-1.  Company hereby retains Consultant, and Consultant hereby agrees to perform for Company, services as described in one or more mutually agreed upon Statements of Work (each, an “SOW” and, together, the “SOWs”), in Exhibit A *[Build note (goHeather Canada): App shall ask what services will performed by Consultant]*of this Agreement or furbished elsewhere, as well as all other services incidentally related thereto as requested by the Company or any designee of the Company at any time and from time to time (collectively the “Services”).
+1.  Company hereby retains Consultant, and Consultant hereby agrees to perform for Company, services as described in one or more mutually agreed upon Statements of Work (each, an “SOW” and, together, the “SOWs”), in Exhibit A *[Build note: The services are described in Exhibit A, the Statement of Work at the end of this document.]* of this Agreement or furbished elsewhere, as well as all other services incidentally related thereto as requested by the Company or any designee of the Company at any time and from time to time (collectively the “Services”).
 2.  In its capacity as a Consultant, Consultant agrees and represents:
 3.  Consultant possesses the skills, knowledge, and experience to complete the Services. Consultant is customarily engaged in its own independent trade, occupation, or business.
 4.  Consultant has the right to perform Services for others, and expects to do so, during the Term.
 5.  Company shall pay Consultant through Consultant’s business entity.
-6.  This Agreement is not exclusive *[Build note (goHeather Canada): Ask whether Agreement is exclusive or not]*, but is subject to the conflict-of-interest provisions set out in the Noncompetition and Nonsolicitation sections of this Agreement.
+6.  This Agreement is not exclusive, but is subject to the conflict-of-interest provisions set out in the Noncompetition and Nonsolicitation sections of this Agreement. *[Build note: If the Agreement is exclusive, write "exclusive" in place of "not exclusive".]*
 
 (ii) Company shall have final direction of Consultant, and Consultant shall report to Company. However, Consultant has the right to control the means, manner, and method by which the Services required by this Agreement will be performed.
 
 (iii) Consultant agrees to be available to provide Services to the Company as may be required.
 
-(iv) Except as stated in Exhibit B *[Build note (goHeather Canada): App shall ask what tools the Company shall provide]*of this Agreement, Consultant shall provide the materials, tools and equipment necessary to complete the Services.
+(iv) Except as stated in Exhibit B *[Build note: Exhibit B lists the materials, tools and equipment the Company provides; see the insertion point after Exhibit A.]* of this Agreement, Consultant shall provide the materials, tools and equipment necessary to complete the Services.
 
 (vi) Consultant shall operate independently from the Company and Consultant bears their own risk of profit or loss based on Consultant’s revenue and expenses.
 
-(vii) Consultant shall not use Company’s name, logos and marks, or any other proprietary designations thereof, in any manner and for any purpose, without the prior express written approval of Company. *[Build note (goHeather Canada): App shall ask (i.e. make this whole clause optional)]*
+*[Build note: Optional section: include only if the Company wants a clause restricting the Consultant's use of its name, logos and marks.]*
+
+(vii) Consultant shall not use Company’s name, logos and marks, or any other proprietary designations thereof, in any manner and for any purpose, without the prior express written approval of Company.
+
+*[Build note: End of optional section.]*
 
 (viii) Consultant will comply with all applicable laws, rules, and regulations in performing Services.
 
@@ -70,11 +113,13 @@ NOW THEREFORE, in consideration of the mutual promises and obligations specified
 
 2\. Consideration/Remuneration:
 
-(a) In exchange for the full, prompt, and satisfactory performance of all Services to be rendered, as determined by Company, to Company hereunder, Company shall provide Consultant, as full remuneration for the Services rendered hereunder, remuneration at a flat rate of **$**XXX *[Build note (goHeather Canada): Ask dollar amount like on regular goHeather]*CAD per XXX *[Build note (goHeather Canada): Ask hourly or annually like on regular goHeather]*, inclusive of all applicable sales taxes (the “Fee”), to be paid XXX *[Build note (goHeather Canada): Ask payment frequency, like on regular goHeather]*. Any amounts above the Fee must be pre-approved in writing by the Company. Consultant shall invoice Company on a XXX *[Build note (goHeather Canada): Ask payment frequency]* basis setting forth in detail the Services performed by Consultant. Company shall remit payment to Consultant promptly. Failure by Consultant to submit a detailed invoice shall be grounds for Company to withhold unsupported portions of the invoice. Consultant agrees to clearly reference their sales tax registration number on all invoices provided to Company. Unless otherwise specified, all references to money in this Agreement are in Canadian currency.
+(a) In exchange for the full, prompt, and satisfactory performance of all Services to be rendered, as determined by Company, to Company hereunder, Company shall provide Consultant, as full remuneration for the Services rendered hereunder, remuneration at a flat rate of **$**[FEE AMOUNT] CAD per [FEE PERIOD], inclusive of all applicable sales taxes (the “Fee”), to be paid [PAYMENT FREQUENCY]. Any amounts above the Fee must be pre-approved in writing by the Company. Consultant shall invoice Company on a [PAYMENT FREQUENCY] basis setting forth in detail the Services performed by Consultant. Company shall remit payment to Consultant promptly. Failure by Consultant to submit a detailed invoice shall be grounds for Company to withhold unsupported portions of the invoice. Consultant agrees to clearly reference their sales tax registration number on all invoices provided to Company. Unless otherwise specified, all references to money in this Agreement are in Canadian currency.
 
 (b) Consultant shall not be entitled to receive any other compensation or any benefits from Company. Company shall not withhold any sums or payments made to Consultant for sales tax, employment insurance, Canada Pension Plan or federal, provincial, or local employment tax liabilities or contributions. Consultant, and not Company, is solely responsible for: any and all federal, provincial, and other tax obligations, including payment, contribution, and reporting, withholding, employment insurance contributions, Canada Pension Plan contributions, or any other tax obligations related to Consultant or its employees or personnel; payment of wages, and compliance with employment standards obligations, for all of Consultant’s employees; and protected time off (including statutory leaves) for itself and its employees. Further, Consultant is not eligible for employment benefits or workers’ compensation coverage from Company because the Consultant is not an employee of Company. Consultant shall be solely responsible for providing all employment insurance and workers’ compensation insurance on behalf of itself and its employees.
 
-3\. Nondisclosure: *[Build note (goHeather Canada): Ask if company wants a non disclosure clause in the contract]*
+*[Build note: Optional section: include the heading and clauses 3(a) to 3(e) only if the Company wants a nondisclosure clause.]*
+
+3\. Nondisclosure:
 
 (a) Consultant understands that, in connection with its engagement with Company, it may receive, produce, or otherwise be exposed to Company’s trade secrets, business, proprietary and/or technical information, including, without limitation, information concerning customer lists, customer support strategies, employees, research and development, financial information (including sales, costs, profits, and pricing methods), manufacturing, marketing, proprietary software, hardware, firmware, and related documentation, inventions (whether patentable or not), know-how, show-how, and other information considered to be confidential by Company, and all derivatives, improvements and enhancements to any of the above (including those derivatives, improvements and enhancements that were created or developed by Consultant under this Agreement), in addition to all information Company receives from others under an obligation of confidentiality (individually and collectively “Confidential Information”).
 
@@ -86,21 +131,35 @@ NOW THEREFORE, in consideration of the mutual promises and obligations specified
 
 (e) Consultant also agrees that during its consultancy with the Company that it shall not make, use or permit to be used any Company Property otherwise than for the benefit of the Company. The term “Company Property” shall include all notes, memoranda, reports, lists, records, drawings, sketches, designs, specifications, software programs, software code, data, computers, cellular telephones, pagers, credit and/or calling cards, keys, access cards, documentation or other materials (including Confidential Information) of any nature and in any form, whether written, printed, electronic or in digital format or otherwise, relating to any matter within the scope of the business of the Company or concerning any of its dealings or affairs and any other Company property in its possession, custody or control. Consultant further agrees that it shall not, after the termination of its consultancy, use or permit others to use any such Company Property. Consultant acknowledges and agrees that all Company Property shall be and remain the sole and exclusive property of the Company. Immediately upon the termination of Consultant’s consultancy, Consultant shall deliver all Company Property in its possession, and all copies thereof, to the Company in good condition. If any Company Property is on Consultant’s personal computer hardware or software, Consult shall upon termination of Consultant’s consultancy permanently destroy such property so that it is irretrievable. The Company reserves the right to recover from Consultant any costs that the Company incurs due to Consultant’s non-compliance with obligations set out in this paragraph, and Consultant agrees that the Company may deduct any such costs from any final payment that is owed to Consultant, subject to any restrictions set out in the Applicable Legislation (as defined below).
 
-4\. Ownership of Work Product: *[Build note (goHeather Canada): Ask if company wants a Ownerships of Work Product clause]*
+*[Build note: End of optional section.]*
+
+*[Build note: Optional section: include the heading and clause 4(a) only if the Company wants an ownership of work product clause.]*
+
+4\. Ownership of Work Product:
 
 (a) Contractor expressly acknowledge that the material, data, creations, works of authorship, ideas, written material, source code, inventions and any other such work product contributed by them hereunder, and their services hereunder, (collectively, the “Work Product”) are being specially ordered and commissioned by Company as part of your consulting duties. The Work Product contributed by Consultant hereunder shall be considered a "work made for hire" and all intellectual property rights in the Work Product shall be assigned to the Company effective as of the moment of creation. Contractor agrees to execute any documents or further assignments as may be requested from time to time by Company to evidence such assignment. Consultant appoints the Company as agent to execute any such further documents as may be required to evidence or implement this provision and the rights of Work Product assigned by Consultant to the Company under it. Without limiting the foregoing, the Company shall be the sole and exclusive owner and copyright proprietor of all rights and title in and to the results and proceeds of the Work Product and Consultant’s services hereunder in whatever stage of completion. All source code and source materials will be delivered to the Company whenever requested. If for any reason the results and proceeds of Consultant’s services hereunder are determined at any time not to be a "work made for hire", Consultant hereby irrevocably transfers and assigns to the Company all right, title and interest therein, including all copyrights, as well as all renewals and extensions thereto. To the extent the Work Product produced by Consultant for the Company is subject to moral rights, Consultant forever and irrevocably waives and surrenders such moral rights in favor of the Company. Consultant agrees that the Company may make any changes or additions to the Work Product prepared by Consultant, which the Company at its sole discretion may consider necessary, and may engage others to do any or all of the foregoing, with or without attribution to Consultant. Consultant represents that, except with respect to material furnished to Consultant by Company, Consultant is the sole creator and author of the Work Product and all of Consultant’s services are original and not copied in whole or in part from any other work or source, that the Work Product is not libelous or obscene, and does not violate the right of privacy or publicity, or any other rights of any person, firm or entity (including, but not limited to, any former employer of Consultant).
 
-5\. Non-competition *[Build note (goHeather Canada): Ask the company if they want a non-competition clause]*
+*[Build note: End of optional section.]*
+
+*[Build note: Optional section: include the heading and clause 5(a) only if the Company wants a non-competition clause. Section 1, item 6 and section 6 refer to this section and to the term “Competitive Business” defined here.]*
+
+5\. Non-competition
 
 (a) During the Term, and for one year thereafter, within 250km of the Company’s head office, Consultant shall not, directly or indirectly, alone or as a partner, joint venturer, consultant, lender, officer, director, employee, independent contractor, dependent contractor, stockholder or investor of any entity, be employed by or provide services (“Competitive Services”) to any business or activity that is in a conflict of interest with Company (a “Competitive Business”), including those that are in direct competition with the products or services being created, developed, manufactured, marketed, distributed or sold by the Company.
 
-6\. Non-solicitation *[Build note (goHeather Canada): Ask the company if they want a non-solicitation clause]*
+*[Build note: End of optional section.]*
+
+*[Build note: Optional section: include the heading and clause 6(c) with its three numbered items only if the Company wants a non-solicitation clause. Section 1, item 6 refers to this section.]*
+
+6\. Non-solicitation
 
 (c) During the Term and for one year thereafter, Consultant shall not, directly or indirectly, alone or as a partner, joint venturer, consultant, lender, officer, director, employee, independent contractor, dependent contractor, stockholder or investor of any entity, (a) offer to hire, hire or recruit (or attempt to do any of the foregoing) any of the employees or consultants of the Company or any of its subsidiaries (collectively, the “Company Group”) with whom Consultant worked or became aware of during Consultant’s engagement with the Company Group, or encourage any of them to terminate their relationship with the Company Group; or (b) solicit, approach, contact, call upon or canvass (or attempt to do any of the foregoing), for any purpose which is in whole or in part competitive with the business of the Company Group, and in connection with any Competitive Business, any customer of the Company or any potential customer of the Company with whom Consultant has had contact during the term of this Agreement, Notwithstanding the foregoing, Consultant shall not be in default under this provision solely by virtue of:
 
 1.  Consultant’s ownership of not more than one percent (1%) of the shares of any corporation having a class of equity securities traded on a national securities exchange;
 2.  any involvement in an undertaking that carries on multiple businesses, one of which is a Competitive Business, provided Consultant is not involved in the Competitive Business; or
 3.  being employed by or providing services to a Competitive Business if such employment or services engagement is not in a Same or Similar Capacity. For the purposes of this employment agreement, “Same or Similar Capacity” means: (i) the same or similar capacity or function in which Consultant worked for Company at any time during (A) the 12-month period prior to the termination of Consultant’s engagement with the Company, or (B) if Consultant’s engagement with the Company has not been terminated, at any time within the prior 12-month period; and/or (ii) any other capacity where Consultant’s knowledge of confidential information of Company could provide a competitive advantage to any Competitive Business.
+
+*[Build note: End of optional section.]*
 
 7\. Indemnification:
 
@@ -122,12 +181,12 @@ NOW THEREFORE, in consideration of the mutual promises and obligations specified
 
 10\. Termination:
 
-This Agreement shall be effective on the date hereof and shall continue for a period of XXX *[Build note (goHeather Canada): Ask for a numerical number for the term]*, XXX *[Build note (goHeather Canada): Ask if the term is weeks, months or years]* (the “Term”), unless terminated earlier in accordance with the provisions contained herein.
+This Agreement shall be effective on the date hereof and shall continue for a period of [TERM NUMBER], [TERM UNIT] (the “Term”), unless terminated earlier in accordance with the provisions contained herein.
 
 1.  This Agreement may be terminated at any time and for any reason during this period by:
-2.  Consultant providing the Company with XXX XXX *[Build note (goHeather Canada): Ask how much notice to provide (app provides a list)]*prior written notice; or
+2.  Consultant providing the Company with [CONSULTANT NOTICE PERIOD] prior written notice; or
 
-(ii) the Company providing Consultant with XXX XXX *[Build note (goHeather Canada): Ask how much notice to provide (app provides a list)]*prior written notice (the “Company Notice Period”).
+(ii) the Company providing Consultant with [COMPANY NOTICE PERIOD] prior written notice (the “Company Notice Period”).
 
 1.  In the event that it is determined that the Consultant is an employee, Company Notice Period is less than the notice of termination, severance pay, benefits and other entitlements required to be provided to Consultant under any applicable legislation, including employment standards legislation if it is determined that such legislation applies to Consultant (all such legislation, “Applicable Legislation”), then only the applicable minimum requirements under Applicable Legislation will apply, and any common law notice will not apply.
 2.  Notwithstanding Section 8(a)(ii), the Company may terminate this Agreement at any time without prior notice for fraud, dishonesty, wilful neglect, misconduct, or any material breach of the terms hereof by Consultant, subject only to the Company fully complying with any applicable minimum requirements under Applicable Legislation.
@@ -138,7 +197,7 @@ This Agreement shall be effective on the date hereof and shall continue for a pe
     2.  any Fees accrued under this Agreement up to the effective date of termination or payment in lieu of Fees; and
     3.  Consultant shall be under a duty to mitigate all damages that Consultant may claim or assert an entitlement to in respect of the termination of this Agreement.
 
-10\. Arbitration: Any dispute, claim or controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this Agreement to arbitrate, shall be determined exclusively by arbitration administered by the International Centre for Dispute Resolution Canada (“ICDR Canada”) and carried out in XXX XXX *[Build note (goHeather Canada): Ask city and province]*, before one arbitrator, with the cost of such arbitration to be paid by the Company. The arbitration shall be conducted in accordance with ICDR Canada’s Canadian Arbitration Rules, except as modified herein. The arbitrator may award any form of relief permitted under this Agreement and applicable law. The arbitrator shall have no jurisdiction to vary the express terms of this Agreement. The decision of the arbitrator shall be in writing, in English, and shall state the reasons for the award. The decision rendered by the arbitrator may be entered in any court of competent jurisdiction. The parties hereto waive, to the fullest extent permitted by law, any rights to appeal to, or to seek review of such award by, any court. The parties hereto further agree to obtain the arbitral tribunal’s agreement to preserve the confidentiality of the arbitration. Notwithstanding the foregoing, (a) this section does not apply to any dispute if the subject matter of the dispute is not capable of being the subject of arbitration under applicable law, and (b) nothing in this section prevents Consultant from making a report to or filing a claim, application or charge with the applicable governmental or administrative agency or tribunal, including, as applicable, the applicable ministry of labour, human rights commission or tribunal, and labour relations board (collectively, “Administrative Agencies”) if the terms of applicable legislation entitles Consultant to do so and precludes exclusive pre-dispute recourse to arbitration. For the avoidance of any doubt, Administrative Agencies do not include provincial or federal courts. This section also does not prevent Administrative Agencies from adjudicating claims and awarding remedies based on those claims, even if the claims would otherwise be covered by this section. The Company will not retaliate against Consultant for filing a claim with an administrative agency or for exercising rights in respect of any matter before any administrative agency. Disputes between the parties that may not be subject to pre-dispute arbitration agreement, including as provided by applicable legislation, are excluded from the coverage of this section.
+10\. Arbitration: Any dispute, claim or controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this Agreement to arbitrate, shall be determined exclusively by arbitration administered by the International Centre for Dispute Resolution Canada (“ICDR Canada”) and carried out in [ARBITRATION CITY AND PROVINCE], before one arbitrator, with the cost of such arbitration to be paid by the Company. The arbitration shall be conducted in accordance with ICDR Canada’s Canadian Arbitration Rules, except as modified herein. The arbitrator may award any form of relief permitted under this Agreement and applicable law. The arbitrator shall have no jurisdiction to vary the express terms of this Agreement. The decision of the arbitrator shall be in writing, in English, and shall state the reasons for the award. The decision rendered by the arbitrator may be entered in any court of competent jurisdiction. The parties hereto waive, to the fullest extent permitted by law, any rights to appeal to, or to seek review of such award by, any court. The parties hereto further agree to obtain the arbitral tribunal’s agreement to preserve the confidentiality of the arbitration. Notwithstanding the foregoing, (a) this section does not apply to any dispute if the subject matter of the dispute is not capable of being the subject of arbitration under applicable law, and (b) nothing in this section prevents Consultant from making a report to or filing a claim, application or charge with the applicable governmental or administrative agency or tribunal, including, as applicable, the applicable ministry of labour, human rights commission or tribunal, and labour relations board (collectively, “Administrative Agencies”) if the terms of applicable legislation entitles Consultant to do so and precludes exclusive pre-dispute recourse to arbitration. For the avoidance of any doubt, Administrative Agencies do not include provincial or federal courts. This section also does not prevent Administrative Agencies from adjudicating claims and awarding remedies based on those claims, even if the claims would otherwise be covered by this section. The Company will not retaliate against Consultant for filing a claim with an administrative agency or for exercising rights in respect of any matter before any administrative agency. Disputes between the parties that may not be subject to pre-dispute arbitration agreement, including as provided by applicable legislation, are excluded from the coverage of this section.
 
 11\. General:
 
@@ -150,7 +209,7 @@ This Agreement shall be effective on the date hereof and shall continue for a pe
 
 (d) Company shall have the right to assign this Agreement to its successors and assigns and this Agreement shall inure to the benefit of and be enforceable by said successors or assigns. Consultant may not assign this Agreement or any rights or obligations hereunder without the prior written consent of the Company and this Agreement shall be binding upon Consultant’s heirs, executors, administrators and legal representatives.
 
-(e) This Agreement and all aspects of the relationship between the parties hereto shall be governed by and construed in accordance with the laws of the province of XXX *[Build note (goHeather Canada): Province of Company]* and the federal laws of Canada applicable in the province of Ontario.
+(e) This Agreement and all aspects of the relationship between the parties hereto shall be governed by and construed in accordance with the laws of the province of [COMPANY PROVINCE] and the federal laws of Canada applicable in the province of Ontario.
 
 (e) This Agreement, together with the documents incorporated by reference and other documents required to be delivered pursuant to this Agreement, constitutes the entire agreement between Consultant and the Company with respect to Consultant’s engagement; sets out all the covenants, promises, warranties, representations, conditions and agreements between Consultant and the Company in connection with the subject matter of this Agreement; and cancels and supersedes any prior understandings, negotiations, discussions, and agreements between the parties, whether oral or written, pre-contractual or otherwise.
 
@@ -166,30 +225,34 @@ CONSULTANT: COMPANY
 
 By:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ By:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ *[Build note (goHeather Canada): Leave blank for wet signature]*
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ *[Build note: Leave the signature and date lines blank for wet signature.]*
 
 **EXHIBIT A**
 
 **STATEMENT OF WORK**
 
-This Statement of Work (“SOW”) is entered into as of XXX XXX (“Effective Date”), between XXX (the “Company”) and XXX (the “Consultant”). In consideration of the mutual promises, covenants and agreements contained herein, Company and Consultant agree as follows:
+This Statement of Work (“SOW”) is entered into as of [SOW EFFECTIVE DATE] (“Effective Date”), between [COMPANY LEGAL NAME] (the “Company”) and [CONSULTANT LEGAL NAME] (the “Consultant”). In consideration of the mutual promises, covenants and agreements contained herein, Company and Consultant agree as follows:
 
 1.  Projects.
 
-**Project 1 – XXX** *[Build note (goHeather Canada): Name of project]***:**
+**Project 1 – [PROJECT NAME]:**
 
 -   **Description:**
-    -   XXX *[Build note (goHeather Canada): Text area]*
+    -   [PROJECT DESCRIPTION]
 -   **Objectives:**
-    -   XXX *[Build note (goHeather Canada): Text area]*
+    -   [PROJECT OBJECTIVES]
 -   **Successful Outcome:**
-    -   XXX *[Build note (goHeather Canada): Text area]*
+    -   [PROJECT SUCCESSFUL OUTCOME]
 -   **Expected Deliverables:**
-    -   XXX *[Build note (goHeather Canada): Text area]*
+    -   [PROJECT DELIVERABLES]
 -   **Duration**
-    -   XXX *[Build note (goHeather Canada): Text area]*
+    -   [PROJECT DURATION]
 
-**Project 2 – Enhancing Research-Analytics Integration** *[Build note (goHeather Canada): Add new project if user wants]***:**
+*[Build note: Optional section: include only if there is a second project. Give it the same five headings as Project 1, and repeat for any further project. goHeather's original shows a sample project name in this heading, replaced here by the placeholder.]*
+
+**Project 2 – [PROJECT NAME]:**
+
+*[Build note: End of optional section.]*
 
 The parties, by mutual agreement, may, from time to time, attach other additional Statement of Works to this agreement however they see fit in any format and by any means of communication.
 
@@ -200,3 +263,5 @@ CONSULTANT: COMPANY
 By:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ By:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*[Build note: Insertion point: Exhibit B, the list of materials, tools and equipment the Company provides under section 1(iv), goes here. goHeather's original refers to Exhibit B but contains no text for it.]*

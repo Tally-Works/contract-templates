@@ -6,4 +6,4 @@ One-way non-disclosure agreements.
 
 | Template | Type | Publisher | Licence | Summary | Word |
 | --- | --- | --- | --- | --- | --- |
-| [goHeather Unilateral Non-Disclosure Agreement](goheather-unilateral-non-disclosure-agreement.md) | agreement | goHeather | CC-BY-4.0 | goHeather's short one-way non-disclosure agreement under the law of a Canadian province to be filled in, with return of information, no-licence, no-warranty and equitable-relief terms. | [docx](goheather-unilateral-non-disclosure-agreement.docx) · original |
+| [goHeather Unilateral Non-Disclosure Agreement](goheather-unilateral-non-disclosure-agreement.md) | agreement | goHeather | CC-BY-4.0 | goHeather's short one-way non-disclosure agreement under the law of a Canadian province to be filled in, with return of information, no-licence, no-warranty and equitable-relief terms. Starts with a table of every input and the clauses it appears in. | [docx](goheather-unilateral-non-disclosure-agreement.docx) · original |

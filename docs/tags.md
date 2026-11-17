@@ -72,6 +72,7 @@
 | `terms-of-service` | 7 |
 | `trade-secrets` | 7 |
 | `web3` | 7 |
+| `build-notes` | 6 |
 | `cloud` | 6 |
 | `consortium` | 6 |
 | `data-transfer` | 6 |
@@ -153,7 +154,6 @@
 | `articles-of-association` | 3 |
 | `biological-materials` | 3 |
 | `bonus` | 3 |
-| `build-notes` | 3 |
 | `certificate-of-incorporation` | 3 |
 | `cobra` | 3 |
 | `compensation` | 3 |

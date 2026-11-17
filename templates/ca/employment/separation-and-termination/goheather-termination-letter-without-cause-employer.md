@@ -22,53 +22,79 @@ source:
   retrieved: "2026-11-15"
   notes: >-
     Written by goHeather (Tally Works Inc.) for its own contract builder. The Word file beside this template is
-    goHeather's original, margin comments included; in this Markdown each comment appears as a bracketed build note at
-    the point it refers to, and the instruction lines in the body are goHeather's own. Published by goHeather under CC BY 4.0: anyone may use, adapt and share it, including commercially, with credit to goHeather.
+    goHeather's original, margin comments included. In this Markdown the comments became build notes, the fill-ins
+    became named placeholders listed in the Inputs table at the top, and the alternative wordings and optional
+    paragraphs are marked. Published by goHeather under CC BY 4.0: anyone may use, adapt and share it, including
+    commercially, with credit to goHeather.
 license: CC-BY-4.0
 status: draft
-version: 1.0.0
-last_reviewed: "2026-11-15"
+version: 1.1.0
+last_reviewed: "2026-11-17"
 reviewed_by: ""
 summary: >-
   goHeather's Canadian employer letter terminating employment without cause, with a notice or lump-sum package
-  conditional on a signed release, and the build notes that drive goHeather's question flow.
+  conditional on a signed release, and the build notes that drive goHeather's question flow. Starts with a table of
+  every input and marks the alternative wordings and optional paragraphs with build notes.
 ---
+
+> **How to build a letter from this template.** Fill-in fields are placeholders in square brackets and capitals; the Inputs table below lists every one with its format. Instructions are italic build notes in square brackets, `*[Build note: ...]*`, and come in three kinds: an optional section runs from `*[Build note: Optional section: ...]*` to `*[Build note: End of optional section.]*`; alternative wordings run from `*[Build note: Option A: ...]*` through `*[Build note: Option B: ...]*` to `*[Build note: End of options.]*`, and exactly one option is kept; any other build note is a plain instruction. Delete every build note before use.
+
+**INPUTS**
+
+| Placeholder | Question the builder asks | Format | Used in |
+| --- | --- | --- | --- |
+| `[EMPLOYER NAME]` | Employer's name | text | first paragraph, signature |
+| (address) | Employer's address | street address | not written in the letter text; goHeather's margin comment places it at the address block, which the letter labels as the Employee's |
+| `[LETTER DATE]` | Date of the termination letter | date written in full, e.g. January 6, 2027 | date line |
+| `[EMPLOYEE NAME]` | Name of the employee being terminated | first and last name | address block, salutation |
+| `[EMPLOYEE STREET ADDRESS]`, `[EMPLOYEE CITY AND PROVINCE]`, `[EMPLOYEE POSTAL CODE]` | Employee's address (the letter's address block; goHeather's builder has no step for it) | street number and name; city and province; postal code | address block |
+| (date) | Date the employee is terminated | date | not a separate fill-in: the letter makes the termination effective "today", so the letter date is the Effective Termination Date |
+| `[LAST DAY OF WORK]` | Does the employee stop working today or on a future date? | the word "today", or a date written in full | first paragraph |
+| (choice) | Termination package as a lump sum or a salary continuance | picks option A or B | Notice Period |
+| `[SALARY CONTINUANCE END DATE]` | For how many weeks to maintain the Employee's salary and benefits | a number of weeks from 1 to 104, written as the date that many weeks after the Effective Termination Date, in full | Notice Period, option A |
+| (number) | Employee's annual salary | number; not written in the letter, used to calculate `[LUMP SUM AMOUNT]` | Notice Period, option B |
+| `[WEEKS OF NOTICE]` | How many weeks of notice to provide the Employee | number from 1 to 104 | Notice Period, option B (twice) |
+| `[LUMP SUM AMOUNT]` | (derived) | amount: the annual salary divided by 52.1, times the weeks of notice | Notice Period, option B |
+| `[COMPANY PROPERTY]` | Specific property items the Employee must return | one or more items, written in sentence form rather than as a list | Return of Property |
+| `[CUSTOM PARAGRAPH HEADING]`, `[CUSTOM PARAGRAPH]` | Any other custom paragraphs, each with its own heading | heading text and paragraph text; one pair per paragraph; none removes the optional section | optional section after Return of Property |
+| `[MANAGER NAME]`, `[MANAGER EMAIL ADDRESS]` | Employee's manager's name and email address | first and last name; email address | Final Steps |
+| `[RELEASE DEADLINE]` | When the employee must sign the release by | date written in full | Final Steps |
 
 **Private & Confidential**
 
-Month Date, Year *[Build note (Jeff Dutton): Step 3: App to ask: “What shall be the date of the termination letter”. App should have a date picker.]*
+[LETTER DATE]
 
-Employee Name *[Build note (Jeff Dutton): Step 1: App to ask: “What is the name of the Employer?” App should have a text box.]*
+[EMPLOYEE NAME]
 
-Employee Street Number and Street Name
+[EMPLOYEE STREET ADDRESS]
 
-Employee City, Province
+[EMPLOYEE CITY AND PROVINCE]
 
-Employee Postal Code *[Build note (Jeff Dutton): Step 2: App to ask: “What is the address of the Employer?” App should have an address box, using Google Maps API, preferably.]*
+[EMPLOYEE POSTAL CODE]
+
+*[Build note: goHeather's margin comments at the four lines above ask for the Employer's name and address (steps 1 and 2 of its builder); the lines themselves are the Employee's name and address. The Employer's name goes in the first paragraph and the signature; the Employer's address is not written anywhere in the letter text.]*
 
 **Re: Termination Without Cause**
 
-Dear Employee First Name and Last Name: *[Build note (Jeff Dutton): Step 4: App to ask: “What is the name of the employee who is being terminated?” There should be a text box here.] [Build note (Jeff Dutton): Step: App to ask: “What shall be the date the employee is terminated?” App to show a date widget.]*
+Dear [EMPLOYEE NAME]:
 
-This letter will confirm that your employment with Employer Name (the “Company”), is terminated without cause effective today. (“Effective Termination Date”). Your last day of work is Q Day, Month, Year *[Build note (Jeff Dutton): Tooltip: “This is the amount of working notice you want to provide the employee. This is not where you will enter the amount of pay in lieu of notice or severance you want to provide the employee.”]*. *[Build note (Jeff Dutton): App to ask: “Do you want the employee to stop working today or some other day in the future?” Today or Future Date radio buttons. If today, write “today” in the contract. If Future Date, insert a date picker.]*
+This letter will confirm that your employment with [EMPLOYER NAME] (the “Company”), is terminated without cause effective today. (“Effective Termination Date”). Your last day of work is [LAST DAY OF WORK].
+
+*[Build note: goHeather's builder also asks for the date the employee is terminated; the letter makes the termination effective on the day of the letter, so the letter date is the Effective Termination Date. The last day of work sets the working notice given to the employee; it is not where the pay in lieu of notice or severance is entered.]*
 
 **Notice Period**
 
-We are offering the following termination package in connection with the termination of your employment. Should you sign and return our full and final release, Q [if salary continuance – see below] your pay shall continue *[Build note (Jeff Dutton): App to ask: Do you want to provide the employee’s termination package as a lump sum or a salary continuance? Lump Sum or Salary Continuance radio buttons.]* until Month Date, Year *[Build note (goHeather Canada): Tooltip: This is where you have to calculate how much notice (i.e. severance) you would like to offer the employee. If for example, you would like to offer them 4 months' notice, then make the date here exactly 4 months from the Effective Termination Date. Make sure the notice period is at least greater than minimum statutory employment standards otherwise the Release will be unenforceable for lack of consideration.]*(the “Gratuitous Notice Period”). If you do not sign our full and final release, your salary and benefits will continue only until the minimum statutory notice period only.
+*[Build note: Option A: the termination package is a salary continuance.]*
 
-**If Lump Sum option:**
+We are offering the following termination package in connection with the termination of your employment. Should you sign and return our full and final release, your pay shall continue until [SALARY CONTINUANCE END DATE] (the “Gratuitous Notice Period”). If you do not sign our full and final release, your salary and benefits will continue only until the minimum statutory notice period only.
 
-Ask: “What is the Employee’s Annual Salary?: Then add Number box.
+*[Build note: The salary continuance end date is where the notice (that is, the severance) offered is set: for four months' notice, the date exactly four months after the Effective Termination Date. The notice period must be greater than the minimum under employment standards legislation, otherwise the release will be unenforceable for lack of consideration.]*
 
-Ask: How may weeks of notice do you want to provide the Employee? Thena add drop down menu of 1-104.
+*[Build note: Option B: the termination package is a lump sum.]*
 
-Then: Insert after, “Should you sign and return our full and final release”, the Company shall provide you a lump sum payment of XYZ (XYZ is annual salary/52.1 times weeks of notice) reflecting pay in lieu of notice for [number of weeks notice] weeks. In addition, your benefits will be continued for [number of weeks notice] weeks.
+We are offering the following termination package in connection with the termination of your employment. Should you sign and return our full and final release, the Company shall provide you a lump sum payment of [LUMP SUM AMOUNT] reflecting pay in lieu of notice for [WEEKS OF NOTICE] weeks. In addition, your benefits will be continued for [WEEKS OF NOTICE] weeks. If you do not sign our full and final release, your salary and benefits will continue only until the minimum statutory notice period only.
 
-**If Salary Continuance:**
-
-Ask: “For how many weeks do you want to maintain the Employee’s salary and benefits.” Then add drop down menu of 1-104.
-
-Then state in the contract: Should you sign and return our full and final release, [if salary continuance – see below] your pay shall continue *[Build note (Jeff Dutton): App to ask: Do you want to provide the employee’s termination package as a lump sum or a salary continuance? Lump Sum or Salary Continuance radio buttons.]* *[Build note (goHeather Canada): DO NOT BUILD YET. .. Tooltip: If you like, here you could alternatively offer the employee a lump sum payment instead of a salary & benefits continuance. If you elect to offer a lump sum, say here: … "we shall provide you a lump sum payment reflecting X weeks' notice" instead of "your salary and benefits shall continue until X date".]*until Month Date, Year *[Build note (goHeather Canada): Tooltip: This is where you have to calculate how much notice (i.e. severance) you would like to offer the employee. If for example, you would like to offer them 4 months' notice, then make the date here exactly 4 months from the Effective Termination Date. Make sure the notice period is at least greater than minimum statutory employment standards otherwise the Release will be unenforceable for lack of consideration.]*
+*[Build note: End of options. The lump sum amount is the Employee's annual salary divided by 52.1, times the weeks of notice. goHeather's margin comments marked the lump sum alternative "do not build yet".]*
 
 **Your Accrued Salary, Vacation, and Expenses**
 
@@ -84,20 +110,24 @@ You are reminded to refrain from using or disclosing confidential information wh
 
 **Return of Property**
 
-You are required to return to the Company any and all Company property in your possession, including: *[Build note (Jeff Dutton): Step 6: App to ask: “Are there any specific property items that you would like to ask the Employee to return to the Employer?” There should be text boxes here, with ability to add new text boxes, and the text should go in sentence format, not bullet format, in the PDF letter.]*
+You are required to return to the Company any and all Company property in your possession, including: [COMPANY PROPERTY]
 
-**Extra Heading** *[Build note (Jeff Dutton): Step 7: Custom text. App to ask: “Is there any other custom paragraphs you want to include in your termination letter?” There should a text box here, but there also should be, and this is new, a requirement that the user has to use a heading for their paragrpah. So ask the user for the heading and the content of the paragraph.]*
+*[Build note: Optional section: include only if the Employer adds a custom paragraph. Each custom paragraph has its own heading; repeat the heading and paragraph for each one.]*
 
-Extra Space
+**[CUSTOM PARAGRAPH HEADING]**
+
+[CUSTOM PARAGRAPH]
+
+*[Build note: End of optional section.]*
 
 **Final Steps**
 
-Should you have any questions with respect to these matters pertaining to the termination of your employment, please contact Q Manager Name at Manager Email Address. *[Build note (Jeff Dutton): Step 8: App to ask: “What is the Employee’s Manager’s name?” App to show a text box for first name and last name, and email address.]*
+Should you have any questions with respect to these matters pertaining to the termination of your employment, please contact [MANAGER NAME] at [MANAGER EMAIL ADDRESS].
 
-Once you have reviewed this termination package, please return a signed copy of our full and final release by Q Month Date *[Build note (Jeff Dutton): App to ask: When would you like the employee to sign the release by? Then insert a date picker.]*, Year. If you do not accept the Company’s offer by that date, this severance package is revoked.
+Once you have reviewed this termination package, please return a signed copy of our full and final release by [RELEASE DEADLINE]. If you do not accept the Company’s offer by that date, this severance package is revoked.
 
 We wish you well in your future endeavours. Thank you for your contributions.
 
 Yours very truly,
 
-Employer Name
+[EMPLOYER NAME]

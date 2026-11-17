@@ -6,4 +6,4 @@ Severance, separation, termination letters, releases, resignation and retirement
 
 | Template | Type | Publisher | Licence | Summary | Word |
 | --- | --- | --- | --- | --- | --- |
-| [goHeather Termination Letter Without Cause (Employer)](goheather-termination-letter-without-cause-employer.md) | letter | goHeather | CC-BY-4.0 | goHeather's Canadian employer letter terminating employment without cause, with a notice or lump-sum package conditional on a signed release, and the build notes that drive goHeather's question flow. | [docx](goheather-termination-letter-without-cause-employer.docx) · original |
+| [goHeather Termination Letter Without Cause (Employer)](goheather-termination-letter-without-cause-employer.md) | letter | goHeather | CC-BY-4.0 | goHeather's Canadian employer letter terminating employment without cause, with a notice or lump-sum package conditional on a signed release, and the build notes that drive goHeather's question flow. Starts with a table of every input and marks the alternative wordings and optional paragraphs with build notes. | [docx](goheather-termination-letter-without-cause-employer.docx) · original |
