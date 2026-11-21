@@ -21,7 +21,7 @@ source:
   file: templates/ca/contractors/independent-contractor/goheather-independent-contractor-agreement.docx
   retrieved: "2026-11-15"
   notes: >-
-    Written by goHeather (Tally Works Inc.) for its own contract builder. The Word file beside this template is
+    Written by 2836014 Ontario Inc., operating as goHeather, for its own contract builder. The Word file beside this template is
     goHeather's original, margin comments included. In this Markdown the comments became build notes, the XXX
     fill-ins became named placeholders listed in the Inputs table, and optional clauses are marked. Published by
     goHeather under CC BY 4.0: anyone may use, adapt and share it, including commercially, with credit to goHeather.
