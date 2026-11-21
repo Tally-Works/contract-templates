@@ -1,6 +1,6 @@
 # Maintaining the library
 
-This is goHeather's own process for adding templates. The library does not take outside pull requests at the moment; to report a problem with a template or ask for one, [open an issue](https://github.com/Tally-Works/contract-templates/issues/new/choose) or email help@goheather.io.
+This is goHeather's own process for adding templates. The library does not take outside pull requests at the moment; to report a problem with a template or ask for one, [open an issue](https://github.com/goheather/contract-templates/issues/new/choose) or email help@goheather.io.
 
 Every file must be marked correctly and sit in the right folder. The validator enforces most of that; this page covers the rest.
 

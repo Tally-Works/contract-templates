@@ -1,5 +1,5 @@
 {
-  "name": "@tally-works/contract-templates",
+  "name": "@goheather/contract-templates",
   "version": "0.1.0",
   "private": true,
   "description": "goHeather's open library of contract templates, organised by jurisdiction, category and subcategory, with machine-checked metadata.",
