@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/Tally-Works/contract-templates/main/schema/template.schema.json",
+  "$id": "https://raw.githubusercontent.com/goheather/contract-templates/main/schema/template.schema.json",
   "title": "Contract template front-matter",
   "description": "The YAML front-matter at the top of every template Markdown file in the contract-templates library. Generated from taxonomy.yaml; see docs/metadata.md.",
   "type": "object",

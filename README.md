@@ -89,14 +89,14 @@ Start with [`llms.txt`](llms.txt). The short version:
 
 - [`catalog.json`](catalog.json) has one entry per template: a stable `id`, the Markdown and Word paths and their raw URLs, title, jurisdiction, category, subcategory, type, parties, tags, governing law, summary, the document's heading outline, its bracketed placeholders, the licence with its URL, and the source.
 - [`llms-full.txt`](llms-full.txt) is the same guide followed by one entry per template (title, jurisdiction, type, publisher, licence, summary, raw URL), for assistants that prefer to ingest a single file.
-- Any file can be fetched raw at `https://raw.githubusercontent.com/Tally-Works/contract-templates/main/<path>`. Every folder under `templates/` has a README listing what is in it.
+- Any file can be fetched raw at `https://raw.githubusercontent.com/goheather/contract-templates/main/<path>`. Every folder under `templates/` has a README listing what is in it.
 - Narrow by `jurisdiction`, then `category` and `subcategory`, then `parties` and `tags`. `INTL` templates are written to be used in any jurisdiction. [`docs/tags.md`](docs/tags.md) lists every tag with its count.
 - The body of each Markdown file is the template text, publisher's notices included. Keep those notices when you build a document from it; the `license` field says what the publisher requires.
 - The front-matter follows [`schema/template.schema.json`](schema/template.schema.json), and the allowed values are in [`taxonomy.yaml`](taxonomy.yaml).
 
 ## How templates are added
 
-goHeather adds and maintains the templates. The library does not take outside pull requests at the moment. If a template has a problem, is misattributed, or you would like it removed, or if you want a template the library does not have, [open an issue](https://github.com/Tally-Works/contract-templates/issues/new/choose) or email help@goheather.io.
+goHeather adds and maintains the templates. The library does not take outside pull requests at the moment. If a template has a problem, is misattributed, or you would like it removed, or if you want a template the library does not have, [open an issue](https://github.com/goheather/contract-templates/issues/new/choose) or email help@goheather.io.
 
 The **[Catalog](CATALOG.md)** and [`catalog.json`](catalog.json) link to the Word file beside every template; on GitHub it is the `.docx` of the same name in the same folder.
 

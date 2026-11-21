@@ -21,7 +21,7 @@ source:
   file: templates/ca/employment/separation-and-termination/goheather-termination-letter-without-cause-employer.docx
   retrieved: "2026-11-15"
   notes: >-
-    Written by goHeather (Tally Works Inc.) for its own contract builder. The Word file beside this template is
+    Written by goHeather for its own contract builder. The Word file beside this template is
     goHeather's original, margin comments included. In this Markdown the comments became build notes, the fill-ins
     became named placeholders listed in the Inputs table at the top, and the alternative wordings and optional
     paragraphs are marked. Published by goHeather under CC BY 4.0: anyone may use, adapt and share it, including

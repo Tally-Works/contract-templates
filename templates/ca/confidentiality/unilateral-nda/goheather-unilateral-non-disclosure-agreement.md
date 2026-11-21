@@ -21,7 +21,7 @@ source:
   file: templates/ca/confidentiality/unilateral-nda/goheather-unilateral-non-disclosure-agreement.docx
   retrieved: "2026-11-15"
   notes: >-
-    Written by goHeather (Tally Works Inc.) for its contract builder. The Word file beside this template is
+    Written by goHeather for its contract builder. The Word file beside this template is
     goHeather's original. In this Markdown version the fill-ins are named placeholders in square brackets and
     capitals, listed in the Inputs table at the top; the sample party names in the Word file are placeholders here.
     Published by goHeather under CC BY 4.0: anyone may use, adapt and share it, including commercially, with credit to

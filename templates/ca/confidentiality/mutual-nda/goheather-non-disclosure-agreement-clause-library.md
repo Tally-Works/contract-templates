@@ -22,7 +22,7 @@ source:
   file: templates/ca/confidentiality/mutual-nda/goheather-non-disclosure-agreement-clause-library.docx
   retrieved: "2026-11-15"
   notes: >-
-    Written by goHeather (Tally Works Inc.) as the developer guide for its contract builder: for each section it gives
+    Written by goHeather as the developer guide for its contract builder: for each section it gives
     the question to ask the user, the exact text to use for each answer and the fallback when the user gives no answer.
     It is meant for goHeather's app and for assistants to build a complete agreement from, not to be signed as it
     stands. The Word file beside this template is goHeather's original. In this Markdown version the fill-ins are named
