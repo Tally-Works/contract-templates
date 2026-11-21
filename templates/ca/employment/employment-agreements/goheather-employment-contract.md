@@ -24,7 +24,7 @@ source:
   url: https://goheather.io
   retrieved: "2026-11-17"
   notes: >-
-    Written by 2836014 Ontario Inc., operating as goHeather, for its own Canadian employment contract builder, where it is a web
+    Written by goHeather for its own Canadian employment contract builder, where it is a web
     template with fill-in fields and conditional sections. Converted to Markdown by goHeather: the clause text, the
     sentences the builder generates from code (work location, probation, delayed benefits) and the province lookups
     (statute, probationary period, background check period) are reproduced from the builder's source; the inputs
